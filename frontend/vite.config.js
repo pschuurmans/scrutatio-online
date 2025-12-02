@@ -12,7 +12,7 @@ export default defineConfig({
       manifest: {
         name: 'Bijbel API',
         short_name: 'Bijbel',
-        description: 'Bijbel API Progressive Web App',
+        description: 'Bestudeer de Bijbel met 340.000+ kruisverwijzingen. Klik op een vers en ontdek direct gerelateerde passages. ',
         theme_color: '#4A90E2',
         background_color: '#ffffff',
         display: 'standalone',
