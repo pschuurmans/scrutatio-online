@@ -89,7 +89,7 @@ func GetCrossRefsChapterHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	crossrefChapter := make([]CrossRefEntry, 0)
-	for key, value := range crossrefs.CrossReferences {
+	for _, value := range crossrefs.CrossReferences {
 		if value.From.Chapter == chapterNum {
 			bookReference, err := crossref.EnglishToDutch(value.To.Book)
 			if err != nil {
@@ -106,7 +106,6 @@ func GetCrossRefsChapterHandler(w http.ResponseWriter, r *http.Request) {
 			entry.To.Chapter = value.To.Chapter
 			entry.To.Verse = value.To.Verse
 			crossrefChapter = append(crossrefChapter, entry)
-			log.Printf("Key: %s, Value: %+v\n", key, value)
 		}
 	}
 
@@ -145,5 +144,7 @@ func main() {
 	r.Get("/books/{bookId}/chapter/{chapterId}", GetChapterHandler)
 	r.Get("/crossrefs/{bookId}", GetCrossRefsHandler)
 	r.Get("/crossrefs/{bookId}/chapter/{chapterId}", GetCrossRefsChapterHandler)
+
+	log.Println("Starting server on :3000")
 	http.ListenAndServe(":3000", r)
 }

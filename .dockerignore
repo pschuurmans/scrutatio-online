@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+tmp/
+
+# IDE and OS files
+.git
+.gitignore
+.idea/
+.vscode/
+*.DS_Store
+
+# Test and coverage files
+*.test
+*_test.go
+coverage.out
+
+# iOS build files
+frontend/ios/
+
+# Documentation
+*.md
+!README.md

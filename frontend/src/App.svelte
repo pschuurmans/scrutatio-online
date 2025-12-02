@@ -4,17 +4,13 @@
   import { StatusBar, Style } from '@capacitor/status-bar';
   
   // Determine API base URL based on environment
-  // For local development/testing (localhost or local network IP), use direct backend connection
-  // For production deployment, use /api (nginx will proxy)
-  const isLocalNetwork = window.location.hostname === 'localhost' 
-    || window.location.hostname === '127.0.0.1'
-    || window.location.hostname.startsWith('10.')
-    || window.location.hostname.startsWith('192.168.')
-    || window.location.hostname.startsWith('172.');
+  // In development (vite dev server), connect directly to backend on port 3000
+  // In production build, use /api (nginx will proxy)
+  const isDevServer = import.meta.env.DEV;
   
-  const API_BASE = isLocalNetwork
-    ? `http://${window.location.hostname}:3000`  // Use same host with port 3000
-    : '/api';  // Production (nginx will proxy)
+  const API_BASE = isDevServer
+    ? `http://${window.location.hostname}:3000`  // Dev: direct to backend
+    : '/api';  // Production: nginx proxies to backend
 
   let books = [];
   let selectedBook = null;

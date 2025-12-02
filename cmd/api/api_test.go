@@ -100,5 +100,5 @@ func TestGetCrossRefsChapterEndpoint(t *testing.T) {
 	router.ServeHTTP(rr, req)
 
 	require.Equal(t, http.StatusOK, rr.Code)
-	require.Contains(t, rr.Body.String(), "John") // not the best test ever
+	require.Contains(t, rr.Body.String(), "prediker") // not the best test ever
 }
