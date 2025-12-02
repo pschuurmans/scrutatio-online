@@ -1,0 +1,11 @@
+<svg width="384" height="384" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#4A90E2"/>
+  <g fill="white">
+    <!-- Book icon -->
+    <path d="M 128 96 L 128 416 L 384 416 L 384 96 Z M 144 112 L 368 112 L 368 400 L 144 400 Z" />
+    <rect x="168" y="144" width="176" height="16" />
+    <rect x="168" y="192" width="176" height="16" />
+    <rect x="168" y="240" width="176" height="16" />
+    <rect x="168" y="288" width="140" height="16" />
+  </g>
+</svg>
