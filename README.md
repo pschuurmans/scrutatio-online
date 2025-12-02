@@ -13,7 +13,7 @@ A Go-based Bible API with a clean Svelte frontend for reading the Dutch Catholic
 
 1. Navigate to the project root:
 ```bash
-cd /Users/pieter/Dev/fido21.nl/rkbijbelscrutatio/bijbel-api
+cd scrutatio-online
 ```
 
 2. Run the API:

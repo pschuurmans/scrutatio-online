@@ -13,18 +13,21 @@
       </svg>
     </div>
     
-    <h1>Bijbel Scrutineren</h1>
+    <h1>Scrutatio Online</h1>
     
+    <h2 class="subheadline">
+        Onderzoek de Bijbel met meer dan 340.000 kruisverwijzingen
+    </h2>
+
     <p class="intro-text">
-      Welkom bij deze toepassing voor Bijbelstudie. Deze website is speciaal ontworpen 
-      om de Bijbel diepgaand te onderzoeken aan de hand van kruisverwijzingen naar andere 
-      verzen in de Bijbel.
+        Scrutatio Online biedt een interactieve manier om de Bijbel te bestuderen.  
+        Klik op een vers om direct alle kruisverwijzingen te zien.  
+        Van daaruit klikt u eenvoudig door naar gerelateerde verzen, zodat u de verzen in hun context kunt begrijpen.
     </p>
-    
+
     <p class="intro-text">
-      Door op een vers te klikken, krijg je direct gerelateerde verzen te zien die helpen 
-      om de context en betekenis beter te begrijpen. Ontdek verbanden door de hele Bijbel heen 
-      en verdiep je inzicht in Gods Woord.
+        Vertaling: Willibrordvertaling (1975)<br>
+        Gratis te gebruiken, zonder registratie.
     </p>
     
     <button class="start-button" on:click={onStart}>

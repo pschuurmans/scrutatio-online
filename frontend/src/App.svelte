@@ -377,7 +377,7 @@
 
 <main>
   <header>
-    <h1>Bijbel Scrutineren</h1>
+    <h1>Scrutatio Online</h1>
     <button class="goto-button" on:click={openNavigationPicker}>
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <circle cx="11" cy="11" r="8"></circle>

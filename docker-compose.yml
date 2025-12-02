@@ -1,0 +1,11 @@
+services:
+  bijbel-scrutineren:
+    image: ghcr.io/pschuurmans/bijbel-scrutineren:main
+    container_name: bijbel-scrutineren
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    # Uncomment to build locally instead of using the published image
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
