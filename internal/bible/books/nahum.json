@@ -1,0 +1,807 @@
+{
+  "id": "nahum",
+  "name": "Nahum",
+  "chapters": 3,
+  "verseCount": 47,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Uitspraak over Nineve. Het boek van het visioen van Nahum uit Elkos.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uitspraak over Nineve. Het boek van het visioen van Nahum uit Elkos."
+          }
+        ]
+      },
+      "id": "nahum.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Zie, op de bergen gaan de voeten van de vreugdebode die vrede meldt! Vier, Juda, uw feesten, volbreng uw geloften! Nooit meer zal de boosdoener door u heen trekken: hij wordt volkomen vernietigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie, op de bergen gaan de voeten van de vreugdebode die vrede meldt! Vier, Juda, uw feesten, volbreng uw geloften! Nooit meer zal de boosdoener door u heen trekken: hij wordt volkomen vernietigd."
+          }
+        ]
+      },
+      "id": "nahum.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Wee de bloedstad, een en al leugen, volgepropt met prooi, die stad die het roven nooit staakte!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee de bloedstad, een en al leugen, volgepropt met prooi, die stad die het roven nooit staakte!"
+          }
+        ]
+      },
+      "id": "nahum.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Een ijverzuchtige en wrekende God is Jahwe, een wreker is Jahwe, machtig in grimmigheid; Jahwe wreekt zich op wie Hem weerstaan en op zijn vijanden blijft Hij toornen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een ijverzuchtige en wrekende God is Jahwe, een wreker is Jahwe, machtig in grimmigheid; Jahwe wreekt zich op wie Hem weerstaan en op zijn vijanden blijft Hij toornen."
+          }
+        ]
+      },
+      "id": "nahum.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Een vernieler is tegen u opgerukt. Bewaak de vesting! Houd de weg in het oog! Maak uw lenden sterk! Zet al uw krachten in!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een vernieler is tegen u opgerukt. Bewaak de vesting! Houd de weg in het oog! Maak uw lenden sterk! Zet al uw krachten in!"
+          }
+        ]
+      },
+      "id": "nahum.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Hoor! Zweepslagen! Hoor! Gedender van wielen, rennende paarden, ratelende wagens,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoor! Zweepslagen! Hoor! Gedender van wielen, rennende paarden, ratelende wagens,"
+          }
+        ]
+      },
+      "id": "nahum.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Jahwe is lankmoedig, maar ook geweldig in kracht; niets laat Hij ongestraft, Jahwe. In storm en orkaan gaat Hij zijn weg, wolken zijn het stof onder zijn voeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe is lankmoedig, maar ook geweldig in kracht; niets laat Hij ongestraft, Jahwe. In storm en orkaan gaat Hij zijn weg, wolken zijn het stof onder zijn voeten."
+          }
+        ]
+      },
+      "id": "nahum.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Voorwaar, Jahwe herstelt de glorie van Jakob, ja, de glorie van Israël, omdat rovers hen hebben beroofd en hun wijnranken hebben vernield.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, Jahwe herstelt de glorie van Jakob, ja, de glorie van Israël, omdat rovers hen hebben beroofd en hun wijnranken hebben vernield."
+          }
+        ]
+      },
+      "id": "nahum.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "ruiters op galopperende paarden, vlammende zwaarden, flitsende lansen, gewonden bij hopen, stapels doden: er is geen eind aan de lijken; men struikelt erover, over hun lijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ruiters op galopperende paarden, vlammende zwaarden, flitsende lansen, gewonden bij hopen, stapels doden: er is geen eind aan de lijken; men struikelt erover, over hun lijken."
+          }
+        ]
+      },
+      "id": "nahum.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Hij straft de zee af, Hij legt haar droog en alle rivieren maakt Hij leeg. Basan en Karmel verwelken, verwelkt is Libanons bloei.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij straft de zee af, Hij legt haar droog en alle rivieren maakt Hij leeg. Basan en Karmel verwelken, verwelkt is Libanons bloei."
+          }
+        ]
+      },
+      "id": "nahum.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "De schilden van zijn helden zijn rood geverfd, de soldaten zijn gekleed in het karmozijn. Het staal van de strijdwagens vlamt, nu zij zich opstellen; de lansen worden gedrild.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De schilden van zijn helden zijn rood geverfd, de soldaten zijn gekleed in het karmozijn. Het staal van de strijdwagens vlamt, nu zij zich opstellen; de lansen worden gedrild."
+          }
+        ]
+      },
+      "id": "nahum.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Dat komt van de ontucht, die is opgestapeld door die hoer, die verleidelijke schoonheid, die machtige tovenares, die met haar ontucht volken verkocht en stammen met haar toverkunsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat komt van de ontucht, die is opgestapeld door die hoer, die verleidelijke schoonheid, die machtige tovenares, die met haar ontucht volken verkocht en stammen met haar toverkunsten."
+          }
+        ]
+      },
+      "id": "nahum.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Bergen beven voor Hem, heuvels zwaaien heen en weer. De aarde komt voor zijn aanschijn omhoog, de wereld met al haar bewoners.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bergen beven voor Hem, heuvels zwaaien heen en weer. De aarde komt voor zijn aanschijn omhoog, de wereld met al haar bewoners."
+          }
+        ]
+      },
+      "id": "nahum.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Over de wegen razen de wagens, over de vlakte jakkeren ze voort; ze lijken wel fakkels; als bliksemschichten flitsen ze voorbij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Over de wegen razen de wagens, over de vlakte jakkeren ze voort; ze lijken wel fakkels; als bliksemschichten flitsen ze voorbij."
+          }
+        ]
+      },
+      "id": "nahum.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Nu treed Ik op tegen u - zo luidt de godsspraak van Jahwe van de legerscharen -, nu licht Ik de slippen van uw kleed omhoog tot over uw gezicht en toon Ik de volken uw naaktheid, nu laat Ik ten aanschouwen van de koninkrijken u voor schande staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu treed Ik op tegen u - zo luidt de godsspraak van Jahwe van de legerscharen -, nu licht Ik de slippen van uw kleed omhoog tot over uw gezicht en toon Ik de volken uw naaktheid, nu laat Ik ten aanschouwen van de koninkrijken u voor schande staan."
+          }
+        ]
+      },
+      "id": "nahum.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Wie is er tegen zijn toorn bestand, wie kan er op tegen de hitte van zijn gramschap? Zijn grimmigheid stroomt als vuur; de rotsen vallen voor Hem in stukken uiteen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is er tegen zijn toorn bestand, wie kan er op tegen de hitte van zijn gramschap? Zijn grimmigheid stroomt als vuur; de rotsen vallen voor Hem in stukken uiteen."
+          }
+        ]
+      },
+      "id": "nahum.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Hij roept zijn keurtroepen op; hals over kop snellen zij toe en haasten zich naar de wallen; het schutdak wordt al opgesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij roept zijn keurtroepen op; hals over kop snellen zij toe en haasten zich naar de wallen; het schutdak wordt al opgesteld."
+          }
+        ]
+      },
+      "id": "nahum.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Ik begooi u met vuilnis, Ik zet u voor gek en maak een kijkspel van u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik begooi u met vuilnis, Ik zet u voor gek en maak een kijkspel van u."
+          }
+        ]
+      },
+      "id": "nahum.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Goed is Jahwe: Hij is meer dan een bolwerk op de dag van de benauwenis;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Goed is Jahwe: Hij is meer dan een bolwerk op de dag van de benauwenis;"
+          }
+        ]
+      },
+      "id": "nahum.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "De poorten van de waterstromen worden opengezet; de tempel wankelt",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De poorten van de waterstromen worden opengezet; de tempel wankelt"
+          }
+        ]
+      },
+      "id": "nahum.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Dan zal iedereen die u ziet van u weglopen en zeggen: 'Nineve is neergeslagen.' Wie is daar rouwig om? Waar zou ik troosters voor u moeten zoeken?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal iedereen die u ziet van u weglopen en zeggen: 'Nineve is neergeslagen.' Wie is daar rouwig om? Waar zou ik troosters voor u moeten zoeken?"
+          }
+        ]
+      },
+      "id": "nahum.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "in de overstelpende watersnood kent Hij degenen die bij Hem hun toevlucht zoeken. Maar Hij maakt een einde aan wie tegen Hem opstaan en zijn vijanden jaagt Hij de duisternis in.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in de overstelpende watersnood kent Hij degenen die bij Hem hun toevlucht zoeken. Maar Hij maakt een einde aan wie tegen Hem opstaan en zijn vijanden jaagt Hij de duisternis in."
+          }
+        ]
+      },
+      "id": "nahum.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "en zij die daar staat wordt ontluisterd en meegevoerd, terwijl haar dienaressen jammeren - het klinkt als het klagen van duiven - en zich op het hart slaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zij die daar staat wordt ontluisterd en meegevoerd, terwijl haar dienaressen jammeren - het klinkt als het klagen van duiven - en zich op het hart slaan."
+          }
+        ]
+      },
+      "id": "nahum.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Zijt gij soms beter dan No-Amon, tronend aan de stroom, door water omgeven, met een zee als bolwerk en muren van water?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijt gij soms beter dan No-Amon, tronend aan de stroom, door water omgeven, met een zee als bolwerk en muren van water?"
+          }
+        ]
+      },
+      "id": "nahum.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Wat spant gij toch tegen Jahwe samen? Hij is degene die er een eind aan maakt: de benauwenis zal geen tweemaal hoeven toe te slaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat spant gij toch tegen Jahwe samen? Hij is degene die er een eind aan maakt: de benauwenis zal geen tweemaal hoeven toe te slaan."
+          }
+        ]
+      },
+      "id": "nahum.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Nineve is als een waterbekken, waaruit het water wegloopt.' Staat stil! Staat toch stil!' Maar niemand keert zich om.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nineve is als een waterbekken, waaruit het water wegloopt.' Staat stil! Staat toch stil!' Maar niemand keert zich om."
+          }
+        ]
+      },
+      "id": "nahum.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Ethiopi&euml;rs waren uw kracht en Egyptenaren, eindeloos veel; Puti&euml;rs en Libi&euml;rs waren uw hulptroepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ethiopiërs waren uw kracht en Egyptenaren, eindeloos veel; Putiërs en Libiërs waren uw hulptroepen."
+          }
+        ]
+      },
+      "id": "nahum.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Al klitten zij als dorens aaneen en al zijn ze zo nat als hun drank, als kurkdroge stoppels worden zij verteerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al klitten zij als dorens aaneen en al zijn ze zo nat als hun drank, als kurkdroge stoppels worden zij verteerd."
+          }
+        ]
+      },
+      "id": "nahum.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "'Grijpt naar het zilver, grijpt naar het goud!' Er is geen eind aan die voorraad, aan die vracht van allerlei kostbaarheden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Grijpt naar het zilver, grijpt naar het goud!' Er is geen eind aan die voorraad, aan die vracht van allerlei kostbaarheden."
+          }
+        ]
+      },
+      "id": "nahum.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Maar zelfs die stad ging in ballingschap en zij werd gevankelijk weggevoerd. Zelfs zuigelingen werden te pletter geslagen op iedere straathoek. Over haar notabelen werd het lot geworpen en al haar machtige burgers werden in boeien geslagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zelfs die stad ging in ballingschap en zij werd gevankelijk weggevoerd. Zelfs zuigelingen werden te pletter geslagen op iedere straathoek. Over haar notabelen werd het lot geworpen en al haar machtige burgers werden in boeien geslagen."
+          }
+        ]
+      },
+      "id": "nahum.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Uit u is iemand voortgekomen, die tegen Jahwe kwaad heeft beraamd en boze plannen gesmeed heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit u is iemand voortgekomen, die tegen Jahwe kwaad heeft beraamd en boze plannen gesmeed heeft."
+          }
+        ]
+      },
+      "id": "nahum.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Leegte, verlatenheid, verwoesting; bezwijkende harten, knikkende knieen, alle lenden trillen, alle gezichten verliezen hun kleur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leegte, verlatenheid, verwoesting; bezwijkende harten, knikkende knieen, alle lenden trillen, alle gezichten verliezen hun kleur."
+          }
+        ]
+      },
+      "id": "nahum.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Zo zult ook gij u bedrinken en onaanzienlijk worden; ook gij zult moeten zoeken naar beschutting tegen een vijand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zult ook gij u bedrinken en onaanzienlijk worden; ook gij zult moeten zoeken naar beschutting tegen een vijand."
+          }
+        ]
+      },
+      "id": "nahum.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Zo spreekt Jahwe: Al zijn ze ook nog zo gaaf en nog zo talrijk, ze worden weggemaaid en ze verdwijnen. Ik heb u vernederd, maar Ik zal u niet langer vernederen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Al zijn ze ook nog zo gaaf en nog zo talrijk, ze worden weggemaaid en ze verdwijnen. Ik heb u vernederd, maar Ik zal u niet langer vernederen."
+          }
+        ]
+      },
+      "id": "nahum.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Waar is het hol van de leeuw nu, het graasveld van de leeuwenwelpen, de plaats waar leeuw en leeuwin zich bewogen, met hun jongen, door niemand gestoord?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar is het hol van de leeuw nu, het graasveld van de leeuwenwelpen, de plaats waar leeuw en leeuwin zich bewogen, met hun jongen, door niemand gestoord?"
+          }
+        ]
+      },
+      "id": "nahum.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Al uw vestingwerken: vijgebomen zijn het, met vroeg gerijpte vruchten; als ze worden geschud, dan vallen ze de eter in de mond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al uw vestingwerken: vijgebomen zijn het, met vroeg gerijpte vruchten; als ze worden geschud, dan vallen ze de eter in de mond."
+          }
+        ]
+      },
+      "id": "nahum.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Nu verbrijzel Ik zijn juk dat op u drukt en Ik breek uw boeien aan stukken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu verbrijzel Ik zijn juk dat op u drukt en Ik breek uw boeien aan stukken."
+          }
+        ]
+      },
+      "id": "nahum.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "De leeuw, die verscheurde voor zijn jongen en worgde voor zijn leeuwinnen, die zijn holen vulde met roof, zijn krochten met roofgoed!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De leeuw, die verscheurde voor zijn jongen en worgde voor zijn leeuwinnen, die zijn holen vulde met roof, zijn krochten met roofgoed!"
+          }
+        ]
+      },
+      "id": "nahum.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "En uw volk: vrouwen zijn het, binnen uw muren. Wijd open voor de vijand staan de poorten van uw gebied: het vuur heeft de sluitbalken verteerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En uw volk: vrouwen zijn het, binnen uw muren. Wijd open voor de vijand staan de poorten van uw gebied: het vuur heeft de sluitbalken verteerd."
+          }
+        ]
+      },
+      "id": "nahum.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Tegen u heeft Jahwe beslist: uw naam wordt niet meer voortgeplant. Uit het huis van uw god vaag Ik weg de gesneden en gegoten beelden. Ik zal uw graf graven, want gij zijt te licht bevonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tegen u heeft Jahwe beslist: uw naam wordt niet meer voortgeplant. Uit het huis van uw god vaag Ik weg de gesneden en gegoten beelden. Ik zal uw graf graven, want gij zijt te licht bevonden."
+          }
+        ]
+      },
+      "id": "nahum.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Nu treed Ik op tegen u - zo luidt de godsspraak van Jahwe van de legerscharen -: uw wagens laat Ik opgaan in rook, uw welpen verslindt het zwaard, uw buit vaag Ik weg van de aarde en de stem van uw afgezanten wordt niet meer vernomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu treed Ik op tegen u - zo luidt de godsspraak van Jahwe van de legerscharen -: uw wagens laat Ik opgaan in rook, uw welpen verslindt het zwaard, uw buit vaag Ik weg van de aarde en de stem van uw afgezanten wordt niet meer vernomen."
+          }
+        ]
+      },
+      "id": "nahum.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Put maar water, nu gij belegerd gaat worden, versterk uw vestingwerken maar, treedt de klei en kneedt het leem, grijp maar naar de tichelaarsvorm!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Put maar water, nu gij belegerd gaat worden, versterk uw vestingwerken maar, treedt de klei en kneedt het leem, grijp maar naar de tichelaarsvorm!"
+          }
+        ]
+      },
+      "id": "nahum.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Toch zal het vuur u verteren, zal het zwaard u uitroeien, zal het u verteren als de verslinders. Al wordt gij zo talrijk als de verslinders, al wordt gij zo talrijk als de sprinkhanen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch zal het vuur u verteren, zal het zwaard u uitroeien, zal het u verteren als de verslinders. Al wordt gij zo talrijk als de verslinders, al wordt gij zo talrijk als de sprinkhanen,"
+          }
+        ]
+      },
+      "id": "nahum.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "al maakt gij het aantal van uw kooplieden groter dan dat van de sterren aan de hemel; de verslinders zwermen uit en vliegen weg,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "al maakt gij het aantal van uw kooplieden groter dan dat van de sterren aan de hemel; de verslinders zwermen uit en vliegen weg,"
+          }
+        ]
+      },
+      "id": "nahum.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "uw leiders zijn als sprinkhanen, uw ambtenaren als een zwerm kaalvreters, die op de muren blijven zitten, zolang het koud is, en die, wanneer de zon komt, verdwenen zijn en niemand weet hun verblijfplaats: Waar zijn zij heen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "uw leiders zijn als sprinkhanen, uw ambtenaren als een zwerm kaalvreters, die op de muren blijven zitten, zolang het koud is, en die, wanneer de zon komt, verdwenen zijn en niemand weet hun verblijfplaats: Waar zijn zij heen?"
+          }
+        ]
+      },
+      "id": "nahum.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Uw herders zijn ingeslapen, koning van Assur, uw keurtroepen liggen te rusten; uw volk is verstrooid over de bergen en niemand brengt het weer samen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw herders zijn ingeslapen, koning van Assur, uw keurtroepen liggen te rusten; uw volk is verstrooid over de bergen en niemand brengt het weer samen."
+          }
+        ]
+      },
+      "id": "nahum.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Er is geen heil voor uw rampspoed, uw wonde is niet te genezen. Ieder die het nieuws over u hoort vertellen, klapt om u in de handen. Want wie was er die niet gebukt ging onder uw wreedheid, altijd door?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is geen heil voor uw rampspoed, uw wonde is niet te genezen. Ieder die het nieuws over u hoort vertellen, klapt om u in de handen. Want wie was er die niet gebukt ging onder uw wreedheid, altijd door?"
+          }
+        ]
+      },
+      "id": "nahum.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

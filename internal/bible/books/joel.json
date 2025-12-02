@@ -1,0 +1,1249 @@
+{
+  "id": "joel",
+  "name": "Joël",
+  "chapters": 4,
+  "verseCount": 73,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het woord van Jahwe, dat gericht is tot Joël, de zoon van Petuël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe, dat gericht is tot Joël, de zoon van Petuël."
+          }
+        ]
+      },
+      "id": "joel.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Blaast de bazuin op de Sion, slaat alarm op mijn heilige berg: al de bewoners van het land moeten beven! Ja, de dag van Jahwe is gekomen; ja, hij is nabij,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Blaast de bazuin op de Sion, slaat alarm op mijn heilige berg: al de bewoners van het land moeten beven! Ja, de dag van Jahwe is gekomen; ja, hij is nabij,"
+          }
+        ]
+      },
+      "id": "joel.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "'Daarna zal het gebeuren: Ik zal mijn geest uitstorten over alle mensen, uw zonen en uw dochters zullen profeteren, uw grijsaards dromen zien, uw jonge mannen visioenen krijgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Daarna zal het gebeuren: Ik zal mijn geest uitstorten over alle mensen, uw zonen en uw dochters zullen profeteren, uw grijsaards dromen zien, uw jonge mannen visioenen krijgen."
+          }
+        ]
+      },
+      "id": "joel.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "'Want weet het wel: in die dagen, in die tijd, als Ik Juda en Jeruzalem herstel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Want weet het wel: in die dagen, in die tijd, als Ik Juda en Jeruzalem herstel,"
+          }
+        ]
+      },
+      "id": "joel.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Hoort toe, gij ouderlingen, luistert allen, gij bewoners van het land! Is iets dergelijks ooit gebeurd in uw dagen of in de dagen van uw vaderen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort toe, gij ouderlingen, luistert allen, gij bewoners van het land! Is iets dergelijks ooit gebeurd in uw dagen of in de dagen van uw vaderen?"
+          }
+        ]
+      },
+      "id": "joel.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "een dag van donker en van duisternis, een dag van wolken en verduistering. Hij breekt al aan: een talrijk, machtig volk staat alom op de bergen, een volk zoals er nooit een is geweest en later nooit meer een zal zijn, tot in de verste geslachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een dag van donker en van duisternis, een dag van wolken en verduistering. Hij breekt al aan: een talrijk, machtig volk staat alom op de bergen, een volk zoals er nooit een is geweest en later nooit meer een zal zijn, tot in de verste geslachten."
+          }
+        ]
+      },
+      "id": "joel.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Zelfs over de slaven en de slavinnen stort Ik mijn geest uit in die dagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs over de slaven en de slavinnen stort Ik mijn geest uit in die dagen."
+          }
+        ]
+      },
+      "id": "joel.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "breng Ik alle volken bijeen en doe hen dalen naar het dal van Josafat. Daar begin Ik met hen een rechtsgeding over mijn volk en mijn erfdeel, Israël, dat zij onder de volkeren hebben verstrooid; zij hebben mijn land verkaveld",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "breng Ik alle volken bijeen en doe hen dalen naar het dal van Josafat. Daar begin Ik met hen een rechtsgeding over mijn volk en mijn erfdeel, Israël, dat zij onder de volkeren hebben verstrooid; zij hebben mijn land verkaveld"
+          }
+        ]
+      },
+      "id": "joel.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Vertelt het aan uw zonen en laat uw zonen het vertellen aan hun zonen en die weer aan het volgende geslacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vertelt het aan uw zonen en laat uw zonen het vertellen aan hun zonen en die weer aan het volgende geslacht."
+          }
+        ]
+      },
+      "id": "joel.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Een verslindend vuur gaat voor hen uit, een verschroeiende gloed komt achter hen aan. Voor hen ligt het land als de tuin van Eden, achter hen blijft een woeste wildernis: er is geen ontkomen aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een verslindend vuur gaat voor hen uit, een verschroeiende gloed komt achter hen aan. Voor hen ligt het land als de tuin van Eden, achter hen blijft een woeste wildernis: er is geen ontkomen aan."
+          }
+        ]
+      },
+      "id": "joel.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Wondertekenen zal Ik tonen aan de hemel en op de aarde: bloed, vuur en paddestoelen van rook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wondertekenen zal Ik tonen aan de hemel en op de aarde: bloed, vuur en paddestoelen van rook."
+          }
+        ]
+      },
+      "id": "joel.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "en mijn volk verloot, jongens geruild voor lichtekooien, meisjes verkocht voor wijn om zich te bedrinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en mijn volk verloot, jongens geruild voor lichtekooien, meisjes verkocht voor wijn om zich te bedrinken."
+          }
+        ]
+      },
+      "id": "joel.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Wat de knager overliet, dat vrat de sprinkhaan; wat de sprinkhaan overliet, dat vrat de verslinder; wat de verslinder overliet, dat vrat de kaalvreter.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat de knager overliet, dat vrat de sprinkhaan; wat de sprinkhaan overliet, dat vrat de verslinder; wat de verslinder overliet, dat vrat de kaalvreter."
+          }
+        ]
+      },
+      "id": "joel.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Zij zien er uit als paarden, als rossen rennen zij voort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zien er uit als paarden, als rossen rennen zij voort."
+          }
+        ]
+      },
+      "id": "joel.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "De zon zal in duisternis verkeren, de maan in bloed, voordat de dag van Jahwe komt, de grote, angstwekkende dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zon zal in duisternis verkeren, de maan in bloed, voordat de dag van Jahwe komt, de grote, angstwekkende dag."
+          }
+        ]
+      },
+      "id": "joel.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "En ook gij, wat denkt gij wel van Mij, gij Tyrus en Sidon en alle gewesten van het Filistijnenland? Denkt gij dat gij wraak kunt nemen op Mij? Gij zijt met uw wraak nog niet begonnen, of aanstonds laat Ik die daad van u neerkomen op uw eigen hoofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ook gij, wat denkt gij wel van Mij, gij Tyrus en Sidon en alle gewesten van het Filistijnenland? Denkt gij dat gij wraak kunt nemen op Mij? Gij zijt met uw wraak nog niet begonnen, of aanstonds laat Ik die daad van u neerkomen op uw eigen hoofd."
+          }
+        ]
+      },
+      "id": "joel.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Wordt wakker, gij dronkaards, en weent; jammert allen, gij wijndrinkers, want het druivenat gaat uw mond voorbij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wordt wakker, gij dronkaards, en weent; jammert allen, gij wijndrinkers, want het druivenat gaat uw mond voorbij."
+          }
+        ]
+      },
+      "id": "joel.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Zij maken een lawaai als strijdwagens, die over de toppen der bergen razen; zij gieren als een laaiend vuur, dat de stoppels verslindt; zij zijn als een machtig volk, dat voor de strijd is aangetreden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij maken een lawaai als strijdwagens, die over de toppen der bergen razen; zij gieren als een laaiend vuur, dat de stoppels verslindt; zij zijn als een machtig volk, dat voor de strijd is aangetreden."
+          }
+        ]
+      },
+      "id": "joel.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Zo zal het gaan: alwie de naam van Jahwe aanroept, hij wordt gered, want op de berg Sion en in Jeruzalem daar zal de redding zijn, zoals Jahwe heeft gezegd. En degenen die door Jahwe worden geroepen, zij zijn het die ontkomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zal het gaan: alwie de naam van Jahwe aanroept, hij wordt gered, want op de berg Sion en in Jeruzalem daar zal de redding zijn, zoals Jahwe heeft gezegd. En degenen die door Jahwe worden geroepen, zij zijn het die ontkomen."
+          }
+        ]
+      },
+      "id": "joel.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Gij hebt mijn zilver en goud gestolen en mijn kostelijke schatten naar uw tempels gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt mijn zilver en goud gestolen en mijn kostelijke schatten naar uw tempels gebracht."
+          }
+        ]
+      },
+      "id": "joel.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Een volk is opgetrokken tegen mijn land, een machtig volk, niet te tellen. Het heeft de tanden van een leeuw, de kaken van een leeuwin;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een volk is opgetrokken tegen mijn land, een machtig volk, niet te tellen. Het heeft de tanden van een leeuw, de kaken van een leeuwin;"
+          }
+        ]
+      },
+      "id": "joel.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Dat ziende sidderen de volken, alle gezichten verliezen hun kleur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat ziende sidderen de volken, alle gezichten verliezen hun kleur."
+          }
+        ]
+      },
+      "id": "joel.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Mensen uit Judea en Jeruzalem hebt gij aan de Ioniërs verkocht om ze weg te voeren, ver van de grenzen van hun land.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mensen uit Judea en Jeruzalem hebt gij aan de Ioniërs verkocht om ze weg te voeren, ver van de grenzen van hun land."
+          }
+        ]
+      },
+      "id": "joel.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "het heeft mijn wingerd vernield en van mijn vijgeboom dood hout gemaakt; het heeft hem ontschorst en weggegooid; verbleekt zijn de ranken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het heeft mijn wingerd vernield en van mijn vijgeboom dood hout gemaakt; het heeft hem ontschorst en weggegooid; verbleekt zijn de ranken."
+          }
+        ]
+      },
+      "id": "joel.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Als krijgers stormen zij aan, als soldaten beklimmen zij de muren; ieder gaat de weg die hem is opgedragen, niemand wijkt af van zijn koers;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als krijgers stormen zij aan, als soldaten beklimmen zij de muren; ieder gaat de weg die hem is opgedragen, niemand wijkt af van zijn koers;"
+          }
+        ]
+      },
+      "id": "joel.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Maar Ik, Ik roep hen terug van de plaats waarheen gij hen verkocht hebt en Ik laat die daad van u neerkomen op uw eigen hoofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Ik, Ik roep hen terug van de plaats waarheen gij hen verkocht hebt en Ik laat die daad van u neerkomen op uw eigen hoofd."
+          }
+        ]
+      },
+      "id": "joel.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Weeklaagt als een jonge vrouw, die het rouwkleed draagt om de man van haar jeugd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weeklaagt als een jonge vrouw, die het rouwkleed draagt om de man van haar jeugd."
+          }
+        ]
+      },
+      "id": "joel.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "de een verdringt de ander niet, ieder volgt zijn eigen weg. Dwars door de pijlen heen vallen zij aan, zonder hun gelederen te verbreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de een verdringt de ander niet, ieder volgt zijn eigen weg. Dwars door de pijlen heen vallen zij aan, zonder hun gelederen te verbreken."
+          }
+        ]
+      },
+      "id": "joel.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Door de mannen van Juda laat Ik uw zonen en dochters verkopen, en zij verkopen hen aan de Sabeeërs, aan een volk ver hiervandaan. Waarachtig, Jahwe heeft het gezegd.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door de mannen van Juda laat Ik uw zonen en dochters verkopen, en zij verkopen hen aan de Sabeeërs, aan een volk ver hiervandaan. Waarachtig, Jahwe heeft het gezegd.'"
+          }
+        ]
+      },
+      "id": "joel.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Er is geen meeloffer meer, geen plengoffer meer in het huis van Jahwe. De priesters rouwen, zij die de dienst van Jahwe verrichten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is geen meeloffer meer, geen plengoffer meer in het huis van Jahwe. De priesters rouwen, zij die de dienst van Jahwe verrichten."
+          }
+        ]
+      },
+      "id": "joel.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Zij bestormen de stad, zij rennen over de muur heen, zij klauteren tegen de huizen, door de vensters komen zij binnen, als de dieven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij bestormen de stad, zij rennen over de muur heen, zij klauteren tegen de huizen, door de vensters komen zij binnen, als de dieven."
+          }
+        ]
+      },
+      "id": "joel.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Roept onder de volkeren dit om: Maakt u gereed voor de heilige oorlog, werft de dappere mannen aan! Laat ze aantreden en oprukken, al de krijgers!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Roept onder de volkeren dit om: Maakt u gereed voor de heilige oorlog, werft de dappere mannen aan! Laat ze aantreden en oprukken, al de krijgers!"
+          }
+        ]
+      },
+      "id": "joel.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Ontredderd ligt de akker, het land is verdroogd, ja, het koren ligt ontredderd, de most is verschrompeld, de olie verdord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ontredderd ligt de akker, het land is verdroogd, ja, het koren ligt ontredderd, de most is verschrompeld, de olie verdord."
+          }
+        ]
+      },
+      "id": "joel.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Dat ziende schokt de aarde, siddert de hemel, verduisteren de zon en de maan, verliezen de sterren hun licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat ziende schokt de aarde, siddert de hemel, verduisteren de zon en de maan, verliezen de sterren hun licht."
+          }
+        ]
+      },
+      "id": "joel.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Smeedt uw ploegscharen om tot zwaarden, uw snoeimessen tot speerpunten; laat zelfs de zwakkeling zeggen: 'Ik word een held!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Smeedt uw ploegscharen om tot zwaarden, uw snoeimessen tot speerpunten; laat zelfs de zwakkeling zeggen: 'Ik word een held!'"
+          }
+        ]
+      },
+      "id": "joel.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Verslagen moet gij staan, gij boeren, weeklagen moet gij, gij wijnbouwers, om de tarwe en de gerst, want de oogst op het veld is verloren gegaan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verslagen moet gij staan, gij boeren, weeklagen moet gij, gij wijnbouwers, om de tarwe en de gerst, want de oogst op het veld is verloren gegaan,"
+          }
+        ]
+      },
+      "id": "joel.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Jahwe, aan de spits van zijn leger, verheft zijn stem; ja, zeer talrijk is zijn leger, ja, machtig is hij die zijn bevel ten uitvoer brengt. Ja, groot is de dag van Jahwe en zeer te duchten: wie zal hem doorstaan?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, aan de spits van zijn leger, verheft zijn stem; ja, zeer talrijk is zijn leger, ja, machtig is hij die zijn bevel ten uitvoer brengt. Ja, groot is de dag van Jahwe en zeer te duchten: wie zal hem doorstaan?"
+          }
+        ]
+      },
+      "id": "joel.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Haast u om te komen, alle volken rondom! Dromt daar samen! Jahwe, laat uw helden komen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haast u om te komen, alle volken rondom! Dromt daar samen! Jahwe, laat uw helden komen!"
+          }
+        ]
+      },
+      "id": "joel.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "de wingerd is verschrompeld, de vijgeboom is uitgedroogd. Granaten, dadelpalmen, appelbomen, alle bomen op het veld zijn verdord. Ja, verdord is de vreugd van de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de wingerd is verschrompeld, de vijgeboom is uitgedroogd. Granaten, dadelpalmen, appelbomen, alle bomen op het veld zijn verdord. Ja, verdord is de vreugd van de mensen."
+          }
+        ]
+      },
+      "id": "joel.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Maar ook nu nog luidt de godsspraak van Jahwe: 'Keert tot Mij terug, van ganser harte, met vasten, met geween en met rouwklacht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ook nu nog luidt de godsspraak van Jahwe: 'Keert tot Mij terug, van ganser harte, met vasten, met geween en met rouwklacht.'"
+          }
+        ]
+      },
+      "id": "joel.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "'De volken moeten zich in beweging zetten, optrekken naar het dal van Josafat, want daar zal Ik zetelen om recht te spreken over alle volken rondom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'De volken moeten zich in beweging zetten, optrekken naar het dal van Josafat, want daar zal Ik zetelen om recht te spreken over alle volken rondom."
+          }
+        ]
+      },
+      "id": "joel.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Omgordt u met rouw, gij priesters, weeklaagt, gij die de dienst van het altaar verricht, komt en brengt in rouwkleren de nacht door, gij die de dienst van mijn God verricht, want aan het huis van uw God zijn meeloffer en plengoffer ontzegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omgordt u met rouw, gij priesters, weeklaagt, gij die de dienst van het altaar verricht, komt en brengt in rouwkleren de nacht door, gij die de dienst van mijn God verricht, want aan het huis van uw God zijn meeloffer en plengoffer ontzegd."
+          }
+        ]
+      },
+      "id": "joel.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Scheurt uw hart en niet uw kleren, keert terug tot Jahwe, uw God, want genadig is Hij en barmhartig, lankmoedig en vol liefde, en Hij heeft spijt over het onheil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Scheurt uw hart en niet uw kleren, keert terug tot Jahwe, uw God, want genadig is Hij en barmhartig, lankmoedig en vol liefde, en Hij heeft spijt over het onheil."
+          }
+        ]
+      },
+      "id": "joel.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Slaat de sikkel erin, want de oogst is rijp. Begint maar te treden, want de perskuip is vol, de bakken lopen over: zo groot is hun boosheid.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaat de sikkel erin, want de oogst is rijp. Begint maar te treden, want de perskuip is vol, de bakken lopen over: zo groot is hun boosheid.'"
+          }
+        ]
+      },
+      "id": "joel.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Kondigt een heilige vastentijd af, roept een plechtige samenkomst bijeen, verzamelt de oudsten, verzamelt alle bewoners van het land, in het huis van Jahwe, uw God, en roept tot Jahwe om hulp.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kondigt een heilige vastentijd af, roept een plechtige samenkomst bijeen, verzamelt de oudsten, verzamelt alle bewoners van het land, in het huis van Jahwe, uw God, en roept tot Jahwe om hulp."
+          }
+        ]
+      },
+      "id": "joel.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Wie weet, keert Hij terug en krijgt Hij spijt en laat dan zegen achter zich, een meeloffer en een plengoffer voor Jahwe, uw God!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie weet, keert Hij terug en krijgt Hij spijt en laat dan zegen achter zich, een meeloffer en een plengoffer voor Jahwe, uw God!"
+          }
+        ]
+      },
+      "id": "joel.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Drommen, drommen in het dal van het oordeel, want nabij is de dag van Jahwe in het dal van het oordeel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Drommen, drommen in het dal van het oordeel, want nabij is de dag van Jahwe in het dal van het oordeel."
+          }
+        ]
+      },
+      "id": "joel.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Wee als hij komt, die dag! Ja, de dag van Jahwe is nabij, hij komt als verwoesting door de Machtige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee als hij komt, die dag! Ja, de dag van Jahwe is nabij, hij komt als verwoesting door de Machtige."
+          }
+        ]
+      },
+      "id": "joel.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Blaast de bazuin op de Sion, kondigt een heilige vastentijd af, roept een plechtige samenkomst bijeen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Blaast de bazuin op de Sion, kondigt een heilige vastentijd af, roept een plechtige samenkomst bijeen!"
+          }
+        ]
+      },
+      "id": "joel.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "De zon en de maan verduisteren, de sterren verliezen hun licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zon en de maan verduisteren, de sterren verliezen hun licht."
+          }
+        ]
+      },
+      "id": "joel.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Voor onze ogen is het voedsel immers teniet gegaan! Uit het huis van onze God zijn vreugd en gejubel immers verdwenen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor onze ogen is het voedsel immers teniet gegaan! Uit het huis van onze God zijn vreugd en gejubel immers verdwenen!"
+          }
+        ]
+      },
+      "id": "joel.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Verzamelt het volk, belegt een heilige bijeenkomst, brengt de ouderlingen samen en verzamelt ook de kinderen en de zuigelingen; laat de bruidegom zijn kamer verlaten en de bruid haar bruidsvertrek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verzamelt het volk, belegt een heilige bijeenkomst, brengt de ouderlingen samen en verzamelt ook de kinderen en de zuigelingen; laat de bruidegom zijn kamer verlaten en de bruid haar bruidsvertrek."
+          }
+        ]
+      },
+      "id": "joel.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Jahwe buldert uit Sion, uit Jeruzalem laat Hij zijn stem weerklinken: hemel en aarde sidderen. Maar voor zijn volk is Jahwe een toevlucht, voor de zonen van Israël een vesting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe buldert uit Sion, uit Jeruzalem laat Hij zijn stem weerklinken: hemel en aarde sidderen. Maar voor zijn volk is Jahwe een toevlucht, voor de zonen van Israël een vesting."
+          }
+        ]
+      },
+      "id": "joel.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Uitgedroogd liggen de graankorrels onder de aardkluiten; de opslagplaatsen zijn verwoest en de schuren gesloopt, want het koren is verdord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uitgedroogd liggen de graankorrels onder de aardkluiten; de opslagplaatsen zijn verwoest en de schuren gesloopt, want het koren is verdord."
+          }
+        ]
+      },
+      "id": "joel.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Laat tussen de voorhal en het altaar de priesters, die de dienst van Jahwe verrichten, wenen en zeggen: 'Spaar uw volk, Jahwe, laat niet met uw erfdeel spotten, laat niet de heidenen het overheersen. Moet men onder de volken zeggen: Waar blijft hun God?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat tussen de voorhal en het altaar de priesters, die de dienst van Jahwe verrichten, wenen en zeggen: 'Spaar uw volk, Jahwe, laat niet met uw erfdeel spotten, laat niet de heidenen het overheersen. Moet men onder de volken zeggen: Waar blijft hun God?'"
+          }
+        ]
+      },
+      "id": "joel.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "'Dan zult gij erkennen, dat Ik, Jahwe, uw God ben, Ik, die woon op de Sion, mijn heilige berg; dan zal Jeruzalem heilige grond zijn, geen vreemden trekken er meer door.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Dan zult gij erkennen, dat Ik, Jahwe, uw God ben, Ik, die woon op de Sion, mijn heilige berg; dan zal Jeruzalem heilige grond zijn, geen vreemden trekken er meer door.'"
+          }
+        ]
+      },
+      "id": "joel.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Hoor, hoe het vee tekeer gaat! Troepen runderen dolen rond: zij vinden nergens meer een weide; zelfs de schapen moeten het ontgelden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoor, hoe het vee tekeer gaat! Troepen runderen dolen rond: zij vinden nergens meer een weide; zelfs de schapen moeten het ontgelden."
+          }
+        ]
+      },
+      "id": "joel.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Toen is Jahwe voor zijn land opgekomen en heeft Hij zijn volk gespaard.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen is Jahwe voor zijn land opgekomen en heeft Hij zijn volk gespaard."
+          }
+        ]
+      },
+      "id": "joel.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "En het zal gebeuren, op die dag, dat de bergen van druivenat druipen, dat de heuvelen stromen van melk, dat al de waterlopen van Juda een overvloed van water hebben, want uit de tempel van Jahwe zal een bron ontspringen, die het dal van de acacia's bevloeit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En het zal gebeuren, op die dag, dat de bergen van druivenat druipen, dat de heuvelen stromen van melk, dat al de waterlopen van Juda een overvloed van water hebben, want uit de tempel van Jahwe zal een bron ontspringen, die het dal van de acacia's bevloeit."
+          }
+        ]
+      },
+      "id": "joel.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Tot U, Jahwe, roep ik, nu vuur het groen in de steppe heeft opgevreten, nu vuurgloed alle bomen daarbuiten verschroeid heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot U, Jahwe, roep ik, nu vuur het groen in de steppe heeft opgevreten, nu vuurgloed alle bomen daarbuiten verschroeid heeft."
+          }
+        ]
+      },
+      "id": "joel.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "En Jahwe gaf zijn volk ten antwoord: 'Welnu, Ik ga u koren, most en olie zenden, tot verzadigens toe, en Ik laat de heidenen niet langer met u spotten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Jahwe gaf zijn volk ten antwoord: 'Welnu, Ik ga u koren, most en olie zenden, tot verzadigens toe, en Ik laat de heidenen niet langer met u spotten."
+          }
+        ]
+      },
+      "id": "joel.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Egypte wordt een woestijn, Edom een kale wildernis, om hun gewelddaden tegen de mensen van Juda, in wier land zij onschuldig bloed vergoten hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Egypte wordt een woestijn, Edom een kale wildernis, om hun gewelddaden tegen de mensen van Juda, in wier land zij onschuldig bloed vergoten hebben."
+          }
+        ]
+      },
+      "id": "joel.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Zelfs de wilde dieren smachten naar U, nu de waterkanalen droog staan en vuur het groen in de steppe heeft opgevreten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs de wilde dieren smachten naar U, nu de waterkanalen droog staan en vuur het groen in de steppe heeft opgevreten."
+          }
+        ]
+      },
+      "id": "joel.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Ik jaag de man uit het noorden ver van u weg, Ik drijf hem naar een dor en onherbergzaam land, zijn voorhoede naar de zee in het oosten, zijn achterhoede naar de zee in het westen. Zijn stank stijgt van hem op, een walm van verrotting: ja, grote daden heeft hij verricht!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik jaag de man uit het noorden ver van u weg, Ik drijf hem naar een dor en onherbergzaam land, zijn voorhoede naar de zee in het oosten, zijn achterhoede naar de zee in het westen. Zijn stank stijgt van hem op, een walm van verrotting: ja, grote daden heeft hij verricht!'"
+          }
+        ]
+      },
+      "id": "joel.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Maar Juda blijft altijd bewoond en ook Jeruzalem, van geslacht tot geslacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Juda blijft altijd bewoond en ook Jeruzalem, van geslacht tot geslacht."
+          }
+        ]
+      },
+      "id": "joel.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Vrees niet, gij akkerland, jubel en verblijd u, want Jahwe heeft een machtig werk verricht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrees niet, gij akkerland, jubel en verblijd u, want Jahwe heeft een machtig werk verricht."
+          }
+        ]
+      },
+      "id": "joel.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "'Hun bloed zal Ik wreken; Ik laat het niet ongestraft vergieten.' Jahwe woont op de Sion.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Hun bloed zal Ik wreken; Ik laat het niet ongestraft vergieten.' Jahwe woont op de Sion."
+          }
+        ]
+      },
+      "id": "joel.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Vreest niet, gij wilde dieren, want het groen in de steppe treedt weer te voorschijn, de boom draagt weer vruchten, de vijg en de wingerd geven weer kracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vreest niet, gij wilde dieren, want het groen in de steppe treedt weer te voorschijn, de boom draagt weer vruchten, de vijg en de wingerd geven weer kracht."
+          }
+        ]
+      },
+      "id": "joel.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "En gij, kinderen van Sion, jubelt en verblijdt u om Jahwe, uw God, want Hij geeft u de leraar om gerechtigheid te brengen en laat de regen op u neerdalen, herfstregen en voorjaarsregen, zoals voorheen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij, kinderen van Sion, jubelt en verblijdt u om Jahwe, uw God, want Hij geeft u de leraar om gerechtigheid te brengen en laat de regen op u neerdalen, herfstregen en voorjaarsregen, zoals voorheen."
+          }
+        ]
+      },
+      "id": "joel.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "De dorsvloeren liggen weer vol met koren, de perskuipen lopen weer over van most en van olie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De dorsvloeren liggen weer vol met koren, de perskuipen lopen weer over van most en van olie."
+          }
+        ]
+      },
+      "id": "joel.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "'Dan vergoed Ik u de jaren, die opgevreten zijn door de sprinkhanen en de verslinder, door de kaalvreter en de knager, door de grote legermacht, die Ik op u heb losgelaten.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Dan vergoed Ik u de jaren, die opgevreten zijn door de sprinkhanen en de verslinder, door de kaalvreter en de knager, door de grote legermacht, die Ik op u heb losgelaten.'"
+          }
+        ]
+      },
+      "id": "joel.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Dan eet gij weer volop, tot verzadigens toe, en prijst de naam van Jahwe, uw God, die wonderen voor u verricht heeft. Nooit ofte nimmer zal mijn volk meer te schande worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan eet gij weer volop, tot verzadigens toe, en prijst de naam van Jahwe, uw God, die wonderen voor u verricht heeft. Nooit ofte nimmer zal mijn volk meer te schande worden."
+          }
+        ]
+      },
+      "id": "joel.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "'Dan zult gij erkennen, dat Ik te midden van Israël ben, dat Ik, Jahwe, uw God ben, en niemand anders. Nooit ofte nimmer zal mijn volk weer te schande worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Dan zult gij erkennen, dat Ik te midden van Israël ben, dat Ik, Jahwe, uw God ben, en niemand anders. Nooit ofte nimmer zal mijn volk weer te schande worden.'"
+          }
+        ]
+      },
+      "id": "joel.2.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

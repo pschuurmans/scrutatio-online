@@ -1,0 +1,1860 @@
+{
+  "id": "filippenzen",
+  "name": "Filippenzen",
+  "chapters": 4,
+  "verseCount": 104,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS en Tim&oacute;te&uuml;s, dienstknechten van Christus Jezus, aan alle heiligen in Christus Jezus te Fil&iacute;ppi met hun episkopen en diakens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS en Timóteüs, dienstknechten van Christus Jezus, aan alle heiligen in Christus Jezus te Filíppi met hun episkopen en diakens."
+          }
+        ]
+      },
+      "id": "filippenzen.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Als dan vermaning in Christus en liefdevolle bemoediging iets vermogen, als gemeenschap van Geest, als hartelijkheid en mededogen u iets zeggen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als dan vermaning in Christus en liefdevolle bemoediging iets vermogen, als gemeenschap van Geest, als hartelijkheid en mededogen u iets zeggen,"
+          }
+        ]
+      },
+      "id": "filippenzen.2.1",
+      "title": "Deemoedige liefde naar het voorbeeld van Christus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Ten slotte, broeders, verheugt u in de Heer . . .<br />\r\nU nogmaals hetzelfde te schrijven is voor mij een kleine moeite en u geeft het zekerheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ten slotte, broeders, verheugt u in de Heer . . ."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nU nogmaals hetzelfde te schrijven is voor mij een kleine moeite en u geeft het zekerheid."
+          }
+        ]
+      },
+      "id": "filippenzen.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Daarom, mijn beminde broeders, naar wie ik zo verlang, mijn vreugde en mijn kroon, houdt aldus stand in de Heer, mijn geliefden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, mijn beminde broeders, naar wie ik zo verlang, mijn vreugde en mijn kroon, houdt aldus stand in de Heer, mijn geliefden."
+          }
+        ]
+      },
+      "id": "filippenzen.4.1",
+      "title": "Laatste vermaningen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!"
+          }
+        ]
+      },
+      "id": "filippenzen.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "maakt dan mijn vreugde volkomen door uw eenheid van denken, uw eenheid in de liefde, uw saamhorigheid en eensgezindheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maakt dan mijn vreugde volkomen door uw eenheid van denken, uw eenheid in de liefde, uw saamhorigheid en eensgezindheid."
+          }
+        ]
+      },
+      "id": "filippenzen.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Wacht u voor de honden, de saboteurs, de versnedenen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wacht u voor de honden, de saboteurs, de versnedenen!"
+          }
+        ]
+      },
+      "id": "filippenzen.3.2",
+      "title": "De weg van de christen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Evódia en Sýntyche verzoek ik beiden: weest eensgezind in de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evódia en Sýntyche verzoek ik beiden: weest eensgezind in de Heer."
+          }
+        ]
+      },
+      "id": "filippenzen.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Ik dank God telkens als ik u gedenk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik dank God telkens als ik u gedenk,"
+          }
+        ]
+      },
+      "id": "filippenzen.1.3",
+      "title": "Dankzegging en gebed",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Geeft niet toe aan partijzucht en ijdelheid, maar acht in ootmoed de ander hoger dan uzelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geeft niet toe aan partijzucht en ijdelheid, maar acht in ootmoed de ander hoger dan uzelf."
+          }
+        ]
+      },
+      "id": "filippenzen.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Want wij die God aanbidden in de Geest, wij zijn de ware besnedenen. Wij zoeken onze roem in Christus Jezus, niet in onszelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij die God aanbidden in de Geest, wij zijn de ware besnedenen. Wij zoeken onze roem in Christus Jezus, niet in onszelf."
+          }
+        ]
+      },
+      "id": "filippenzen.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Ook u, mijn trouwe kameraad, vraag ik: wees haar behulpzaam. Want zij hebben mij bijgestaan in de strijd voor het evangelie, evenals Clemens en mijn overige medewerkers, wier namen staan in het boek des levens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook u, mijn trouwe kameraad, vraag ik: wees haar behulpzaam. Want zij hebben mij bijgestaan in de strijd voor het evangelie, evenals Clemens en mijn overige medewerkers, wier namen staan in het boek des levens."
+          }
+        ]
+      },
+      "id": "filippenzen.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "altijd, bij al mijn gebeden voor u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "altijd, bij al mijn gebeden voor u allen."
+          }
+        ]
+      },
+      "id": "filippenzen.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Laat niemand zijn eigen belangen behartigen maar liever die van zijn naasten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat niemand zijn eigen belangen behartigen maar liever die van zijn naasten."
+          }
+        ]
+      },
+      "id": "filippenzen.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Ik zou me overigens met recht en reden op menselijke voorrechten kunnen beroepen. Als anderen menen daarop te kunnen vertrouwen, dan ik zeker:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zou me overigens met recht en reden op menselijke voorrechten kunnen beroepen. Als anderen menen daarop te kunnen vertrouwen, dan ik zeker:"
+          }
+        ]
+      },
+      "id": "filippenzen.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Verheugt u in de Heer te allen tijde. Nog eens: verheugt u!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verheugt u in de Heer te allen tijde. Nog eens: verheugt u!"
+          }
+        ]
+      },
+      "id": "filippenzen.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "En ik verricht mijn gebed met blijdschap, omdat gij van de eerste dag tot nu toe uw deel hebt bijgedragen tot de prediking van het evangelie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik verricht mijn gebed met blijdschap, omdat gij van de eerste dag tot nu toe uw deel hebt bijgedragen tot de prediking van het evangelie."
+          }
+        ]
+      },
+      "id": "filippenzen.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Die gezindheid moet onder u heersen welke ook Christus Jezus bezielde:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die gezindheid moet onder u heersen welke ook Christus Jezus bezielde:"
+          }
+        ]
+      },
+      "id": "filippenzen.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "ik ben besneden op de achtste dag, van Israëls geslacht, van de stam Benjamin, een geboren en getogen Hebreeër; op het stuk van de tora een Farizeeër,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ik ben besneden op de achtste dag, van Israëls geslacht, van de stam Benjamin, een geboren en getogen Hebreeër; op het stuk van de tora een Farizeeër,"
+          }
+        ]
+      },
+      "id": "filippenzen.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Uw vriendelijkheid moet bij alle mensen bekend zijn. De Heer is nabij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw vriendelijkheid moet bij alle mensen bekend zijn. De Heer is nabij."
+          }
+        ]
+      },
+      "id": "filippenzen.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Ik ben er zeker van dat Hij die het goede werk in u begonnen is het zal voltooien tegen de dag van Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben er zeker van dat Hij die het goede werk in u begonnen is het zal voltooien tegen de dag van Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Hij die bestond in goddelijke majesteit<br />\r\nheeft zich niet willen vastklampen<br />\r\naan de gelijkheid met God:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die bestond in goddelijke majesteit"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nheeft zich niet willen vastklampen"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\naan de gelijkheid met God:"
+          }
+        ]
+      },
+      "id": "filippenzen.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "wat ijver aangaat een vervolger van de kerk, in wettische heiligheid volmaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wat ijver aangaat een vervolger van de kerk, in wettische heiligheid volmaakt."
+          }
+        ]
+      },
+      "id": "filippenzen.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Weest onbezorgd. Laat al uw wensen bij God bekend worden in gebed en smeking, en nooit zonder dankzegging.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest onbezorgd. Laat al uw wensen bij God bekend worden in gebed en smeking, en nooit zonder dankzegging."
+          }
+        ]
+      },
+      "id": "filippenzen.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Het spreekt ook vanzelf dat ik zo over u allen denk, want ik draag u in mijn hart, u allen die in mijn gevangenschap bij de verdediging en bekrachtiging van het evangelie deelt in de genade die mij gegeven wordt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het spreekt ook vanzelf dat ik zo over u allen denk, want ik draag u in mijn hart, u allen die in mijn gevangenschap bij de verdediging en bekrachtiging van het evangelie deelt in de genade die mij gegeven wordt."
+          }
+        ]
+      },
+      "id": "filippenzen.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Hij heeft zich van zichzelf ontdaan<br />\r\nen het bestaan van een slaaf aangenomen.<br />\r\nHij is aan de mensen gelijk geworden.<br />\r\nEn als mens verschenen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft zich van zichzelf ontdaan"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen het bestaan van een slaaf aangenomen."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij is aan de mensen gelijk geworden."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nEn als mens verschenen"
+          }
+        ]
+      },
+      "id": "filippenzen.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Maar wat winst voor mij was ben ik om Christus gaan beschouwen als verlies.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wat winst voor mij was ben ik om Christus gaan beschouwen als verlies."
+          }
+        ]
+      },
+      "id": "filippenzen.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "En de vrede van God, die alle begrip te boven gaat, zal uw harten en uw gedachten behoeden in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de vrede van God, die alle begrip te boven gaat, zal uw harten en uw gedachten behoeden in Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "God weet hoe vurig ik naar u allen verlang, met de innigheid van Christus Jezus zelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God weet hoe vurig ik naar u allen verlang, met de innigheid van Christus Jezus zelf."
+          }
+        ]
+      },
+      "id": "filippenzen.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "heeft Hij zich vernederd,<br />\r\nHij werd gehoorzaam tot de dood,<br />\r\ntot de dood aan een kruis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heeft Hij zich vernederd,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij werd gehoorzaam tot de dood,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ntot de dood aan een kruis."
+          }
+        ]
+      },
+      "id": "filippenzen.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Sterker nog, ik beschouw alles als verlies, want mijn Heer Christus Jezus kennen gaat alles te boven. Om Hem heb ik alles prijsgegeven. Om Christus houd ik alles zelfs voor vuilnis, als het erom gaat Hem te winnen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sterker nog, ik beschouw alles als verlies, want mijn Heer Christus Jezus kennen gaat alles te boven. Om Hem heb ik alles prijsgegeven. Om Christus houd ik alles zelfs voor vuilnis, als het erom gaat Hem te winnen"
+          }
+        ]
+      },
+      "id": "filippenzen.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Tenslotte, broeders, houdt uw aandacht gevestigd op al wat waar is, al wat edel is, wat rechtvaardig is en rein, beminnelijk en aantrekkelijk, op al wat deugd heet en lof verdient.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tenslotte, broeders, houdt uw aandacht gevestigd op al wat waar is, al wat edel is, wat rechtvaardig is en rein, beminnelijk en aantrekkelijk, op al wat deugd heet en lof verdient."
+          }
+        ]
+      },
+      "id": "filippenzen.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "En dit is mijn bede: moge uw liefde steeds rijker worden aan inzicht en fijngevoeligheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit is mijn bede: moge uw liefde steeds rijker worden aan inzicht en fijngevoeligheid,"
+          }
+        ]
+      },
+      "id": "filippenzen.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Daarom heeft God hem hoog verheven<br />\r\nen Hem de naam verleend die boven alle namen is,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom heeft God hem hoog verheven"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen Hem de naam verleend die boven alle namen is,"
+          }
+        ]
+      },
+      "id": "filippenzen.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "en &eacute;&eacute;n te zijn met Hem, niet met mijn eigen gerechtigheid op grond van de wet, maar met de gerechtigheid die verkregen wordt door het geloof in Christus de gerechtigheid die van God komt en steunt op het geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en één te zijn met Hem, niet met mijn eigen gerechtigheid op grond van de wet, maar met de gerechtigheid die verkregen wordt door het geloof in Christus de gerechtigheid die van God komt en steunt op het geloof."
+          }
+        ]
+      },
+      "id": "filippenzen.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "En brengt in praktijk wat u geleerd is en overgeleverd, en wat gij van mij hebt gehoord en gezien.<br />\r\nDan zal de God van vrede met u zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En brengt in praktijk wat u geleerd is en overgeleverd, en wat gij van mij hebt gehoord en gezien."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nDan zal de God van vrede met u zijn."
+          }
+        ]
+      },
+      "id": "filippenzen.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "om te kunnen onderscheiden waar het op aankomt. Dan zult gij op de dag van Christus ongerept en onberispelijk zijn,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om te kunnen onderscheiden waar het op aankomt. Dan zult gij op de dag van Christus ongerept en onberispelijk zijn,"
+          }
+        ]
+      },
+      "id": "filippenzen.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "opdat bij het noemen van zijn naam<br />\r\nzich ieder een knie zou buigen<br />\r\nin de hemel, op aarde en onder de aarde,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat bij het noemen van zijn naam"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nzich ieder een knie zou buigen"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nin de hemel, op aarde en onder de aarde,"
+          }
+        ]
+      },
+      "id": "filippenzen.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Ik wil Christus kennen, ik wil de kracht van zijn opstanding gewaarworden en de gemeenschap met zijn lijden, ik wil steeds meer op Hem lijken in zijn sterven",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil Christus kennen, ik wil de kracht van zijn opstanding gewaarworden en de gemeenschap met zijn lijden, ik wil steeds meer op Hem lijken in zijn sterven"
+          }
+        ]
+      },
+      "id": "filippenzen.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Ik heb er mij in de Heer bijzonder over verheugd dat uw genegenheid voor mij eindelijk de kans heeft gekregen zich te uiten; het ontbrak u niet aan de goede wil maar aan de gunstige gelegenheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb er mij in de Heer bijzonder over verheugd dat uw genegenheid voor mij eindelijk de kans heeft gekregen zich te uiten; het ontbrak u niet aan de goede wil maar aan de gunstige gelegenheid."
+          }
+        ]
+      },
+      "id": "filippenzen.4.10",
+      "title": "Dank voor de gaven",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "verzadigd met de vrucht der gerechtigheid, die komt van Jezus Christus, tot eer en lof van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "verzadigd met de vrucht der gerechtigheid, die komt van Jezus Christus, tot eer en lof van God."
+          }
+        ]
+      },
+      "id": "filippenzen.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "en iedere tong zou belijden<br />\r\ntot eer van God, de Vader:<br />\r\nJezus Christus is de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en iedere tong zou belijden"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ntot eer van God, de Vader:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nJezus Christus is de Heer."
+          }
+        ]
+      },
+      "id": "filippenzen.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "om eens te mogen komen tot de wederopstanding uit de doden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om eens te mogen komen tot de wederopstanding uit de doden."
+          }
+        ]
+      },
+      "id": "filippenzen.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Ik zeg dit niet omdat ik tekort kom, want ik heb geleerd in alle omstandigheden mijzelf genoeg te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zeg dit niet omdat ik tekort kom, want ik heb geleerd in alle omstandigheden mijzelf genoeg te zijn."
+          }
+        ]
+      },
+      "id": "filippenzen.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Gij moet weten, broeders, dat mijn zaak veel heeft bijgedragen tot de voortgang van het evangelie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij moet weten, broeders, dat mijn zaak veel heeft bijgedragen tot de voortgang van het evangelie."
+          }
+        ]
+      },
+      "id": "filippenzen.1.12",
+      "title": "Paulus in boeien getuigt voor het evangelie",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Dierbare vrienden, gij hebt altijd naar mij geluisterd; maakt dus nu, in mijn afwezigheid, met niet minder ernst werk van uw heil dan toen ik bij u was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vrienden, gij hebt altijd naar mij geluisterd; maakt dus nu, in mijn afwezigheid, met niet minder ernst werk van uw heil dan toen ik bij u was."
+          }
+        ]
+      },
+      "id": "filippenzen.2.12",
+      "title": "Op weg naar het einde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Niet dat ik het al bereikt heb. Ik ben nog niet volmaakt! Maar ik streef er vurig naar het te grijpen, gegrepen als ik ben door Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet dat ik het al bereikt heb. Ik ben nog niet volmaakt! Maar ik streef er vurig naar het te grijpen, gegrepen als ik ben door Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Ik weet wat armoede is, ik weet wat overvloed is. Ik ben volledig ingewijd. Ik kan volop eten en ik kan honger lijden, ik ben vertrouwd met overvloed en met gebrek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik weet wat armoede is, ik weet wat overvloed is. Ik ben volledig ingewijd. Ik kan volop eten en ik kan honger lijden, ik ben vertrouwd met overvloed en met gebrek."
+          }
+        ]
+      },
+      "id": "filippenzen.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "In heel het praetorium en ook voor alle anderen is het duidelijk geworden, dat ik mijn boeien draag ter wille van Christus;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In heel het praetorium en ook voor alle anderen is het duidelijk geworden, dat ik mijn boeien draag ter wille van Christus;"
+          }
+        ]
+      },
+      "id": "filippenzen.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "God is het immers die zowel het willen als het doen bij u tot stand brengt, om zijn heilsplan te verwezenlijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God is het immers die zowel het willen als het doen bij u tot stand brengt, om zijn heilsplan te verwezenlijken."
+          }
+        ]
+      },
+      "id": "filippenzen.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Nee, broeders, ik beeld mij niet in er al te zijn. Alleen dit: vergetend wat achter me ligt, mij uitstrekkend naar wat voor me ligt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nee, broeders, ik beeld mij niet in er al te zijn. Alleen dit: vergetend wat achter me ligt, mij uitstrekkend naar wat voor me ligt,"
+          }
+        ]
+      },
+      "id": "filippenzen.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Alles vermag ik in Hem die mij kracht geeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles vermag ik in Hem die mij kracht geeft."
+          }
+        ]
+      },
+      "id": "filippenzen.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "en het merendeel van de broeders heeft uit mijn gevangenschap kracht geput om, in vertrouwen op de Heer en met groter moed dan eerst, onbevreesd het woord te verkondigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en het merendeel van de broeders heeft uit mijn gevangenschap kracht geput om, in vertrouwen op de Heer en met groter moed dan eerst, onbevreesd het woord te verkondigen."
+          }
+        ]
+      },
+      "id": "filippenzen.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Doet al wat ge te doen hebt zonder te morren of tegen te spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doet al wat ge te doen hebt zonder te morren of tegen te spreken."
+          }
+        ]
+      },
+      "id": "filippenzen.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "storm ik af op het doel: de prijs van Gods hemelse roeping.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "storm ik af op het doel: de prijs van Gods hemelse roeping."
+          }
+        ]
+      },
+      "id": "filippenzen.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Toch hebt gij er goed aan gedaan mij te helpen in mijn moeilijkheden:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch hebt gij er goed aan gedaan mij te helpen in mijn moeilijkheden:"
+          }
+        ]
+      },
+      "id": "filippenzen.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Weliswaar doen sommigen het uit nijd en strijd, maar anderen prediken de Christus met goede bedoelingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weliswaar doen sommigen het uit nijd en strijd, maar anderen prediken de Christus met goede bedoelingen."
+          }
+        ]
+      },
+      "id": "filippenzen.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Zorgt dat ge onberispelijk en ongerept zijt, als onbesproken kinderen van God onder een slinks en ontaard geslacht, waarin gij schittert als sterren in het heelal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zorgt dat ge onberispelijk en ongerept zijt, als onbesproken kinderen van God onder een slinks en ontaard geslacht, waarin gij schittert als sterren in het heelal."
+          }
+        ]
+      },
+      "id": "filippenzen.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Laten wij, ‘volmaakten’, er zo over denken; en als gij op een of ander punt anders denkt, zal God u ook daarin zijn licht geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij, ‘volmaakten’, er zo over denken; en als gij op een of ander punt anders denkt, zal God u ook daarin zijn licht geven."
+          }
+        ]
+      },
+      "id": "filippenzen.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Gij weet het zelf ook wel, Filíppiërs: bij mijn vertrek uit Macedonië in het begin van mijn evangelieprediking heeft geen enkele gemeente met mij een lopende rekening geopend behalve de uwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet het zelf ook wel, Filíppiërs: bij mijn vertrek uit Macedonië in het begin van mijn evangelieprediking heeft geen enkele gemeente met mij een lopende rekening geopend behalve de uwe."
+          }
+        ]
+      },
+      "id": "filippenzen.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Dezen doen het uit liefde; zij weten dat ik sta voor de verdediging van het evangelie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dezen doen het uit liefde; zij weten dat ik sta voor de verdediging van het evangelie."
+          }
+        ]
+      },
+      "id": "filippenzen.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Houdt vast aan het woord des levens. Dan kan ik, als de dag van Christus komt, er trots op zijn dat mijn werk en mijn inspanning niet vergeefs zijn geweest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houdt vast aan het woord des levens. Dan kan ik, als de dag van Christus komt, er trots op zijn dat mijn werk en mijn inspanning niet vergeefs zijn geweest."
+          }
+        ]
+      },
+      "id": "filippenzen.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Laten wij in ieder geval op de ingeslagen weg voortgaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij in ieder geval op de ingeslagen weg voortgaan."
+          }
+        ]
+      },
+      "id": "filippenzen.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Reeds in Tessalonica hebt gij mij tot tweemaal toe gestuurd wat ik nodig had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Reeds in Tessalonica hebt gij mij tot tweemaal toe gestuurd wat ik nodig had."
+          }
+        ]
+      },
+      "id": "filippenzen.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Genen verkondigen de Christus met zelfzuchtige en onzuivere bedoelingen, in de waan mijn boeien daardoor te verzwaren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genen verkondigen de Christus met zelfzuchtige en onzuivere bedoelingen, in de waan mijn boeien daardoor te verzwaren."
+          }
+        ]
+      },
+      "id": "filippenzen.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Maar ook al wordt mijn bloed geplengd bij de offerdienst van uw geloof, dan nog wens ik mijzelf en u allen geluk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ook al wordt mijn bloed geplengd bij de offerdienst van uw geloof, dan nog wens ik mijzelf en u allen geluk."
+          }
+        ]
+      },
+      "id": "filippenzen.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Broeders, volgt mij na en houdt hen voor ogen die zich gedragen naar het voorbeeld dat ik u gegeven heb.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, volgt mij na en houdt hen voor ogen die zich gedragen naar het voorbeeld dat ik u gegeven heb."
+          }
+        ]
+      },
+      "id": "filippenzen.3.17",
+      "title": "Op weg naar het einde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Niet dat het mij om uw giften te doen is; wat is zoek is uw eigen voordeel, het steeds aangroeiend tegoed op uw rekening!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet dat het mij om uw giften te doen is; wat is zoek is uw eigen voordeel, het steeds aangroeiend tegoed op uw rekening!"
+          }
+        ]
+      },
+      "id": "filippenzen.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Wat dan nog? Hoe dan ook, Christus wordt verkondigd, met of zonder bijbedoeling. En daarover verheug ik mij. En ik zal mij ook blijven verheugen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat dan nog? Hoe dan ook, Christus wordt verkondigd, met of zonder bijbedoeling. En daarover verheug ik mij. En ik zal mij ook blijven verheugen."
+          }
+        ]
+      },
+      "id": "filippenzen.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "En gij moet evengoed blij zijn en delen in mijn vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij moet evengoed blij zijn en delen in mijn vreugde."
+          }
+        ]
+      },
+      "id": "filippenzen.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Want velen leiden een leven... ik heb u vaak op hen gewezen, maar nu kan ik er niet dan met tranen over spreken; de vijanden van Christus’ kruis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want velen leiden een leven... ik heb u vaak op hen gewezen, maar nu kan ik er niet dan met tranen over spreken; de vijanden van Christus’ kruis."
+          }
+        ]
+      },
+      "id": "filippenzen.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Al wat mij toekwam heb ik al ontvangen, en meer dan dat. Ik heb volop, dank zij Epafrod&iacute;tus, die mij uw gaven heeft overgebracht. Die zijn voor God een welriekende geur, een aangename en welgevallige offerande.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al wat mij toekwam heb ik al ontvangen, en meer dan dat. Ik heb volop, dank zij Epafrodítus, die mij uw gaven heeft overgebracht. Die zijn voor God een welriekende geur, een aangename en welgevallige offerande."
+          }
+        ]
+      },
+      "id": "filippenzen.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Want ik weet dat dit zal uitlopen op mijn redding, dankzij uw gebed en de bijstand van de Geest van Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ik weet dat dit zal uitlopen op mijn redding, dankzij uw gebed en de bijstand van de Geest van Jezus Christus."
+          }
+        ]
+      },
+      "id": "filippenzen.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "In vertrouwen op de Heer Jezus hoop ik Tim&oacute;te&uuml;s spoedig naar u toe te sturen; het zal mij goed doen nieuws van u te horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In vertrouwen op de Heer Jezus hoop ik Timóteüs spoedig naar u toe te sturen; het zal mij goed doen nieuws van u te horen."
+          }
+        ]
+      },
+      "id": "filippenzen.2.19",
+      "title": "Aanbeveling van Timóteüs en Epafroditus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Zij zijn op weg naar de ondergang, hun buik is hun god, in hun schande stellen zij hun eer, zij hebben hun zinnen gezet op het aardse.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn op weg naar de ondergang, hun buik is hun god, in hun schande stellen zij hun eer, zij hebben hun zinnen gezet op het aardse."
+          }
+        ]
+      },
+      "id": "filippenzen.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "En mijn God zal met goddelijke rijkdom in al uw noden voorzien door u de heerlijkheid te schenken in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En mijn God zal met goddelijke rijkdom in al uw noden voorzien door u de heerlijkheid te schenken in Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Dit is mijn vurig verlangen en mijn vaste hoop: dat ik in niets beschaamd zal staan, en dat Christus in volle openbaarheid zoals steeds ook nu zal worden verheerlijkt in mijn persoon, of ik leven moet of sterven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is mijn vurig verlangen en mijn vaste hoop: dat ik in niets beschaamd zal staan, en dat Christus in volle openbaarheid zoals steeds ook nu zal worden verheerlijkt in mijn persoon, of ik leven moet of sterven."
+          }
+        ]
+      },
+      "id": "filippenzen.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Ik ken niemand die u zo welgezind is en zo trouw uw belangen zal behartigen als hij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ken niemand die u zo welgezind is en zo trouw uw belangen zal behartigen als hij."
+          }
+        ]
+      },
+      "id": "filippenzen.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Maar ons vaderland is in de hemel, en uit de hemel verwachten wij onze verlosser, de Heer Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ons vaderland is in de hemel, en uit de hemel verwachten wij onze verlosser, de Heer Jezus Christus."
+          }
+        ]
+      },
+      "id": "filippenzen.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Aan onze God en Vader zij de eer in de eeuwen der eeuwen! Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan onze God en Vader zij de eer in de eeuwen der eeuwen! Amen."
+          }
+        ]
+      },
+      "id": "filippenzen.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Want voor mij is leven Christus en sterven winst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want voor mij is leven Christus en sterven winst."
+          }
+        ]
+      },
+      "id": "filippenzen.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Allen zoeken hun eigen belang, niet dat van Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen zoeken hun eigen belang, niet dat van Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Hij zal ons armzalig lichaam herscheppen en het gelijkvormig maken aan zijn verheerlijkt lichaam, met dezelfde kracht die Hem in staat stelt het heelal aan zich te onderwerpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal ons armzalig lichaam herscheppen en het gelijkvormig maken aan zijn verheerlijkt lichaam, met dezelfde kracht die Hem in staat stelt het heelal aan zich te onderwerpen."
+          }
+        ]
+      },
+      "id": "filippenzen.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Groet iedere heilige in Christus Jezus. U groeten de broeders die bij mij zijn,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groet iedere heilige in Christus Jezus. U groeten de broeders die bij mij zijn,"
+          }
+        ]
+      },
+      "id": "filippenzen.4.21",
+      "title": "Groet en zegenwens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Maar blijf ik leven, dan wacht mij vruchtbare arbeid. Daarom weet ik niet wat ik moet kiezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar blijf ik leven, dan wacht mij vruchtbare arbeid. Daarom weet ik niet wat ik moet kiezen."
+          }
+        ]
+      },
+      "id": "filippenzen.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Maar hij is, zoals gij weet, van beproefde trouw, want samen met mij heeft hij, als een kind aan de zijde van zijn vader, de zaak van het evangelie gediend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hij is, zoals gij weet, van beproefde trouw, want samen met mij heeft hij, als een kind aan de zijde van zijn vader, de zaak van het evangelie gediend."
+          }
+        ]
+      },
+      "id": "filippenzen.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "en alle christenen hier groeten u, vooral die van het huis van de keizer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en alle christenen hier groeten u, vooral die van het huis van de keizer."
+          }
+        ]
+      },
+      "id": "filippenzen.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Ik word naar twee kanten getrokken: ik verlang heen te gaan om met Christus te zijn, want dat is verreweg het beste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik word naar twee kanten getrokken: ik verlang heen te gaan om met Christus te zijn, want dat is verreweg het beste."
+          }
+        ]
+      },
+      "id": "filippenzen.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Ik hoop hem dus te zenden, zodra ik kan overzien hoe mijn zaken ervoor staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik hoop hem dus te zenden, zodra ik kan overzien hoe mijn zaken ervoor staan."
+          }
+        ]
+      },
+      "id": "filippenzen.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "De genade van de Heer Jezus Christus zij met uw geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade van de Heer Jezus Christus zij met uw geest."
+          }
+        ]
+      },
+      "id": "filippenzen.4.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Maar voor u is het nuttiger dat ik nog hier blijf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar voor u is het nuttiger dat ik nog hier blijf."
+          }
+        ]
+      },
+      "id": "filippenzen.1.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Maar ik vertrouw in de Heer, dat ik spoedig zelf zal komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik vertrouw in de Heer, dat ik spoedig zelf zal komen."
+          }
+        ]
+      },
+      "id": "filippenzen.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "En omdat ik hiervan overtuigd ben, weet ik ook dat ik zal blijven leven en gespaard zal blijven voor u allen, tot uw vooruitgang en de vreugde van uw geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En omdat ik hiervan overtuigd ben, weet ik ook dat ik zal blijven leven en gespaard zal blijven voor u allen, tot uw vooruitgang en de vreugde van uw geloof."
+          }
+        ]
+      },
+      "id": "filippenzen.1.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Ik vind het wel nodig onze broeder Epafrodítus, mijn medewerker en strijdmakker, uw afgezant en uw helper in mijn nood, naar u te zenden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vind het wel nodig onze broeder Epafrodítus, mijn medewerker en strijdmakker, uw afgezant en uw helper in mijn nood, naar u te zenden."
+          }
+        ]
+      },
+      "id": "filippenzen.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "Dan zult gij, wanneer ik weer bij u kom, een nieuwe reden hebben om op mij te roemen in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult gij, wanneer ik weer bij u kom, een nieuwe reden hebben om op mij te roemen in Christus Jezus."
+          }
+        ]
+      },
+      "id": "filippenzen.1.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Hij heeft heimwee naar u allen, en hij lijdt eronder dat gij van zijn ziekte gehoord hebt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft heimwee naar u allen, en hij lijdt eronder dat gij van zijn ziekte gehoord hebt."
+          }
+        ]
+      },
+      "id": "filippenzen.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "Alleen, gij moet een leven leiden dat het evangelie van Christus waardig is. Dan zal ik, als ik u kom bezoeken, met eigen ogen zien of anders over u horen, dat gij vast staat in een en dezelfde geest, eensgezind strijdend voor het geloof in het evangelie,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alleen, gij moet een leven leiden dat het evangelie van Christus waardig is. Dan zal ik, als ik u kom bezoeken, met eigen ogen zien of anders over u horen, dat gij vast staat in een en dezelfde geest, eensgezind strijdend voor het geloof in het evangelie,"
+          }
+        ]
+      },
+      "id": "filippenzen.1.27",
+      "title": "Eensgezinde strijd voor het evangelie",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Hij is inderdaad doodziek geweest. Maar God heeft zich over hem ontfermd, en niet alleen over hem maar ook over mij, opdat ik niet het ene verdriet na het andere zou hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is inderdaad doodziek geweest. Maar God heeft zich over hem ontfermd, en niet alleen over hem maar ook over mij, opdat ik niet het ene verdriet na het andere zou hebben."
+          }
+        ]
+      },
+      "id": "filippenzen.2.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "text": "zonder dat gij u ook maar in het minst door de tegenstander laat intimideren. Voor hen is dit een aanwijzing van hun ondergang en voor u een teken van heil, en wel van Godswege.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zonder dat gij u ook maar in het minst door de tegenstander laat intimideren. Voor hen is dit een aanwijzing van hun ondergang en voor u een teken van heil, en wel van Godswege."
+          }
+        ]
+      },
+      "id": "filippenzen.1.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "Daarom haast ik mij hem terug te zenden; gij zult hem met vreugde weerzien en ik heb een zorg minder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom haast ik mij hem terug te zenden; gij zult hem met vreugde weerzien en ik heb een zorg minder."
+          }
+        ]
+      },
+      "id": "filippenzen.2.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "text": "Want u is de genade verleend, niet alleen in Christus te geloven, maar ook voor Hem te lijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want u is de genade verleend, niet alleen in Christus te geloven, maar ook voor Hem te lijden."
+          }
+        ]
+      },
+      "id": "filippenzen.1.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "Heet hem dus van harte in uw midden welkom. Mannen zoals hij moet gij in ere houden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heet hem dus van harte in uw midden welkom. Mannen zoals hij moet gij in ere houden."
+          }
+        ]
+      },
+      "id": "filippenzen.2.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "text": "Uw worsteling is de mijne; gij hebt gezien hoe ik vroeger heb gestreden en gij weet hoe ik nog steeds te strijden heb.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw worsteling is de mijne; gij hebt gezien hoe ik vroeger heb gestreden en gij weet hoe ik nog steeds te strijden heb."
+          }
+        ]
+      },
+      "id": "filippenzen.1.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "Om het werk van Christus is hij de dood nabij geweest. Hij heeft zijn leven op het spel gezet om mij te helpen, waar gij in gebreke moest blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om het werk van Christus is hij de dood nabij geweest. Hij heeft zijn leven op het spel gezet om mij te helpen, waar gij in gebreke moest blijven."
+          }
+        ]
+      },
+      "id": "filippenzen.2.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

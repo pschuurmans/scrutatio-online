@@ -1,0 +1,4207 @@
+{
+  "id": "tobit",
+  "name": "Tobit",
+  "chapters": 14,
+  "verseCount": 247,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "De geschiedenis van Tobit, de zoon van Tobiël, de zoon van Ananiël, de zoon van Aduël, de zoon van Gabaël, uit het geslacht van Asiël, uit de stam van Naftali,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De geschiedenis van Tobit, de zoon van Tobiël, de zoon van Ananiël, de zoon van Aduël, de zoon van Gabaël, uit het geslacht van Asiël, uit de stam van Naftali,"
+          }
+        ]
+      },
+      "id": "tobit.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Toen ik weer in het bezit van mijn huis gekomen was en mijn vrouw Anna en mijn zoon Tobias me waren teruggegeven, werd ter ere van mij op pinksteren, het wekenfeest, een feestmaal aangericht. Toen ik aan tafel ging",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik weer in het bezit van mijn huis gekomen was en mijn vrouw Anna en mijn zoon Tobias me waren teruggegeven, werd ter ere van mij op pinksteren, het wekenfeest, een feestmaal aangericht. Toen ik aan tafel ging"
+          }
+        ]
+      },
+      "id": "tobit.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Van verdriet barstte ik in tranen uit en bad in droefheid;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van verdriet barstte ik in tranen uit en bad in droefheid;"
+          }
+        ]
+      },
+      "id": "tobit.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Die dag herinnerde Tobit zich, dat hij aan Gabaël te Rages in Medië geld in bewaring had gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die dag herinnerde Tobit zich, dat hij aan Gabaël te Rages in Medië geld in bewaring had gegeven."
+          }
+        ]
+      },
+      "id": "tobit.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Daarop antwoordde Tobias: 'Vader, ik zal al uw vermaningen ter harte nemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop antwoordde Tobias: 'Vader, ik zal al uw vermaningen ter harte nemen."
+          }
+        ]
+      },
+      "id": "tobit.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Op hun reis hadden Tobias en Rafaël tegen de avond de rivier de Tigris bereikt. Daar wilden ze overnachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op hun reis hadden Tobias en Rafaël tegen de avond de rivier de Tigris bereikt. Daar wilden ze overnachten."
+          }
+        ]
+      },
+      "id": "tobit.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Ze kwamen in Ekbatana aan en begaven zich naar de woning van Raguël. Sara kwam hun tegemoet. Nadat ze elkaar hadden begroet, nodigde zij hen uit binnen te komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze kwamen in Ekbatana aan en begaven zich naar de woning van Raguël. Sara kwam hun tegemoet. Nadat ze elkaar hadden begroet, nodigde zij hen uit binnen te komen."
+          }
+        ]
+      },
+      "id": "tobit.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Na de maaltijd leidden ze Tobias naar Sara.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na de maaltijd leidden ze Tobias naar Sara."
+          }
+        ]
+      },
+      "id": "tobit.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Tobias riep Rafaël en zei hem:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobias riep Rafaël en zei hem:"
+          }
+        ]
+      },
+      "id": "tobit.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Intussen telde zijn vader Tobit de dagen. En toen de tijd dat de reis zou duren verstreken was en zij maar niet terugkwamen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Intussen telde zijn vader Tobit de dagen. En toen de tijd dat de reis zou duren verstreken was en zij maar niet terugkwamen,"
+          }
+        ]
+      },
+      "id": "tobit.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Toen zij Nineve naderden zei Rafaël tot Tobias:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zij Nineve naderden zei Rafaël tot Tobias:"
+          }
+        ]
+      },
+      "id": "tobit.11.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Tobit riep zijn zoon Tobias en zei hem: 'Zorg voor de uitbetaling van je reisgezel. En je moet hem nog iets extra's geven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobit riep zijn zoon Tobias en zei hem: 'Zorg voor de uitbetaling van je reisgezel. En je moet hem nog iets extra's geven.'"
+          }
+        ]
+      },
+      "id": "tobit.12.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "En Tobit schreef het volgende loflied:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Tobit schreef het volgende loflied:"
+          }
+        ]
+      },
+      "id": "tobit.13.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "Daarmee eindigde Tobit zijn lofzang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarmee eindigde Tobit zijn lofzang."
+          }
+        ]
+      },
+      "id": "tobit.14.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "die onder de regering van Enemessar, de koning van Assyrië, in ballingschap werd weggevoerd uit Tisbe, gelegen ten zuiden van Kydios-naftali in Galilea en ten noorden van Aser.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die onder de regering van Enemessar, de koning van Assyrië, in ballingschap werd weggevoerd uit Tisbe, gelegen ten zuiden van Kydios-naftali in Galilea en ten noorden van Aser."
+          }
+        ]
+      },
+      "id": "tobit.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "en de vele gerechten zag, zei ik tot mijn zoon: 'Ga eens kijken of je ergens een arme, godvrezende volksgenoot vindt. Breng hem dan mee; ik wacht op je.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de vele gerechten zag, zei ik tot mijn zoon: 'Ga eens kijken of je ergens een arme, godvrezende volksgenoot vindt. Breng hem dan mee; ik wacht op je.'"
+          }
+        ]
+      },
+      "id": "tobit.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "'Rechtvaardig zijt Gij, Heer, en al uw werken en heel uw beleid getuigen van uw barmhartigheid en trouw en als Gij oordeelt zijt Gij trouw en rechtvaardig tot in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Rechtvaardig zijt Gij, Heer, en al uw werken en heel uw beleid getuigen van uw barmhartigheid en trouw en als Gij oordeelt zijt Gij trouw en rechtvaardig tot in eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Hij zei bij zichzelf: 'Ik heb gebeden om de dood. Waarom dus mijn zoon Tobias niet geroepen om hem voor ik sterf op de hoogte te stellen?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zei bij zichzelf: 'Ik heb gebeden om de dood. Waarom dus mijn zoon Tobias niet geroepen om hem voor ik sterf op de hoogte te stellen?'"
+          }
+        ]
+      },
+      "id": "tobit.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Maar hoe kan ik dat geld krijgen, aangezien ik die man niet ken?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hoe kan ik dat geld krijgen, aangezien ik die man niet ken?'"
+          }
+        ]
+      },
+      "id": "tobit.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "De jongeman liep de rivier in om zich te baden, toen er opeens een vis uit het water opdook en hem dreigde te verslinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De jongeman liep de rivier in om zich te baden, toen er opeens een vis uit het water opdook en hem dreigde te verslinden."
+          }
+        ]
+      },
+      "id": "tobit.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Raguël zei tot zijn vrouw Edna: 'Wat lijkt die jongeman toch op mijn neef Tobit!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Raguël zei tot zijn vrouw Edna: 'Wat lijkt die jongeman toch op mijn neef Tobit!'"
+          }
+        ]
+      },
+      "id": "tobit.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Bij het binnengaan dacht Tobias aan wat Rafaël gezegd had. Hij pakte de wierookpan en legde het hart van de vis en de lever op de gloeiende as en er ontstond rook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij het binnengaan dacht Tobias aan wat Rafaël gezegd had. Hij pakte de wierookpan en legde het hart van de vis en de lever op de gloeiende as en er ontstond rook."
+          }
+        ]
+      },
+      "id": "tobit.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "'Broeder Azarias, ga met een slaaf en twee kamelen op weg naar Rages in Medië, naar Gabaël, haal het geld en nodig hem uit op de bruiloft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Broeder Azarias, ga met een slaaf en twee kamelen op weg naar Rages in Medië, naar Gabaël, haal het geld en nodig hem uit op de bruiloft."
+          }
+        ]
+      },
+      "id": "tobit.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "dacht hij: 'Als ze maar niet in moeilijkheden geraakt zijn! Wie weet is Gabaël gestorven en is er niemand om het geld aan mijn zoon te overhandigen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dacht hij: 'Als ze maar niet in moeilijkheden geraakt zijn! Wie weet is Gabaël gestorven en is er niemand om het geld aan mijn zoon te overhandigen.'"
+          }
+        ]
+      },
+      "id": "tobit.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "'Je weet in welke toestand je vader zich bevond toen wij vertrokken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Je weet in welke toestand je vader zich bevond toen wij vertrokken."
+          }
+        ]
+      },
+      "id": "tobit.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "'Vader,' antwoordde Tobias,' ik zou het niet onbillijk vinden hem zelfs de helft van wat ik heb meegebracht te geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Vader,' antwoordde Tobias,' ik zou het niet onbillijk vinden hem zelfs de helft van wat ik heb meegebracht te geven."
+          }
+        ]
+      },
+      "id": "tobit.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Geloofd zij God, die leeft en heerst de eeuwen door, want Hij kastijdt en toont erbarming, voert naar het dodenrijk en haalt er weer uit. Niemand ontkomt aan zijn hand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geloofd zij God, die leeft en heerst de eeuwen door, want Hij kastijdt en toont erbarming, voert naar het dodenrijk en haalt er weer uit. Niemand ontkomt aan zijn hand."
+          }
+        ]
+      },
+      "id": "tobit.13.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Hij was achtenvijftig toen hij het gezicht verloor; acht jaar later kon hij weer zien. Hij gaf aalmoezen en bleef God de Heer vrezen en loven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij was achtenvijftig toen hij het gezicht verloor; acht jaar later kon hij weer zien. Hij gaf aalmoezen en bleef God de Heer vrezen en loven."
+          }
+        ]
+      },
+      "id": "tobit.14.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Ik, Tobit, heb heel mijn leven de weg van waarheid en gerechtigheid bewandeld; ik heb veel aalmoezen gegeven aan mijn stam - en volksgenoten, die met mij naar Nineve in Assyrië getrokken waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, Tobit, heb heel mijn leven de weg van waarheid en gerechtigheid bewandeld; ik heb veel aalmoezen gegeven aan mijn stam - en volksgenoten, die met mij naar Nineve in Assyrië getrokken waren."
+          }
+        ]
+      },
+      "id": "tobit.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Hij kwam terug met de boodschap: 'Vader, op de markt ligt een volksgenoot van ons, die ze gewurgd hebben.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij kwam terug met de boodschap: 'Vader, op de markt ligt een volksgenoot van ons, die ze gewurgd hebben.'"
+          }
+        ]
+      },
+      "id": "tobit.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Wees mij indachtig en zie op mij neer. Straf mij niet om wat ikzelf en mijn voorvaderen bewust of onbewust tegen U misdaan hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wees mij indachtig en zie op mij neer. Straf mij niet om wat ikzelf en mijn voorvaderen bewust of onbewust tegen U misdaan hebben."
+          }
+        ]
+      },
+      "id": "tobit.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Hij riep hem en begon: 'Mijn zoon, als ik gestorven zal zijn, begraaf me dan. Minacht je moeder niet, maar houdt haar in ere zolang je leeft. Wees haar ter wille en bedroef haar niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij riep hem en begon: 'Mijn zoon, als ik gestorven zal zijn, begraaf me dan. Minacht je moeder niet, maar houdt haar in ere zolang je leeft. Wees haar ter wille en bedroef haar niet."
+          }
+        ]
+      },
+      "id": "tobit.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Tobit gaf hem toen het ontvangstbewijs en zei hem: 'Zoek een reisgezel. Ik zal hem zijn loon geven, als ik zolang nog leef.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobit gaf hem toen het ontvangstbewijs en zei hem: 'Zoek een reisgezel. Ik zal hem zijn loon geven, als ik zolang nog leef."
+          }
+        ]
+      },
+      "id": "tobit.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Maar de engel riep hem toe: 'Grijp hem!' waarop de jongen de vis greep en op het droge wierp.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de engel riep hem toe: 'Grijp hem!' waarop de jongen de vis greep en op het droge wierp."
+          }
+        ]
+      },
+      "id": "tobit.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Daarom vroeg hij hun: 'Waar komt u vandaan, broeders?' Ze zeiden: 'Wij zijn van de stam Naftali en leven in ballingschap in Nineve.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom vroeg hij hun: 'Waar komt u vandaan, broeders?' Ze zeiden: 'Wij zijn van de stam Naftali en leven in ballingschap in Nineve.'"
+          }
+        ]
+      },
+      "id": "tobit.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Toen de demon de rook bemerkte, nam hij de wijk naar Opperegypte, waar de engel hem in boeien sloeg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de demon de rook bemerkte, nam hij de wijk naar Opperegypte, waar de engel hem in boeien sloeg."
+          }
+        ]
+      },
+      "id": "tobit.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Want Raguël heeft mij bezworen niet weg te gaan",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Raguël heeft mij bezworen niet weg te gaan"
+          }
+        ]
+      },
+      "id": "tobit.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Hij maakte zich erg ongerust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij maakte zich erg ongerust."
+          }
+        ]
+      },
+      "id": "tobit.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Laten wij vooruit reizen en thuis alles in orde maken voordat je vrouw aankomt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij vooruit reizen en thuis alles in orde maken voordat je vrouw aankomt."
+          }
+        ]
+      },
+      "id": "tobit.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Hij heeft mij immers behouden bij u teruggebracht, mijn vrouw genezen, het geld voor mij gehaald en u eveneens genezen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft mij immers behouden bij u teruggebracht, mijn vrouw genezen, het geld voor mij gehaald en u eveneens genezen.'"
+          }
+        ]
+      },
+      "id": "tobit.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Dankt Hem, Israëlieten, ten aanhoren van de volken, want Hij heeft ons onder hen verstrooid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dankt Hem, Israëlieten, ten aanhoren van de volken, want Hij heeft ons onder hen verstrooid."
+          }
+        ]
+      },
+      "id": "tobit.13.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Toen hij zeer oud geworden was, riep hij zijn zoon en diens kinderen en zei hem: 'Mijn zoon, je ziet dat ik oud ben en op het punt sta uit het leven te scheiden. Neem je kinderen en",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen hij zeer oud geworden was, riep hij zijn zoon en diens kinderen en zei hem: 'Mijn zoon, je ziet dat ik oud ben en op het punt sta uit het leven te scheiden. Neem je kinderen en"
+          }
+        ]
+      },
+      "id": "tobit.14.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "In mijn jeugd, toen ik nog in Israël, mijn vaderland woonde, had heel de stam van mijn voorvader Naftali zich afgescheiden van het heiligdom in Jeruzalem, de stad die uit alle stammen van Israël was uitverkoren als de plaats waar zij allen moesten offeren en waar de tempel stond, die gewijd was tot woning van de Allerhoogste en gebouwd voor alle geslachten tot in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In mijn jeugd, toen ik nog in Israël, mijn vaderland woonde, had heel de stam van mijn voorvader Naftali zich afgescheiden van het heiligdom in Jeruzalem, de stad die uit alle stammen van Israël was uitverkoren als de plaats waar zij allen moesten offeren en waar de tempel stond, die gewijd was tot woning van de Allerhoogste en gebouwd voor alle geslachten tot in eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Ik liet de spijzen onaangeroerd, sprong op en droeg het lijk naar een schuurtje, waar ik het liet liggen tot zonsondergang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik liet de spijzen onaangeroerd, sprong op en droeg het lijk naar een schuurtje, waar ik het liet liggen tot zonsondergang."
+          }
+        ]
+      },
+      "id": "tobit.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Zij hebben zich aan uw geboden niet gestoord. Daarom hebt Gij ons prijsgegeven aan plundering, gevangenschap en dood, en aan de spot en hoon van alle volken waaronder wij verstrooid zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben zich aan uw geboden niet gestoord. Daarom hebt Gij ons prijsgegeven aan plundering, gevangenschap en dood, en aan de spot en hoon van alle volken waaronder wij verstrooid zijn."
+          }
+        ]
+      },
+      "id": "tobit.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Vergeet niet, mijn zoon, dat zij om jou veel gevaren heeft verduurd, toen ze jou in haar schoot droeg. Als zij gestorven is, begraaf haar dan naast mij in het zelfde graf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vergeet niet, mijn zoon, dat zij om jou veel gevaren heeft verduurd, toen ze jou in haar schoot droeg. Als zij gestorven is, begraaf haar dan naast mij in het zelfde graf."
+          }
+        ]
+      },
+      "id": "tobit.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Ga nu op weg en haal het geld.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ga nu op weg en haal het geld.'"
+          }
+        ]
+      },
+      "id": "tobit.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "De engel vervolgde: 'Snijd de vis open, haal het hart, de lever en de gal eruit en berg die goed op.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De engel vervolgde: 'Snijd de vis open, haal het hart, de lever en de gal eruit en berg die goed op.'"
+          }
+        ]
+      },
+      "id": "tobit.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "'Kent u dan onze bloedverwant Tobit?' Zij antwoordden: 'Ja zeker.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Kent u dan onze bloedverwant Tobit?' Zij antwoordden: 'Ja zeker.'"
+          }
+        ]
+      },
+      "id": "tobit.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Toen het paar in de kamer alleen was, kwam Tobias van het bed overeind en zei: 'Sta op, zuster, laten we bidden dat de Heer zich over ons ontferme.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen het paar in de kamer alleen was, kwam Tobias van het bed overeind en zei: 'Sta op, zuster, laten we bidden dat de Heer zich over ons ontferme.'"
+          }
+        ]
+      },
+      "id": "tobit.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "en mijn vader telt de dagen; hoe langer ik wegblijf, des te zwaarder valt het hem.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en mijn vader telt de dagen; hoe langer ik wegblijf, des te zwaarder valt het hem.'"
+          }
+        ]
+      },
+      "id": "tobit.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Zijn vrouw zei tegen hem: 'De jongen is zeker verongelukt, dat hij zo lang wegblijft.' En ze begon over hem te treuren:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn vrouw zei tegen hem: 'De jongen is zeker verongelukt, dat hij zo lang wegblijft.' En ze begon over hem te treuren:"
+          }
+        ]
+      },
+      "id": "tobit.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Zorg dat je de gal van de vis bij de hand hebt.' Ze reisden dus door, gevolgd door de hond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zorg dat je de gal van de vis bij de hand hebt.' Ze reisden dus door, gevolgd door de hond."
+          }
+        ]
+      },
+      "id": "tobit.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "De oude man antwoordde: 'Daar heeft hij recht op.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De oude man antwoordde: 'Daar heeft hij recht op.'"
+          }
+        ]
+      },
+      "id": "tobit.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Verkondigt onder hen zijn grootheid, laat al wat leeft uw loflied horen. Want Hij is onze heer en God, Hij onze Vader in alle eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verkondigt onder hen zijn grootheid, laat al wat leeft uw loflied horen. Want Hij is onze heer en God, Hij onze Vader in alle eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.13.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "vertrek naar Medië, mijn kind, want ik geloof in hetgeen de profeet Jona aangaande Nineve gezegd heeft: het zal verwoest worden, maar in Medië zal het voorlopig rustig zijn. Bovendien zullen onze volksgenoten in Juda worden weggevoerd uit dat mooie land; Jeruzalem zal worden ontvolkt en het huis van God zal worden platgebrand en een tijdlang verlaten blijven liggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "vertrek naar Medië, mijn kind, want ik geloof in hetgeen de profeet Jona aangaande Nineve gezegd heeft: het zal verwoest worden, maar in Medië zal het voorlopig rustig zijn. Bovendien zullen onze volksgenoten in Juda worden weggevoerd uit dat mooie land; Jeruzalem zal worden ontvolkt en het huis van God zal worden platgebrand en een tijdlang verlaten blijven liggen."
+          }
+        ]
+      },
+      "id": "tobit.14.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Alle afvallige stammen offerden aan het stierebeeld van Baäl, ook het huis van mijn voorvader Naftali.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle afvallige stammen offerden aan het stierebeeld van Baäl, ook het huis van mijn voorvader Naftali."
+          }
+        ]
+      },
+      "id": "tobit.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Thuis gekomen waste ik me en gebruikte in droefheid de maaltijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Thuis gekomen waste ik me en gebruikte in droefheid de maaltijd."
+          }
+        ]
+      },
+      "id": "tobit.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Ook nu zijn al uw beschikkingen billijk, omdat Gij mij behandelt naar mijn eigen zonden en die van mijn voor vaderen. Wij hebben uw geboden immers niet onderhouden en hebben ons niet trouw betoond jegens U.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook nu zijn al uw beschikkingen billijk, omdat Gij mij behandelt naar mijn eigen zonden en die van mijn voor vaderen. Wij hebben uw geboden immers niet onderhouden en hebben ons niet trouw betoond jegens U."
+          }
+        ]
+      },
+      "id": "tobit.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Wees steeds, mijn zoon, de Heer onze God indachtig en wacht je ervoor zijn geboden te overtreden. Beoefen heel je leven de gerechtigheid en bewandel niet de wegen van het onrecht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wees steeds, mijn zoon, de Heer onze God indachtig en wacht je ervoor zijn geboden te overtreden. Beoefen heel je leven de gerechtigheid en bewandel niet de wegen van het onrecht."
+          }
+        ]
+      },
+      "id": "tobit.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Tobias ging iemand zoeken en hij vond Rafaël; dit was een engel, maar Tobias wist dat niet. Hij vroeg hem: 'Zoudt u met mij naar Rages in Medië kunnen reizen? Bent u in die streken bekend?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobias ging iemand zoeken en hij vond Rafaël; dit was een engel, maar Tobias wist dat niet. Hij vroeg hem: 'Zoudt u met mij naar Rages in Medië kunnen reizen? Bent u in die streken bekend?'"
+          }
+        ]
+      },
+      "id": "tobit.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "En de jongeman deed wat de engel hem zei. Daarna bakten ze de vis en gingen eten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de jongeman deed wat de engel hem zei. Daarna bakten ze de vis en gingen eten."
+          }
+        ]
+      },
+      "id": "tobit.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "'Maakt hij het goed?' Zij antwoordden: 'Hij is nog in leven en maakt het goed.' Tobias voegde eraan toe: 'Hij is mijn vader.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Maakt hij het goed?' Zij antwoordden: 'Hij is nog in leven en maakt het goed.' Tobias voegde eraan toe: 'Hij is mijn vader.'"
+          }
+        ]
+      },
+      "id": "tobit.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "En Tobias bad: 'Gezegend zijt Gij, God van onze vaderen en gezegend is uw heilige en heerlijke naam door de eeuwen heen. Mogen de hemelen en alle schepselen U prijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Tobias bad: 'Gezegend zijt Gij, God van onze vaderen en gezegend is uw heilige en heerlijke naam door de eeuwen heen. Mogen de hemelen en alle schepselen U prijzen."
+          }
+        ]
+      },
+      "id": "tobit.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Rafaël ging op weg en overnachtte bij Gabaël. Hij overhandigde hem het ontvangstbewijs, waarop Gabaël de verzegelde zakjes haalde en ze aan Rafaël ter hand stelde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rafaël ging op weg en overnachtte bij Gabaël. Hij overhandigde hem het ontvangstbewijs, waarop Gabaël de verzegelde zakjes haalde en ze aan Rafaël ter hand stelde."
+          }
+        ]
+      },
+      "id": "tobit.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "'Hoe heb ik het over mijn hart kunnen krijgen, mijn kind, jou te laten gaan, jou, het licht van mijn ogen!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Hoe heb ik het over mijn hart kunnen krijgen, mijn kind, jou te laten gaan, jou, het licht van mijn ogen!'"
+          }
+        ]
+      },
+      "id": "tobit.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Intussen zat Anna aan de weg uit te kijken naar haar zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Intussen zat Anna aan de weg uit te kijken naar haar zoon."
+          }
+        ]
+      },
+      "id": "tobit.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Daarna riep hij de engel en zei hem: 'Wees zo goed, de helft aan te nemen van al wat jullie hebben meegebracht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna riep hij de engel en zei hem: 'Wees zo goed, de helft aan te nemen van al wat jullie hebben meegebracht.'"
+          }
+        ]
+      },
+      "id": "tobit.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Hij kastijdt ons om onze ongerechtigheden, maar zal zich weer over ons erbarmen en ons verzamelen uit alle volken, waaronder gij verstrooit zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij kastijdt ons om onze ongerechtigheden, maar zal zich weer over ons erbarmen en ons verzamelen uit alle volken, waaronder gij verstrooit zijt."
+          }
+        ]
+      },
+      "id": "tobit.13.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Maar God zal zich weer over de ballingen ontfermen en hen naar het land terugbrengen; dan zullen zij de tempel, zij het ook in andere vorm, herbouwen, en die zal blijven bestaan totdat de tijden van de wereld vervuld zijn. Daarna zullen ze uit de ballingschap terugkeren en Jeruzalem waardig herbouwen en het huis van God aldaar zal in volle glans worden opgericht voor alle geslachten tot in eeuwigheid, zoals de profeten voorspeld hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar God zal zich weer over de ballingen ontfermen en hen naar het land terugbrengen; dan zullen zij de tempel, zij het ook in andere vorm, herbouwen, en die zal blijven bestaan totdat de tijden van de wereld vervuld zijn. Daarna zullen ze uit de ballingschap terugkeren en Jeruzalem waardig herbouwen en het huis van God aldaar zal in volle glans worden opgericht voor alle geslachten tot in eeuwigheid, zoals de profeten voorspeld hebben."
+          }
+        ]
+      },
+      "id": "tobit.14.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Maar ik alleen trok met de feestdagen menigmaal naar Jeruzalem, zoals het krachtens eeuwig gebod aan heel Israël is voorgeschreven, met de eerstelingen en tienden van het veldgewas en de eerste schapenwol.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik alleen trok met de feestdagen menigmaal naar Jeruzalem, zoals het krachtens eeuwig gebod aan heel Israël is voorgeschreven, met de eerstelingen en tienden van het veldgewas en de eerste schapenwol."
+          }
+        ]
+      },
+      "id": "tobit.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Ik moest denken aan wat de profeet Amos gezegd heeft: Verkeren zullen uw feesten in rouw en al uw vreugden in gejammer. En ik kon mijn tranen niet bedwingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik moest denken aan wat de profeet Amos gezegd heeft: Verkeren zullen uw feesten in rouw en al uw vreugden in gejammer. En ik kon mijn tranen niet bedwingen."
+          }
+        ]
+      },
+      "id": "tobit.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Doe daarom met mij wat U goeddunkt. Neem mijn levensadem terug, zodat ik ontbonden word en tot aarde verga. Want de dood is me liever dan het leven, nu ik onverdiend gehoond word en in grote droefheid verkeer. Laat me eindelijk, uit deze benauwenis bevrijd, gaan naar de eeuwige woonplaats. Wend uw aangezicht niet van me af.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doe daarom met mij wat U goeddunkt. Neem mijn levensadem terug, zodat ik ontbonden word en tot aarde verga. Want de dood is me liever dan het leven, nu ik onverdiend gehoond word en in grote droefheid verkeer. Laat me eindelijk, uit deze benauwenis bevrijd, gaan naar de eeuwige woonplaats. Wend uw aangezicht niet van me af.'"
+          }
+        ]
+      },
+      "id": "tobit.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Want als je plichtsgetrouw handelt, ligt bij al wat je onderneemt de weg naar het welslagen open, zoals voor allen die de gerechtigheid beoefenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want als je plichtsgetrouw handelt, ligt bij al wat je onderneemt de weg naar het welslagen open, zoals voor allen die de gerechtigheid beoefenen."
+          }
+        ]
+      },
+      "id": "tobit.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Waarop de engel antwoordde: 'Ja, ik ken de weg en ik heb er eens overnacht bij onze landgenoot Gabaël.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarop de engel antwoordde: 'Ja, ik ken de weg en ik heb er eens overnacht bij onze landgenoot Gabaël.'"
+          }
+        ]
+      },
+      "id": "tobit.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Samen zetten zij hun reis naar Ekbatana voort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Samen zetten zij hun reis naar Ekbatana voort."
+          }
+        ]
+      },
+      "id": "tobit.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Toen sprong Raguël op, viel hem om de hals, brak in tranen uit en prees hem gelukkig met de woorden: 'Dan ben je de zoon van een nobel en voortreffelijk man.' Maar toen hij hoorde dat Tobit blind geworden was, werd hij tot tranen bewogen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen sprong Raguël op, viel hem om de hals, brak in tranen uit en prees hem gelukkig met de woorden: 'Dan ben je de zoon van een nobel en voortreffelijk man.' Maar toen hij hoorde dat Tobit blind geworden was, werd hij tot tranen bewogen."
+          }
+        ]
+      },
+      "id": "tobit.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Gij hebt Adam gemaakt en hem Eva, zijn vrouw, tot hulp en stut gegeven. Uit hen is het menselijk geslacht voortgekomen. Gij hebt gezegd: Het is niet goed dat de mens alleen is; laten we een hulp voor hem maken die bij hem past.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt Adam gemaakt en hem Eva, zijn vrouw, tot hulp en stut gegeven. Uit hen is het menselijk geslacht voortgekomen. Gij hebt gezegd: Het is niet goed dat de mens alleen is; laten we een hulp voor hem maken die bij hem past."
+          }
+        ]
+      },
+      "id": "tobit.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Voor dag en dauw stonden ze samen op en begaven zich ter bruiloft. En Gabaël sprak een zegenwens uit over Tobias en zijn vrouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor dag en dauw stonden ze samen op en begaven zich ter bruiloft. En Gabaël sprak een zegenwens uit over Tobias en zijn vrouw."
+          }
+        ]
+      },
+      "id": "tobit.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Tobit sprak tot haar: 'Wees nu maar stil, maak je geen zorgen, hij maakt het goed.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobit sprak tot haar: 'Wees nu maar stil, maak je geen zorgen, hij maakt het goed.'"
+          }
+        ]
+      },
+      "id": "tobit.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Op een gegeven ogenblik zag zij hem aankomen en ze meldde zijn vader: 'Daar komt je zoon aan en ook de man die met hem meegegaan is.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op een gegeven ogenblik zag zij hem aankomen en ze meldde zijn vader: 'Daar komt je zoon aan en ook de man die met hem meegegaan is.'"
+          }
+        ]
+      },
+      "id": "tobit.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Toen nam de engel hen beiden ter zijde en zei: 'Loof God en dank Hem, eer Hem en laat al wat leeft uw dankbaarheid horen voor hetgeen Hij voor u gedaan heeft. Het is goed God te loven en zijn naam te verheerlijken door vol ontzag van zijn werken te gewagen. Aarzel niet Hem uw erkentelijkheid te betuigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen nam de engel hen beiden ter zijde en zei: 'Loof God en dank Hem, eer Hem en laat al wat leeft uw dankbaarheid horen voor hetgeen Hij voor u gedaan heeft. Het is goed God te loven en zijn naam te verheerlijken door vol ontzag van zijn werken te gewagen. Aarzel niet Hem uw erkentelijkheid te betuigen."
+          }
+        ]
+      },
+      "id": "tobit.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Als ge u tot Hem bekeert van ganser harte en met volle overgave uw verplichtingen jegens Hem nakomt, dan zal Hij zich keren tot u en zijn gelaat niet voor u verbergen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ge u tot Hem bekeert van ganser harte en met volle overgave uw verplichtingen jegens Hem nakomt, dan zal Hij zich keren tot u en zijn gelaat niet voor u verbergen."
+          }
+        ]
+      },
+      "id": "tobit.13.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "En alle volken zullen zich bekeren om in waarheid God de Heer te vrezen en zij zullen hun afgoden begraven en alle volken zullen de Heer loven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En alle volken zullen zich bekeren om in waarheid God de Heer te vrezen en zij zullen hun afgoden begraven en alle volken zullen de Heer loven."
+          }
+        ]
+      },
+      "id": "tobit.14.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Die gaf ik aan de priesters, de zonen van Aäron, die aan het altaar dienst deden. Aan de levieten die in Jeruzalem werkzaam waren gaf ik een tiende van mijn veldgewas. Een tweede tiende maakte ik te gelde en daarvan deed ik mijn jaarlijkse inkopen in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die gaf ik aan de priesters, de zonen van Aäron, die aan het altaar dienst deden. Aan de levieten die in Jeruzalem werkzaam waren gaf ik een tiende van mijn veldgewas. Een tweede tiende maakte ik te gelde en daarvan deed ik mijn jaarlijkse inkopen in Jeruzalem."
+          }
+        ]
+      },
+      "id": "tobit.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Toen de zon was ondergegaan dolf ik een graf en begroef het lijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de zon was ondergegaan dolf ik een graf en begroef het lijk."
+          }
+        ]
+      },
+      "id": "tobit.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Diezelfde dag gebeurde het dat Sara, de dochter van Raguël, die in Ekbatana in Medië woonde, beledigd werd door de dienstmeisjes van haar vader.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Diezelfde dag gebeurde het dat Sara, de dochter van Raguël, die in Ekbatana in Medië woonde, beledigd werd door de dienstmeisjes van haar vader."
+          }
+        ]
+      },
+      "id": "tobit.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Geef aalmoezen van wat je bezit en als je aalmoezen geeft, doe het dan zonder bedenken. Keer geen enkele arme de rug toe, dan zal God zijn aangezicht nooit van jou afkeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef aalmoezen van wat je bezit en als je aalmoezen geeft, doe het dan zonder bedenken. Keer geen enkele arme de rug toe, dan zal God zijn aangezicht nooit van jou afkeren."
+          }
+        ]
+      },
+      "id": "tobit.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Hierop zei Tobias: 'Blijf op me wachten, dan ga ik het mijn vader vertellen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierop zei Tobias: 'Blijf op me wachten, dan ga ik het mijn vader vertellen.'"
+          }
+        ]
+      },
+      "id": "tobit.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Onderweg vroeg de jongeman aan de engel: 'Broeder Azarias, waarvoor dienen de lever, het hart en de gal van de vis?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderweg vroeg de jongeman aan de engel: 'Broeder Azarias, waarvoor dienen de lever, het hart en de gal van de vis?'"
+          }
+        ]
+      },
+      "id": "tobit.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Ook zijn vrouw Edna en zijn dochter Sara schreiden. Tobias en Rafaël werden met grote hartelijkheid opgenomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook zijn vrouw Edna en zijn dochter Sara schreiden. Tobias en Rafaël werden met grote hartelijkheid opgenomen."
+          }
+        ]
+      },
+      "id": "tobit.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Welnu, Heer, als ik mijn zuster hier tot me neem, ga ik geen ongeoorloofde verbinding aan, maar ben ik trouw aan uw wet. Betoon mij uw barmhartigheid en laat mij aan haar zijde oud worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, Heer, als ik mijn zuster hier tot me neem, ga ik geen ongeoorloofde verbinding aan, maar ben ik trouw aan uw wet. Betoon mij uw barmhartigheid en laat mij aan haar zijde oud worden.'"
+          }
+        ]
+      },
+      "id": "tobit.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Maar zij antwoordde: 'Zwijg toch, je hoeft me niets wijs te maken. Mijn jongen is verongelukt.' En iedere dag liep ze de stad uit, naar de weg waarlangs hij vertrokken was. Overdag at ze niet en 's nachts hield ze niet op te treuren over haar zoon Tobias. Intussen verliepen de veertien dagen van de bruiloft die Tobias op aandringen van Raguël daar doorbracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij antwoordde: 'Zwijg toch, je hoeft me niets wijs te maken. Mijn jongen is verongelukt.' En iedere dag liep ze de stad uit, naar de weg waarlangs hij vertrokken was. Overdag at ze niet en 's nachts hield ze niet op te treuren over haar zoon Tobias. Intussen verliepen de veertien dagen van de bruiloft die Tobias op aandringen van Raguël daar doorbracht."
+          }
+        ]
+      },
+      "id": "tobit.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Rafaël zei tot Tobias: 'Ik ben er zeker van dat je vader het gezicht weer terugkrijgt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rafaël zei tot Tobias: 'Ik ben er zeker van dat je vader het gezicht weer terugkrijgt."
+          }
+        ]
+      },
+      "id": "tobit.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Geheimen van de koning behoort men te bewaren, maar de daden van God dienen openlijk geroemd te worden. Doe het goede, dan zal geen kwaad u treffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geheimen van de koning behoort men te bewaren, maar de daden van God dienen openlijk geroemd te worden. Doe het goede, dan zal geen kwaad u treffen."
+          }
+        ]
+      },
+      "id": "tobit.12.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Geef acht op hetgeen Hij met u doet. En prijst Hem met luider stem. Looft de Heer der gerechtigheid en verheft de koning der eeuwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef acht op hetgeen Hij met u doet. En prijst Hem met luider stem. Looft de Heer der gerechtigheid en verheft de koning der eeuwen."
+          }
+        ]
+      },
+      "id": "tobit.13.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Ook door zijn eigen volk zal God geprezen worden en de Heer zal zijn volk verheffen en allen die door trouw en rechtvaardigheid hun liefde voor God de Heer tonen, zullen zich verheugen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook door zijn eigen volk zal God geprezen worden en de Heer zal zijn volk verheffen en allen die door trouw en rechtvaardigheid hun liefde voor God de Heer tonen, zullen zich verheugen."
+          }
+        ]
+      },
+      "id": "tobit.14.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Een derde tiende gaf ik aan degenen die er recht op hadden, zoals Debora, de moeder van mijn vader, het mij had ingeprent. Ik was namelijk na de dood van mijn vader als wees achtergebleven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een derde tiende gaf ik aan degenen die er recht op hadden, zoals Debora, de moeder van mijn vader, het mij had ingeprent. Ik was namelijk na de dood van mijn vader als wees achtergebleven."
+          }
+        ]
+      },
+      "id": "tobit.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Mijn buren maakten zich er vrolijk over: 'Hij ziet er niet eens meer tegenop, zijn leven op het spel te zetten; hij is al eens moeten vluchten, maar hij gaat gewoon door met doden begraven!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn buren maakten zich er vrolijk over: 'Hij ziet er niet eens meer tegenop, zijn leven op het spel te zetten; hij is al eens moeten vluchten, maar hij gaat gewoon door met doden begraven!'"
+          }
+        ]
+      },
+      "id": "tobit.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Zij was namelijk al aan zeven mannen ten huwelijk gegeven, maar de boze demon Asmodaus had hen gedood nog voor ze gemeenschap met haar hadden gehad. En nu zeiden de dienstmeisjes haar: 'Bent u soms niet goed wijs, dat u die mannen van u wurgt? Zeven hebt u er al gehad, maar met geen een uw voordeel gedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij was namelijk al aan zeven mannen ten huwelijk gegeven, maar de boze demon Asmodaus had hen gedood nog voor ze gemeenschap met haar hadden gehad. En nu zeiden de dienstmeisjes haar: 'Bent u soms niet goed wijs, dat u die mannen van u wurgt? Zeven hebt u er al gehad, maar met geen een uw voordeel gedaan."
+          }
+        ]
+      },
+      "id": "tobit.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Als je overvloed hebt, geef dan overvloedig aalmoezen; heb je weinig, wees dan niet bang om wat van dat weinige nog uit te delen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als je overvloed hebt, geef dan overvloedig aalmoezen; heb je weinig, wees dan niet bang om wat van dat weinige nog uit te delen."
+          }
+        ]
+      },
+      "id": "tobit.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "De engel antwoordde: 'Doe dat, maar maak het niet te lang.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De engel antwoordde: 'Doe dat, maar maak het niet te lang.'"
+          }
+        ]
+      },
+      "id": "tobit.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Hij antwoordde: 'Als een man of een vrouw geplaagd wordt door een demon of boze geest, moet je het hart en de lever verbranden. Door de rook zal de betrokken persoon van zijn plaag verlost zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij antwoordde: 'Als een man of een vrouw geplaagd wordt door een demon of boze geest, moet je het hart en de lever verbranden. Door de rook zal de betrokken persoon van zijn plaag verlost zijn."
+          }
+        ]
+      },
+      "id": "tobit.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Men slachtte een schaap en zette hun een welvoorziene tafel voor.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men slachtte een schaap en zette hun een welvoorziene tafel voor."
+          }
+        ]
+      },
+      "id": "tobit.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "En Sara zei: 'Amen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Sara zei: 'Amen.'"
+          }
+        ]
+      },
+      "id": "tobit.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Daarna zei Tobias tot Raguël: 'Laat me vertrekken, want ik vrees dat mijn vader en moeder de hoop hebben opgegeven mij terug te zien.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna zei Tobias tot Raguël: 'Laat me vertrekken, want ik vrees dat mijn vader en moeder de hoop hebben opgegeven mij terug te zien.'"
+          }
+        ]
+      },
+      "id": "tobit.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Strijk de gal op zijn ogen. Zodra ze gaan steken, moet hij zich in de ogen wrijven tot de witte vlekken verdwenen zijn en dan zal hij jou zien.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Strijk de gal op zijn ogen. Zodra ze gaan steken, moet hij zich in de ogen wrijven tot de witte vlekken verdwenen zijn en dan zal hij jou zien.'"
+          }
+        ]
+      },
+      "id": "tobit.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Bidden is iets goeds als het gepaard gaat met vasten, liefdadigheid en rechtvaardigheid. Eerlijke armoede gaat boven oneerlijke rijkdom. Beter is het aalmoezen te geven dan goud op te hopen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidden is iets goeds als het gepaard gaat met vasten, liefdadigheid en rechtvaardigheid. Eerlijke armoede gaat boven oneerlijke rijkdom. Beter is het aalmoezen te geven dan goud op te hopen."
+          }
+        ]
+      },
+      "id": "tobit.12.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "In het land waar ik als balling leef prijs ik Hem, verkondig zijn kracht en grootheid aan een volk van zondaars. Bekeert u, zondaars, betracht wat recht is in zijn ogen. Wie weet, vindt Hij welgevallen in u en betoont Hij u zijn erbarming?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het land waar ik als balling leef prijs ik Hem, verkondig zijn kracht en grootheid aan een volk van zondaars. Bekeert u, zondaars, betracht wat recht is in zijn ogen. Wie weet, vindt Hij welgevallen in u en betoont Hij u zijn erbarming?"
+          }
+        ]
+      },
+      "id": "tobit.13.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Welnu dan, jongen, vertrek uit Nineve, want wat de profeet Jona gezegd heeft zal zeker gebeuren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu dan, jongen, vertrek uit Nineve, want wat de profeet Jona gezegd heeft zal zeker gebeuren."
+          }
+        ]
+      },
+      "id": "tobit.14.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Eenmaal volwassen geworden, trouwde ik met Anna, die uit onze eigen familie stamde. Bij haar kreeg ik Tobias.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eenmaal volwassen geworden, trouwde ik met Anna, die uit onze eigen familie stamde. Bij haar kreeg ik Tobias."
+          }
+        ]
+      },
+      "id": "tobit.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Toen ik de dode begraven had en 's nachts thuiskwam, legde ik me, omdat ik onrein was, te ruste langs de muur van de binnenplaats, zonder mijn gezicht te bedekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik de dode begraven had en 's nachts thuiskwam, legde ik me, omdat ik onrein was, te ruste langs de muur van de binnenplaats, zonder mijn gezicht te bedekken."
+          }
+        ]
+      },
+      "id": "tobit.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Daarom hoeft u ons toch niet te slaan? Zijn zij gestorven, gaat u ze dan maar achterna. Dat we nooit in der eeuwigheid een zoon of dochter van u te zien krijgen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom hoeft u ons toch niet te slaan? Zijn zij gestorven, gaat u ze dan maar achterna. Dat we nooit in der eeuwigheid een zoon of dochter van u te zien krijgen.'"
+          }
+        ]
+      },
+      "id": "tobit.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Dat is de beste belegging voor de tijd van nood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat is de beste belegging voor de tijd van nood."
+          }
+        ]
+      },
+      "id": "tobit.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Zo kwam Tobias bij zijn vader met de boodschap: 'Vader, ik heb iemand gevonden die met me mee wil reizen.' Daarop zei Tobit: 'Vraag hem, bij me te komen; ik wil weten uit welke stam hij komt en of het iemand is met wie je gerust op reis kunt gaan.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo kwam Tobias bij zijn vader met de boodschap: 'Vader, ik heb iemand gevonden die met me mee wil reizen.' Daarop zei Tobit: 'Vraag hem, bij me te komen; ik wil weten uit welke stam hij komt en of het iemand is met wie je gerust op reis kunt gaan.'"
+          }
+        ]
+      },
+      "id": "tobit.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "En de gal moet je gebruiken als zalf voor iemand die witte vlekken op zijn ogen heeft; dan zal hij genezen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de gal moet je gebruiken als zalf voor iemand die witte vlekken op zijn ogen heeft; dan zal hij genezen.'"
+          }
+        ]
+      },
+      "id": "tobit.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Toen zei Tobias tot Rafaël: 'Broeder Azarias, als je nu eens ter sprake bracht waar je het onderweg over gehad hebt. De zaak moet haar beslag krijgen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zei Tobias tot Rafaël: 'Broeder Azarias, als je nu eens ter sprake bracht waar je het onderweg over gehad hebt. De zaak moet haar beslag krijgen.'"
+          }
+        ]
+      },
+      "id": "tobit.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Daarop brachten zij samen de nacht door.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop brachten zij samen de nacht door."
+          }
+        ]
+      },
+      "id": "tobit.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Maar zijn schoonvader antwoordde: 'Blijf nog bij me. Ik zal je vader laten weten hoe je het maakt.' Tobias echter hield aan: 'Laat me toch naar mijn vader teruggaan.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zijn schoonvader antwoordde: 'Blijf nog bij me. Ik zal je vader laten weten hoe je het maakt.' Tobias echter hield aan: 'Laat me toch naar mijn vader teruggaan.'"
+          }
+        ]
+      },
+      "id": "tobit.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Anna was inmiddels toegesneld; ze viel haar zoon om de hals en riep uit: 'Eindelijk zie ik je dan weer, mijn jongen! Nu kan ik sterven.' En beiden schreiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Anna was inmiddels toegesneld; ze viel haar zoon om de hals en riep uit: 'Eindelijk zie ik je dan weer, mijn jongen! Nu kan ik sterven.' En beiden schreiden."
+          }
+        ]
+      },
+      "id": "tobit.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Want de aalmoes redt van de dood en reinigt van de zonde. Wie liefdadigheid en rechtvaardigheid beoefent zal het leven bezitten in overvloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de aalmoes redt van de dood en reinigt van de zonde. Wie liefdadigheid en rechtvaardigheid beoefent zal het leven bezitten in overvloed."
+          }
+        ]
+      },
+      "id": "tobit.12.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Mijn God verhef ik, mijn ziel verheft de koning des hemels en jubelt om zijn grootheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn God verhef ik, mijn ziel verheft de koning des hemels en jubelt om zijn grootheid."
+          }
+        ]
+      },
+      "id": "tobit.13.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "Onderhoud de wet en de geboden, beoefen de liefdadigheid en wees rechtvaardig, opdat het je goed ga. Zorg dat ik waardig begraven word en leg je moeder aan mijn zijde, en blijf dan niet langer in Nineve.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderhoud de wet en de geboden, beoefen de liefdadigheid en wees rechtvaardig, opdat het je goed ga. Zorg dat ik waardig begraven word en leg je moeder aan mijn zijde, en blijf dan niet langer in Nineve."
+          }
+        ]
+      },
+      "id": "tobit.14.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Toen ik weggevoerd was naar Nineve, aten al mijn stam en volksgenoten het voedsel der heidenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik weggevoerd was naar Nineve, aten al mijn stam en volksgenoten het voedsel der heidenen."
+          }
+        ]
+      },
+      "id": "tobit.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Ik had niet gemerkt dat er mussen op de muur zaten. Ik had mijn ogen nog open en op een gegeven moment viel er mussendrek in. Ik kreeg witte vlekken in mijn ogen. Ik ging naar verschillende artsen, maar ze konden mij niet helpen. Achiacharus voorzag in mijn onderhoud totdat hij naar Elymes vertrok.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik had niet gemerkt dat er mussen op de muur zaten. Ik had mijn ogen nog open en op een gegeven moment viel er mussendrek in. Ik kreeg witte vlekken in mijn ogen. Ik ging naar verschillende artsen, maar ze konden mij niet helpen. Achiacharus voorzag in mijn onderhoud totdat hij naar Elymes vertrok."
+          }
+        ]
+      },
+      "id": "tobit.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Door die woorden werd Sara zo geschokt dat ze zich wilde verhangen. Maar toen dacht ze: 'Ik ben mijn vaders enige kind. Als ik dat doe krijgt hij de schande te dragen en breng ik hem op zijn oude dag van verdriet in het dodenrijk.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door die woorden werd Sara zo geschokt dat ze zich wilde verhangen. Maar toen dacht ze: 'Ik ben mijn vaders enige kind. Als ik dat doe krijgt hij de schande te dragen en breng ik hem op zijn oude dag van verdriet in het dodenrijk.'"
+          }
+        ]
+      },
+      "id": "tobit.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Want de aalmoes redt van de dood en verspert de weg naar de duisternis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de aalmoes redt van de dood en verspert de weg naar de duisternis."
+          }
+        ]
+      },
+      "id": "tobit.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Tobias ging hem halen. Rafaël kwam binnen en zij begroetten elkaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobias ging hem halen. Rafaël kwam binnen en zij begroetten elkaar."
+          }
+        ]
+      },
+      "id": "tobit.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Toen ze Rages naderden",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ze Rages naderden"
+          }
+        ]
+      },
+      "id": "tobit.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Rafaël deelde Raguël mee wat ze besproken hadden. Daarop richtte deze zich tot Tobias met de woorden: 'Eet en drink en laat het je goed smaken. Jou komt het immers toe om mijn dochter tot vrouw te krijgen. Maar ik moet je wel de waarheid vertellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rafaël deelde Raguël mee wat ze besproken hadden. Daarop richtte deze zich tot Tobias met de woorden: 'Eet en drink en laat het je goed smaken. Jou komt het immers toe om mijn dochter tot vrouw te krijgen. Maar ik moet je wel de waarheid vertellen."
+          }
+        ]
+      },
+      "id": "tobit.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Maar 's nachts stond Raguël op en ging een graf delven, want hij was bang dat ook Tobias gestorven was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar 's nachts stond Raguël op en ging een graf delven, want hij was bang dat ook Tobias gestorven was."
+          }
+        ]
+      },
+      "id": "tobit.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Toen stond Raguël op en gaf hem met Sara, zijn vrouw, de helft van zijn bezit mee: slaven, vee en geld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen stond Raguël op en gaf hem met Sara, zijn vrouw, de helft van zijn bezit mee: slaven, vee en geld."
+          }
+        ]
+      },
+      "id": "tobit.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Tobit zocht tastend zijn weg naar de deur. Zijn zoon liep op hem toe,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobit zocht tastend zijn weg naar de deur. Zijn zoon liep op hem toe,"
+          }
+        ]
+      },
+      "id": "tobit.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Maar de zondaars doen hun eigen leven te kort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de zondaars doen hun eigen leven te kort."
+          }
+        ]
+      },
+      "id": "tobit.12.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Mogen allen vol dankbaarheid in Jeruzalem zeggen: Jeruzalem, heilige stad, God kastijdt u om wat uw kinderen bedreven, maar zal zich weer ontfermen over de zonen der rechtvaardigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mogen allen vol dankbaarheid in Jeruzalem zeggen: Jeruzalem, heilige stad, God kastijdt u om wat uw kinderen bedreven, maar zal zich weer ontfermen over de zonen der rechtvaardigen."
+          }
+        ]
+      },
+      "id": "tobit.13.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "Jongen, denk aan wat Aman zijn voogd Achiacharus aandeed: hoe hij hem van het licht in de duisternis bracht en hoe hij hem vergolden heeft. Achiacharus werd gered, maar die andere kreeg zijn verdiende loon en daalde af in de duisternis. Ook Manasse, die aalmoezen gaf, werd gered uit de dodelijke strik die Aman hem gespannen had. Juist Aman kwam in de strik en vond zo zijn einde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jongen, denk aan wat Aman zijn voogd Achiacharus aandeed: hoe hij hem van het licht in de duisternis bracht en hoe hij hem vergolden heeft. Achiacharus werd gered, maar die andere kreeg zijn verdiende loon en daalde af in de duisternis. Ook Manasse, die aalmoezen gaf, werd gered uit de dodelijke strik die Aman hem gespannen had. Juist Aman kwam in de strik en vond zo zijn einde."
+          }
+        ]
+      },
+      "id": "tobit.14.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Maar ik wachtte me ervoor dat te doen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik wachtte me ervoor dat te doen,"
+          }
+        ]
+      },
+      "id": "tobit.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Mijn vrouw Anna probeerde toen met handwerken geld te verdienen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vrouw Anna probeerde toen met handwerken geld te verdienen."
+          }
+        ]
+      },
+      "id": "tobit.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "En ze bad bij het venster: 'Gezegend zijt Gij, Heer mijn God, en gezegend is uw heilige en heerlijke naam de eeuwen door. Dat al uw werken U in eeuwigheid prijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ze bad bij het venster: 'Gezegend zijt Gij, Heer mijn God, en gezegend is uw heilige en heerlijke naam de eeuwen door. Dat al uw werken U in eeuwigheid prijzen."
+          }
+        ]
+      },
+      "id": "tobit.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Ze wordt alle gevers door de Allerhoogste aangerekend als een welgevallige offergave.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze wordt alle gevers door de Allerhoogste aangerekend als een welgevallige offergave."
+          }
+        ]
+      },
+      "id": "tobit.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Toen vroeg Tobit: 'Broeder, mag ik u vragen: uit welke stam bent u en uit welke familie?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen vroeg Tobit: 'Broeder, mag ik u vragen: uit welke stam bent u en uit welke familie?'"
+          }
+        ]
+      },
+      "id": "tobit.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "zei de engel tot de jongeman: 'Broeder, vandaag zullen we te gast zijn bij Raguël. Hij is familie van jou. Hij heeft maar een kind, een dochter, die Sara heet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zei de engel tot de jongeman: 'Broeder, vandaag zullen we te gast zijn bij Raguël. Hij is familie van jou. Hij heeft maar een kind, een dochter, die Sara heet."
+          }
+        ]
+      },
+      "id": "tobit.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Ik heb mijn kind al aan zeven mannen gegeven. Maar in de nacht dat ze tot haar wilden gaan, zijn ze om het leven gekomen. Maar kom, doe je nu te goed.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb mijn kind al aan zeven mannen gegeven. Maar in de nacht dat ze tot haar wilden gaan, zijn ze om het leven gekomen. Maar kom, doe je nu te goed.'"
+          }
+        ]
+      },
+      "id": "tobit.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Weer in huis gekomen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weer in huis gekomen"
+          }
+        ]
+      },
+      "id": "tobit.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Bij het afscheid sprak hij de zegenwens: 'Moge de God des hemels jullie voorspoed schenken, kinderen, zodat ik zonder zorg kan sterven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij het afscheid sprak hij de zegenwens: 'Moge de God des hemels jullie voorspoed schenken, kinderen, zodat ik zonder zorg kan sterven.'"
+          }
+        ]
+      },
+      "id": "tobit.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "nam hem bij de arm, streek de gal op zijn ogen en zei: 'Moed houden, vader.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "nam hem bij de arm, streek de gal op zijn ogen en zei: 'Moed houden, vader.'"
+          }
+        ]
+      },
+      "id": "tobit.11.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Ik wil u niets verbergen. Ik heb reeds gezegd, dat men geheimen van de koning behoort te bewaren, maar dat Gods werken openlijk dienen geroemd te worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil u niets verbergen. Ik heb reeds gezegd, dat men geheimen van de koning behoort te bewaren, maar dat Gods werken openlijk dienen geroemd te worden."
+          }
+        ]
+      },
+      "id": "tobit.12.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Dank de Heer op waardige wijze, zegen de koning der eeuwen, opdat u met vreugde zijn tent ziet herrijzen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dank de Heer op waardige wijze, zegen de koning der eeuwen, opdat u met vreugde zijn tent ziet herrijzen,"
+          }
+        ]
+      },
+      "id": "tobit.13.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "Zie dus, kinderen, wat aalmoezen vermogen en hoe gerechtigheid redding brengt.' Bij deze woorden gaf hij, liggend op zijn bed, de geest. Hij was honderdachtenvijftig jaar oud. Tobias bezorgde hem een eervolle begrafenis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie dus, kinderen, wat aalmoezen vermogen en hoe gerechtigheid redding brengt.' Bij deze woorden gaf hij, liggend op zijn bed, de geest. Hij was honderdachtenvijftig jaar oud. Tobias bezorgde hem een eervolle begrafenis."
+          }
+        ]
+      },
+      "id": "tobit.14.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "omdat ik God van ganser harte toegedaan was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "omdat ik God van ganser harte toegedaan was."
+          }
+        ]
+      },
+      "id": "tobit.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Op een keer kreeg ze van de klanten aan wie ze geregeld werk afleverde, bij de betaling een bokje ten geschenke.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op een keer kreeg ze van de klanten aan wie ze geregeld werk afleverde, bij de betaling een bokje ten geschenke."
+          }
+        ]
+      },
+      "id": "tobit.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Welnu, Heer, ik richt mijn ogen naar U.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, Heer, ik richt mijn ogen naar U."
+          }
+        ]
+      },
+      "id": "tobit.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Houd je verre, mijn zoon, van alle ontucht. Zorg ervoor een vrouw te nemen uit het geslacht van je voorvaders. Neem geen vreemde vrouw, een die niet uit de stam van je vader is. Wij zijn immers afstammelingen van profeten; herinner je Noach, Abraham, Isaak en Jakob, onze voorvaderen van oudsher: zij allen namen vrouwen uit hun verwanten en zij werden gezegend in hun kinderen en hun nageslacht zal het land bezitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd je verre, mijn zoon, van alle ontucht. Zorg ervoor een vrouw te nemen uit het geslacht van je voorvaders. Neem geen vreemde vrouw, een die niet uit de stam van je vader is. Wij zijn immers afstammelingen van profeten; herinner je Noach, Abraham, Isaak en Jakob, onze voorvaderen van oudsher: zij allen namen vrouwen uit hun verwanten en zij werden gezegend in hun kinderen en hun nageslacht zal het land bezitten."
+          }
+        ]
+      },
+      "id": "tobit.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Maar Rafaël antwoordde: 'Gaat het u om dingen als stam en familie of iemand die u wilt huren om uw zoon op reis te vergezellen?' Daarop zei Tobit: 'Ik zou toch graag weten, broeder, tot welke familie u hoort en hoe u heet.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Rafaël antwoordde: 'Gaat het u om dingen als stam en familie of iemand die u wilt huren om uw zoon op reis te vergezellen?' Daarop zei Tobit: 'Ik zou toch graag weten, broeder, tot welke familie u hoort en hoe u heet.'"
+          }
+        ]
+      },
+      "id": "tobit.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Ik zal Raguël voorstellen, haar jou tot vrouw te geven. Aangezien jij haar enige bloedverwant bent, komt het jou toe haar tot vrouw te krijgen. Het is een mooi en verstandig meisje.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal Raguël voorstellen, haar jou tot vrouw te geven. Aangezien jij haar enige bloedverwant bent, komt het jou toe haar tot vrouw te krijgen. Het is een mooi en verstandig meisje."
+          }
+        ]
+      },
+      "id": "tobit.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Doch Tobias antwoordde: 'Ik zal hier niets meer van gebruiken voordat de zaak haar beslag gekregen heeft.' Daarop zei Raguël: 'Neem haar dan nu tot vrouw, overeenkomstig de wet. Jij bent aan haar verwant, zij behoort aan jou. Moge de barmhartige God jullie een mooie toekomst geven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doch Tobias antwoordde: 'Ik zal hier niets meer van gebruiken voordat de zaak haar beslag gekregen heeft.' Daarop zei Raguël: 'Neem haar dan nu tot vrouw, overeenkomstig de wet. Jij bent aan haar verwant, zij behoort aan jou. Moge de barmhartige God jullie een mooie toekomst geven.'"
+          }
+        ]
+      },
+      "id": "tobit.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "zei Raguël tegen zijn vrouw Edna: 'Laat een van de dienstmeisjes eens gaan kijken of hij nog leeft. Zo niet, dan kunnen we hem begraven zonder dat iemand het merkt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zei Raguël tegen zijn vrouw Edna: 'Laat een van de dienstmeisjes eens gaan kijken of hij nog leeft. Zo niet, dan kunnen we hem begraven zonder dat iemand het merkt.'"
+          }
+        ]
+      },
+      "id": "tobit.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Tot zijn dochter zei hij: 'Eer je schoonouders. Voortaan zijn zij jouw ouders. Ik hoop goed nieuws van je te horen.' En hij kuste haar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot zijn dochter zei hij: 'Eer je schoonouders. Voortaan zijn zij jouw ouders. Ik hoop goed nieuws van je te horen.' En hij kuste haar."
+          }
+        ]
+      },
+      "id": "tobit.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Zodra zijn ogen begonnen te steken wreef Tobit ze uit en als vliesjes vielen de witte vlekken uit de ooghoeken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zodra zijn ogen begonnen te steken wreef Tobit ze uit en als vliesjes vielen de witte vlekken uit de ooghoeken."
+          }
+        ]
+      },
+      "id": "tobit.11.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Nu dan: toen u bad, u en uw schoondochter Sara, heb ik uw gebed onder de aandacht van de Heilige gebracht. Ik was het ook die toen u de doden begroef, u nabij was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu dan: toen u bad, u en uw schoondochter Sara, heb ik uw gebed onder de aandacht van de Heilige gebracht. Ik was het ook die toen u de doden begroef, u nabij was."
+          }
+        ]
+      },
+      "id": "tobit.12.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "en Hij u de ballingen verblijde en in u de ongelukkigen zijn liefde betone van geslacht tot geslacht in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en Hij u de ballingen verblijde en in u de ongelukkigen zijn liefde betone van geslacht tot geslacht in eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.13.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "Toen Anna gestorven was, begroef Tobias haar naast zijn vader. Daarna vertrok hij met zijn vrouw en zijn zonen naar Ekbatana, naar zijn schoonvader Raguël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Anna gestorven was, begroef Tobias haar naast zijn vader. Daarna vertrok hij met zijn vrouw en zijn zonen naar Ekbatana, naar zijn schoonvader Raguël."
+          }
+        ]
+      },
+      "id": "tobit.14.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "De Allerhoogste zorgde dat ik in de gunst kwam bij Enemessar en zijn vertrouwen won, zodat hij mij inkoper van het hof maakte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Allerhoogste zorgde dat ik in de gunst kwam bij Enemessar en zijn vertrouwen won, zodat hij mij inkoper van het hof maakte."
+          }
+        ]
+      },
+      "id": "tobit.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Toen ze daarmee thuiskwam begon het te mekkeren. Ik vroeg Anna: 'Waar komt het bokje vandaan? Het is toch niet gestolen? Breng het terug naar de eigenaar, want het is niet geoorloofd iets te eten dat gestolen is.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ze daarmee thuiskwam begon het te mekkeren. Ik vroeg Anna: 'Waar komt het bokje vandaan? Het is toch niet gestolen? Breng het terug naar de eigenaar, want het is niet geoorloofd iets te eten dat gestolen is.'"
+          }
+        ]
+      },
+      "id": "tobit.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Haal me weg van de aarde, Heer, zodat ik geen beledigingen meer hoef te horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haal me weg van de aarde, Heer, zodat ik geen beledigingen meer hoef te horen."
+          }
+        ]
+      },
+      "id": "tobit.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Houd dus ook van je volk, mijn zoon; acht jezelf niet verheven boven je volksgenoten, boven de zonen en dochters van je volk en neem gerust een vrouw uit hun midden. Hoogmoed leidt immers tot rampspoed en algehele ontreddering, en lediggang tot gebrek en ontbering. Want van lediggang komt honger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd dus ook van je volk, mijn zoon; acht jezelf niet verheven boven je volksgenoten, boven de zonen en dochters van je volk en neem gerust een vrouw uit hun midden. Hoogmoed leidt immers tot rampspoed en algehele ontreddering, en lediggang tot gebrek en ontbering. Want van lediggang komt honger."
+          }
+        ]
+      },
+      "id": "tobit.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Toen zei hij: 'Ik ben Azarias, de zoon van de grote Ananias, een volksgenoot.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zei hij: 'Ik ben Azarias, de zoon van de grote Ananias, een volksgenoot.'"
+          }
+        ]
+      },
+      "id": "tobit.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Luister goed: Ik praat dus met haar vader. En voordat we uit Rages vertrekken vieren we de bruiloft. Want ik ben er zeker van dat Raguël, getrouw aan de wet van Mozes, zijn dochter nooit aan een niet-jood ten huwelijk zal geven: het zou hem zijn leven kosten. Eerder dan wie ook kom jij in aanmerking om haar tot vrouw te nemen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luister goed: Ik praat dus met haar vader. En voordat we uit Rages vertrekken vieren we de bruiloft. Want ik ben er zeker van dat Raguël, getrouw aan de wet van Mozes, zijn dochter nooit aan een niet-jood ten huwelijk zal geven: het zou hem zijn leven kosten. Eerder dan wie ook kom jij in aanmerking om haar tot vrouw te nemen.'"
+          }
+        ]
+      },
+      "id": "tobit.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Toen riep hij zijn dochter Sara, nam haar bij de hand en gaf haar aan Tobias tot vrouw met de woorden: 'Hier is mijn dochter, neem haar volgens de wet van Mozes tot vrouw en ga met haar naar je vader.' En hij zegende hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen riep hij zijn dochter Sara, nam haar bij de hand en gaf haar aan Tobias tot vrouw met de woorden: 'Hier is mijn dochter, neem haar volgens de wet van Mozes tot vrouw en ga met haar naar je vader.' En hij zegende hen."
+          }
+        ]
+      },
+      "id": "tobit.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "De dienstbode opende de deur, ging naar binnen en zag dat beiden sliepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De dienstbode opende de deur, ging naar binnen en zag dat beiden sliepen."
+          }
+        ]
+      },
+      "id": "tobit.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Daarop sprak Edna tot Tobias: &#39;Lieve neef, moge de Heer des hemels je veilig naar huis geleiden en moge Hij mij de kinderen van jou en van mijn dochter Sara laten aanschouwen. Dan zal ik me verheugen in de Heer. Ik vertrouw je mijn dochter toe; doe haar geen verdriet aan.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop sprak Edna tot Tobias: 'Lieve neef, moge de Heer des hemels je veilig naar huis geleiden en moge Hij mij de kinderen van jou en van mijn dochter Sara laten aanschouwen. Dan zal ik me verheugen in de Heer. Ik vertrouw je mijn dochter toe; doe haar geen verdriet aan.'"
+          }
+        ]
+      },
+      "id": "tobit.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "En toen hij zijn zoon zag, viel hij hem om de hals en zei onder tranen:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En toen hij zijn zoon zag, viel hij hem om de hals en zei onder tranen:"
+          }
+        ]
+      },
+      "id": "tobit.11.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "Ook toen u zonder dralen opstond en uw maaltijd liet staan om een dode te begraven, is die goede daad me niet ontgaan, maar was ik bij u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook toen u zonder dralen opstond en uw maaltijd liet staan om een dode te begraven, is die goede daad me niet ontgaan, maar was ik bij u."
+          }
+        ]
+      },
+      "id": "tobit.12.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Vele volken zullen van verre komen om de naam van God de Heer te eren. Met geschenken beladen, geschenken voor de koning des hemels; geslacht na geslacht zal u uitbundige vreugde verschaffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vele volken zullen van verre komen om de naam van God de Heer te eren. Met geschenken beladen, geschenken voor de koning des hemels; geslacht na geslacht zal u uitbundige vreugde verschaffen."
+          }
+        ]
+      },
+      "id": "tobit.13.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "Hij bereikte een eerbiedwaardige ouderdom. Zijn schoonouders begroef hij met alle eerbetoon en hij erfde hun bezit, zoals hij ook dat van zijn vader Tobit gekregen had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij bereikte een eerbiedwaardige ouderdom. Zijn schoonouders begroef hij met alle eerbetoon en hij erfde hun bezit, zoals hij ook dat van zijn vader Tobit gekregen had."
+          }
+        ]
+      },
+      "id": "tobit.14.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Geregeld reisde ik naar Medië. Te Rages in Medië gaf ik eens tien talenten zilver in bewaring aan Gabaël, de broer van Gabria.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geregeld reisde ik naar Medië. Te Rages in Medië gaf ik eens tien talenten zilver in bewaring aan Gabaël, de broer van Gabria."
+          }
+        ]
+      },
+      "id": "tobit.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Zij antwoordde: 'Ik heb het bij mijn loon ten geschenke gekregen.' Maar ik geloofde haar niet en beval haar het bokje aan de eigenaar terug te geven. Ik schaamde me over haar. Maar zij wierp me tegen: 'Waar blijf jij met je aalmoezen en je goede werken? Nu komt je ware aard aan het licht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij antwoordde: 'Ik heb het bij mijn loon ten geschenke gekregen.' Maar ik geloofde haar niet en beval haar het bokje aan de eigenaar terug te geven. Ik schaamde me over haar. Maar zij wierp me tegen: 'Waar blijf jij met je aalmoezen en je goede werken? Nu komt je ware aard aan het licht.'"
+          }
+        ]
+      },
+      "id": "tobit.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Gij weet, Heer, dat ik nooit met een man gezondigd heb",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet, Heer, dat ik nooit met een man gezondigd heb"
+          }
+        ]
+      },
+      "id": "tobit.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Het loon van de arbeider die voor je werkt mag je niet vasthouden tot de volgende morgen, maar je moet het prompt uitbetalen. Want als jij God dient, zal het jou ook vergolden worden. Neem je in acht, mijn zoon, bij al wat je doet en gedraag je als een welopgevoed man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het loon van de arbeider die voor je werkt mag je niet vasthouden tot de volgende morgen, maar je moet het prompt uitbetalen. Want als jij God dient, zal het jou ook vergolden worden. Neem je in acht, mijn zoon, bij al wat je doet en gedraag je als een welopgevoed man."
+          }
+        ]
+      },
+      "id": "tobit.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Daarop zei Tobit hem: 'Wees welkom, broeder. Neem me niet kwalijk dat ik gevraagd heb naar uw stam en familie. U bent dus een volksgenoot van me, uit een aanzienlijk en voornaam geslacht. Want Ananias en Jatan, de zonen van de grote Simi, heb ik goed gekend toen we nog samen op bedevaart gingen naar Jeruzalem met de eerstelingen en tienden van de oogst. Zij zijn de dwaalwegen van ons volk niet gegaan. U bent van edele afkomst, broeder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zei Tobit hem: 'Wees welkom, broeder. Neem me niet kwalijk dat ik gevraagd heb naar uw stam en familie. U bent dus een volksgenoot van me, uit een aanzienlijk en voornaam geslacht. Want Ananias en Jatan, de zonen van de grote Simi, heb ik goed gekend toen we nog samen op bedevaart gingen naar Jeruzalem met de eerstelingen en tienden van de oogst. Zij zijn de dwaalwegen van ons volk niet gegaan. U bent van edele afkomst, broeder."
+          }
+        ]
+      },
+      "id": "tobit.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Daarop zei de jongeman tot de engel: 'Broeder Azarias, ik heb gehoord dat het meisje is gegeven aan zeven mannen en dat die allemaal in het bruidsvertrek zijn omgekomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zei de jongeman tot de engel: 'Broeder Azarias, ik heb gehoord dat het meisje is gegeven aan zeven mannen en dat die allemaal in het bruidsvertrek zijn omgekomen."
+          }
+        ]
+      },
+      "id": "tobit.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "En nadat hij ook zijn vrouw Edna erbij geroepen had, nam hij een blad papier en maakte de huwelijksovereenkomst op, die zij met hun zegel bekrachtigden. Toen begonnen ze aan de maaltijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nadat hij ook zijn vrouw Edna erbij geroepen had, nam hij een blad papier en maakte de huwelijksovereenkomst op, die zij met hun zegel bekrachtigden. Toen begonnen ze aan de maaltijd."
+          }
+        ]
+      },
+      "id": "tobit.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Zij ging weer naar buiten en meldde dat hij leefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij ging weer naar buiten en meldde dat hij leefde."
+          }
+        ]
+      },
+      "id": "tobit.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Toen vertrok Tobias, terwijl hij God prees, die zijn tocht had doen slagen, en Raguël en zijn vrouw alle goeds toewenste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen vertrok Tobias, terwijl hij God prees, die zijn tocht had doen slagen, en Raguël en zijn vrouw alle goeds toewenste."
+          }
+        ]
+      },
+      "id": "tobit.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "'Gezegend zijt Gij, God, en gezegend uw heilige naam tot in eeuwigheid en gezegend al uw heilige engelen. Gij hebt me gekastijd, maar Gij schenkt me weer genade, nu ik mijn zoon Tobias aanschouw.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Gezegend zijt Gij, God, en gezegend uw heilige naam tot in eeuwigheid en gezegend al uw heilige engelen. Gij hebt me gekastijd, maar Gij schenkt me weer genade, nu ik mijn zoon Tobias aanschouw.'"
+          }
+        ]
+      },
+      "id": "tobit.11.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "En daarom heeft God me gezonden om u te genezen, evenals uw schoondochter Sara.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daarom heeft God me gezonden om u te genezen, evenals uw schoondochter Sara."
+          }
+        ]
+      },
+      "id": "tobit.12.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "Vervloekt allen die u haten, in eeuwigheid gezegend allen die u liefhebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vervloekt allen die u haten, in eeuwigheid gezegend allen die u liefhebben."
+          }
+        ]
+      },
+      "id": "tobit.13.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "Hij stierf op de leeftijd van honderdzevenentwintig jaar in Ekbatana in Medië.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij stierf op de leeftijd van honderdzevenentwintig jaar in Ekbatana in Medië."
+          }
+        ]
+      },
+      "id": "tobit.14.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Toen Enemessar stierf, werd hij opgevolgd door zijn zoon Sennacherim. Op hem was geen staat te maken en aan reizen naar Medië viel niet meer te denken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Enemessar stierf, werd hij opgevolgd door zijn zoon Sennacherim. Op hem was geen staat te maken en aan reizen naar Medië viel niet meer te denken."
+          }
+        ]
+      },
+      "id": "tobit.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "en dat ik mijn naam noch die van mijn vader heb onteerd in het land waar ik als balling leef. Ik ben mijn vaders enig kind. Hij heeft geen zoon als erfgenaam, noch een naaste bloedverwant voor wie of wiens zoon ik mezelf beschikbaar zou moeten houden. Al zeven mannen zijn me ontvallen. Waarom zou ik nog langer leven? Maar als het U niet behaagt me te laten sterven, zie dan op mij neer en ontferm U over mij, zodat ik geen belediging meer hoef te horen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en dat ik mijn naam noch die van mijn vader heb onteerd in het land waar ik als balling leef. Ik ben mijn vaders enig kind. Hij heeft geen zoon als erfgenaam, noch een naaste bloedverwant voor wie of wiens zoon ik mezelf beschikbaar zou moeten houden. Al zeven mannen zijn me ontvallen. Waarom zou ik nog langer leven? Maar als het U niet behaagt me te laten sterven, zie dan op mij neer en ontferm U over mij, zodat ik geen belediging meer hoef te horen.'"
+          }
+        ]
+      },
+      "id": "tobit.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Wat jij niet wilt dat jou geschiedt, doe dat ook een ander niet. Bedrink je niet aan wijn en ga niet als een dronkaard door het leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat jij niet wilt dat jou geschiedt, doe dat ook een ander niet. Bedrink je niet aan wijn en ga niet als een dronkaard door het leven."
+          }
+        ]
+      },
+      "id": "tobit.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Maar laat nu eens horen: hoe veel loon moet ik u geven? Een drachme per dag benevens de kosten van levensonderhoud voor u en mijn zoon?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar laat nu eens horen: hoe veel loon moet ik u geven? Een drachme per dag benevens de kosten van levensonderhoud voor u en mijn zoon?"
+          }
+        ]
+      },
+      "id": "tobit.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Ik ben mijn vaders enige zoon en ik ben bang dat ik, als ik het bruidsvertrek binnentreed, mijn voorgangers in de dood zal volgen. Want een demon is verliefd op haar en die doet niemand kwaad behalve hun die haar willen naderen. Ik ben dus bang dat het mij het leven kost en dat ik zo mijn vader en moeder van verdriet om mij in het graf breng. En zij hebben geen andere zoon om hen te begraven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben mijn vaders enige zoon en ik ben bang dat ik, als ik het bruidsvertrek binnentreed, mijn voorgangers in de dood zal volgen. Want een demon is verliefd op haar en die doet niemand kwaad behalve hun die haar willen naderen. Ik ben dus bang dat het mij het leven kost en dat ik zo mijn vader en moeder van verdriet om mij in het graf breng. En zij hebben geen andere zoon om hen te begraven.'"
+          }
+        ]
+      },
+      "id": "tobit.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Daarna riep Raguël zijn vrouw Edna en zei haar: 'Zuster, maak de andere kamer gereed en breng Sara daar binnen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna riep Raguël zijn vrouw Edna en zei haar: 'Zuster, maak de andere kamer gereed en breng Sara daar binnen.'"
+          }
+        ]
+      },
+      "id": "tobit.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Daarop loofde Raguël God: 'Wees gezegend, God, met de zuiverste en heiligste zegeningen. Mogen uw heiligen en al uw schepselen U loven en dat al uw engelen en uitverkorenen U zegenen, alle eeuwen door.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop loofde Raguël God: 'Wees gezegend, God, met de zuiverste en heiligste zegeningen. Mogen uw heiligen en al uw schepselen U loven en dat al uw engelen en uitverkorenen U zegenen, alle eeuwen door."
+          }
+        ]
+      },
+      "id": "tobit.8.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "Opgetogen ging nu zijn zoon naar binnen en verhaalde zijn vader van al het wonderbaarlijke dat hem in Medië was overkomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Opgetogen ging nu zijn zoon naar binnen en verhaalde zijn vader van al het wonderbaarlijke dat hem in Medië was overkomen."
+          }
+        ]
+      },
+      "id": "tobit.11.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Ik ben Rafaël, een van de zeven heilige engelen die de gebeden van de heiligen opdragen en toegang hebben tot voor de heerlijke troon van de Heilige.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben Rafaël, een van de zeven heilige engelen die de gebeden van de heiligen opdragen en toegang hebben tot voor de heerlijke troon van de Heilige.'"
+          }
+        ]
+      },
+      "id": "tobit.12.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Verheug u en jubel over de zonen der rechtvaardigen, want zij zullen verzameld worden en de Heer der rechtvaardigen loven. Verheugen zullen zij zich over uw voorspoed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verheug u en jubel over de zonen der rechtvaardigen, want zij zullen verzameld worden en de Heer der rechtvaardigen loven. Verheugen zullen zij zich over uw voorspoed."
+          }
+        ]
+      },
+      "id": "tobit.13.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Nog voor zijn dood vernam hij dat Nineve was gevallen en dat de inwoners door Nebukadnessar en Ahasveros in ballingschap waren weggevoerd. Dit was hem op zijn sterfbed een reden tot vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog voor zijn dood vernam hij dat Nineve was gevallen en dat de inwoners door Nebukadnessar en Ahasveros in ballingschap waren weggevoerd. Dit was hem op zijn sterfbed een reden tot vreugde."
+          }
+        ]
+      },
+      "id": "tobit.14.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Onder Enemessar had ik vaak de nood van mijn volksgenoten verlicht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder Enemessar had ik vaak de nood van mijn volksgenoten verlicht."
+          }
+        ]
+      },
+      "id": "tobit.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Hun beiden gebed vond verhoring voor de heerlijke troon van de Allerhoogste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun beiden gebed vond verhoring voor de heerlijke troon van de Allerhoogste."
+          }
+        ]
+      },
+      "id": "tobit.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Deel je brood met de hongerige en je kleren met de naakte. Besteed al wat je overhebt zonder bedenken aan aalmoezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deel je brood met de hongerige en je kleren met de naakte. Besteed al wat je overhebt zonder bedenken aan aalmoezen."
+          }
+        ]
+      },
+      "id": "tobit.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Als jullie gezond en wel terug zijn, geef ik u nog een toelage boven uw loon.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als jullie gezond en wel terug zijn, geef ik u nog een toelage boven uw loon.'"
+          }
+        ]
+      },
+      "id": "tobit.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Maar de engel hernam: 'Je bent toch niet vergeten, dat je vader je op het hart heeft gedrukt een vrouw te nemen uit je eigen volk? Luister naar me, broeder: zij zal jouw bruid worden. En maak je over die demon geen zorg: vanavond zal zij jou ten huwelijk worden gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de engel hernam: 'Je bent toch niet vergeten, dat je vader je op het hart heeft gedrukt een vrouw te nemen uit je eigen volk? Luister naar me, broeder: zij zal jouw bruid worden. En maak je over die demon geen zorg: vanavond zal zij jou ten huwelijk worden gegeven."
+          }
+        ]
+      },
+      "id": "tobit.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Ze deed wat hij gevraagd had. Toen ze Sara in de kamer bracht begon het meisje te schreien, maar Edna droogde de tranen van haar dochter en zei: 'Wees flink, mijn kind. De Heer van hemel en aarde zal je na al je verdriet zijn genade betonen. Wees flink, mijn dochter.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze deed wat hij gevraagd had. Toen ze Sara in de kamer bracht begon het meisje te schreien, maar Edna droogde de tranen van haar dochter en zei: 'Wees flink, mijn kind. De Heer van hemel en aarde zal je na al je verdriet zijn genade betonen. Wees flink, mijn dochter.'"
+          }
+        ]
+      },
+      "id": "tobit.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Gezegend zijt Gij, omdat Gij mij verblijd hebt: mij is niet overkomen wat ik duchtte, maar Gij hebt met ons gehandeld naar uw grote barmhartigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend zijt Gij, omdat Gij mij verblijd hebt: mij is niet overkomen wat ik duchtte, maar Gij hebt met ons gehandeld naar uw grote barmhartigheid."
+          }
+        ]
+      },
+      "id": "tobit.8.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "Daarop ging Tobit jubelend en God prijzend naar buiten, naar de poort van Nineve, om de bruid van zijn zoon te begroeten. Allen die hem zagen lopen verbaasden zich erover dat hij kon zien. En Tobit verklaarde dat hij dat dankte aan Gods genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop ging Tobit jubelend en God prijzend naar buiten, naar de poort van Nineve, om de bruid van zijn zoon te begroeten. Allen die hem zagen lopen verbaasden zich erover dat hij kon zien. En Tobit verklaarde dat hij dat dankte aan Gods genade."
+          }
+        ]
+      },
+      "id": "tobit.11.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Toen ontstelden Tobit en Tobias hevig en vol vrees wierpen zij zich ter aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ontstelden Tobit en Tobias hevig en vol vrees wierpen zij zich ter aarde."
+          }
+        ]
+      },
+      "id": "tobit.12.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "Zalig zij die hebben getreurd over al uw kastijdingen, want zij zullen zich over U verblijden, als ze al uw glorie aanschouwen en verheugen zullen ze zich in eeuwigheid. Mijn ziel, loof God, de grote koning,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zalig zij die hebben getreurd over al uw kastijdingen, want zij zullen zich over U verblijden, als ze al uw glorie aanschouwen en verheugen zullen ze zich in eeuwigheid. Mijn ziel, loof God, de grote koning,"
+          }
+        ]
+      },
+      "id": "tobit.13.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Brood gaf ik aan de hongerigen en kleren aan de naakten; zag ik het lijk van een volksgenoot buiten de muren van Nineve liggen, dan begroef ik het.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Brood gaf ik aan de hongerigen en kleren aan de naakten; zag ik het lijk van een volksgenoot buiten de muren van Nineve liggen, dan begroef ik het."
+          }
+        ]
+      },
+      "id": "tobit.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "En Rafaël werd gezonden om hen beide te genezen, om de witte vlekken van Tobits ogen weg te nemen, Sara, de dochter van Raguël, aan Tobias, de zoon van Tobit, tot vrouw te geven en om de boze demon Asmodaus in boeien te slaan. Want het was voor Tobias weggelegd om Sara tot vrouw te krijgen. Op hetzelfde ogenblik dat Tobit zijn huis weer binnenging, kwam Sara van haar dakkamer naar beneden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Rafaël werd gezonden om hen beide te genezen, om de witte vlekken van Tobits ogen weg te nemen, Sara, de dochter van Raguël, aan Tobias, de zoon van Tobit, tot vrouw te geven en om de boze demon Asmodaus in boeien te slaan. Want het was voor Tobias weggelegd om Sara tot vrouw te krijgen. Op hetzelfde ogenblik dat Tobit zijn huis weer binnenging, kwam Sara van haar dakkamer naar beneden."
+          }
+        ]
+      },
+      "id": "tobit.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Leg je brood op het graf van de rechtvaardige, maar geef het niet aan de zondaars.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leg je brood op het graf van de rechtvaardige, maar geef het niet aan de zondaars."
+          }
+        ]
+      },
+      "id": "tobit.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Aldus werd overeengekomen. Vervolgens zei hij tot Tobias: 'Maak je klaar voor de tocht. Ik hoop dat jullie een voorspoedige reis mogen hebben.' Toen zijn zoon zich voor de reis gereed maakte, zei zijn vader: 'Ga nu met die man op reis. Dat God, die in de hemel woont, jullie langs de goede weg geleide en moge zijn engel jullie vergezellen.' En beiden begaven zich op weg. De hond van Tobias ging met hen mee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aldus werd overeengekomen. Vervolgens zei hij tot Tobias: 'Maak je klaar voor de tocht. Ik hoop dat jullie een voorspoedige reis mogen hebben.' Toen zijn zoon zich voor de reis gereed maakte, zei zijn vader: 'Ga nu met die man op reis. Dat God, die in de hemel woont, jullie langs de goede weg geleide en moge zijn engel jullie vergezellen.' En beiden begaven zich op weg. De hond van Tobias ging met hen mee."
+          }
+        ]
+      },
+      "id": "tobit.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Als je het bruidsvertrek binnengaat, pak dan de wierookpan en leg een stukje van het hart en de lever van de vis op de gloeiende as. Als de demon de rook ruikt slaat hij op de vlucht, om nooit meer terug te komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als je het bruidsvertrek binnengaat, pak dan de wierookpan en leg een stukje van het hart en de lever van de vis op de gloeiende as. Als de demon de rook ruikt slaat hij op de vlucht, om nooit meer terug te komen."
+          }
+        ]
+      },
+      "id": "tobit.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Gezegend zijt Gij, dat Ge u ontfermd hebt over twee eniggeborenen. Betoon hun uw barmhartigheid, Heer. Laat hun leven verlopen in gezondheid, vreugde en welzijn.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend zijt Gij, dat Ge u ontfermd hebt over twee eniggeborenen. Betoon hun uw barmhartigheid, Heer. Laat hun leven verlopen in gezondheid, vreugde en welzijn.'"
+          }
+        ]
+      },
+      "id": "tobit.8.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "Toen Tobit bij zijn schoondochter gekomen was, begroette hij haar, zeggend: 'Wees welkom, dochter. Gezegend is God, die jou tot ons heeft gebracht en gezegend zijn je vader en moeder.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Tobit bij zijn schoondochter gekomen was, begroette hij haar, zeggend: 'Wees welkom, dochter. Gezegend is God, die jou tot ons heeft gebracht en gezegend zijn je vader en moeder.'"
+          }
+        ]
+      },
+      "id": "tobit.11.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "Maar hij zei hun: 'Vrees niet, u is vrede beschoren. Loof dus God in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hij zei hun: 'Vrees niet, u is vrede beschoren. Loof dus God in eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.12.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "want Jeruzalem zal worden herbouwd met saffier en smaragd, met edelstenen uw muren, torens en tinnen met zuiver goud. Jeruzalems pleinen zullen met mozaieken van beryl, karbonkel en Ofirgesteente worden ingelegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want Jeruzalem zal worden herbouwd met saffier en smaragd, met edelstenen uw muren, torens en tinnen met zuiver goud. Jeruzalems pleinen zullen met mozaieken van beryl, karbonkel en Ofirgesteente worden ingelegd."
+          }
+        ]
+      },
+      "id": "tobit.13.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Ook degenen die koning Sennacherim na zijn vlucht uit Juda had laten ombrengen, begroef ik in het geheim. Om zijn woede te koelen had hij immers velen ter dood gebracht. Toen de koning naar de lijken liet zoeken vond men niets.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook degenen die koning Sennacherim na zijn vlucht uit Juda had laten ombrengen, begroef ik in het geheim. Om zijn woede te koelen had hij immers velen ter dood gebracht. Toen de koning naar de lijken liet zoeken vond men niets."
+          }
+        ]
+      },
+      "id": "tobit.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Win de raad in van wijze mensen en sla hun goede raad niet in de wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Win de raad in van wijze mensen en sla hun goede raad niet in de wind."
+          }
+        ]
+      },
+      "id": "tobit.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Maar Anna, zijn moeder, kon haar tranen niet bedwingen en zei tot Tobit: 'Waarom heb je onze jongen op reis gestuurd? Was hij niet de stut voor onze hand, zolang hij hier bij ons leefde?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Anna, zijn moeder, kon haar tranen niet bedwingen en zei tot Tobit: 'Waarom heb je onze jongen op reis gestuurd? Was hij niet de stut voor onze hand, zolang hij hier bij ons leefde?"
+          }
+        ]
+      },
+      "id": "tobit.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Maar wanneer je dan tot haar wilt gaan, roep dan samen staande de genadige God aan. Hij zal jullie in bescherming nemen en zich over jullie ontfermen. Wees niet bang, want zij is voor jou bestemd van eeuwigheid af. Jij zult haar gelukkig maken. Met jou zal ze meegaan en ik neem aan, dat je van haar kinderen zult krijgen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wanneer je dan tot haar wilt gaan, roep dan samen staande de genadige God aan. Hij zal jullie in bescherming nemen en zich over jullie ontfermen. Wees niet bang, want zij is voor jou bestemd van eeuwigheid af. Jij zult haar gelukkig maken. Met jou zal ze meegaan en ik neem aan, dat je van haar kinderen zult krijgen.'"
+          }
+        ]
+      },
+      "id": "tobit.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Vervolgens gaf hij zijn knechts opdracht de grafkuil dicht te gooien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vervolgens gaf hij zijn knechts opdracht de grafkuil dicht te gooien."
+          }
+        ]
+      },
+      "id": "tobit.8.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "En al Tobits volksgenoten in Nineve deelden in de vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En al Tobits volksgenoten in Nineve deelden in de vreugde."
+          }
+        ]
+      },
+      "id": "tobit.11.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "Want dat ik gekomen ben is geen gunst van mij geweest, maar was de wil van God. Loof Hem daarom in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want dat ik gekomen ben is geen gunst van mij geweest, maar was de wil van God. Loof Hem daarom in eeuwigheid."
+          }
+        ]
+      },
+      "id": "tobit.12.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "In al zijn straten klinkt het: Alleluia, en zingt men de lofzang: Geloofd zij God die u groot gemaakt heeft voor eeuwig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In al zijn straten klinkt het: Alleluia, en zingt men de lofzang: Geloofd zij God die u groot gemaakt heeft voor eeuwig."
+          }
+        ]
+      },
+      "id": "tobit.13.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Maar iemand uit Nineve bracht mij bij de koning aan, waarop ik mij verborg. Doch toen ik erachter kwam dat men mij zocht te doden, nam ik uit angst de vlucht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar iemand uit Nineve bracht mij bij de koning aan, waarop ik mij verborg. Doch toen ik erachter kwam dat men mij zocht te doden, nam ik uit angst de vlucht."
+          }
+        ]
+      },
+      "id": "tobit.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Prijs onder alle omstandigheden God de Heer en vraag hem dat je altijd de rechte weg mag bewandelen en dat al wat je onderneemt tot een goed einde geraakt. Want geen mens heeft iets te beschikken, maar Hij, de Heer, geeft alle goeds aan wie Hij wil en wie Hij wil vernedert Hij, al naar het Hem goeddunkt. Wees daarom, mijn zoon, mijn vermaningen indachtig en prent ze onuitwisbaar in je hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Prijs onder alle omstandigheden God de Heer en vraag hem dat je altijd de rechte weg mag bewandelen en dat al wat je onderneemt tot een goed einde geraakt. Want geen mens heeft iets te beschikken, maar Hij, de Heer, geeft alle goeds aan wie Hij wil en wie Hij wil vernedert Hij, al naar het Hem goeddunkt. Wees daarom, mijn zoon, mijn vermaningen indachtig en prent ze onuitwisbaar in je hart."
+          }
+        ]
+      },
+      "id": "tobit.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Geld is ook maar geld. Bij onze jongen vergeleken mag het niet meer zijn dan slijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geld is ook maar geld. Bij onze jongen vergeleken mag het niet meer zijn dan slijk."
+          }
+        ]
+      },
+      "id": "tobit.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Bij het horen van deze woorden vatte Tobias een grote genegenheid op voor Sara en voelde hij zich innig met haar verbonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij het horen van deze woorden vatte Tobias een grote genegenheid op voor Sara en voelde hij zich innig met haar verbonden."
+          }
+        ]
+      },
+      "id": "tobit.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Daarna richtte hij voor het paar een bruiloft aan van veertien dagen lang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna richtte hij voor het paar een bruiloft aan van veertien dagen lang."
+          }
+        ]
+      },
+      "id": "tobit.8.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Achiachar en zijn neef Nasbas kwamen ook en zeven dagen lang vierde men in blijdschap het huwelijk van Tobias.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Achiachar en zijn neef Nasbas kwamen ook en zeven dagen lang vierde men in blijdschap het huwelijk van Tobias."
+          }
+        ]
+      },
+      "id": "tobit.11.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "Al die tijd dat ik voor u zichtbaar was, at en dronk ik niet; het was slechts schijn wat u zag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al die tijd dat ik voor u zichtbaar was, at en dronk ik niet; het was slechts schijn wat u zag."
+          }
+        ]
+      },
+      "id": "tobit.12.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Al mijn bezittingen werden in beslag genomen; niets bleef me over dan mijn vrouw Anna en mijn zoon Tobias.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al mijn bezittingen werden in beslag genomen; niets bleef me over dan mijn vrouw Anna en mijn zoon Tobias."
+          }
+        ]
+      },
+      "id": "tobit.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Nu heb ik je nog iets te zeggen. Ik heb aan Gabaël, de broer van Gabria, die in Rages in Medië woont, tien talenten zilver in bewaring gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu heb ik je nog iets te zeggen. Ik heb aan Gabaël, de broer van Gabria, die in Rages in Medië woont, tien talenten zilver in bewaring gegeven."
+          }
+        ]
+      },
+      "id": "tobit.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Wat de Heer ons gegeven heeft om van te leven, dat is ons genoeg.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat de Heer ons gegeven heeft om van te leven, dat is ons genoeg.'"
+          }
+        ]
+      },
+      "id": "tobit.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "Voordat de bruidsdagen voorbij waren, bezwoer Raguël Tobias om pas te vertrekken als de veertien bruiloftsdagen verstreken waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voordat de bruidsdagen voorbij waren, bezwoer Raguël Tobias om pas te vertrekken als de veertien bruiloftsdagen verstreken waren."
+          }
+        ]
+      },
+      "id": "tobit.8.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Welaan, loof God, want ik stijg op naar Hem die mij gezonden heeft. Stel alles wat is voorgevallen te boek.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welaan, loof God, want ik stijg op naar Hem die mij gezonden heeft. Stel alles wat is voorgevallen te boek.'"
+          }
+        ]
+      },
+      "id": "tobit.12.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Nog geen vijftig dagen later werd Sennacherim vermoord door twee van zijn zoons; deze namen daarop de wijk naar het Araratgebergte. Zijn zoon Sacherdon volgde hem op. Hij belastte Achiacharus, de zoon van mijn familielid Anaël, met al de financiële aangelegenheden van het koninkrijk en met het hele beheer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog geen vijftig dagen later werd Sennacherim vermoord door twee van zijn zoons; deze namen daarop de wijk naar het Araratgebergte. Zijn zoon Sacherdon volgde hem op. Hij belastte Achiacharus, de zoon van mijn familielid Anaël, met al de financiële aangelegenheden van het koninkrijk en met het hele beheer."
+          }
+        ]
+      },
+      "id": "tobit.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Maak je niet bezorgd, mijn zoon, over de armoede waartoe we vervallen zijn: je bezit een groot vermogen, als je God vreest, je verre houdt van alle zonde en doet wat Hem behaagt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maak je niet bezorgd, mijn zoon, over de armoede waartoe we vervallen zijn: je bezit een groot vermogen, als je God vreest, je verre houdt van alle zonde en doet wat Hem behaagt.'"
+          }
+        ]
+      },
+      "id": "tobit.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Tobit gaf haar ten antwoord: 'Maakt je toch geen zorgen, zuster. Hij zal gezond en wel terugkomen en jouw ogen zullen hem weer zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tobit gaf haar ten antwoord: 'Maakt je toch geen zorgen, zuster. Hij zal gezond en wel terugkomen en jouw ogen zullen hem weer zien."
+          }
+        ]
+      },
+      "id": "tobit.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Dan zou hij de helft van zijn vermogen ontvangen en gezond en wel naar zijn vader kunnen terugkeren.' De rest,' zei hij,' krijg je als ik en mijn vrouw gestorven zijn.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zou hij de helft van zijn vermogen ontvangen en gezond en wel naar zijn vader kunnen terugkeren.' De rest,' zei hij,' krijg je als ik en mijn vrouw gestorven zijn.'"
+          }
+        ]
+      },
+      "id": "tobit.8.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "Toen zij zich weer oprichtten, zagen ze hem niet meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zij zich weer oprichtten, zagen ze hem niet meer."
+          }
+        ]
+      },
+      "id": "tobit.12.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Achiacharus had een hoge achting voor mij, zodat ik naar Nineve kon terugkeren. Achiachar was immers schenker, zegelbewaarder, kanselier en schatmeester en was in deze functies door Sacherdon herbenoemd. Hij was een neef van mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Achiacharus had een hoge achting voor mij, zodat ik naar Nineve kon terugkeren. Achiachar was immers schenker, zegelbewaarder, kanselier en schatmeester en was in deze functies door Sacherdon herbenoemd. Hij was een neef van mij."
+          }
+        ]
+      },
+      "id": "tobit.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Een goede engel trekt immers met hem mee; zijn reis zal voorspoedig zijn en behouden keert hij terug.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een goede engel trekt immers met hem mee; zijn reis zal voorspoedig zijn en behouden keert hij terug.'"
+          }
+        ]
+      },
+      "id": "tobit.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "text": "Zij loofden de grote en wonderbare werken van God, wiens engel hun verschenen was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij loofden de grote en wonderbare werken van God, wiens engel hun verschenen was."
+          }
+        ]
+      },
+      "id": "tobit.12.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Toen droogde ze haar tranen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen droogde ze haar tranen."
+          }
+        ]
+      },
+      "id": "tobit.5.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

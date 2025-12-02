@@ -1,0 +1,1089 @@
+{
+  "id": "sefanja",
+  "name": "Sefanja",
+  "chapters": 3,
+  "verseCount": 53,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het woord van Jahwe, dat gericht werd tot Sefanja, de zoon van Kusi, de zoon van Gedalja, de zoon van Amarja, de zoon van Chizkia, in de dagen van Josia, de zoon van Amon, de koning van Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe, dat gericht werd tot Sefanja, de zoon van Kusi, de zoon van Gedalja, de zoon van Amarja, de zoon van Chizkia, in de dagen van Josia, de zoon van Amon, de koning van Juda."
+          }
+        ]
+      },
+      "id": "sefanja.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Komt tot uzelf en komt samen, gij losgeslagen volk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Komt tot uzelf en komt samen, gij losgeslagen volk,"
+          }
+        ]
+      },
+      "id": "sefanja.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Wee de rebelse, de bezoedelde, de hardvochtige stad!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee de rebelse, de bezoedelde, de hardvochtige stad!"
+          }
+        ]
+      },
+      "id": "sefanja.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Alles zal Ik van de aardbodem wegvagen, zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles zal Ik van de aardbodem wegvagen, zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "sefanja.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "voordat gij wordt weggeworpen als kaf dat op een dag verstuift, voordat op u neerkomt de gloeiende toorn van Jahwe, voordat op u neerkomt de dag van de toorn van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "voordat gij wordt weggeworpen als kaf dat op een dag verstuift, voordat op u neerkomt de gloeiende toorn van Jahwe, voordat op u neerkomt de dag van de toorn van Jahwe."
+          }
+        ]
+      },
+      "id": "sefanja.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Naar een oproep luistert ze niet, een vermaning aanvaardt ze niet. Ze vertrouwt niet op Jahwe en nadert niet tot haar God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Naar een oproep luistert ze niet, een vermaning aanvaardt ze niet. Ze vertrouwt niet op Jahwe en nadert niet tot haar God."
+          }
+        ]
+      },
+      "id": "sefanja.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Wegvagen zal Ik mens en dier, wegvagen zal Ik de vogels in de lucht en de vissen in de zee en de ergernissen, tezamen met de boosdoeners. Ik zal de mensen van de aardbodem wegruimen, zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wegvagen zal Ik mens en dier, wegvagen zal Ik de vogels in de lucht en de vissen in de zee en de ergernissen, tezamen met de boosdoeners. Ik zal de mensen van de aardbodem wegruimen, zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "sefanja.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Zoekt Jahwe, gij allen, ootmoedigen van het land, die zijn geboden naleeft; zoekt de gerechtigheid, zoekt de ootmoed! Dan vindt gij misschien een schuilplaats op de dag van de toorn van Jahwe. de vijand in het westen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoekt Jahwe, gij allen, ootmoedigen van het land, die zijn geboden naleeft; zoekt de gerechtigheid, zoekt de ootmoed! Dan vindt gij misschien een schuilplaats op de dag van de toorn van Jahwe. de vijand in het westen"
+          }
+        ]
+      },
+      "id": "sefanja.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "De rijksgroten binnen haar muren zijn brullende leeuwen, haar rechters zijn wolven bij avond, die 's ochtends niets meer te kluiven hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De rijksgroten binnen haar muren zijn brullende leeuwen, haar rechters zijn wolven bij avond, die 's ochtends niets meer te kluiven hebben."
+          }
+        ]
+      },
+      "id": "sefanja.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Ik zal mijn hand opheffen tegen Juda en tegen alle inwoners van Jeruzalem. Ik zal van deze plaats wegruimen het overschot van Baäl en de naam van de afgodsdienaars, tezamen met de priesters,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal mijn hand opheffen tegen Juda en tegen alle inwoners van Jeruzalem. Ik zal van deze plaats wegruimen het overschot van Baäl en de naam van de afgodsdienaars, tezamen met de priesters,"
+          }
+        ]
+      },
+      "id": "sefanja.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Voorwaar, Gaza wordt een verlaten oord, Askelon een woestenij. Asdod wordt op klaarlichte dag ontruimd, Ekron uitgeroeid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, Gaza wordt een verlaten oord, Askelon een woestenij. Asdod wordt op klaarlichte dag ontruimd, Ekron uitgeroeid."
+          }
+        ]
+      },
+      "id": "sefanja.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Haar profeten zijn zwetsers en bedriegers; haar priesters schenden wat heilig is en verkrachten de wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haar profeten zijn zwetsers en bedriegers; haar priesters schenden wat heilig is en verkrachten de wet."
+          }
+        ]
+      },
+      "id": "sefanja.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "degenen die zich op de daken neerbuigen voor het leger van de hemellichamen, degenen die zich voor Jahwe onder bezweringen neerbuigen en ook zweren bij Milkom,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "degenen die zich op de daken neerbuigen voor het leger van de hemellichamen, degenen die zich voor Jahwe onder bezweringen neerbuigen en ook zweren bij Milkom,"
+          }
+        ]
+      },
+      "id": "sefanja.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Wee u, bewoners van de zeekust, volk van Keretieten! Het woord van Jahwe richt zich tegen u: Kanaän, land van de Filistijnen, verdelgen zal Ik u, al uw bewoners!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee u, bewoners van de zeekust, volk van Keretieten! Het woord van Jahwe richt zich tegen u: Kanaän, land van de Filistijnen, verdelgen zal Ik u, al uw bewoners!"
+          }
+        ]
+      },
+      "id": "sefanja.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Maar Jahwe de Gerechte is binnen haar muren; Hij doet geen onrecht; morgen aan morgen velt Hij zijn oordeel, zonder mankeren, zodra het weer licht is. Maar de onrechtvaardige weet van geen schaamte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Jahwe de Gerechte is binnen haar muren; Hij doet geen onrecht; morgen aan morgen velt Hij zijn oordeel, zonder mankeren, zodra het weer licht is. Maar de onrechtvaardige weet van geen schaamte."
+          }
+        ]
+      },
+      "id": "sefanja.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "degenen die zich van Jahwe hebben afgekeerd, die Jahwe niet zoeken en Hem niet raadplegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "degenen die zich van Jahwe hebben afgekeerd, die Jahwe niet zoeken en Hem niet raadplegen."
+          }
+        ]
+      },
+      "id": "sefanja.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "De kuststreek wordt een graasgrond, een weideplaats voor herders, een oord met kralen voor de schapen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De kuststreek wordt een graasgrond, een weideplaats voor herders, een oord met kralen voor de schapen."
+          }
+        ]
+      },
+      "id": "sefanja.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Volken heb Ik uitgeroeid, hun hoektorens zijn verwoest; hun straten heb Ik zo vernield, dat niemand er meer langs kan; hun steden liggen in puin, zodat er geen mens meer is, geen bewoner meer blijft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Volken heb Ik uitgeroeid, hun hoektorens zijn verwoest; hun straten heb Ik zo vernield, dat niemand er meer langs kan; hun steden liggen in puin, zodat er geen mens meer is, geen bewoner meer blijft."
+          }
+        ]
+      },
+      "id": "sefanja.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Stilte voor de Heer, voor Jahwe! Want de dag van Jahwe is nabij. Jahwe heeft een offer gereedgemaakt, Hij heeft zijn gasten geheiligd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Stilte voor de Heer, voor Jahwe! Want de dag van Jahwe is nabij. Jahwe heeft een offer gereedgemaakt, Hij heeft zijn gasten geheiligd."
+          }
+        ]
+      },
+      "id": "sefanja.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "De streek zal toebehoren aan de rest van het huis Juda. Die zullen daar weiden en zich 's avonds ter ruste leggen in de huizen van Askelon, want Jahwe, hun God, zal naar hen omzien en hen in hun vroegere staat herstellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De streek zal toebehoren aan de rest van het huis Juda. Die zullen daar weiden en zich 's avonds ter ruste leggen in de huizen van Askelon, want Jahwe, hun God, zal naar hen omzien en hen in hun vroegere staat herstellen."
+          }
+        ]
+      },
+      "id": "sefanja.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ik had toch gezegd: 'Heb ontzag voor Mij en aanvaard mijn vermaning! Dan zou haar woonplaats niet zijn vernield, zouden al mijn straffen haar niet getroffen hebben.' Maar zij hebben zich enkel gehaast om altijd maar kwaad te bedrijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik had toch gezegd: 'Heb ontzag voor Mij en aanvaard mijn vermaning! Dan zou haar woonplaats niet zijn vernield, zouden al mijn straffen haar niet getroffen hebben.' Maar zij hebben zich enkel gehaast om altijd maar kwaad te bedrijven."
+          }
+        ]
+      },
+      "id": "sefanja.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Op de dag van Jahwe's offer zal Ik de rijksgroten straffen en de zonen van de koning en allen die uitheemse kleding dragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de dag van Jahwe's offer zal Ik de rijksgroten straffen en de zonen van de koning en allen die uitheemse kleding dragen."
+          }
+        ]
+      },
+      "id": "sefanja.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Ik heb het honen van Moab gehoord en de schimpscheuten van de Ammonieten; Ik heb gehoord, hoe zij mijn volk hoonden, hoe zij snoefden tegen zijn gebied.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb het honen van Moab gehoord en de schimpscheuten van de Ammonieten; Ik heb gehoord, hoe zij mijn volk hoonden, hoe zij snoefden tegen zijn gebied."
+          }
+        ]
+      },
+      "id": "sefanja.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Daarom: wacht maar op Mij - zo luidt de godsspraak van Jahwe -, wacht op de dag dat Ik als aanklager optreed. Voorwaar, mijn oordeel luidt aldus: Ik verzamel de volken en breng de koninkrijken bijeen om over hen mijn woede uit te storten, al mijn gloeiende toorn. Ja, door het vuur van mijn naijver zal heel de aarde verteerd worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom: wacht maar op Mij - zo luidt de godsspraak van Jahwe -, wacht op de dag dat Ik als aanklager optreed. Voorwaar, mijn oordeel luidt aldus: Ik verzamel de volken en breng de koninkrijken bijeen om over hen mijn woede uit te storten, al mijn gloeiende toorn. Ja, door het vuur van mijn naijver zal heel de aarde verteerd worden."
+          }
+        ]
+      },
+      "id": "sefanja.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Op die dag zal Ik degenen straffen die over de drempel springen, die het huis van hun meesters vullen met geweld en bedrog.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zal Ik degenen straffen die over de drempel springen, die het huis van hun meesters vullen met geweld en bedrog."
+          }
+        ]
+      },
+      "id": "sefanja.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Daarom, zo waar Ik leef - zo luidt de godsspraak van Jahwe van de legerscharen, de God van Israël -, Moab zal worden als Sodom, de Ammonieten als Gomorra, een veld vol onkruid, een zoutgroeve, een woestenij voor altijd. De rest van mijn volk zal hen uitplunderen, de overblijvenden van mijn natie zullen hun erfgenamen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, zo waar Ik leef - zo luidt de godsspraak van Jahwe van de legerscharen, de God van Israël -, Moab zal worden als Sodom, de Ammonieten als Gomorra, een veld vol onkruid, een zoutgroeve, een woestenij voor altijd. De rest van mijn volk zal hen uitplunderen, de overblijvenden van mijn natie zullen hun erfgenamen zijn."
+          }
+        ]
+      },
+      "id": "sefanja.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Maar voorwaar, dan geef Ik mijn volk andere lippen, reine lippen, om allen de naam van Jahwe aan te roepen en Hem te dienen, zij aan zij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar voorwaar, dan geef Ik mijn volk andere lippen, reine lippen, om allen de naam van Jahwe aan te roepen en Hem te dienen, zij aan zij."
+          }
+        ]
+      },
+      "id": "sefanja.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Op die dag - zo luidt de godsspraak van Jahwe - klinkt er gejammer uit de Vispoort, gehuil uit de nieuwe wijk en uit het heuvelland luid gekraak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van Jahwe - klinkt er gejammer uit de Vispoort, gehuil uit de nieuwe wijk en uit het heuvelland luid gekraak."
+          }
+        ]
+      },
+      "id": "sefanja.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Dit overkomt hen om hun hoogmoed, omdat ze gehoond en gesnoefd hebben tegen het volk van Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit overkomt hen om hun hoogmoed, omdat ze gehoond en gesnoefd hebben tegen het volk van Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "sefanja.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Van over de rivieren van Ethiopie, waarheen zij verstrooid zijn, komen zij, degenen die Mij aanbidden, mijn offer aan Mij brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van over de rivieren van Ethiopie, waarheen zij verstrooid zijn, komen zij, degenen die Mij aanbidden, mijn offer aan Mij brengen."
+          }
+        ]
+      },
+      "id": "sefanja.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Huilt, gij bewoners van de Vijzelbuurt, want alle kooplui zijn tot zwijgen gebracht, alle geldafwegers zijn weggeruimd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Huilt, gij bewoners van de Vijzelbuurt, want alle kooplui zijn tot zwijgen gebracht, alle geldafwegers zijn weggeruimd."
+          }
+        ]
+      },
+      "id": "sefanja.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Jahwe zal ontzagwekkend voor hen zijn, want al de goden der aarde zal Hij ineen doen schrompelen. De volken van alle kuststreken zullen zich voor Hem neerbuigen, elk op zijn eigen plaats. in het zuiden",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe zal ontzagwekkend voor hen zijn, want al de goden der aarde zal Hij ineen doen schrompelen. De volken van alle kuststreken zullen zich voor Hem neerbuigen, elk op zijn eigen plaats. in het zuiden"
+          }
+        ]
+      },
+      "id": "sefanja.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Op die dag wordt er onder u geen misdaad tegen Mij meer begaan waarover gij u te schamen hebt, want dan verwijder Ik uit uw midden uw vrolijke grootsprekers; dan is het gedaan met uw hoogmoedig gedrag op mijn heilige berg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag wordt er onder u geen misdaad tegen Mij meer begaan waarover gij u te schamen hebt, want dan verwijder Ik uit uw midden uw vrolijke grootsprekers; dan is het gedaan met uw hoogmoedig gedrag op mijn heilige berg."
+          }
+        ]
+      },
+      "id": "sefanja.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "In die tijd zal Ik Jeruzalem met fakkels doorzoeken en zal ik de mannen bestraffen, die wel dik-geworden wijn op zijn droesem lijken en die in hun hart zeggen: 'Jahwe doet goed noch kwaad!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In die tijd zal Ik Jeruzalem met fakkels doorzoeken en zal ik de mannen bestraffen, die wel dik-geworden wijn op zijn droesem lijken en die in hun hart zeggen: 'Jahwe doet goed noch kwaad!'"
+          }
+        ]
+      },
+      "id": "sefanja.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ook voor u, Ethiopiers, geldt: Met mijn zwaard worden zij doorstoken!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook voor u, Ethiopiers, geldt: Met mijn zwaard worden zij doorstoken!"
+          }
+        ]
+      },
+      "id": "sefanja.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Dan laat Ik binnen uw muren alleen nog over een ootmoedig, bescheiden volk, dat zijn toevlucht vindt bij de naam van Jahwe,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan laat Ik binnen uw muren alleen nog over een ootmoedig, bescheiden volk, dat zijn toevlucht vindt bij de naam van Jahwe,"
+          }
+        ]
+      },
+      "id": "sefanja.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Dan worden hun bezittingen geroofd en hun huizen verwoest. Ze bouwen huizen, maar zullen ze niet bewonen; ze planten wijngaarden, maar zullen er de wijn niet van drinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan worden hun bezittingen geroofd en hun huizen verwoest. Ze bouwen huizen, maar zullen ze niet bewonen; ze planten wijngaarden, maar zullen er de wijn niet van drinken."
+          }
+        ]
+      },
+      "id": "sefanja.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Hij heft zijn hand op tegen het noorden en richt Assur te gronde; Nineve maakt Hij tot een wildernis, zo dor als een woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heft zijn hand op tegen het noorden en richt Assur te gronde; Nineve maakt Hij tot een wildernis, zo dor als een woestijn."
+          }
+        ]
+      },
+      "id": "sefanja.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "de rest van Israël. Zij zullen geen onrecht meer doen en geen onwaarheid meer spreken; in hun mond is geen tong die bedriegt. Ja, zij zullen weiden en neerliggen, zonder door iemand te worden opgeschrikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de rest van Israël. Zij zullen geen onrecht meer doen en geen onwaarheid meer spreken; in hun mond is geen tong die bedriegt. Ja, zij zullen weiden en neerliggen, zonder door iemand te worden opgeschrikt."
+          }
+        ]
+      },
+      "id": "sefanja.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Nabij is de grote dag van Jahwe, hij is nabij en nadert snel. Hoor, hoe bitter hij is, de dag van Jahwe: dan heft de held zijn strijdkreet aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nabij is de grote dag van Jahwe, hij is nabij en nadert snel. Hoor, hoe bitter hij is, de dag van Jahwe: dan heft de held zijn strijdkreet aan."
+          }
+        ]
+      },
+      "id": "sefanja.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Kudden zullen er zich legeren, dieren van allerlei slag. Kauwen en velduilen overnachten op zijn kapitelen. Hoor, gehuil klinkt door de vensters en op de drempels ligt verwoesting, want het cederhout is afgerukt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kudden zullen er zich legeren, dieren van allerlei slag. Kauwen en velduilen overnachten op zijn kapitelen. Hoor, gehuil klinkt door de vensters en op de drempels ligt verwoesting, want het cederhout is afgerukt."
+          }
+        ]
+      },
+      "id": "sefanja.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "<div class=\"poezie\">Jubel, dochter Sion!<br />\r\nIsra&euml;l, juich!<br />\r\nVerheug en verblijd u met heel uw hart, dochter Jeruzalem!</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "Jubel, dochter Sion!"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nIsraël, juich!"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nVerheug en verblijd u met heel uw hart, dochter Jeruzalem!"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Een dag van toorn is die dag, een dag van nood en benauwenis, een dag van vernieling en vernietiging, een dag van donker en van duisternis, een dag van wolken en van dichte damp,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een dag van toorn is die dag, een dag van nood en benauwenis, een dag van vernieling en vernietiging, een dag van donker en van duisternis, een dag van wolken en van dichte damp,"
+          }
+        ]
+      },
+      "id": "sefanja.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Is dat nu die uitgelaten stad, die zich zo veilig voelde, die zei in haar hart: 'Ik, en niemand naast mij!?' Wat een puinhoop is ze geworden, een plek waar wilde dieren legeren. Ieder die er voorbijkomt fluit en zwaait met zijn hand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is dat nu die uitgelaten stad, die zich zo veilig voelde, die zei in haar hart: 'Ik, en niemand naast mij!?' Wat een puinhoop is ze geworden, een plek waar wilde dieren legeren. Ieder die er voorbijkomt fluit en zwaait met zijn hand."
+          }
+        ]
+      },
+      "id": "sefanja.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "<div class=\"poezie\">Jahwe heeft uw vonnis tenietgedaan,<br />\r\nHij heeft uw vijanden weggejaagd.<br />\r\nDe koning van Isra&euml;l, Jahwe, Hij is binnen uw muren:<br />\r\ngij&nbsp;hebt geen kwaad meer te vrezen.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "Jahwe heeft uw vonnis tenietgedaan,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nHij heeft uw vijanden weggejaagd."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nDe koning van Israël, Jahwe, Hij is binnen uw muren:"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\ngij hebt geen kwaad meer te vrezen."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "een dag van bazuinen en krijgsgehuil tegen de versterkte steden en de hoge hoektorens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een dag van bazuinen en krijgsgehuil tegen de versterkte steden en de hoge hoektorens."
+          }
+        ]
+      },
+      "id": "sefanja.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "<div class=\"poezie\">Op die dag zal men tegen Jeruzalem zeggen:<br />\r\nVrees niet, Sion;<br />\r\nlaat uw handen niet verslappen.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "Op die dag zal men tegen Jeruzalem zeggen:"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nVrees niet, Sion;"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nlaat uw handen niet verslappen."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Ik jaag de mensen angst aan, zodat ze als blinden rondlopen, want ze hebben gezondigd tegen Jahwe. Hun bloed wordt als stof verstrooid, hun vlees als drek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik jaag de mensen angst aan, zodat ze als blinden rondlopen, want ze hebben gezondigd tegen Jahwe. Hun bloed wordt als stof verstrooid, hun vlees als drek."
+          }
+        ]
+      },
+      "id": "sefanja.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "<div class=\"poezie\">Jahwe, uw God, is binnen uw muren, een reddende held.<br />\r\nHij zal opgetogen zijn van blijdschap om u<br />\r\nen zijn liefde opnieuw laten blijken.<br />\r\nLuidkeels roept Hij zijn vreugde om u uit.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "Jahwe, uw God, is binnen uw muren, een reddende held."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nHij zal opgetogen zijn van blijdschap om u"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nen zijn liefde opnieuw laten blijken."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nLuidkeels roept Hij zijn vreugde om u uit."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Hun zilver en hun goud kunnen hen niet redden op de dag van Jahwe's toorn. Door het vuur van zijn naijver wordt heel de aarde verslonden, want Hij gaat vernietiging brengen, gruwelijke vernietiging, over al de bewoners der aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun zilver en hun goud kunnen hen niet redden op de dag van Jahwe's toorn. Door het vuur van zijn naijver wordt heel de aarde verslonden, want Hij gaat vernietiging brengen, gruwelijke vernietiging, over al de bewoners der aarde."
+          }
+        ]
+      },
+      "id": "sefanja.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "<div class=\"poezie\">De treurige lieden&nbsp;<br />\r\ndie ver van het feest blijven,<br />\r\nneem Ik van u weg:<br />\r\nzij waren een last voor haar, een hoon.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "De treurige lieden "
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\ndie ver van het feest blijven,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nneem Ik van u weg:"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nzij waren een last voor haar, een hoon."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "<div class=\"poezie\">Let op, hoe Ik zal afrekenen, in die tijd,<br />\r\nmet al uw verdrukkers.<br />\r\nDan wil Ik redden wat kreupel is<br />\r\nen bijeenbrengen wat uiteen is gejaagd.<br />\r\nTot eer en roem breng Ik hen<br />\r\ndie over heel de aarde veracht werden.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "Let op, hoe Ik zal afrekenen, in die tijd,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nmet al uw verdrukkers."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nDan wil Ik redden wat kreupel is"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nen bijeenbrengen wat uiteen is gejaagd."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nTot eer en roem breng Ik hen"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\ndie over heel de aarde veracht werden."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "<div class=\"poezie\">In die tijd leid Ik u terug;<br />\r\nin die tijd, dat Ik u verzamel,<br />\r\nbreng Ik u, voorwaar,<br />\r\ntot eer en roem onder alle volken van de aarde,<br />\r\nwanneer Ik voor uw ogen<br />\r\nu in uw vroegere staat herstel, zegt JHWH.</div>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "div",
+            "class": "poezie",
+            "children": [
+              {
+                "text": "In die tijd leid Ik u terug;"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nin die tijd, dat Ik u verzamel,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nbreng Ik u, voorwaar,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\ntot eer en roem onder alle volken van de aarde,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nwanneer Ik voor uw ogen"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nu in uw vroegere staat herstel, zegt JHWH."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "sefanja.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

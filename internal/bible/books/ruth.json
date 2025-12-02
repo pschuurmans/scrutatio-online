@@ -1,0 +1,1453 @@
+{
+  "id": "ruth",
+  "name": "Ruth",
+  "chapters": 4,
+  "verseCount": 85,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "In de tijd van de rechters brak er in het land een hongersnood uit. Een man trok weg uit Betlehem in Juda en hij vestigde zich, met zijn vrouw en zijn twee zonen, als vreemdeling in de vlakte van Moab.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de tijd van de rechters brak er in het land een hongersnood uit. Een man trok weg uit Betlehem in Juda en hij vestigde zich, met zijn vrouw en zijn twee zonen, als vreemdeling in de vlakte van Moab."
+          }
+        ]
+      },
+      "id": "ruth.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Nu was Noomi van de kant van haar man verwant aan een zekere Boaz, een vermogend man uit de familie van Elimelek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu was Noomi van de kant van haar man verwant aan een zekere Boaz, een vermogend man uit de familie van Elimelek."
+          }
+        ]
+      },
+      "id": "ruth.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Op een zekere dag zei Noomi, de schoonmoeder van Ruth: ` Mijn dochter, ik zou voor jou toch een onderdak moeten zoeken, waar je gelukkig kunt zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op een zekere dag zei Noomi, de schoonmoeder van Ruth: ` Mijn dochter, ik zou voor jou toch een onderdak moeten zoeken, waar je gelukkig kunt zijn."
+          }
+        ]
+      },
+      "id": "ruth.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Intussen was Boaz naar de stadspoort gegaan en had daar plaatsgenomen. Toen hij de man voorbij zag komen die familieverplichtingen tegenover Ruth had en over wie hij had gesproken, riep hij: ` Zeg Dinges, kom eens hier en ga zitten! ' De man kwam en ging zitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Intussen was Boaz naar de stadspoort gegaan en had daar plaatsgenomen. Toen hij de man voorbij zag komen die familieverplichtingen tegenover Ruth had en over wie hij had gesproken, riep hij: ` Zeg Dinges, kom eens hier en ga zitten! ' De man kwam en ging zitten."
+          }
+        ]
+      },
+      "id": "ruth.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "De naam van die man was Elimelek; zijn vrouw heette Noomi; de twee zonen heetten Machlon en Kiljon. Het waren Efratieten uit Betlehem in Juda. Zij kwamen in de vlakte van Moab en bleven daar wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De naam van die man was Elimelek; zijn vrouw heette Noomi; de twee zonen heetten Machlon en Kiljon. Het waren Efratieten uit Betlehem in Juda. Zij kwamen in de vlakte van Moab en bleven daar wonen."
+          }
+        ]
+      },
+      "id": "ruth.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ruth, de Moabitische, zei tot Noomi: ` Ik zou wel naar het land willen gaan om ergens achter een maaier, die mij dat toestaat, aren te lezen. ' Noomi antwoordde: ` Doe dat, mijn dochter. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth, de Moabitische, zei tot Noomi: ` Ik zou wel naar het land willen gaan om ergens achter een maaier, die mij dat toestaat, aren te lezen. ' Noomi antwoordde: ` Doe dat, mijn dochter. '"
+          }
+        ]
+      },
+      "id": "ruth.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Je weet dat Boaz, bij wiens dienstmeiden jij geweest ben, een familielid is. Nu gaat hij vannacht op de dorsvloer de gerst wannen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je weet dat Boaz, bij wiens dienstmeiden jij geweest ben, een familielid is. Nu gaat hij vannacht op de dorsvloer de gerst wannen."
+          }
+        ]
+      },
+      "id": "ruth.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Daarop haalde Boaz er tien oudsten van de stad bij en verzocht hun plaats te nemen. Toen zij waren gaan zitten",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop haalde Boaz er tien oudsten van de stad bij en verzocht hun plaats te nemen. Toen zij waren gaan zitten"
+          }
+        ]
+      },
+      "id": "ruth.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Elimelek, de man van Noomi, stierf en zij bleef achter met haar zonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Elimelek, de man van Noomi, stierf en zij bleef achter met haar zonen."
+          }
+        ]
+      },
+      "id": "ruth.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Zij ging dus naar het land om aren te lezen achter de maaiers. Het toeval wilde dat ze terecht kwam op de akker van Boaz, die man uit de familie van Elimelek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij ging dus naar het land om aren te lezen achter de maaiers. Het toeval wilde dat ze terecht kwam op de akker van Boaz, die man uit de familie van Elimelek."
+          }
+        ]
+      },
+      "id": "ruth.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Was je en parfumeer je, doe je mantel om en ga naar de dorsvloer, maar zorg ervoor dat de man je niet opmerkt, voor hij klaar is met eten en drinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Was je en parfumeer je, doe je mantel om en ga naar de dorsvloer, maar zorg ervoor dat de man je niet opmerkt, voor hij klaar is met eten en drinken."
+          }
+        ]
+      },
+      "id": "ruth.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "zei hij tot de man die tegenover Ruth familieverplichtingen had: ` Het stuk land dat eigendom was van onze broeder Elimelek wordt te koop aangeboden door Noomi, die teruggekeerd is uit de vlakte van Moab.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zei hij tot de man die tegenover Ruth familieverplichtingen had: ` Het stuk land dat eigendom was van onze broeder Elimelek wordt te koop aangeboden door Noomi, die teruggekeerd is uit de vlakte van Moab."
+          }
+        ]
+      },
+      "id": "ruth.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Dezen trouwden beiden met een Moabitische vrouw; de ene vrouw heette Orpa, de andere Ruth. Ongeveer tien jaar woonden zij daar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dezen trouwden beiden met een Moabitische vrouw; de ene vrouw heette Orpa, de andere Ruth. Ongeveer tien jaar woonden zij daar."
+          }
+        ]
+      },
+      "id": "ruth.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "In de loop van de dag kwam ook Boaz zelf uit Betlehem. Hij zei tegen de maaiers: ` Jahwe zij met u ', en de maaiers antwoordden: ` Wees gezegend door Jahwe. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de loop van de dag kwam ook Boaz zelf uit Betlehem. Hij zei tegen de maaiers: ` Jahwe zij met u ', en de maaiers antwoordden: ` Wees gezegend door Jahwe. '"
+          }
+        ]
+      },
+      "id": "ruth.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Wanneer hij zich te slapen legt, let dan goed op, waar hij gaat liggen. Dan ga jij erheen, je slaat de deken van zijn voeten op en je legt je daar neer. Hij zal je wel duidelijk maken wat je moet doen. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer hij zich te slapen legt, let dan goed op, waar hij gaat liggen. Dan ga jij erheen, je slaat de deken van zijn voeten op en je legt je daar neer. Hij zal je wel duidelijk maken wat je moet doen. '"
+          }
+        ]
+      },
+      "id": "ruth.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Ik heb gemeend u dit te moeten mededelen en u te moeten zeggen: Koop dat stuk land, ten overstaan van hen die hier zitten, ten overstaan van de oudsten van het volk. Wilt u van uw recht gebruik maken, doe het dan. Wilt u het niet, zeg het mij dan, want na u heeft niemand hier rechten dan ik. ' De man antwoordde: ` Ik laat mijn recht gelden. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb gemeend u dit te moeten mededelen en u te moeten zeggen: Koop dat stuk land, ten overstaan van hen die hier zitten, ten overstaan van de oudsten van het volk. Wilt u van uw recht gebruik maken, doe het dan. Wilt u het niet, zeg het mij dan, want na u heeft niemand hier rechten dan ik. ' De man antwoordde: ` Ik laat mijn recht gelden. '"
+          }
+        ]
+      },
+      "id": "ruth.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Toen stierven ook Machlon en Kiljon en bleef de vrouw alleen achter, beroofd van haar beide zonen en haar man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen stierven ook Machlon en Kiljon en bleef de vrouw alleen achter, beroofd van haar beide zonen en haar man."
+          }
+        ]
+      },
+      "id": "ruth.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Boaz richtte zich tot de knecht die de leiding had over de maaiers en vroeg: ` Van wie is die jonge vrouw? '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Boaz richtte zich tot de knecht die de leiding had over de maaiers en vroeg: ` Van wie is die jonge vrouw? '"
+          }
+        ]
+      },
+      "id": "ruth.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Ruth antwoordde: ` Ik zal doen wat u mij zegt. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth antwoordde: ` Ik zal doen wat u mij zegt. '"
+          }
+        ]
+      },
+      "id": "ruth.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Maar Boaz zei: ` Op het ogenblik dat u van Noomi de akker koopt, koopt u meteen Ruth, de Moabitische, de vrouw van de overledene, om de naam van de overledene op zijn erfdeel te laten voortbestaan. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Boaz zei: ` Op het ogenblik dat u van Noomi de akker koopt, koopt u meteen Ruth, de Moabitische, de vrouw van de overledene, om de naam van de overledene op zijn erfdeel te laten voortbestaan. '"
+          }
+        ]
+      },
+      "id": "ruth.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Samen met haar schoondochters vertrok zij uit de vlakte van Moab, want zij had daar gehoord dat Jahwe zich het lot van zijn volk had aangetrokken en het weer brood gaf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Samen met haar schoondochters vertrok zij uit de vlakte van Moab, want zij had daar gehoord dat Jahwe zich het lot van zijn volk had aangetrokken en het weer brood gaf."
+          }
+        ]
+      },
+      "id": "ruth.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "De knecht die de leiding over de maaiers had antwoordde: ` Het is die jonge Moabitische, die met Noomi is meegekomen uit de vlakte van Moab.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De knecht die de leiding over de maaiers had antwoordde: ` Het is die jonge Moabitische, die met Noomi is meegekomen uit de vlakte van Moab."
+          }
+        ]
+      },
+      "id": "ruth.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Zij ging naar de dorsvloer en deed wat haar schoonmoeder had gezegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij ging naar de dorsvloer en deed wat haar schoonmoeder had gezegd."
+          }
+        ]
+      },
+      "id": "ruth.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Toen verklaarde de man die familieverplichtingen had tegenover Ruth: ` Dan kan ik mijn recht niet laten gelden. Het zou de ondergang van mijn familiebezit worden. Neemt u mijn rechten maar over; ik kan mijn verplichtingen niet nakomen. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen verklaarde de man die familieverplichtingen had tegenover Ruth: ` Dan kan ik mijn recht niet laten gelden. Het zou de ondergang van mijn familiebezit worden. Neemt u mijn rechten maar over; ik kan mijn verplichtingen niet nakomen. '"
+          }
+        ]
+      },
+      "id": "ruth.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zij verliet dus, samen met haar beide schoondochters, de plaats waar zij gewoond had,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij verliet dus, samen met haar beide schoondochters, de plaats waar zij gewoond had,"
+          }
+        ]
+      },
+      "id": "ruth.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Zij vroeg of zij aren mocht lezen achter de maaiers. Sinds zij vanmorgen hier is gekomen, is zij onafgebroken bezig geweest en heeft zij zich amper rust gegund. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij vroeg of zij aren mocht lezen achter de maaiers. Sinds zij vanmorgen hier is gekomen, is zij onafgebroken bezig geweest en heeft zij zich amper rust gegund. '"
+          }
+        ]
+      },
+      "id": "ruth.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Boaz at en dronk, en welgemoed ging hij daarna slapen, tegen de schelf aan. Zachtjes liep Ruth naar hem toe, sloeg de deken van zijn voeten op en legde zich neer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Boaz at en dronk, en welgemoed ging hij daarna slapen, tegen de schelf aan. Zachtjes liep Ruth naar hem toe, sloeg de deken van zijn voeten op en legde zich neer."
+          }
+        ]
+      },
+      "id": "ruth.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "- Bij terugkoop of ruil bestond vroeger in Israel het volgende gebruik: om de zaak rechtsgeldig te maken deed de ene partij een sandaal uit en gaf die aan de andere. Zo werd in Israel een overeenkomst bekrachtigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "- Bij terugkoop of ruil bestond vroeger in Israel het volgende gebruik: om de zaak rechtsgeldig te maken deed de ene partij een sandaal uit en gaf die aan de andere. Zo werd in Israel een overeenkomst bekrachtigd."
+          }
+        ]
+      },
+      "id": "ruth.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Maar op de terugweg naar Juda zei Noomi tot haar beide schoondochters ` Ga liever terug naar het huis van je moeder. Moge Jahwe tegenover jullie trouw blijven, zoals jullie het zijn gebleven tegenover de doden en mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar op de terugweg naar Juda zei Noomi tot haar beide schoondochters ` Ga liever terug naar het huis van je moeder. Moge Jahwe tegenover jullie trouw blijven, zoals jullie het zijn gebleven tegenover de doden en mij."
+          }
+        ]
+      },
+      "id": "ruth.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Toen richtte Boaz zich tot Ruth en zei: ` Hoor eens, mijn dochter, je moet niet op een andere akker gaan lezen. Ga hier niet vandaan en sluit je aan bij mijn meiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen richtte Boaz zich tot Ruth en zei: ` Hoor eens, mijn dochter, je moet niet op een andere akker gaan lezen. Ga hier niet vandaan en sluit je aan bij mijn meiden."
+          }
+        ]
+      },
+      "id": "ruth.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Midden in de nacht schrok Boaz wakker: hij ging overeind zitten en zag aan zijn voeten een vrouw liggen. Hij vroeg:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Midden in de nacht schrok Boaz wakker: hij ging overeind zitten en zag aan zijn voeten een vrouw liggen. Hij vroeg:"
+          }
+        ]
+      },
+      "id": "ruth.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "De man dus die aanspraak kon maken op de koop zei tegen Boaz: ` Koopt u die grond maar! ' En hij deed zijn sandaal uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De man dus die aanspraak kon maken op de koop zei tegen Boaz: ` Koopt u die grond maar! ' En hij deed zijn sandaal uit."
+          }
+        ]
+      },
+      "id": "ruth.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Jahwe geve ieder van jullie een man, in wiens huis je rust zult vinden. ' Daarop kuste zij hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe geve ieder van jullie een man, in wiens huis je rust zult vinden. ' Daarop kuste zij hen."
+          }
+        ]
+      },
+      "id": "ruth.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Volg ze op de voet en houd je ogen gevestigd op de akker die gemaaid wordt. Ik heb mijn knechten opdracht gegeven, je te laten begaan. En als je dorst krijgt, ga dan naar de waterkruiken en drink van het water dat de knechten geput hebben. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Volg ze op de voet en houd je ogen gevestigd op de akker die gemaaid wordt. Ik heb mijn knechten opdracht gegeven, je te laten begaan. En als je dorst krijgt, ga dan naar de waterkruiken en drink van het water dat de knechten geput hebben. '"
+          }
+        ]
+      },
+      "id": "ruth.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "` Wie bent u? ' Zij antwoordde: ` Ik ben Ruth, uw dienares. Spreid uw mantel uit over uw dienares, want u hebt familieverplichtingen tegenover mij. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "` Wie bent u? ' Zij antwoordde: ` Ik ben Ruth, uw dienares. Spreid uw mantel uit over uw dienares, want u hebt familieverplichtingen tegenover mij. '"
+          }
+        ]
+      },
+      "id": "ruth.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Boaz van zijn kant zei tot de oudsten en tot heel het volk: ` Bij dezen bent u getuigen dat ik van Noomi het hele bezit van Elimelek koop, met alles wat heeft toebehoord aan Kiljon en Machlon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Boaz van zijn kant zei tot de oudsten en tot heel het volk: ` Bij dezen bent u getuigen dat ik van Noomi het hele bezit van Elimelek koop, met alles wat heeft toebehoord aan Kiljon en Machlon."
+          }
+        ]
+      },
+      "id": "ruth.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Maar zij begonnen luid te schreien en zeiden ` Neen, wij willen met u terugkeren naar uw volk. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij begonnen luid te schreien en zeiden ` Neen, wij willen met u terugkeren naar uw volk. '"
+          }
+        ]
+      },
+      "id": "ruth.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Ruth wierp zich diep gebogen ter aarde en zei: ` Waaraan heb ik het verdiend dat u zo goed voor mij bent? Ik ben toch maar een vreemdeling. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth wierp zich diep gebogen ter aarde en zei: ` Waaraan heb ik het verdiend dat u zo goed voor mij bent? Ik ben toch maar een vreemdeling. '"
+          }
+        ]
+      },
+      "id": "ruth.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Hij zei: ` Mijn dochter, wees gezegend door Jahwe! Dit bewijs van trouw is nog mooier dan het vorige; je hebt geen jonge mannen nagelopen, geen arme en geen rijke.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zei: ` Mijn dochter, wees gezegend door Jahwe! Dit bewijs van trouw is nog mooier dan het vorige; je hebt geen jonge mannen nagelopen, geen arme en geen rijke."
+          }
+        ]
+      },
+      "id": "ruth.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Bij deze koop is Ruth ingesloten, de Moabitische, de weduwe van Machlon: ik neem haar als vrouw, om de naam van de overledene op zijn erfdeel te laten voortbestaan, zodat die naam niet verdwijnt uit zijn familie en uit de poort van zijn stad. Bij dezen bent u getuigen. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij deze koop is Ruth ingesloten, de Moabitische, de weduwe van Machlon: ik neem haar als vrouw, om de naam van de overledene op zijn erfdeel te laten voortbestaan, zodat die naam niet verdwijnt uit zijn familie en uit de poort van zijn stad. Bij dezen bent u getuigen. '"
+          }
+        ]
+      },
+      "id": "ruth.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Maar Noomi drong aan ` Gaat toch terug, mijn dochters! Waarom zouden jullie met mij meegaan? Heb ik dan nog zonen in mijn schoot, die jullie mannen kunnen worden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Noomi drong aan ` Gaat toch terug, mijn dochters! Waarom zouden jullie met mij meegaan? Heb ik dan nog zonen in mijn schoot, die jullie mannen kunnen worden?"
+          }
+        ]
+      },
+      "id": "ruth.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Boaz gaf haar ten antwoord: ` Er is mij uitvoerig verteld wat je na de dood van je man allemaal voor je schoonmoeder gedaan hebt; vader, moeder en geboorteland heb je verlaten om naar een volk te gaan dat je tevoren onbekend was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Boaz gaf haar ten antwoord: ` Er is mij uitvoerig verteld wat je na de dood van je man allemaal voor je schoonmoeder gedaan hebt; vader, moeder en geboorteland heb je verlaten om naar een volk te gaan dat je tevoren onbekend was."
+          }
+        ]
+      },
+      "id": "ruth.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Maak je niet ongerust, mijn dochter; ik zal doen wat je van mij vraagt; iedereen in de poort weet immers dat je een voortreffelijke vrouw bent.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maak je niet ongerust, mijn dochter; ik zal doen wat je van mij vraagt; iedereen in de poort weet immers dat je een voortreffelijke vrouw bent."
+          }
+        ]
+      },
+      "id": "ruth.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Het volk dat in de poort bijeen was en de oudsten riepen uit: ` Wij zijn er getuigen van! Jahwe make van de vrouw die uw huis binnentreedt, een Rachel en een Lea, die samen het huis van Israel hebben gebouwd. Werd machtig in Efrata en vestig uw naam in Betlehem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het volk dat in de poort bijeen was en de oudsten riepen uit: ` Wij zijn er getuigen van! Jahwe make van de vrouw die uw huis binnentreedt, een Rachel en een Lea, die samen het huis van Israel hebben gebouwd. Werd machtig in Efrata en vestig uw naam in Betlehem."
+          }
+        ]
+      },
+      "id": "ruth.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Gaat toch terug, mijn dochters. Ik ben immers te oud om nog een man te krijgen. En al zou ik zeggen Er is nog hoop voor mij, en al zou ik nog vannacht een man hebben en zonen krijgen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gaat toch terug, mijn dochters. Ik ben immers te oud om nog een man te krijgen. En al zou ik zeggen Er is nog hoop voor mij, en al zou ik nog vannacht een man hebben en zonen krijgen,"
+          }
+        ]
+      },
+      "id": "ruth.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Jahwe, de God van Israel, onder wiens vleugels je een toevlucht gezocht hebt, moge je dat vergelden en niets laten ontbreken aan je loon. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, de God van Israel, onder wiens vleugels je een toevlucht gezocht hebt, moge je dat vergelden en niets laten ontbreken aan je loon. '"
+          }
+        ]
+      },
+      "id": "ruth.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Maar al is het waar dat ik familieverplichtingen tegenover je heb, er is nog iemand anders die deze verplichtingen heeft en die nader aan je verwant is dan ik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar al is het waar dat ik familieverplichtingen tegenover je heb, er is nog iemand anders die deze verplichtingen heeft en die nader aan je verwant is dan ik."
+          }
+        ]
+      },
+      "id": "ruth.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Uw huis worde als dat van Peres, de zoon van Tamar en Juda, door de kinderen die Jahwe u uit deze jonge vrouw zal geven. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw huis worde als dat van Peres, de zoon van Tamar en Juda, door de kinderen die Jahwe u uit deze jonge vrouw zal geven. '"
+          }
+        ]
+      },
+      "id": "ruth.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "wachten jullie dan tot ze groot zijn? Zouden jullie er zo lang in berusten, aan geen man toe te behoren? Neen, mijn dochters, mijn lot is te bitter voor jullie, want Jahwe's hand heeft zich tegen mij gekeerd. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wachten jullie dan tot ze groot zijn? Zouden jullie er zo lang in berusten, aan geen man toe te behoren? Neen, mijn dochters, mijn lot is te bitter voor jullie, want Jahwe's hand heeft zich tegen mij gekeerd. '"
+          }
+        ]
+      },
+      "id": "ruth.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ruth antwoordde: ` U bent goed voor mij geweest, mijnheer, door mij gerust te stellen en zo vriendelijk tot uw dienares te spreken, terwijl ik niet eens een van uw dienaressen ben. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth antwoordde: ` U bent goed voor mij geweest, mijnheer, door mij gerust te stellen en zo vriendelijk tot uw dienares te spreken, terwijl ik niet eens een van uw dienaressen ben. '"
+          }
+        ]
+      },
+      "id": "ruth.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "BLIJF vannacht maar hier. Blijkt morgen dat die man zijn verplichtingen tegenover jou wil nakomen, goed, laat hij ze nakomen. Is hij er niet toe bereid, dan zal ik, zo waar Jahwe leeft, mijn verplichtingen tegenover jou nakomen. Slaap nu maar rustig tot het ochtend is. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "BLIJF vannacht maar hier. Blijkt morgen dat die man zijn verplichtingen tegenover jou wil nakomen, goed, laat hij ze nakomen. Is hij er niet toe bereid, dan zal ik, zo waar Jahwe leeft, mijn verplichtingen tegenover jou nakomen. Slaap nu maar rustig tot het ochtend is. '"
+          }
+        ]
+      },
+      "id": "ruth.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Zo nam Boaz Ruth tot vrouw. Hij had gemeenschap met haar; door Jahwe's gunst werd zij zwanger en baarde een zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo nam Boaz Ruth tot vrouw. Hij had gemeenschap met haar; door Jahwe's gunst werd zij zwanger en baarde een zoon."
+          }
+        ]
+      },
+      "id": "ruth.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Maar zij bleven luid schreien. Tenslotte kuste Orpa haar schoonmoeder vaarwel, maar Ruth klemde zich aan haar vast.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij bleven luid schreien. Tenslotte kuste Orpa haar schoonmoeder vaarwel, maar Ruth klemde zich aan haar vast."
+          }
+        ]
+      },
+      "id": "ruth.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Toen het etenstijd was, zei Boaz tot haar: ` Kom erbij, dan kun je met ons eten en je brood dopen in de azijn. ' Zij ging bij de maaiers zitten en Boaz gaf haar gepoft graan. Zij at tot ze verzadigd was en hield nog over.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen het etenstijd was, zei Boaz tot haar: ` Kom erbij, dan kun je met ons eten en je brood dopen in de azijn. ' Zij ging bij de maaiers zitten en Boaz gaf haar gepoft graan. Zij at tot ze verzadigd was en hield nog over."
+          }
+        ]
+      },
+      "id": "ruth.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Zij bleef tot de ochtend aan zijn voeten liggen en nog voor het zo licht werd dat men iemand kon herkennen stond zij op, want Boaz had gezegd: ` Niemand mag weten dat de vrouw op de dorsvloer geweest is. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij bleef tot de ochtend aan zijn voeten liggen en nog voor het zo licht werd dat men iemand kon herkennen stond zij op, want Boaz had gezegd: ` Niemand mag weten dat de vrouw op de dorsvloer geweest is. '"
+          }
+        ]
+      },
+      "id": "ruth.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Toen zeiden de vrouwen tot Noomi: ` Gezegend zij Jahwe, die u nu toch nog een erfgenaam heeft geschonken, wiens naam in Israel zal gevestigd zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zeiden de vrouwen tot Noomi: ` Gezegend zij Jahwe, die u nu toch nog een erfgenaam heeft geschonken, wiens naam in Israel zal gevestigd zijn."
+          }
+        ]
+      },
+      "id": "ruth.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Noomi zei ` Je schoonzuster keert terug naar haar volk en haar goden. Ga toch met haar mee! '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi zei ` Je schoonzuster keert terug naar haar volk en haar goden. Ga toch met haar mee! '"
+          }
+        ]
+      },
+      "id": "ruth.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Toen zij opstond om weer aren te gaan lezen, gaf Boaz zijn knechten bevel: ` Ook rondom de schoven mag zij lezen en jullie mogen het haar niet lastig maken;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zij opstond om weer aren te gaan lezen, gaf Boaz zijn knechten bevel: ` Ook rondom de schoven mag zij lezen en jullie mogen het haar niet lastig maken;"
+          }
+        ]
+      },
+      "id": "ruth.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Hij zei tot Ruth: ` Kom hier met je omslagdoek en houd hem open. ' Zij hield hem open en hij mat zes maten eerst af en deed die erin. Daarna ging zij naar de stad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zei tot Ruth: ` Kom hier met je omslagdoek en houd hem open. ' Zij hield hem open en hij mat zes maten eerst af en deed die erin. Daarna ging zij naar de stad."
+          }
+        ]
+      },
+      "id": "ruth.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Hij zal u doen herleven en u een steun zijn op uw oude dag, want uw schoondochter, die zoveel van u houdt, heeft hem gebaard: zij betekent meer voor u dan zeven zonen. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal u doen herleven en u een steun zijn op uw oude dag, want uw schoondochter, die zoveel van u houdt, heeft hem gebaard: zij betekent meer voor u dan zeven zonen. '"
+          }
+        ]
+      },
+      "id": "ruth.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Maar Ruth antwoordde ` Dring er niet langer op aan dat ik u verlaat en terugkeer, zo ver van u weg. Waar u gaat, ga ik; waar u blijft, blijf ik. Uw volk is mijn volk, uw God mijn God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Ruth antwoordde ` Dring er niet langer op aan dat ik u verlaat en terugkeer, zo ver van u weg. Waar u gaat, ga ik; waar u blijft, blijf ik. Uw volk is mijn volk, uw God mijn God."
+          }
+        ]
+      },
+      "id": "ruth.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "integendeel, trek opzettelijk wat aren uit de schoven en laat die vallen; en als zij die opraapt maak er dan geen aanmerking op. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "integendeel, trek opzettelijk wat aren uit de schoven en laat die vallen; en als zij die opraapt maak er dan geen aanmerking op. '"
+          }
+        ]
+      },
+      "id": "ruth.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Toen zij bij haar schoonmoeder aankwam, vroeg deze: ` Hoe is het je vergaan, mijn dochter? ' Zij vertelde wat de man voor haar gedaan had en zei:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zij bij haar schoonmoeder aankwam, vroeg deze: ` Hoe is het je vergaan, mijn dochter? ' Zij vertelde wat de man voor haar gedaan had en zei:"
+          }
+        ]
+      },
+      "id": "ruth.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Noomi nam het kind op haar schoot en verzorgde het.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi nam het kind op haar schoot en verzorgde het."
+          }
+        ]
+      },
+      "id": "ruth.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Waar u sterft zal ik sterven en daar ook begraven worden. Jahwe moge mij dit aandoen en nog erger, wanneer iets anders dan de dood ons zou scheiden. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar u sterft zal ik sterven en daar ook begraven worden. Jahwe moge mij dit aandoen en nog erger, wanneer iets anders dan de dood ons zou scheiden. '"
+          }
+        ]
+      },
+      "id": "ruth.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Zo bleef zij tot de avond aren lezen op het land. Toen klopte zij de aren leeg die ze had bijeengelezen; zij had bijna een hele efa gerst",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo bleef zij tot de avond aren lezen op het land. Toen klopte zij de aren leeg die ze had bijeengelezen; zij had bijna een hele efa gerst"
+          }
+        ]
+      },
+      "id": "ruth.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "` Hij heeft me zes maten gerst meegegeven en erbij gezegd: Jij mag bij je schoonmoeder niet met lege handen aankomen! '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "` Hij heeft me zes maten gerst meegegeven en erbij gezegd: Jij mag bij je schoonmoeder niet met lege handen aankomen! '"
+          }
+        ]
+      },
+      "id": "ruth.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "De buurvrouwen gaven het kind een naam en zeiden: ` Noomi is een zoon geboren. ' Zij noemden het kind Obed. Hij is de vader van Isai, de vader van David.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De buurvrouwen gaven het kind een naam en zeiden: ` Noomi is een zoon geboren. ' Zij noemden het kind Obed. Hij is de vader van Isai, de vader van David."
+          }
+        ]
+      },
+      "id": "ruth.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Noomi zag dat Ruth vastbesloten was, met haar mee te gaan en zij drong niet langer aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi zag dat Ruth vastbesloten was, met haar mee te gaan en zij drong niet langer aan."
+          }
+        ]
+      },
+      "id": "ruth.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "en ging daarmee naar de stad. Toen haar schoonmoeder zag, hoeveel zij verzameld had, en toen Ruth ook nog het overschot van de overvloedige maaltijd voor den dag haalde en haar dit gaf,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en ging daarmee naar de stad. Toen haar schoonmoeder zag, hoeveel zij verzameld had, en toen Ruth ook nog het overschot van de overvloedige maaltijd voor den dag haalde en haar dit gaf,"
+          }
+        ]
+      },
+      "id": "ruth.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Noomi antwoordde: ` Blijf nu maar hier, mijn dochter, tot je weet hoe de zaak haar beslag heeft gekregen. Die man zal niet rusten; hij brengt de zaak vandaag nog in orde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi antwoordde: ` Blijf nu maar hier, mijn dochter, tot je weet hoe de zaak haar beslag heeft gekregen. Die man zal niet rusten; hij brengt de zaak vandaag nog in orde."
+          }
+        ]
+      },
+      "id": "ruth.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Dit zijn de nakomelingen van Peres. Peres verwekte Chesron,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit zijn de nakomelingen van Peres. Peres verwekte Chesron,"
+          }
+        ]
+      },
+      "id": "ruth.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Samen trokken zij verder tot zij in Bethlehem waren. Hun komst bracht de hele stad in beroering; de vrouwen zeiden",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Samen trokken zij verder tot zij in Bethlehem waren. Hun komst bracht de hele stad in beroering; de vrouwen zeiden"
+          }
+        ]
+      },
+      "id": "ruth.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "zei haar schoonmoeder: ` Waar heb jij vandaag aren gelezen? Waar heb je gewerkt? Gezegend de man die zo vriendelijk voor je geweest is. ' Ruth vertelde haar schoonmoeder, bij wie ze gewerkt had. ` De man bij wie ik vandaag gewerkt heb, ' zei ze, ` heet Boaz. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zei haar schoonmoeder: ` Waar heb jij vandaag aren gelezen? Waar heb je gewerkt? Gezegend de man die zo vriendelijk voor je geweest is. ' Ruth vertelde haar schoonmoeder, bij wie ze gewerkt had. ` De man bij wie ik vandaag gewerkt heb, ' zei ze, ` heet Boaz. '"
+          }
+        ]
+      },
+      "id": "ruth.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Chesron verwekte Ram, Ram verwekte Amminadab,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Chesron verwekte Ram, Ram verwekte Amminadab,"
+          }
+        ]
+      },
+      "id": "ruth.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "` Maar dat is Noomi! ' Zij antwoordde ` Noem mij niet langer Noomi; noem mij liever Mara, want de Almachtige heeft mij een bitter lot gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "` Maar dat is Noomi! ' Zij antwoordde ` Noem mij niet langer Noomi; noem mij liever Mara, want de Almachtige heeft mij een bitter lot gegeven."
+          }
+        ]
+      },
+      "id": "ruth.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Noomi zei tot haar schoondochter: ` Moge die man gezegend worden door Jahwe die tegenover de levenden en de doden zijn trouw handhaaft. ' Zij vervolgde: ` Die man is met ons verwant; hij is een van degenen die familieverplichtingen tegenover ons hebben. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi zei tot haar schoondochter: ` Moge die man gezegend worden door Jahwe die tegenover de levenden en de doden zijn trouw handhaaft. ' Zij vervolgde: ` Die man is met ons verwant; hij is een van degenen die familieverplichtingen tegenover ons hebben. '"
+          }
+        ]
+      },
+      "id": "ruth.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Amminadab verwekte Nachson, Nachson verwekte Salma,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Amminadab verwekte Nachson, Nachson verwekte Salma,"
+          }
+        ]
+      },
+      "id": "ruth.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Rijk ben ik hier weggegaan, met lege handen laat Jahwe mij terugkomen. Waarom mij nog Noomi noemen, nu Jahwe tegen mij heeft getuigd en de Almachtige mij zo slecht heeft behandeld? '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rijk ben ik hier weggegaan, met lege handen laat Jahwe mij terugkomen. Waarom mij nog Noomi noemen, nu Jahwe tegen mij heeft getuigd en de Almachtige mij zo slecht heeft behandeld? '"
+          }
+        ]
+      },
+      "id": "ruth.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Ruth, de Moabitische, zei: ` Hij heeft mij zelfs gezegd dat ik mij bij zijn knechten kon aansluiten totdat zij al zijn koren gemaaid hebben. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth, de Moabitische, zei: ` Hij heeft mij zelfs gezegd dat ik mij bij zijn knechten kon aansluiten totdat zij al zijn koren gemaaid hebben. '"
+          }
+        ]
+      },
+      "id": "ruth.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Salmon verwekte Boaz, Boaz verwekte Obed,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Salmon verwekte Boaz, Boaz verwekte Obed,"
+          }
+        ]
+      },
+      "id": "ruth.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Zo keerde Noomi, samen met haar schoondochter Ruth, de Moabitische, uit de vlakte van Moab terug. Zij kwamen in Betlehem aan bij het begin van de gersteoogst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo keerde Noomi, samen met haar schoondochter Ruth, de Moabitische, uit de vlakte van Moab terug. Zij kwamen in Betlehem aan bij het begin van de gersteoogst."
+          }
+        ]
+      },
+      "id": "ruth.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Noomi antwoordde: ` Het is goed, mijn dochter, dat je met zijn meiden meegaat. Op een andere akker zouden ze wel eens moeilijkheden kunnen maken. '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Noomi antwoordde: ` Het is goed, mijn dochter, dat je met zijn meiden meegaat. Op een andere akker zouden ze wel eens moeilijkheden kunnen maken. '"
+          }
+        ]
+      },
+      "id": "ruth.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Obed verwekte Isai en Isai verwekte David.\u001a",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Obed verwekte Isai en Isai verwekte David."
+          }
+        ]
+      },
+      "id": "ruth.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Ruth bleef dus bij de meiden van Boaz om tot het einde van de gerste - en tarweoogst aren te lezen. Zij bleef bij haar schoonmoeder wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ruth bleef dus bij de meiden van Boaz om tot het einde van de gerste - en tarweoogst aren te lezen. Zij bleef bij haar schoonmoeder wonen."
+          }
+        ]
+      },
+      "id": "ruth.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

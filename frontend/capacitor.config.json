@@ -1,0 +1,12 @@
+{
+  "appId": "nl.fido21.bijbel",
+  "appName": "Bijbel API",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic",
+    "allowsLinkPreview": false
+  }
+}

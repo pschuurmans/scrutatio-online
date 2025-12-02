@@ -1,0 +1,1997 @@
+{
+  "id": "hooglied",
+  "name": "Hooglied",
+  "chapters": 8,
+  "verseCount": 117,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het hooglied van Salomo.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het hooglied van Salomo."
+          }
+        ]
+      },
+      "id": "hooglied.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Ik ben een krokus van de Saronvlakte, een lelietje van dalen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben een krokus van de Saronvlakte, een lelietje van dalen!"
+          }
+        ]
+      },
+      "id": "hooglied.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Des nacht op mijn bed zoek ik mijn zielsbeminde, maar hoe ik ook zoek, ik vind hem niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Des nacht op mijn bed zoek ik mijn zielsbeminde, maar hoe ik ook zoek, ik vind hem niet."
+          }
+        ]
+      },
+      "id": "hooglied.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Wat ben je mooi, mijn vriendin, wat ben je mooi! Je ogen achter je sluier zijn als duiven; je lokken zijn als een kudde geiten die neergolven van Gileads bergen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ben je mooi, mijn vriendin, wat ben je mooi! Je ogen achter je sluier zijn als duiven; je lokken zijn als een kudde geiten die neergolven van Gileads bergen."
+          }
+        ]
+      },
+      "id": "hooglied.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Ik ben al in mijn tuin, mijn zuster, mijn bruid, ik vergaar er mijn mirre en balsem, ik eet er mijn honingraat, ik drink er mijn wijn en mijn melk. Eet vrienden, en drink en word dronken van liefde!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben al in mijn tuin, mijn zuster, mijn bruid, ik vergaar er mijn mirre en balsem, ik eet er mijn honingraat, ik drink er mijn wijn en mijn melk. Eet vrienden, en drink en word dronken van liefde!"
+          }
+        ]
+      },
+      "id": "hooglied.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Waar is uw lief dan heengegaan, schoonste der vrouwen? Welke richting is hij ingeslagen? Dan zullen wij hem samen met u zoeken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar is uw lief dan heengegaan, schoonste der vrouwen? Welke richting is hij ingeslagen? Dan zullen wij hem samen met u zoeken."
+          }
+        ]
+      },
+      "id": "hooglied.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Terug, kom terug, Sulammitische! Terug, kom terug, wij willen u zien! Waarom wilt u de Sulammitische zien? Zij is toch geen straatdanseres?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terug, kom terug, Sulammitische! Terug, kom terug, wij willen u zien! Waarom wilt u de Sulammitische zien? Zij is toch geen straatdanseres?"
+          }
+        ]
+      },
+      "id": "hooglied.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Was u maar mijn broeder, gevoed aan de borsten van mijn moeder! Dan kon ik u kussen als ik u op straat ontmoette en niemand zou er aanstoot aan nemen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Was u maar mijn broeder, gevoed aan de borsten van mijn moeder! Dan kon ik u kussen als ik u op straat ontmoette en niemand zou er aanstoot aan nemen!"
+          }
+        ]
+      },
+      "id": "hooglied.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Overstelp mij met de kussen van uw mond, want uw liefkozingen zijn zoeter dan wijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Overstelp mij met de kussen van uw mond, want uw liefkozingen zijn zoeter dan wijn."
+          }
+        ]
+      },
+      "id": "hooglied.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ja, als een lelie onder de doornen, zo is mijn vriendin onder de meisjes.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, als een lelie onder de doornen, zo is mijn vriendin onder de meisjes."
+          }
+        ]
+      },
+      "id": "hooglied.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Ik sta op, doorkruis de stad, zoek op pleinen en in straten naar mijn zielsbeminde, maar hoe ik ook zoek, ik vind hem niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik sta op, doorkruis de stad, zoek op pleinen en in straten naar mijn zielsbeminde, maar hoe ik ook zoek, ik vind hem niet."
+          }
+        ]
+      },
+      "id": "hooglied.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Je tanden zijn als een kudde schapen die pas geschoren uit het bad komen, twee aan twee, en geen enkele is alleen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je tanden zijn als een kudde schapen die pas geschoren uit het bad komen, twee aan twee, en geen enkele is alleen."
+          }
+        ]
+      },
+      "id": "hooglied.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Ik sliep, maar mijn hart was wakker. Daar hoorde ik mijn geliefde kloppen: Doe open, mijn zuster, mijn vriendin, mijn duifje, mijn schoonste. Mijn hoofd is nat van de dauw, mijn lokken zijn vochtig van de nachtelijke nevels.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik sliep, maar mijn hart was wakker. Daar hoorde ik mijn geliefde kloppen: Doe open, mijn zuster, mijn vriendin, mijn duifje, mijn schoonste. Mijn hoofd is nat van de dauw, mijn lokken zijn vochtig van de nachtelijke nevels."
+          }
+        ]
+      },
+      "id": "hooglied.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Mijn lief is naar zijn tuin gegaan, naar zijn balsemgaard, om daar te weiden en er lelies te plukken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn lief is naar zijn tuin gegaan, naar zijn balsemgaard, om daar te weiden en er lelies te plukken."
+          }
+        ]
+      },
+      "id": "hooglied.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Hoe welgevormd zijn je voeten in de sandalen, prinses! De ronding van je heupen is als een halssnoer, gemaakt door een kunstenaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe welgevormd zijn je voeten in de sandalen, prinses! De ronding van je heupen is als een halssnoer, gemaakt door een kunstenaar."
+          }
+        ]
+      },
+      "id": "hooglied.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Ik zou u bij de hand nemen, u in het huis van mijn moeder brengen: u zou mij leren, en ik zou u gekruide wijn te drinken geven en de most van mijn granaatappels.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zou u bij de hand nemen, u in het huis van mijn moeder brengen: u zou mij leren, en ik zou u gekruide wijn te drinken geven en de most van mijn granaatappels."
+          }
+        ]
+      },
+      "id": "hooglied.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Uw zalven zijn heerlijk om te ruiken, de klank van uw naam is als rijk parfum; daarom hebben de meisjes u lief.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw zalven zijn heerlijk om te ruiken, de klank van uw naam is als rijk parfum; daarom hebben de meisjes u lief."
+          }
+        ]
+      },
+      "id": "hooglied.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Als een kweeboom tussen het wilde hout, zo is mijn lief onder de jonge mannen. Ik smacht ernaar in zijn schaduw te zitten; zijn vrucht is zoet voor mijn mond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een kweeboom tussen het wilde hout, zo is mijn lief onder de jonge mannen. Ik smacht ernaar in zijn schaduw te zitten; zijn vrucht is zoet voor mijn mond."
+          }
+        ]
+      },
+      "id": "hooglied.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Daar kom ik de wachters tegen die de stad doorkruisen: `Hebt U mijn zielsbeminde gezien?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar kom ik de wachters tegen die de stad doorkruisen: `Hebt U mijn zielsbeminde gezien?'"
+          }
+        ]
+      },
+      "id": "hooglied.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Je lippen zijn een lint van purper, je mond is zo bekoorlijk, je wangen achter je sluier zijn als het hart van een granaatappel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je lippen zijn een lint van purper, je mond is zo bekoorlijk, je wangen achter je sluier zijn als het hart van een granaatappel."
+          }
+        ]
+      },
+      "id": "hooglied.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Maar ik heb mijn kleed al uitgetrokken, moet ik mij weer aankleden? Ik heb mijn voeten gewassen, moeten ze weer vuil worden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik heb mijn kleed al uitgetrokken, moet ik mij weer aankleden? Ik heb mijn voeten gewassen, moeten ze weer vuil worden?"
+          }
+        ]
+      },
+      "id": "hooglied.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Ik ben van mijn lief en mijn lief is van mij; hij weidt tussen de lelies.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben van mijn lief en mijn lief is van mij; hij weidt tussen de lelies."
+          }
+        ]
+      },
+      "id": "hooglied.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Je navel is een ronde kom: moge de gekruide wijn er niet ontbreken. Je schoot is als een tarwehoop, door lelies omgeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je navel is een ronde kom: moge de gekruide wijn er niet ontbreken. Je schoot is als een tarwehoop, door lelies omgeven."
+          }
+        ]
+      },
+      "id": "hooglied.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Zijn linkerarm is onder mijn hoofd. en zijn rechter om mij heen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn linkerarm is onder mijn hoofd. en zijn rechter om mij heen."
+          }
+        ]
+      },
+      "id": "hooglied.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Trek mij mee, laat ons vluchten, neem mij mee, o koning, in uw vertrekken! Wij willen juichen, ons met u verblijden, wij willen zingen van uw liefde, zoeter dan wijn: iedereen moet wel van u houden!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trek mij mee, laat ons vluchten, neem mij mee, o koning, in uw vertrekken! Wij willen juichen, ons met u verblijden, wij willen zingen van uw liefde, zoeter dan wijn: iedereen moet wel van u houden!"
+          }
+        ]
+      },
+      "id": "hooglied.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Hij heeft mij binnengeleid in het wijnhuis waar het schild van de liefde uithangt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft mij binnengeleid in het wijnhuis waar het schild van de liefde uithangt."
+          }
+        ]
+      },
+      "id": "hooglied.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nauwelijks ben ik ze voorbij, of daar vind ik mijn zielsbeminde! Ik pak hem vast en laat hem niet meer los voor ik hem binnengeleid heb in het huis van mijn moeder, in de kamer van haar die mij het leven schonk!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nauwelijks ben ik ze voorbij, of daar vind ik mijn zielsbeminde! Ik pak hem vast en laat hem niet meer los voor ik hem binnengeleid heb in het huis van mijn moeder, in de kamer van haar die mij het leven schonk!"
+          }
+        ]
+      },
+      "id": "hooglied.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Je hals is als de toren van David, gebouwd om er trofeeën aan te hangen: duizend schilden hangen rondom, allemaal schilden van helden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je hals is als de toren van David, gebouwd om er trofeeën aan te hangen: duizend schilden hangen rondom, allemaal schilden van helden."
+          }
+        ]
+      },
+      "id": "hooglied.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Daarop stak mijn lief zijn hand door het klinkgat. Ik kreeg met hem te doen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop stak mijn lief zijn hand door het klinkgat. Ik kreeg met hem te doen"
+          }
+        ]
+      },
+      "id": "hooglied.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Je bent mooi, mijn vriendin, mooi als Tirsa, bekoorlijk als Jeruzalem, maar ook geducht als een leger in slagorde!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je bent mooi, mijn vriendin, mooi als Tirsa, bekoorlijk als Jeruzalem, maar ook geducht als een leger in slagorde!"
+          }
+        ]
+      },
+      "id": "hooglied.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Je beide borsten zijn twee welpen, de tweeling van een gazel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je beide borsten zijn twee welpen, de tweeling van een gazel."
+          }
+        ]
+      },
+      "id": "hooglied.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Ik bezweer u, dochters van Jeruzalem, wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bezweer u, dochters van Jeruzalem, wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil."
+          }
+        ]
+      },
+      "id": "hooglied.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Wel ben ik donker, maar toch bekoorlijk, dochters van Jeruzalem, als tenten van Kedar, als paviljoens van Salma.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wel ben ik donker, maar toch bekoorlijk, dochters van Jeruzalem, als tenten van Kedar, als paviljoens van Salma."
+          }
+        ]
+      },
+      "id": "hooglied.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Sterk mij met druivenkoeken, verkwik mij met kweeappels, want ik ben ziek van liefde!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sterk mij met druivenkoeken, verkwik mij met kweeappels, want ik ben ziek van liefde!"
+          }
+        ]
+      },
+      "id": "hooglied.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Ik bezweer u, dochters van Jeruzalem, bij de gazellen en bij de hinden in het veld: wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bezweer u, dochters van Jeruzalem, bij de gazellen en bij de hinden in het veld: wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil."
+          }
+        ]
+      },
+      "id": "hooglied.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Je beide borsten zijn twee welpen, de tweeling van een gazel, weidend tussen de lelies.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je beide borsten zijn twee welpen, de tweeling van een gazel, weidend tussen de lelies."
+          }
+        ]
+      },
+      "id": "hooglied.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "en stond op om de deur te openen voor mijn lief. Mijn handen dropen van mirre, van mijn vingers vloeide de mirre op de handgrepen van de sluitboom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en stond op om de deur te openen voor mijn lief. Mijn handen dropen van mirre, van mijn vingers vloeide de mirre op de handgrepen van de sluitboom."
+          }
+        ]
+      },
+      "id": "hooglied.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Wend je ogen van mij af, ze brengen me in verwarring. Je lokken zijn als een kudde geiten, die neergolven van Gileads bergen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wend je ogen van mij af, ze brengen me in verwarring. Je lokken zijn als een kudde geiten, die neergolven van Gileads bergen;"
+          }
+        ]
+      },
+      "id": "hooglied.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Je hals is als de ivoren toren, je ogen zijn als de vijvers van Bat-rabbim, de poort van Chesbon. Je neus is als de Libanontoren, die uitziet op Damascus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je hals is als de ivoren toren, je ogen zijn als de vijvers van Bat-rabbim, de poort van Chesbon. Je neus is als de Libanontoren, die uitziet op Damascus."
+          }
+        ]
+      },
+      "id": "hooglied.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Wie komt daar aan uit de woestijn, leunend op de arm van haar lief? Onder de kweeappelboom heb ik je gewekt, daar waar je moeder je ontving, daar waar zij die je baarde je ontvangen heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie komt daar aan uit de woestijn, leunend op de arm van haar lief? Onder de kweeappelboom heb ik je gewekt, daar waar je moeder je ontving, daar waar zij die je baarde je ontvangen heeft."
+          }
+        ]
+      },
+      "id": "hooglied.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Minacht mij niet omdat ik donker ben: de zon heeft mij gekleurd. De zonen van mijn moeder waren hard tegen mij: zij lieten mij hun wijngaarden bewaken, zo heb ik voor mijn eigen wijngaard niet kunnen zorgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Minacht mij niet omdat ik donker ben: de zon heeft mij gekleurd. De zonen van mijn moeder waren hard tegen mij: zij lieten mij hun wijngaarden bewaken, zo heb ik voor mijn eigen wijngaard niet kunnen zorgen."
+          }
+        ]
+      },
+      "id": "hooglied.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Zijn linkerarm is onder mijn hoofd en zijn rechter om mij heen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn linkerarm is onder mijn hoofd en zijn rechter om mij heen."
+          }
+        ]
+      },
+      "id": "hooglied.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Wat komt daar aan uit de woestijn, gehuld in wolken van rook, van geurige mirre en wierook, van kruiden uit verre landen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat komt daar aan uit de woestijn, gehuld in wolken van rook, van geurige mirre en wierook, van kruiden uit verre landen?"
+          }
+        ]
+      },
+      "id": "hooglied.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Voordat de morgenbries opsteekt en de schaduwen vlieden ga ik naar de mirreberg en de wierookheuvel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voordat de morgenbries opsteekt en de schaduwen vlieden ga ik naar de mirreberg en de wierookheuvel."
+          }
+        ]
+      },
+      "id": "hooglied.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Ik opende de deur voor mijn lief, maar mijn lief was weg, verdwenen. Ik ging achter hem aan; ik zocht naar hem, maar vond hem niet; ik riep naar hem, maar er kwam geen antwoord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik opende de deur voor mijn lief, maar mijn lief was weg, verdwenen. Ik ging achter hem aan; ik zocht naar hem, maar vond hem niet; ik riep naar hem, maar er kwam geen antwoord."
+          }
+        ]
+      },
+      "id": "hooglied.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "je tanden zijn als een kudde ooien die opstijgen uit het bad; twee aan twee, en geen enkele is alleen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "je tanden zijn als een kudde ooien die opstijgen uit het bad; twee aan twee, en geen enkele is alleen."
+          }
+        ]
+      },
+      "id": "hooglied.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Je hoofd is als de Karmel, je haarlokken zijn omwonden met een band van koningspurper.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je hoofd is als de Karmel, je haarlokken zijn omwonden met een band van koningspurper."
+          }
+        ]
+      },
+      "id": "hooglied.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Draag mij als een zegel op uw hart, als een zegel aan uw arm: want sterk als de dood is de liefde, met de onverbiddelijkheid van het dodenrijk sluit zij ieder ander buiten. Haar vonken zijn bliksemschichten, vlammen van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Draag mij als een zegel op uw hart, als een zegel aan uw arm: want sterk als de dood is de liefde, met de onverbiddelijkheid van het dodenrijk sluit zij ieder ander buiten. Haar vonken zijn bliksemschichten, vlammen van Jahwe."
+          }
+        ]
+      },
+      "id": "hooglied.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zeg mij toch, mijn zielsbeminde, waar laat u uw kudde grazen, waar rusten uw schapen in de middag? Moet ik soms als een gesluierde de kudden van uw vrienden afgaan?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeg mij toch, mijn zielsbeminde, waar laat u uw kudde grazen, waar rusten uw schapen in de middag? Moet ik soms als een gesluierde de kudden van uw vrienden afgaan?"
+          }
+        ]
+      },
+      "id": "hooglied.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Ik bezweer u, dochters van Jeruzalem, bij de gazellen en bij de hinden in het veld: wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bezweer u, dochters van Jeruzalem, bij de gazellen en bij de hinden in het veld: wek mijn geliefde niet, maar laat haar sluimeren zolang ze wil."
+          }
+        ]
+      },
+      "id": "hooglied.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Het is de draagkoets van Salomo, door zestig van Israëls helden omringd,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is de draagkoets van Salomo, door zestig van Israëls helden omringd,"
+          }
+        ]
+      },
+      "id": "hooglied.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Je bent volmaakt schoon, mijn vriendin, zonder enig gebrek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je bent volmaakt schoon, mijn vriendin, zonder enig gebrek."
+          }
+        ]
+      },
+      "id": "hooglied.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Daar stiet ik op de wachters die de stad doorkruisten. Zij sloegen mij, verwondden mij, ze rukten me mijn sluier af, de wachters van de stad!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar stiet ik op de wachters die de stad doorkruisten. Zij sloegen mij, verwondden mij, ze rukten me mijn sluier af, de wachters van de stad!"
+          }
+        ]
+      },
+      "id": "hooglied.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Je wangen achter je sluier zijn als het hart van een granaatappel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je wangen achter je sluier zijn als het hart van een granaatappel."
+          }
+        ]
+      },
+      "id": "hooglied.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Hoe mooi ben je, mijn liefste, hoe bevallig en bekoorlijk!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe mooi ben je, mijn liefste, hoe bevallig en bekoorlijk!"
+          }
+        ]
+      },
+      "id": "hooglied.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Geen stortvloed van water kan de liefde blussen, geen rivier spoelt haar weg. Al bood iemand al wat hij bezit voor de liefde, met verachting zou men hem afwijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geen stortvloed van water kan de liefde blussen, geen rivier spoelt haar weg. Al bood iemand al wat hij bezit voor de liefde, met verachting zou men hem afwijzen."
+          }
+        ]
+      },
+      "id": "hooglied.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Als u niet weet waar hij weidt, schoonste der vrouwen, volg dan het spoor van de kudde en ga uw geiten hoeden bij de tenten der herders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als u niet weet waar hij weidt, schoonste der vrouwen, volg dan het spoor van de kudde en ga uw geiten hoeden bij de tenten der herders."
+          }
+        ]
+      },
+      "id": "hooglied.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Hoor, daar is mijn lief! Kijk, daar komt hij aan: springend komt hij over de bergen, over de heuvels komt hij aangesneld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoor, daar is mijn lief! Kijk, daar komt hij aan: springend komt hij over de bergen, over de heuvels komt hij aangesneld."
+          }
+        ]
+      },
+      "id": "hooglied.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "allen ervaren krijgers, die het zwaard weten te hanteren; zij dragen het zwaard aan de gordel tegen onraad bij nacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "allen ervaren krijgers, die het zwaard weten te hanteren; zij dragen het zwaard aan de gordel tegen onraad bij nacht."
+          }
+        ]
+      },
+      "id": "hooglied.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Kom van de Libanon, mijn bruid, kom van de Libanon, kom; daal af van de top van de Amana, van de top van de Senir en de Hermon, de bergen waar leeuwen legeren en panters huizen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom van de Libanon, mijn bruid, kom van de Libanon, kom; daal af van de top van de Amana, van de top van de Senir en de Hermon, de bergen waar leeuwen legeren en panters huizen."
+          }
+        ]
+      },
+      "id": "hooglied.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Ik bezweer u, dochters van Jeruzalem, als u mijn lief vindt, zeg hem dat ik ziek ben van liefde!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bezweer u, dochters van Jeruzalem, als u mijn lief vindt, zeg hem dat ik ziek ben van liefde!"
+          }
+        ]
+      },
+      "id": "hooglied.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Koninginnen zijn er wel zestig, en bijvrouwen tachtig, en jonge meisjes zijn er zonder tal,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Koninginnen zijn er wel zestig, en bijvrouwen tachtig, en jonge meisjes zijn er zonder tal,"
+          }
+        ]
+      },
+      "id": "hooglied.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Je gestalte is zo slank als een palm, je borsten zijn als druiventrossen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je gestalte is zo slank als een palm, je borsten zijn als druiventrossen."
+          }
+        ]
+      },
+      "id": "hooglied.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Een zusje hebben wij, borsten heeft ze nog niet. Wat kunnen we voor ons zusje doen, wanneer men naar haar hand dingt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een zusje hebben wij, borsten heeft ze nog niet. Wat kunnen we voor ons zusje doen, wanneer men naar haar hand dingt?"
+          }
+        ]
+      },
+      "id": "hooglied.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Mijn vriendin, je bent als de merrie voor Farao's wagen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vriendin, je bent als de merrie voor Farao's wagen!"
+          }
+        ]
+      },
+      "id": "hooglied.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Mijn lief is als een gazel, hij lijkt wel het jong van een hert. Daar staat hij achter de muur van ons huis. Hij ziet door het venster en kijkt door de tralies naar binnen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn lief is als een gazel, hij lijkt wel het jong van een hert. Daar staat hij achter de muur van ons huis. Hij ziet door het venster en kijkt door de tralies naar binnen"
+          }
+        ]
+      },
+      "id": "hooglied.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Koning Salomo heeft een draagkoets laten maken van cederhout;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Koning Salomo heeft een draagkoets laten maken van cederhout;"
+          }
+        ]
+      },
+      "id": "hooglied.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Je hebt me van mijn zinnen beroofd, mijn zuster, mijn bruid! Je hebt me van mijn zinnen beroofd met een blik van je ogen, met een kraal van je snoer!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je hebt me van mijn zinnen beroofd, mijn zuster, mijn bruid! Je hebt me van mijn zinnen beroofd met een blik van je ogen, met een kraal van je snoer!"
+          }
+        ]
+      },
+      "id": "hooglied.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Wat onderscheidt uw lief van ieder ander, schoonste der vrouwen? Wat onderscheidt uw lief van ieder ander, dat u ons met zoveel klem daarom smeekt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat onderscheidt uw lief van ieder ander, schoonste der vrouwen? Wat onderscheidt uw lief van ieder ander, dat u ons met zoveel klem daarom smeekt?"
+          }
+        ]
+      },
+      "id": "hooglied.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "doch zoals mijn duifje, mijn schoonste, is er maar een, zoals zij de enige was voor haar moeder, de lieveling van wie haar baarde. Gelukkig prijzen haar de meisjes die haar zien; de koninginnen en de bijvrouwen roemen haar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "doch zoals mijn duifje, mijn schoonste, is er maar een, zoals zij de enige was voor haar moeder, de lieveling van wie haar baarde. Gelukkig prijzen haar de meisjes die haar zien; de koninginnen en de bijvrouwen roemen haar."
+          }
+        ]
+      },
+      "id": "hooglied.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Ik dacht bij mijzelf: ik klim in die palm en pluk zijn dadels. Laat je borsten voor mij zijn als de trossen van de wijnstok, de reuk van je adem als de geur van kweeappels,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik dacht bij mijzelf: ik klim in die palm en pluk zijn dadels. Laat je borsten voor mij zijn als de trossen van de wijnstok, de reuk van je adem als de geur van kweeappels,"
+          }
+        ]
+      },
+      "id": "hooglied.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Is zij een muur, dan bouwen wij er zilveren kantelen op; is zij een deur, dan bekleden we haar met cederhout.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is zij een muur, dan bouwen wij er zilveren kantelen op; is zij een deur, dan bekleden we haar met cederhout."
+          }
+        ]
+      },
+      "id": "hooglied.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Hoe bekoorlijk zijn je wangen tussen de oorhangers, hoe bekoorlijk je hals met de snoeren!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe bekoorlijk zijn je wangen tussen de oorhangers, hoe bekoorlijk je hals met de snoeren!"
+          }
+        ]
+      },
+      "id": "hooglied.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Nu roept mijn lief en zegt tegen mij: Sta op, mijn liefste, kom toch, mijn schoonste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu roept mijn lief en zegt tegen mij: Sta op, mijn liefste, kom toch, mijn schoonste."
+          }
+        ]
+      },
+      "id": "hooglied.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "de stijlen zijn van zilver, het baldakijn is van goud; de zetel is met purper bekleed; stoffen met emblemen der liefde vormen de wanden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de stijlen zijn van zilver, het baldakijn is van goud; de zetel is met purper bekleed; stoffen met emblemen der liefde vormen de wanden."
+          }
+        ]
+      },
+      "id": "hooglied.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Hoe heerlijk zijn je liefkozingen, mijn zuster, mijn bruid! Hoeveel zoeter zijn je liefkozingen dan wijn; de geur van je zalven gaat alle reukwerk te boven!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe heerlijk zijn je liefkozingen, mijn zuster, mijn bruid! Hoeveel zoeter zijn je liefkozingen dan wijn; de geur van je zalven gaat alle reukwerk te boven!"
+          }
+        ]
+      },
+      "id": "hooglied.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Mijn lief is blank en blozend, onder tienduizend anderen is hij te herkennen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn lief is blank en blozend, onder tienduizend anderen is hij te herkennen."
+          }
+        ]
+      },
+      "id": "hooglied.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Wie rijst daar op als de dageraad, schoon als de maan, stralend als de zon en geducht als een leger in slagorde?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie rijst daar op als de dageraad, schoon als de maan, stralend als de zon en geducht als een leger in slagorde?"
+          }
+        ]
+      },
+      "id": "hooglied.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "en je mond als zoete wijn. De wijn moet vloeien voor mijn lief, naar binnen druppelen tussen zijn lippen en tanden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en je mond als zoete wijn. De wijn moet vloeien voor mijn lief, naar binnen druppelen tussen zijn lippen en tanden."
+          }
+        ]
+      },
+      "id": "hooglied.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Ik ben een muur, en mijn borsten zijn de torens. Daarom ben ik in zijn ogen de stad waar men vrede vindt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben een muur, en mijn borsten zijn de torens. Daarom ben ik in zijn ogen de stad waar men vrede vindt."
+          }
+        ]
+      },
+      "id": "hooglied.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Ik zal gouden hangers voor je laten maken met zilveren balletjes.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal gouden hangers voor je laten maken met zilveren balletjes."
+          }
+        ]
+      },
+      "id": "hooglied.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Kijk maar, de winter is heen, de regentijd voorgoed voorbij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kijk maar, de winter is heen, de regentijd voorgoed voorbij."
+          }
+        ]
+      },
+      "id": "hooglied.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Dochters van Jeruzalem, ga koning Salomo tegemoet. Hij draagt de kroon waarmee zijn moeder hem heden gekroond heeft; want dit is de dag van zijn huwelijk, de dag van de vreugde zijns harten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dochters van Jeruzalem, ga koning Salomo tegemoet. Hij draagt de kroon waarmee zijn moeder hem heden gekroond heeft; want dit is de dag van zijn huwelijk, de dag van de vreugde zijns harten!"
+          }
+        ]
+      },
+      "id": "hooglied.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Van honing druipen je lippen, mijn bruid, honing en melk is het onder je tong, de geur van je kleren is als de geur van Libanon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van honing druipen je lippen, mijn bruid, honing en melk is het onder je tong, de geur van je kleren is als de geur van Libanon."
+          }
+        ]
+      },
+      "id": "hooglied.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Zijn hoofd is van het zuiverste goud, zijn lokken zijn dadelristen, ravezwart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn hoofd is van het zuiverste goud, zijn lokken zijn dadelristen, ravezwart."
+          }
+        ]
+      },
+      "id": "hooglied.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Ik ging naar de notentuin om te kijken naar de bloesem in het dal, om te zien of de wijnstok uitbotte en de granaten al bloeiden;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ging naar de notentuin om te kijken naar de bloesem in het dal, om te zien of de wijnstok uitbotte en de granaten al bloeiden;"
+          }
+        ]
+      },
+      "id": "hooglied.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Ik ben van mijn lief; naar mij gaat zijn verlangen uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben van mijn lief; naar mij gaat zijn verlangen uit."
+          }
+        ]
+      },
+      "id": "hooglied.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Salomo had in Baäl-hamon een wijngaard. Hij gaf die aan pachters, die voor het vruchtgebruik duizend sikkel de man moesten betalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Salomo had in Baäl-hamon een wijngaard. Hij gaf die aan pachters, die voor het vruchtgebruik duizend sikkel de man moesten betalen."
+          }
+        ]
+      },
+      "id": "hooglied.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Terwijl mijn koning aan tafel is, verspreid mijn nardus zijn geur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl mijn koning aan tafel is, verspreid mijn nardus zijn geur."
+          }
+        ]
+      },
+      "id": "hooglied.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "op het veld staan weer bloemen; de tijd om te zingen breekt aan; de roep van de tortel klinkt over het land.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "op het veld staan weer bloemen; de tijd om te zingen breekt aan; de roep van de tortel klinkt over het land."
+          }
+        ]
+      },
+      "id": "hooglied.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Een gesloten hof ben je, mijn zuster, mijn bruid, een gesloten hof, een verzegelde bron.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een gesloten hof ben je, mijn zuster, mijn bruid, een gesloten hof, een verzegelde bron."
+          }
+        ]
+      },
+      "id": "hooglied.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Zijn ogen zijn duiven aan stromende beken, die zich wassen in melk en baden in overvloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn ogen zijn duiven aan stromende beken, die zich wassen in melk en baden in overvloed."
+          }
+        ]
+      },
+      "id": "hooglied.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "en de wagen van Amminadab maakte dat ik mezelf niet meer herkende.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de wagen van Amminadab maakte dat ik mezelf niet meer herkende."
+          }
+        ]
+      },
+      "id": "hooglied.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Kom, mijn lief, laten wij naar buiten gaan, laten we overnachten in de dorpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom, mijn lief, laten wij naar buiten gaan, laten we overnachten in de dorpen."
+          }
+        ]
+      },
+      "id": "hooglied.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Mijn wijngaard houd ik voor mijzelf. Die duizend sikkel gun ik u, Salomo, en tweehonderd aan de pachters.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn wijngaard houd ik voor mijzelf. Die duizend sikkel gun ik u, Salomo, en tweehonderd aan de pachters."
+          }
+        ]
+      },
+      "id": "hooglied.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Mijn lief is als een zakje mirre dat rust tussen mijn borsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn lief is als een zakje mirre dat rust tussen mijn borsten."
+          }
+        ]
+      },
+      "id": "hooglied.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "De vijgeboom draagt zijn eerste vruchten al, en wat ruikt de bloeiende wijnstok heerlijk! Sta op, mijn liefste, kom toch, mijn schoonste!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vijgeboom draagt zijn eerste vruchten al, en wat ruikt de bloeiende wijnstok heerlijk! Sta op, mijn liefste, kom toch, mijn schoonste!"
+          }
+        ]
+      },
+      "id": "hooglied.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Je staat in bloei als een lusthof vol granaatbomen met kostelijke vruchten, vol hennabloemen en nardusplanten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je staat in bloei als een lusthof vol granaatbomen met kostelijke vruchten, vol hennabloemen en nardusplanten."
+          }
+        ]
+      },
+      "id": "hooglied.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Zijn wangen zijn een balsemgaard, torens van reukwerken. Zijn lippen zijn lelies, zij druipen van vloeibare mirre.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn wangen zijn een balsemgaard, torens van reukwerken. Zijn lippen zijn lelies, zij druipen van vloeibare mirre."
+          }
+        ]
+      },
+      "id": "hooglied.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Dan trekken we 's morgens vroeg de wijngaarden in om te zien of de wijnstok al uitbot, of de knoppen zijn opengebroken en de granaatbomen al bloeien. Dan zal ik u met liefkozingen overstelpen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan trekken we 's morgens vroeg de wijngaarden in om te zien of de wijnstok al uitbot, of de knoppen zijn opengebroken en de granaatbomen al bloeien. Dan zal ik u met liefkozingen overstelpen!"
+          }
+        ]
+      },
+      "id": "hooglied.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Jij die in de tuin vertoeft, laat mij je stem weer horen, je stem die mannen betovert.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jij die in de tuin vertoeft, laat mij je stem weer horen, je stem die mannen betovert."
+          }
+        ]
+      },
+      "id": "hooglied.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Een tros hennabloemen uit de tuinen van Engedi is mijn lief voor mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tros hennabloemen uit de tuinen van Engedi is mijn lief voor mij."
+          }
+        ]
+      },
+      "id": "hooglied.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Mijn duif, verscholen in de spleten van de rots, in de holten van de bergwand, laat mij je gezicht zien, laat mij je stem horen, want je stem is zo mooi, je gezicht zo lieftallig!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn duif, verscholen in de spleten van de rots, in de holten van de bergwand, laat mij je gezicht zien, laat mij je stem horen, want je stem is zo mooi, je gezicht zo lieftallig!"
+          }
+        ]
+      },
+      "id": "hooglied.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "nardus en saffraan, kalmus en kaneel, allerlei wierookbomen, mirre en aloë, de fijnste geurige kruiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "nardus en saffraan, kalmus en kaneel, allerlei wierookbomen, mirre en aloë, de fijnste geurige kruiden."
+          }
+        ]
+      },
+      "id": "hooglied.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Zijn armen zijn staven van goud, met chrysoliet bezet; zijn lijf is van gepolijst ivoor, afgezet met saffieren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn armen zijn staven van goud, met chrysoliet bezet; zijn lijf is van gepolijst ivoor, afgezet met saffieren."
+          }
+        ]
+      },
+      "id": "hooglied.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "De liefdesappelen geuren reeds en boven onze deur hangen de kostelijkste vruchten, jonge vruchten en oude, die ik bewaard heb voor u, mijn lief!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De liefdesappelen geuren reeds en boven onze deur hangen de kostelijkste vruchten, jonge vruchten en oude, die ik bewaard heb voor u, mijn lief!"
+          }
+        ]
+      },
+      "id": "hooglied.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Kom snel, mijn lief, wees als de gazel of het hertejong op de bergen met de balsemstruiken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom snel, mijn lief, wees als de gazel of het hertejong op de bergen met de balsemstruiken."
+          }
+        ]
+      },
+      "id": "hooglied.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Wat ben je mooi, mijn vriendin, wat ben je mooi; je ogen zijn als duiven!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ben je mooi, mijn vriendin, wat ben je mooi; je ogen zijn als duiven!"
+          }
+        ]
+      },
+      "id": "hooglied.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Vang ons de vossen, de geniepige vossen, die de wijngaard vernielen, onze wijngaard die in bloei staat!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vang ons de vossen, de geniepige vossen, die de wijngaard vernielen, onze wijngaard die in bloei staat!"
+          }
+        ]
+      },
+      "id": "hooglied.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Je bent een bron in een tuin, een fontein van levend water, water dat stroomt van de Libanon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je bent een bron in een tuin, een fontein van levend water, water dat stroomt van de Libanon."
+          }
+        ]
+      },
+      "id": "hooglied.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Zijn dijen zijn zuilen van albast, rustend op voetstukken van zuiver goud. Zijn gestalte is als de Libanon, rijzig als een ceder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn dijen zijn zuilen van albast, rustend op voetstukken van zuiver goud. Zijn gestalte is als de Libanon, rijzig als een ceder."
+          }
+        ]
+      },
+      "id": "hooglied.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "U bent mooi, mijn lief, en zo zoet! Ons rustbed is het frisse groen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U bent mooi, mijn lief, en zo zoet! Ons rustbed is het frisse groen,"
+          }
+        ]
+      },
+      "id": "hooglied.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Mijn lief is van mij en ik ben van hem, die tussen lelies weidt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn lief is van mij en ik ben van hem, die tussen lelies weidt."
+          }
+        ]
+      },
+      "id": "hooglied.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Steek op, noordenwind, kom, zuidenwind, en blaas over mijn tuin, dat zijn geuren zich verspreiden! Moge dan mijn lief in zijn tuin komen en er genieten van de kostelijke vruchten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Steek op, noordenwind, kom, zuidenwind, en blaas over mijn tuin, dat zijn geuren zich verspreiden! Moge dan mijn lief in zijn tuin komen en er genieten van de kostelijke vruchten!"
+          }
+        ]
+      },
+      "id": "hooglied.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Zijn mond is een en al zoetigheid. Hij is de aantrekkelijkheid zelf. Zo is mijn lief, zo is mijn vriend, dochters van Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn mond is een en al zoetigheid. Hij is de aantrekkelijkheid zelf. Zo is mijn lief, zo is mijn vriend, dochters van Jeruzalem."
+          }
+        ]
+      },
+      "id": "hooglied.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "en de binten van ons huis zijn van cederhout, de wanden van cypressen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de binten van ons huis zijn van cederhout, de wanden van cypressen."
+          }
+        ]
+      },
+      "id": "hooglied.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Kom mijn lief, voor de morgenbries opsteekt en de schaduwen vlieden; wees als de gazel, of het hertejong, op de bergen aan de horizon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom mijn lief, voor de morgenbries opsteekt en de schaduwen vlieden; wees als de gazel, of het hertejong, op de bergen aan de horizon."
+          }
+        ]
+      },
+      "id": "hooglied.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

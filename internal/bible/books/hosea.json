@@ -1,0 +1,3357 @@
+{
+  "id": "hosea",
+  "name": "Hosea",
+  "chapters": 14,
+  "verseCount": 197,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het woord van Jahwe dat gericht is tot Hosea, de zoon van Beeri, gedurende de tijd dat Uzzia, Jotan, Achaz en Hizkia over Juda regeerden en Jerobeam, de zoon van Joas, over Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe dat gericht is tot Hosea, de zoon van Beeri, gedurende de tijd dat Uzzia, Jotan, Achaz en Hizkia over Juda regeerden en Jerobeam, de zoon van Joas, over Israël."
+          }
+        ]
+      },
+      "id": "hosea.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "De zonen van Israël zullen talrijk zijn als het land van de zee, dat niet te meten en niet te tellen is; en waar hun eens gezegd werd: Gij zijt niet mijn volk, daar wordt hun nu gezegd: Gij zijt zonen van de levende God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zonen van Israël zullen talrijk zijn als het land van de zee, dat niet te meten en niet te tellen is; en waar hun eens gezegd werd: Gij zijt niet mijn volk, daar wordt hun nu gezegd: Gij zijt zonen van de levende God."
+          }
+        ]
+      },
+      "id": "hosea.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Jahwe sprak opnieuw tot mij: 'Nu moet gij een vrouw liefhebben die zich door een ander laat liefhebben en overspel bedrijft. Gij moet hetzelfde doen als Jahwe, die de zonen van Israël liefheeft, hoewel die zich tot andere goden keren en verzot zijn op rozijnenkoeken.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe sprak opnieuw tot mij: 'Nu moet gij een vrouw liefhebben die zich door een ander laat liefhebben en overspel bedrijft. Gij moet hetzelfde doen als Jahwe, die de zonen van Israël liefheeft, hoewel die zich tot andere goden keren en verzot zijn op rozijnenkoeken.'"
+          }
+        ]
+      },
+      "id": "hosea.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Hoort het woord van Jahwe, zonen van Israël! Jahwe heeft een aanklacht tegen de bewoners van het land: er bestaat geen trouw en geen vroomheid meer, en van God wil men niet meer weten in het land.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort het woord van Jahwe, zonen van Israël! Jahwe heeft een aanklacht tegen de bewoners van het land: er bestaat geen trouw en geen vroomheid meer, en van God wil men niet meer weten in het land."
+          }
+        ]
+      },
+      "id": "hosea.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Hoort deze woorden, priesters, spits uw oren, huis Israël, luister, huis van de koning! U kwam de rechtspraak toe, maar gij zijt een strik geworden te Mispa, een net, op de Tabor gespannen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort deze woorden, priesters, spits uw oren, huis Israël, luister, huis van de koning! U kwam de rechtspraak toe, maar gij zijt een strik geworden te Mispa, een net, op de Tabor gespannen,"
+          }
+        ]
+      },
+      "id": "hosea.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "'Kom, laten we terugkeren tot Jahwe; Hij heeft ons verscheurd, Hij zal ons ook genezen; Hij heeft wonden geslagen, Hij zal ze ook verbinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Kom, laten we terugkeren tot Jahwe; Hij heeft ons verscheurd, Hij zal ons ook genezen; Hij heeft wonden geslagen, Hij zal ze ook verbinden."
+          }
+        ]
+      },
+      "id": "hosea.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Als ik mijn volk zal herstellen, als Ik Israël zal genezen, komt de zonde van Efraim aan het licht en de boosheid van Samaria. Want al hun doen is bedrog: dieven breken in, de wegen worden door rovers onveilig gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik mijn volk zal herstellen, als Ik Israël zal genezen, komt de zonde van Efraim aan het licht en de boosheid van Samaria. Want al hun doen is bedrog: dieven breken in, de wegen worden door rovers onveilig gemaakt."
+          }
+        ]
+      },
+      "id": "hosea.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Zet de bazuin aan uw mond: Een gier hangt boven Jahwe&#39;s huis! Zij hebben mijn verbond overtreden, ze zijn ontrouw geworden aan mijn wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zet de bazuin aan uw mond: Een gier hangt boven Jahwe's huis! Zij hebben mijn verbond overtreden, ze zijn ontrouw geworden aan mijn wet."
+          }
+        ]
+      },
+      "id": "hosea.8.1",
+      "title": "Jahwe veroordeelt de zonden van zijn volk",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Verheug u maar niet, Israël, en juich maar niet, zoals de andere volken, gij die door uw ontucht van uw God zijt weggelopen, begerig naar hoerenloon op iedere dorsvloer waar het koren gedorst wordt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verheug u maar niet, Israël, en juich maar niet, zoals de andere volken, gij die door uw ontucht van uw God zijt weggelopen, begerig naar hoerenloon op iedere dorsvloer waar het koren gedorst wordt."
+          }
+        ]
+      },
+      "id": "hosea.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Israël is een weelderige wijnstok, die ook weelderige vruchten draagt. En hoe talrijker maakt Israël zijn altaren. Hoe mooier zijn land wordt, des te mooier versiert het zijn wijstenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israël is een weelderige wijnstok, die ook weelderige vruchten draagt. En hoe talrijker maakt Israël zijn altaren. Hoe mooier zijn land wordt, des te mooier versiert het zijn wijstenen."
+          }
+        ]
+      },
+      "id": "hosea.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Toen Israël nog jong was, kreeg Ik hem lief en uit Egypte heb Ik hem geroepen, mijn zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Israël nog jong was, kreeg Ik hem lief en uit Egypte heb Ik hem geroepen, mijn zoon."
+          }
+        ]
+      },
+      "id": "hosea.11.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Met leugen heeft Efraim Mij omgeven en het huis van Israël omgaf Mij met bedrog. Juda doolt nog rond met El en blijft diens heiligen trouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met leugen heeft Efraim Mij omgeven en het huis van Israël omgaf Mij met bedrog. Juda doolt nog rond met El en blijft diens heiligen trouw."
+          }
+        ]
+      },
+      "id": "hosea.12.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "Waar Efraim sprak was schrik, hoog was zijn aanzien in Israël. Maar hij maakte zich schuldig door de Baäl: daaraan ging hij te gronde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar Efraim sprak was schrik, hoog was zijn aanzien in Israël. Maar hij maakte zich schuldig door de Baäl: daaraan ging hij te gronde."
+          }
+        ]
+      },
+      "id": "hosea.13.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "Samaria moet zijn schuld boeten, omdat het weerspannig is tegen zijn God. Zij zullen omkomen door het zwaard, hun zuigelingen worden te pletter geslagen, hun zwangere vrouwen opengereten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Samaria moet zijn schuld boeten, omdat het weerspannig is tegen zijn God. Zij zullen omkomen door het zwaard, hun zuigelingen worden te pletter geslagen, hun zwangere vrouwen opengereten."
+          }
+        ]
+      },
+      "id": "hosea.14.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Hier beginnen de woorden van Jahwe tot Hosea. Jahwe sprak tot Hosea: 'Gij moet een ontuchtige vrouw huwen en kinderen van ontucht bij haar verwekken, want werkelijk, het land loopt door zijn ontucht van Jahwe weg.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier beginnen de woorden van Jahwe tot Hosea. Jahwe sprak tot Hosea: 'Gij moet een ontuchtige vrouw huwen en kinderen van ontucht bij haar verwekken, want werkelijk, het land loopt door zijn ontucht van Jahwe weg.'"
+          }
+        ]
+      },
+      "id": "hosea.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Dan herenigen zich de zonen van Juda met de zonen van Israël, dan stellen zij beiden dezelfde man aan het hoofd, dan trekken zij op uit het land, want groot is dan de dag van Jizreel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan herenigen zich de zonen van Juda met de zonen van Israël, dan stellen zij beiden dezelfde man aan het hoofd, dan trekken zij op uit het land, want groot is dan de dag van Jizreel."
+          }
+        ]
+      },
+      "id": "hosea.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Toen kocht ik die vrouw voor vijftien zilverstukken en anderhalve ezelslast gerst,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen kocht ik die vrouw voor vijftien zilverstukken en anderhalve ezelslast gerst,"
+          }
+        ]
+      },
+      "id": "hosea.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Zweren en liegen, moorden, stelen en echtbreken zijn er schering en inslag, bloedbad volgt er op bloedbad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zweren en liegen, moorden, stelen en echtbreken zijn er schering en inslag, bloedbad volgt er op bloedbad."
+          }
+        ]
+      },
+      "id": "hosea.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "een diepe valkuil, gegraven te Sittim. Ik zal u allen tuchtigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een diepe valkuil, gegraven te Sittim. Ik zal u allen tuchtigen."
+          }
+        ]
+      },
+      "id": "hosea.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Na twee dagen maakt Hij ons weer levend, op de derde dag laat Hij ons weer opstaan om weer te leven voor zijn aanschijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na twee dagen maakt Hij ons weer levend, op de derde dag laat Hij ons weer opstaan om weer te leven voor zijn aanschijn."
+          }
+        ]
+      },
+      "id": "hosea.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Zij denken er maar niet aan, dat Ik mij al hun kwaad herinner. Ze zitten ingekapseld in hun daden, die Mij duidelijk voor ogen staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij denken er maar niet aan, dat Ik mij al hun kwaad herinner. Ze zitten ingekapseld in hun daden, die Mij duidelijk voor ogen staan."
+          }
+        ]
+      },
+      "id": "hosea.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Zij roepen tot Mij: 'Mijn God! Wij, Israël, erkennen U!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij roepen tot Mij: 'Mijn God! Wij, Israël, erkennen U!'"
+          }
+        ]
+      },
+      "id": "hosea.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Dorsvloer en perskuip zullen hen niet voeden, en de nieuwe wijn zal haar teleurstellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dorsvloer en perskuip zullen hen niet voeden, en de nieuwe wijn zal haar teleurstellen."
+          }
+        ]
+      },
+      "id": "hosea.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Omdat zij zo dubbelhartig zijn, zullen zij na hun schuld gaan boeten. Hij zelf geeft hun altaren de nekslag en slaat de wijstenen stuk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat zij zo dubbelhartig zijn, zullen zij na hun schuld gaan boeten. Hij zelf geeft hun altaren de nekslag en slaat de wijstenen stuk."
+          }
+        ]
+      },
+      "id": "hosea.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Maar hoe Ik hem ook riep, zij liepen van Mij weg, ja, zij brachten offers aan de Baäls en brandden wierook voor de godenbeelden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hoe Ik hem ook riep, zij liepen van Mij weg, ja, zij brachten offers aan de Baäls en brandden wierook voor de godenbeelden,"
+          }
+        ]
+      },
+      "id": "hosea.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "Efraim zoekt het bij de wind, het zit de schroeiwind na, de hele dag. Het stapelt leugen op leugen en geweld op geweld. Met Assur sluiten zij een verbond en naar Egypte wordt olie gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim zoekt het bij de wind, het zit de schroeiwind na, de hele dag. Het stapelt leugen op leugen en geweld op geweld. Met Assur sluiten zij een verbond en naar Egypte wordt olie gebracht."
+          }
+        ]
+      },
+      "id": "hosea.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Toch blijven zij maar zondigen; zij hebben zich gegoten beelden gemaakt, van hun zilver maakten zij afgodsbeelden naar hun eigen smaak, louter werk van ambachtsvolk. Daaraan wijden zij mijn offers toe, zij, mensen die stierebeelden kussen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch blijven zij maar zondigen; zij hebben zich gegoten beelden gemaakt, van hun zilver maakten zij afgodsbeelden naar hun eigen smaak, louter werk van ambachtsvolk. Daaraan wijden zij mijn offers toe, zij, mensen die stierebeelden kussen."
+          }
+        ]
+      },
+      "id": "hosea.13.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "Bekeer u, Israël, tot Jahwe uw God want over uw schuld zijt gij gestruikeld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bekeer u, Israël, tot Jahwe uw God want over uw schuld zijt gij gestruikeld."
+          }
+        ]
+      },
+      "id": "hosea.14.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Daarop huwde Hosea Gomer, een dochter van Diblaim; zij werd zwanger en baarde hem een zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop huwde Hosea Gomer, een dochter van Diblaim; zij werd zwanger en baarde hem een zoon."
+          }
+        ]
+      },
+      "id": "hosea.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Dan kunt gij weer tot uw broeders zeggen: Ammi - mijn volk - en tot uw zusters: Ruchama - erbarmen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan kunt gij weer tot uw broeders zeggen: Ammi - mijn volk - en tot uw zusters: Ruchama - erbarmen."
+          }
+        ]
+      },
+      "id": "hosea.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "en ik zei tegen haar: 'Lange tijd zul je rustig bij mij blijven, zonder ontucht te plegen of je met een man in te laten. Ik zal tegenover jou evenzo handelen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en ik zei tegen haar: 'Lange tijd zul je rustig bij mij blijven, zonder ontucht te plegen of je met een man in te laten. Ik zal tegenover jou evenzo handelen.'"
+          }
+        ]
+      },
+      "id": "hosea.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Daarom verdroogt het land en kwijnen al zijn bewoners weg; de dieren op het veld, de vogels in de lucht, de vissen in de zee komen zelfs om.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom verdroogt het land en kwijnen al zijn bewoners weg; de dieren op het veld, de vogels in de lucht, de vissen in de zee komen zelfs om."
+          }
+        ]
+      },
+      "id": "hosea.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Als iemand Efraim kent ben Ik het en voor Mij is Israël niet verborgen; Ik verzeker u: Efraim heeft ontucht bedreven en Israël heeft zich onrein gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand Efraim kent ben Ik het en voor Mij is Israël niet verborgen; Ik verzeker u: Efraim heeft ontucht bedreven en Israël heeft zich onrein gemaakt."
+          }
+        ]
+      },
+      "id": "hosea.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Wij willen Jahwe liefhebben, ons inspannen om Hem te kennen. Zo zeker als de dageraad vertoont Hij zich, komt Hij over ons als de regen, als de lenteregen die de aarde drenkt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij willen Jahwe liefhebben, ons inspannen om Hem te kennen. Zo zeker als de dageraad vertoont Hij zich, komt Hij over ons als de regen, als de lenteregen die de aarde drenkt.'"
+          }
+        ]
+      },
+      "id": "hosea.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Met hun boosheid doen zij de koning nog genoegen, met hun leugens de grote heren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hun boosheid doen zij de koning nog genoegen, met hun leugens de grote heren."
+          }
+        ]
+      },
+      "id": "hosea.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Maar een Israël, dat het heil van zich afstoot, het zal door een vijand vervolgd worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar een Israël, dat het heil van zich afstoot, het zal door een vijand vervolgd worden."
+          }
+        ]
+      },
+      "id": "hosea.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Zij blijven niet langer wonen in Jahwe's land: Efraim gaat terug naar Egypte, het eet in Assur onrein voedsel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij blijven niet langer wonen in Jahwe's land: Efraim gaat terug naar Egypte, het eet in Assur onrein voedsel."
+          }
+        ]
+      },
+      "id": "hosea.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Ja, dan zullen zij zeggen: 'Wij hebben geen koning, want als wij Jahwe niet vrezen, wat helpt ons de koning dan?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, dan zullen zij zeggen: 'Wij hebben geen koning, want als wij Jahwe niet vrezen, wat helpt ons de koning dan?'"
+          }
+        ]
+      },
+      "id": "hosea.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "en dat terwijl Ik toch degene ben die Efraim heeft leren lopen, die hem bij zijn armen heeft gevat. Zij echter wilden maar niet weten dat Ik het was die hen behoedde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en dat terwijl Ik toch degene ben die Efraim heeft leren lopen, die hem bij zijn armen heeft gevat. Zij echter wilden maar niet weten dat Ik het was die hen behoedde."
+          }
+        ]
+      },
+      "id": "hosea.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Jahwe heeft een aanklacht tegen Juda, om van Jakob rekenschap te vragen voor zijn gedragingen; naar zijn daden zal Hij hem vergelden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe heeft een aanklacht tegen Juda, om van Jakob rekenschap te vragen voor zijn gedragingen; naar zijn daden zal Hij hem vergelden."
+          }
+        ]
+      },
+      "id": "hosea.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Daarom zullen zij worden als de morgennevel, als de dauw die vroeg op de dag verdwijnt, als kaf dat wegwaait van de dorsvloer, als rook uit een luchtgat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zullen zij worden als de morgennevel, als de dauw die vroeg op de dag verdwijnt, als kaf dat wegwaait van de dorsvloer, als rook uit een luchtgat."
+          }
+        ]
+      },
+      "id": "hosea.13.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Kom met uw woorden als gave, bekeer u tot Jahwe en zeg Hem: 'Gij vergeeft toch alle schuld; aanvaard ook onze goede wil: wij zullen onze woorden als offerdieren geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom met uw woorden als gave, bekeer u tot Jahwe en zeg Hem: 'Gij vergeeft toch alle schuld; aanvaard ook onze goede wil: wij zullen onze woorden als offerdieren geven."
+          }
+        ]
+      },
+      "id": "hosea.14.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Nu sprak Jahwe tot hem: &#39;Geef hem de naam Jizre&euml;l - God-zal-zaaien, want nog maar een korte tijd en Ik wreek het bloedbad van Jizre&euml;l op het huis Jehu en Ik maak een einde aan het koningschap in het huis Isra&euml;l.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu sprak Jahwe tot hem: 'Geef hem de naam Jizreël - God-zal-zaaien, want nog maar een korte tijd en Ik wreek het bloedbad van Jizreël op het huis Jehu en Ik maak een einde aan het koningschap in het huis Israël."
+          }
+        ]
+      },
+      "id": "hosea.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Klaagt uw moeder aan, klaagt haar aan, want zij is niet mijn vrouw en Ik ben haar man niet. Laat zij de tekens van de ontucht wegdoen van haar gezicht en de tekens van het overspel wegdoen tussen haar borsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Klaagt uw moeder aan, klaagt haar aan, want zij is niet mijn vrouw en Ik ben haar man niet. Laat zij de tekens van de ontucht wegdoen van haar gezicht en de tekens van het overspel wegdoen tussen haar borsten."
+          }
+        ]
+      },
+      "id": "hosea.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Want de zonen van Israël zullen lange tijd wachten, zonder koning of vorst, zonder offer en wijsteen, zonder efod en huisgoden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de zonen van Israël zullen lange tijd wachten, zonder koning of vorst, zonder offer en wijsteen, zonder efod en huisgoden."
+          }
+        ]
+      },
+      "id": "hosea.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Laat echter niemand beschuldigingen uitspreken, niemand vonnissen vellen. Mijn aanklacht richt zich, priester, tegen u:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat echter niemand beschuldigingen uitspreken, niemand vonnissen vellen. Mijn aanklacht richt zich, priester, tegen u:"
+          }
+        ]
+      },
+      "id": "hosea.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Hun daden beletten hen naar hun God terug te keren, want de geest van ontucht bezielt hen en van Jahwe weten zij niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun daden beletten hen naar hun God terug te keren, want de geest van ontucht bezielt hen en van Jahwe weten zij niet."
+          }
+        ]
+      },
+      "id": "hosea.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Wat moet Ik met u beginnen, Efraim? Wat moet Ik met u beginnen, Juda? Uw vroomheid is als de morgennevel, als de dauw die vroeg in de morgen verdwijnt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat moet Ik met u beginnen, Efraim? Wat moet Ik met u beginnen, Juda? Uw vroomheid is als de morgennevel, als de dauw die vroeg in de morgen verdwijnt."
+          }
+        ]
+      },
+      "id": "hosea.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Allen plegen zij echtbreuk, zij laten hun oven maar branden, terwijl een bakker ophoudt met stoken zolang hij het deeg kneedt en het laat rijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen plegen zij echtbreuk, zij laten hun oven maar branden, terwijl een bakker ophoudt met stoken zolang hij het deeg kneedt en het laat rijzen."
+          }
+        ]
+      },
+      "id": "hosea.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Zij hebben koningen aangesteld, maar buiten Mij om; zij hebben zich leiders gekozen, maar buiten Mijn weten. Van hun zilver en goud maakten zij afgodsbeelden, goed om stukgeslagen te worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben koningen aangesteld, maar buiten Mij om; zij hebben zich leiders gekozen, maar buiten Mijn weten. Van hun zilver en goud maakten zij afgodsbeelden, goed om stukgeslagen te worden."
+          }
+        ]
+      },
+      "id": "hosea.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Dan kunnen zij voor Jahwe geen wijn meer plengen en Hem met hun offers niet welgevallig meer zijn. Voor henzelf zullen die als rouwbrood zijn: al wie ervan eet wordt onrein. Want hun brood komt wel in hun keel, maar het huis van Jahwe bereikt het niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan kunnen zij voor Jahwe geen wijn meer plengen en Hem met hun offers niet welgevallig meer zijn. Voor henzelf zullen die als rouwbrood zijn: al wie ervan eet wordt onrein. Want hun brood komt wel in hun keel, maar het huis van Jahwe bereikt het niet."
+          }
+        ]
+      },
+      "id": "hosea.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Terwijl ze maar praten, loze eden zweren en overeenkomsten aangaan, verwildert de rechtspraak en wordt als giftig kruid in de voren van een akker.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl ze maar praten, loze eden zweren en overeenkomsten aangaan, verwildert de rechtspraak en wordt als giftig kruid in de voren van een akker."
+          }
+        ]
+      },
+      "id": "hosea.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Met zachte leidsels heb Ik hen gemend, met teugels van liefde. Ik was voor hen als degenen die het juk optillen wanneer het tegen de kaken drukt. Ik reikte hem zijn voedsel toe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met zachte leidsels heb Ik hen gemend, met teugels van liefde. Ik was voor hen als degenen die het juk optillen wanneer het tegen de kaken drukt. Ik reikte hem zijn voedsel toe."
+          }
+        ]
+      },
+      "id": "hosea.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "In de moederschoot heeft hij zijn broer bedrogen, man geworden vocht hij met God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de moederschoot heeft hij zijn broer bedrogen, man geworden vocht hij met God."
+          }
+        ]
+      },
+      "id": "hosea.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Want Ik ben Jahwe, uw God, al sinds Egypte. Naast Mij zult gij geen God erkennen, er is geen andere redder dan Ik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Ik ben Jahwe, uw God, al sinds Egypte. Naast Mij zult gij geen God erkennen, er is geen andere redder dan Ik."
+          }
+        ]
+      },
+      "id": "hosea.13.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Assur kan ons niet redden; wij zullen niet meer op paarden rijden en tegen het maaksel van onze handen zeggen wij nooit meer: Gij zijt onze God. Gij, Jahwe, zijt immers degene bij wie de wees ontferming vindt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Assur kan ons niet redden; wij zullen niet meer op paarden rijden en tegen het maaksel van onze handen zeggen wij nooit meer: Gij zijt onze God. Gij, Jahwe, zijt immers degene bij wie de wees ontferming vindt.'"
+          }
+        ]
+      },
+      "id": "hosea.14.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Op die dag zal het gebeuren dat Ik in de vlakte van Jizreel de boog van Israël stukbreek.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zal het gebeuren dat Ik in de vlakte van Jizreel de boog van Israël stukbreek.'"
+          }
+        ]
+      },
+      "id": "hosea.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Anders kleed Ik haar helemaal uit, zet Ik haar moedernaakt neer, maak Ik van haar een woestijn, verander Ik haar in een uitgedroogd land en laat Ik haar sterven van dorst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Anders kleed Ik haar helemaal uit, zet Ik haar moedernaakt neer, maak Ik van haar een woestijn, verander Ik haar in een uitgedroogd land en laat Ik haar sterven van dorst."
+          }
+        ]
+      },
+      "id": "hosea.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Maar daarna zullen de zonen van Israël zich bekeren, zullen zij Jahwe, hun God, en David, hun koning, weer zoeken en bevend naar Jahwe en zijn goedheid komen, op het einde der tijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar daarna zullen de zonen van Israël zich bekeren, zullen zij Jahwe, hun God, en David, hun koning, weer zoeken en bevend naar Jahwe en zijn goedheid komen, op het einde der tijden."
+          }
+        ]
+      },
+      "id": "hosea.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "gij struikelt vandaag en vannacht struikelt ook de profeet, met u. Ik zal uw moeder doen verstommen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gij struikelt vandaag en vannacht struikelt ook de profeet, met u. Ik zal uw moeder doen verstommen."
+          }
+        ]
+      },
+      "id": "hosea.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Israëls hoogmoed getuigt tegen hem, Israël en Efraim struikelen over hun eigen schuld en met hen is ook Juda gestruikeld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israëls hoogmoed getuigt tegen hem, Israël en Efraim struikelen over hun eigen schuld en met hen is ook Juda gestruikeld."
+          }
+        ]
+      },
+      "id": "hosea.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Daarom heb Ik op u ingeslagen door de profeten, heb Ik de dood gebracht door de woorden van mijn mond: mijn oordeel brak door als het licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom heb Ik op u ingeslagen door de profeten, heb Ik de dood gebracht door de woorden van mijn mond: mijn oordeel brak door als het licht."
+          }
+        ]
+      },
+      "id": "hosea.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Op de dag van onze koning hebben zij de notabelen met wijn verhit en onpasselijk gemaakt; en hij heeft die spotters nog de hand gereikt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de dag van onze koning hebben zij de notabelen met wijn verhit en onpasselijk gemaakt; en hij heeft die spotters nog de hand gereikt!"
+          }
+        ]
+      },
+      "id": "hosea.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Verwijder toch uw stierebeeld, Samaria! Mijn toorn ontbrandt tegen hen. Hoelang zal het nog duren? Zijn ze dan niet tot onschuld in staat?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verwijder toch uw stierebeeld, Samaria! Mijn toorn ontbrandt tegen hen. Hoelang zal het nog duren? Zijn ze dan niet tot onschuld in staat?"
+          }
+        ]
+      },
+      "id": "hosea.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Wat doet ge dan nog met een hoogtijdag, een feestdag van Jahwe?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat doet ge dan nog met een hoogtijdag, een feestdag van Jahwe?"
+          }
+        ]
+      },
+      "id": "hosea.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Om dat stierkalf van Bet-Awen zullen de mensen van Samaria beven. Ja, om die stier rouwt het volk. De afgodenpriesters maken misbaar om hem: ja, zijn heerlijkheid is weggevoerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om dat stierkalf van Bet-Awen zullen de mensen van Samaria beven. Ja, om die stier rouwt het volk. De afgodenpriesters maken misbaar om hem: ja, zijn heerlijkheid is weggevoerd."
+          }
+        ]
+      },
+      "id": "hosea.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Moet hij dan niet terugkeren naar Egypte en zal Assur niet zijn koning worden, nu zij weigeren zich te bekeren?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moet hij dan niet terugkeren naar Egypte en zal Assur niet zijn koning worden, nu zij weigeren zich te bekeren?"
+          }
+        ]
+      },
+      "id": "hosea.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Hij vocht met een engel en hij overwon. Schreiend vroeg hij Hem toen een gunst. In Betel ontmoette hij God en daar sprak Hij met hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij vocht met een engel en hij overwon. Schreiend vroeg hij Hem toen een gunst. In Betel ontmoette hij God en daar sprak Hij met hem."
+          }
+        ]
+      },
+      "id": "hosea.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Ik was het, die u in de woestijn als de mijne gekend heb, in dat verschroeide land.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik was het, die u in de woestijn als de mijne gekend heb, in dat verschroeide land."
+          }
+        ]
+      },
+      "id": "hosea.13.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Ik wil hen van hun ontrouw genezen en hun van harte mijn liefde schenken. Mijn toorn heeft zich van hem afgewend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil hen van hun ontrouw genezen en hun van harte mijn liefde schenken. Mijn toorn heeft zich van hem afgewend."
+          }
+        ]
+      },
+      "id": "hosea.14.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "De vrouw werd opnieuw zwanger en baarde een dochter. Daarop sprak Jahwe tot Hosea: &#39;Geef haar de naam Lo-Ruchama - Geen-Erbarmen, want Ik erbarm mij niet langer over het huis Isra&euml;l: Ik vaag het helemaal weg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vrouw werd opnieuw zwanger en baarde een dochter. Daarop sprak Jahwe tot Hosea: 'Geef haar de naam Lo-Ruchama - Geen-Erbarmen, want Ik erbarm mij niet langer over het huis Israël: Ik vaag het helemaal weg."
+          }
+        ]
+      },
+      "id": "hosea.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "En ook met haar kinderen geen erbarmen! Het zijn kinderen van ontucht!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ook met haar kinderen geen erbarmen! Het zijn kinderen van ontucht!"
+          }
+        ]
+      },
+      "id": "hosea.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Mijn volk verstomt omdat het niet van God wil weten, maar gij, gij zijt het die de kennis van God verworpen hebt: daarom verwerp ik u als mijn priester. Gij hebt de wet van uw God vergeten: daarom vergeet ik uw zonen ook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn volk verstomt omdat het niet van God wil weten, maar gij, gij zijt het die de kennis van God verworpen hebt: daarom verwerp ik u als mijn priester. Gij hebt de wet van uw God vergeten: daarom vergeet ik uw zonen ook."
+          }
+        ]
+      },
+      "id": "hosea.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Met hun schapen en runderen zullen zij komen om Jahwe te zoeken, maar zij zullen Hem niet vinden. Hij heeft zich aan hen onttrokken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hun schapen en runderen zullen zij komen om Jahwe te zoeken, maar zij zullen Hem niet vinden. Hij heeft zich aan hen onttrokken."
+          }
+        ]
+      },
+      "id": "hosea.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Want vroomheid wens Ik, geen offergaven, en erkenning van God, meer dan brandoffers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want vroomheid wens Ik, geen offergaven, en erkenning van God, meer dan brandoffers."
+          }
+        ]
+      },
+      "id": "hosea.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Loerend komen zij aan, hun hart is als een oven, waarin hun woede de hele nacht sluimert om 's morgens weer op te laaien als een vlammend vuur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Loerend komen zij aan, hun hart is als een oven, waarin hun woede de hele nacht sluimert om 's morgens weer op te laaien als een vlammend vuur."
+          }
+        ]
+      },
+      "id": "hosea.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Ja, die afgod komt uit Israël, door een kunstenaar daar gemaakt, maar het is geen god. Ja, het zal versplinterd worden, dat stierebeeld van Samaria!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, die afgod komt uit Israël, door een kunstenaar daar gemaakt, maar het is geen god. Ja, het zal versplinterd worden, dat stierebeeld van Samaria!"
+          }
+        ]
+      },
+      "id": "hosea.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Voorwaar, zij ontlopen de verwoesting om door Egypte te worden samengedreven en door Mof te worden begraven. Hun zilver, zo kostelijk als het is, wordt het erfdeel van de distels, en dorens tieren in hun tenten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, zij ontlopen de verwoesting om door Egypte te worden samengedreven en door Mof te worden begraven. Hun zilver, zo kostelijk als het is, wordt het erfdeel van de distels, en dorens tieren in hun tenten."
+          }
+        ]
+      },
+      "id": "hosea.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Ook het beeld wordt naar Assur gebracht om aan de Wraakvorst geofferd te worden. Efraim wordt met schande beladen, Israël zal om zijn houtblok beschaamd staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook het beeld wordt naar Assur gebracht om aan de Wraakvorst geofferd te worden. Efraim wordt met schande beladen, Israël zal om zijn houtblok beschaamd staan."
+          }
+        ]
+      },
+      "id": "hosea.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Het zwaard zal rondgaan in hun steden, het zal hun grendels breken en het zal hen verslinden om wat zij beraamden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zwaard zal rondgaan in hun steden, het zal hun grendels breken en het zal hen verslinden om wat zij beraamden."
+          }
+        ]
+      },
+      "id": "hosea.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Hij, Jahwe, de God van de legerscharen: Jahwe is zijn naam!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij, Jahwe, de God van de legerscharen: Jahwe is zijn naam!"
+          }
+        ]
+      },
+      "id": "hosea.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Zo goed was hun weidegrond, dat zij verzadigd werden. Maar toen zij verzadigd waren, werd hun hart hoogmoedig; zo zijn ze Mij vergeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo goed was hun weidegrond, dat zij verzadigd werden. Maar toen zij verzadigd waren, werd hun hart hoogmoedig; zo zijn ze Mij vergeten."
+          }
+        ]
+      },
+      "id": "hosea.13.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "Ik wil voor Israël zijn als de dauw: als een lelie zal hij gaan bloeien en hij zal wortels schieten, als op de Libanon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil voor Israël zijn als de dauw: als een lelie zal hij gaan bloeien en hij zal wortels schieten, als op de Libanon."
+          }
+        ]
+      },
+      "id": "hosea.14.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Over het huis Juda zal Ik mij echter erbarmen en Ik zal het redden, door Jahwe, hun God; Ik zal het niet redden door boog en door zwaard en door oorlog, niet door paarden en door ruiters.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Over het huis Juda zal Ik mij echter erbarmen en Ik zal het redden, door Jahwe, hun God; Ik zal het niet redden door boog en door zwaard en door oorlog, niet door paarden en door ruiters.'"
+          }
+        ]
+      },
+      "id": "hosea.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Hun moeder immers heeft ontucht bedreven en zij die zwanger van hen is geweest heeft zich schandelijk misdragen. Haar leus was: ik ga mijn minnaars achterna: die bezorgen mij mijn brood en mijn water, mijn wol en mijn vlas, mijn olie en mijn drank!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun moeder immers heeft ontucht bedreven en zij die zwanger van hen is geweest heeft zich schandelijk misdragen. Haar leus was: ik ga mijn minnaars achterna: die bezorgen mij mijn brood en mijn water, mijn wol en mijn vlas, mijn olie en mijn drank!"
+          }
+        ]
+      },
+      "id": "hosea.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Zo talrijk als zij zijn, even talrijk zijn hun zonden tegen Mij. Ik maak hun glorie tot schande.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo talrijk als zij zijn, even talrijk zijn hun zonden tegen Mij. Ik maak hun glorie tot schande."
+          }
+        ]
+      },
+      "id": "hosea.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Zij zijn Jahwe ontrouw geworden en hebben bastaards voortgebracht; daarom zal een nieuwe maan hun akkers verslinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn Jahwe ontrouw geworden en hebben bastaards voortgebracht; daarom zal een nieuwe maan hun akkers verslinden."
+          }
+        ]
+      },
+      "id": "hosea.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Zij hebben het verbond overtreden, als Adam: zo zijn zij Mij ontrouw geworden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben het verbond overtreden, als Adam: zo zijn zij Mij ontrouw geworden."
+          }
+        ]
+      },
+      "id": "hosea.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Zij zijn allen zo heet als een oven en verslinden hun rechters. Al hun koningen zijn omgekomen en niet een van hen heeft Mij aangeroepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn allen zo heet als een oven en verslinden hun rechters. Al hun koningen zijn omgekomen en niet een van hen heeft Mij aangeroepen."
+          }
+        ]
+      },
+      "id": "hosea.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Ja, zij zaaien wind, maar storm zullen zij oogsten: de halmen waar geen groei in zit geven geen meel, en al geven zij het wel, vreemden vraten het op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, zij zaaien wind, maar storm zullen zij oogsten: de halmen waar geen groei in zit geven geen meel, en al geven zij het wel, vreemden vraten het op."
+          }
+        ]
+      },
+      "id": "hosea.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Nu komt de tijd van de afrekening, nu is het de tijd van de vergelding! Israël zal het weten! De profeet is mal, zeggen ze, de man die de geest heeft, is gek! Omdat uw schuld zo groot is, is uw tegenstand ook groot.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu komt de tijd van de afrekening, nu is het de tijd van de vergelding! Israël zal het weten! De profeet is mal, zeggen ze, de man die de geest heeft, is gek! Omdat uw schuld zo groot is, is uw tegenstand ook groot."
+          }
+        ]
+      },
+      "id": "hosea.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Samaria is tot zwijgen gebracht, zijn koning is als een afgebroken tak die op het water drijft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Samaria is tot zwijgen gebracht, zijn koning is als een afgebroken tak die op het water drijft."
+          }
+        ]
+      },
+      "id": "hosea.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Mijn volk verhangt zich aan zijn ontrouw jegens Mij; zij roepen Baäl wel aan, maar die maakt hen niet los uit de strop.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn volk verhangt zich aan zijn ontrouw jegens Mij; zij roepen Baäl wel aan, maar die maakt hen niet los uit de strop."
+          }
+        ]
+      },
+      "id": "hosea.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Met de hulp van uw God zult gij terugkeren; houdt u aan liefde en recht en blijf altijd op uw God vertrouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met de hulp van uw God zult gij terugkeren; houdt u aan liefde en recht en blijf altijd op uw God vertrouwen."
+          }
+        ]
+      },
+      "id": "hosea.12.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Ik ben voor hen als een leeuw geworden, Ik loer als een panter langs de weg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben voor hen als een leeuw geworden, Ik loer als een panter langs de weg."
+          }
+        ]
+      },
+      "id": "hosea.13.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Zijn scheuten lopen uit, zijn luister evenaart die van de olijfboom, zijn geur die van de Libanon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn scheuten lopen uit, zijn luister evenaart die van de olijfboom, zijn geur die van de Libanon."
+          }
+        ]
+      },
+      "id": "hosea.14.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Toen de vrouw opgehouden had Lo-Ruchama te voeden, werd zij zwanger en baarde een zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de vrouw opgehouden had Lo-Ruchama te voeden, werd zij zwanger en baarde een zoon."
+          }
+        ]
+      },
+      "id": "hosea.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Daarom ga Ik, Jahwe, met dorens uw weg versperren; met een muur ga Ik haar insluiten, zodat ze niet meer op pad kan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom ga Ik, Jahwe, met dorens uw weg versperren; met een muur ga Ik haar insluiten, zodat ze niet meer op pad kan."
+          }
+        ]
+      },
+      "id": "hosea.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Zij eten van de zonde van mijn volk en gnuiven om zijn schuld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij eten van de zonde van mijn volk en gnuiven om zijn schuld."
+          }
+        ]
+      },
+      "id": "hosea.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Blaas de bazuin in Gibea, steek de trompet in Rama, sla alarm in Bet-awen; ze zitten achter u aan, Benjamin!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Blaas de bazuin in Gibea, steek de trompet in Rama, sla alarm in Bet-awen; ze zitten achter u aan, Benjamin!"
+          }
+        ]
+      },
+      "id": "hosea.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Gilead is een stad van boosdoeners, met bloedsporen besmeurd;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gilead is een stad van boosdoeners, met bloedsporen besmeurd;"
+          }
+        ]
+      },
+      "id": "hosea.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Efraim heeft zich met de volken vermengd, Efraim is als een koek die niet gekeerd wordt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim heeft zich met de volken vermengd, Efraim is als een koek die niet gekeerd wordt."
+          }
+        ]
+      },
+      "id": "hosea.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Israël wordt opgevreten. Onder de volken zijn zij nu al als rommel waar niemand naar omziet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israël wordt opgevreten. Onder de volken zijn zij nu al als rommel waar niemand naar omziet."
+          }
+        ]
+      },
+      "id": "hosea.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Degene die waakt over Efraim, het volk van mijn God, een profeet, hij vindt netten van vogelaars op al zijn wegen, tegenstand tot in het huis van zijn God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Degene die waakt over Efraim, het volk van mijn God, een profeet, hij vindt netten van vogelaars op al zijn wegen, tegenstand tot in het huis van zijn God."
+          }
+        ]
+      },
+      "id": "hosea.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "De gruwelhoogten worden verwoest, Israëls zonde. Doornen en distels overwoekeren hun altaren. Dan roepen zij de bergen toe: 'Bedek ons!' en de heuvels: 'Val op ons neer!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De gruwelhoogten worden verwoest, Israëls zonde. Doornen en distels overwoekeren hun altaren. Dan roepen zij de bergen toe: 'Bedek ons!' en de heuvels: 'Val op ons neer!'"
+          }
+        ]
+      },
+      "id": "hosea.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Hoe zou Ik echter u kunnen prijsgeven, Efraim, u kunnen overleveren, Israël? Hoe zou Ik u kunnen prijsgeven, alsof gij Adma waart, of met u kunnen doen zoals met Seboim? Mijn hart slaat om, heel mijn binnenste wordt week.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe zou Ik echter u kunnen prijsgeven, Efraim, u kunnen overleveren, Israël? Hoe zou Ik u kunnen prijsgeven, alsof gij Adma waart, of met u kunnen doen zoals met Seboim? Mijn hart slaat om, heel mijn binnenste wordt week."
+          }
+        ]
+      },
+      "id": "hosea.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Kanaän houdt een vervalste weegschaal in zijn hand, het is belust op bedrog.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kanaän houdt een vervalste weegschaal in zijn hand, het is belust op bedrog."
+          }
+        ]
+      },
+      "id": "hosea.12.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "Ik val hen aan als een berin, een die van haar jongen beroofd is, en Ik rijt hun de borstkas open; als een leeuwin verslind Ik hen dan, zij worden door wilde beesten verscheurd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik val hen aan als een berin, een die van haar jongen beroofd is, en Ik rijt hun de borstkas open; als een leeuwin verslind Ik hen dan, zij worden door wilde beesten verscheurd."
+          }
+        ]
+      },
+      "id": "hosea.13.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Zij zullen opnieuw in zijn schaduw zitten; zij zullen koren kunnen verbouwen, zij zullen bloeien als de wingerd en vermaard zijn als de wijn van de Libanon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen opnieuw in zijn schaduw zitten; zij zullen koren kunnen verbouwen, zij zullen bloeien als de wingerd en vermaard zijn als de wijn van de Libanon."
+          }
+        ]
+      },
+      "id": "hosea.14.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Toen sprak Jahwe: &#39;Geef hem de naam Lo-Ammi - Niet-mijn-volk, want gij zijt niet langer mijn volk en Ik ben er niet langer voor u.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen sprak Jahwe: 'Geef hem de naam Lo-Ammi - Niet-mijn-volk, want gij zijt niet langer mijn volk en Ik ben er niet langer voor u.'"
+          }
+        ]
+      },
+      "id": "hosea.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Als zij haar minnaars achterna wil, zal zij hen niet bereiken; als ze hen zoekt, zal ze hen niet vinden. Dan zal ze zeggen: &#39;Ik wil terug naar mijn eerste man, want toen had ik het beter dan nu&#39;.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als zij haar minnaars achterna wil, zal zij hen niet bereiken; als ze hen zoekt, zal ze hen niet vinden. Dan zal ze zeggen: 'Ik wil terug naar mijn eerste man, want toen had ik het beter dan nu'."
+          }
+        ]
+      },
+      "id": "hosea.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Daarom staat de priester hetzelfde lot te wachten als het volk: Ik vraag hem rekenschap van zijn gedrag, Ik zet hem zijn daden betaald.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom staat de priester hetzelfde lot te wachten als het volk: Ik vraag hem rekenschap van zijn gedrag, Ik zet hem zijn daden betaald."
+          }
+        ]
+      },
+      "id": "hosea.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Efraim zal verwoest worden op de dag van hun strafgericht. Over Israëls stammen maak Ik een onherroepelijk besluit bekend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim zal verwoest worden op de dag van hun strafgericht. Over Israëls stammen maak Ik een onherroepelijk besluit bekend."
+          }
+        ]
+      },
+      "id": "hosea.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "als een loerende roverstroep is het priestergilde: zij moorden op de weg naar Sichem, schandelijk is hun gedrag. Het zijn afschuwelijke dingen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als een loerende roverstroep is het priestergilde: zij moorden op de weg naar Sichem, schandelijk is hun gedrag. Het zijn afschuwelijke dingen,"
+          }
+        ]
+      },
+      "id": "hosea.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "De vreemdelingen hebben zijn krachten verteerd, maar hij zelf weet van niets; zijn haar is wit geworden, maar hijzelf weet van niets. Door zijn eigen hoogmoed wordt Israël aangeklaagd,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vreemdelingen hebben zijn krachten verteerd, maar hij zelf weet van niets; zijn haar is wit geworden, maar hijzelf weet van niets. Door zijn eigen hoogmoed wordt Israël aangeklaagd,"
+          }
+        ]
+      },
+      "id": "hosea.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Zij zijn naar Assur gelopen: een wilde ezel blijft bij zijn soort, maar Efraim zoekt zijn liefde elders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn naar Assur gelopen: een wilde ezel blijft bij zijn soort, maar Efraim zoekt zijn liefde elders."
+          }
+        ]
+      },
+      "id": "hosea.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Zij zijn even diep gezonken als in de dagen van Gibea. Hij zal zich hun zonde herinneren, hun overtredingen bestraffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn even diep gezonken als in de dagen van Gibea. Hij zal zich hun zonde herinneren, hun overtredingen bestraffen."
+          }
+        ]
+      },
+      "id": "hosea.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Al sinds de dagen van Gibea, Israël, hebt gij gezondigd: zij zijt bij Gibea blijven staan, alsof de oorlog tegen de boosdoeners hen daar niet treffen zou.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al sinds de dagen van Gibea, Israël, hebt gij gezondigd: zij zijt bij Gibea blijven staan, alsof de oorlog tegen de boosdoeners hen daar niet treffen zou."
+          }
+        ]
+      },
+      "id": "hosea.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Neen, Ik zal mijn vlammende toorn toch niet koelen, Efraim niet opnieuw te gronde richten, want Ik ben God, Ik ben geen mens, Ik ben de Heilige in uw midden. Ik laat Mij niet gaan in mijn toorn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, Ik zal mijn vlammende toorn toch niet koelen, Efraim niet opnieuw te gronde richten, want Ik ben God, Ik ben geen mens, Ik ben de Heilige in uw midden. Ik laat Mij niet gaan in mijn toorn."
+          }
+        ]
+      },
+      "id": "hosea.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "En Efraim zegt: 'Al ben ik vermogend geworden en al heb ik rijkdom opgedaan, met al die winst deed ik geen schuld op, waarin iemand zonde kan zien.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Efraim zegt: 'Al ben ik vermogend geworden en al heb ik rijkdom opgedaan, met al die winst deed ik geen schuld op, waarin iemand zonde kan zien.'"
+          }
+        ]
+      },
+      "id": "hosea.12.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Het is uw ondergang, Israël, terwijl Ik toch uw helper ben!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is uw ondergang, Israël, terwijl Ik toch uw helper ben!"
+          }
+        ]
+      },
+      "id": "hosea.13.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "Wat heb Ik dan nog met de afgoden te maken, Efraim? Ik ben het die hem verhoort en die naar hem omziet. Ik ben als een altijd groene cypres: aan Mij zijn uw vruchten te danken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat heb Ik dan nog met de afgoden te maken, Efraim? Ik ben het die hem verhoort en die naar hem omziet. Ik ben als een altijd groene cypres: aan Mij zijn uw vruchten te danken."
+          }
+        ]
+      },
+      "id": "hosea.14.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Zij wil maar niet weten, dat Ik het ben die haar koren bezorg en most en olie, dat Ik haar verrijk met het zilver en het goud waar ze Baäls van maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij wil maar niet weten, dat Ik het ben die haar koren bezorg en most en olie, dat Ik haar verrijk met het zilver en het goud waar ze Baäls van maken."
+          }
+        ]
+      },
+      "id": "hosea.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Dan zullen zij eten zonder verzadigd te worden, tot ontucht verleiden zonder er baat van te hebben, want zij hebben Jahwe verlaten en hebben de ontucht in stand gehouden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen zij eten zonder verzadigd te worden, tot ontucht verleiden zonder er baat van te hebben, want zij hebben Jahwe verlaten en hebben de ontucht in stand gehouden."
+          }
+        ]
+      },
+      "id": "hosea.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "De leiders van Juda gaan te werk als lieden die grenssteden verleggen: Ik stort mijn verbolgenheid als water over hen uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De leiders van Juda gaan te werk als lieden die grenssteden verleggen: Ik stort mijn verbolgenheid als water over hen uit."
+          }
+        ]
+      },
+      "id": "hosea.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "die Ik in het huis van Israël zie: Ik zie hoe Efraim ontucht pleegt en Israël zich bezoedelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die Ik in het huis van Israël zie: Ik zie hoe Efraim ontucht pleegt en Israël zich bezoedelt."
+          }
+        ]
+      },
+      "id": "hosea.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "maar zij bekeren zich niet tot Jahwe hun God, en zoeken Hem niet, trots dit alles.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar zij bekeren zich niet tot Jahwe hun God, en zoeken Hem niet, trots dit alles."
+          }
+        ]
+      },
+      "id": "hosea.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Ook al zoeken zij het onder de volken, Ik drijf hen nu bijeen en laat hen een tijd lang zuchten onder de last van de koning der vorsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook al zoeken zij het onder de volken, Ik drijf hen nu bijeen en laat hen een tijd lang zuchten onder de last van de koning der vorsten."
+          }
+        ]
+      },
+      "id": "hosea.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Als de druiven in de woestijn, zo vond ik Isra&euml;l, als de vroegste vruchten aan een vijgeboom, zijn eerstelingen, zo zag Ik uw vaderen. Maar zij gingen naar Ba&auml;l-Peor en wijdden zich daar aan de schande; zij werden een gruwel, net als hun geliefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de druiven in de woestijn, zo vond ik Israël, als de vroegste vruchten aan een vijgeboom, zijn eerstelingen, zo zag Ik uw vaderen. Maar zij gingen naar Baäl-Peor en wijdden zich daar aan de schande; zij werden een gruwel, net als hun geliefde."
+          }
+        ]
+      },
+      "id": "hosea.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Dit is mijn wens: hen te tuchtigen. Volkeren zullen tegen hen verzameld worden, tegen hen die in een tweevoudige zonde verstrikt zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is mijn wens: hen te tuchtigen. Volkeren zullen tegen hen verzameld worden, tegen hen die in een tweevoudige zonde verstrikt zijn."
+          }
+        ]
+      },
+      "id": "hosea.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Zij zullen achter Jahwe aan gaan. Als een leeuw zal Hij brullen. Ja, Hij zal brullen, en bevend komen dan de zonen van de zeekant.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen achter Jahwe aan gaan. Als een leeuw zal Hij brullen. Ja, Hij zal brullen, en bevend komen dan de zonen van de zeekant."
+          }
+        ]
+      },
+      "id": "hosea.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Maar ik ben Jahwe, uw God, al sinds Egypte, en opnieuw zal Ik u in tenten laten wonen, zoals in de dagen van ontmoeting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik ben Jahwe, uw God, al sinds Egypte, en opnieuw zal Ik u in tenten laten wonen, zoals in de dagen van ontmoeting."
+          }
+        ]
+      },
+      "id": "hosea.12.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Waar blijft dan uw koning die u zal redden, met al uw beschermers en rechters, degenen van wie gij gezegd hebt: 'Geef mij een koning en leiders?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar blijft dan uw koning die u zal redden, met al uw beschermers en rechters, degenen van wie gij gezegd hebt: 'Geef mij een koning en leiders?'"
+          }
+        ]
+      },
+      "id": "hosea.13.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "Wie is zo wijs dat hij dit beseft, wie is zo verstandig dat hij dit inziet? Inderdaad, recht zijn de wegen van Jahwe; de rechtschapenen bewandelen die, maar rebellen komen er ten val.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is zo wijs dat hij dit beseft, wie is zo verstandig dat hij dit inziet? Inderdaad, recht zijn de wegen van Jahwe; de rechtschapenen bewandelen die, maar rebellen komen er ten val."
+          }
+        ]
+      },
+      "id": "hosea.14.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Daarom neem Ik mijn koren terug zodra de oogsttijd komt, en ook mijn most, zodra het zijn tijd is; daarom ruk Ik mijn wol en mijn vlas van haar weg, die haar naaktheid moeten bedekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom neem Ik mijn koren terug zodra de oogsttijd komt, en ook mijn most, zodra het zijn tijd is; daarom ruk Ik mijn wol en mijn vlas van haar weg, die haar naaktheid moeten bedekken."
+          }
+        ]
+      },
+      "id": "hosea.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Wijn en most beroven mijn volk van zijn verstand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wijn en most beroven mijn volk van zijn verstand."
+          }
+        ]
+      },
+      "id": "hosea.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Efraim is verdrukt, het recht is verkracht, want het was er zo op gebrand de ijdelheden achterna te lopen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim is verdrukt, het recht is verkracht, want het was er zo op gebrand de ijdelheden achterna te lopen."
+          }
+        ]
+      },
+      "id": "hosea.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Ook u, Juda, staat een oogst te wachten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook u, Juda, staat een oogst te wachten!"
+          }
+        ]
+      },
+      "id": "hosea.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Efraim is als een duif, onnozel en zonder verstand. Zij hebben Egypte te hulp geroepen en zij zijn naar Assur gevlogen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim is als een duif, onnozel en zonder verstand. Zij hebben Egypte te hulp geroepen en zij zijn naar Assur gevlogen."
+          }
+        ]
+      },
+      "id": "hosea.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Ja, Efraim heeft zijn altaren talrijk gemaakt, maar die dienden om te zondigen, altaren om te zondigen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, Efraim heeft zijn altaren talrijk gemaakt, maar die dienden om te zondigen, altaren om te zondigen!"
+          }
+        ]
+      },
+      "id": "hosea.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Efraims luister vliegt weg als een vogel: gedaan is het nu met geboorte, met zwangerschap, met bevruchting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraims luister vliegt weg als een vogel: gedaan is het nu met geboorte, met zwangerschap, met bevruchting."
+          }
+        ]
+      },
+      "id": "hosea.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Efraim is een vaars, die geleerd heeft gedwee te dorsen. Ikzelf merkte haar machtige nek op. Ik spande Efraim in; Juda zou ploegen en Jakob eggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim is een vaars, die geleerd heeft gedwee te dorsen. Ikzelf merkte haar machtige nek op. Ik spande Efraim in; Juda zou ploegen en Jakob eggen."
+          }
+        ]
+      },
+      "id": "hosea.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Bevend komen zij uit Egypte, als vogels, uit het land van Assur, als duiven. Ik vestig hen weer in hun tehuis - zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bevend komen zij uit Egypte, als vogels, uit het land van Assur, als duiven. Ik vestig hen weer in hun tehuis - zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "hosea.11.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Ik zal tot de profeten spreken, Ik zal de visioenen talrijk maken en gelijkenissen leggen in de mond van de profeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal tot de profeten spreken, Ik zal de visioenen talrijk maken en gelijkenissen leggen in de mond van de profeten."
+          }
+        ]
+      },
+      "id": "hosea.12.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Vertoornd gaf Ik u een koning, woedend nam Ik hem terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vertoornd gaf Ik u een koning, woedend nam Ik hem terug."
+          }
+        ]
+      },
+      "id": "hosea.13.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Dan stel Ik haar schaamte ten toon voor de ogen van haar minnaars en niemand ontrukt haar aan mijn hand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan stel Ik haar schaamte ten toon voor de ogen van haar minnaars en niemand ontrukt haar aan mijn hand."
+          }
+        ]
+      },
+      "id": "hosea.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Het raadpleegt zijn stuk hout en zijn stok heeft het voor het zeggen. De geest van ontucht heeft hen misleid, door hun ontucht lopen zij weg van hun God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het raadpleegt zijn stuk hout en zijn stok heeft het voor het zeggen. De geest van ontucht heeft hen misleid, door hun ontucht lopen zij weg van hun God."
+          }
+        ]
+      },
+      "id": "hosea.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Maar Ik ben de mot die Efraim aanvreet, de verrotting in het huis Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Ik ben de mot die Efraim aanvreet, de verrotting in het huis Juda."
+          }
+        ]
+      },
+      "id": "hosea.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Maar waar zij ook vliegen, Ik span mijn net om hen te vangen en Ik haal hen omlaag, als vogels in de lucht, Ik vang ze, zodra ik hun zwerm hoor gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar waar zij ook vliegen, Ik span mijn net om hen te vangen en Ik haal hen omlaag, als vogels in de lucht, Ik vang ze, zodra ik hun zwerm hoor gaan."
+          }
+        ]
+      },
+      "id": "hosea.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Al schrijf Ik mijn wet ook nog zo vaak aan hem voor, zij geldt als de wet van een vreemde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al schrijf Ik mijn wet ook nog zo vaak aan hem voor, zij geldt als de wet van een vreemde."
+          }
+        ]
+      },
+      "id": "hosea.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Al brengen zij hun zonen nog groot, Ik beroof hen ervan, en er rest geen mens meer. En wee ook over henzelf, als Ik mij van hen terugtrek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al brengen zij hun zonen nog groot, Ik beroof hen ervan, en er rest geen mens meer. En wee ook over henzelf, als Ik mij van hen terugtrek."
+          }
+        ]
+      },
+      "id": "hosea.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Zaai rechtschapenheid, dan zult gij goedheid oogsten; ontgin het braakland. Het is nu de tijd om Jahwe te zoeken, totdat Hij komt en de gerechtigheid over u laat regenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zaai rechtschapenheid, dan zult gij goedheid oogsten; ontgin het braakland. Het is nu de tijd om Jahwe te zoeken, totdat Hij komt en de gerechtigheid over u laat regenen."
+          }
+        ]
+      },
+      "id": "hosea.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Gilead met al zijn boze macht is louter nietigheid geworden. Ondanks al de stierenoffers in Gilgal zijn hun altaren als hopen steen geworden, die bij de voren van de akkers liggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gilead met al zijn boze macht is louter nietigheid geworden. Ondanks al de stierenoffers in Gilgal zijn hun altaren als hopen steen geworden, die bij de voren van de akkers liggen."
+          }
+        ]
+      },
+      "id": "hosea.12.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "De schuld van Efraim is gebundeld, zijn zonden liggen opgeborgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De schuld van Efraim is gebundeld, zijn zonden liggen opgeborgen."
+          }
+        ]
+      },
+      "id": "hosea.13.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ik maak een eind aan al haar plezier, haar hoogtijdagen, haar nieuwe maan, haar sabbat en al haar festiviteiten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik maak een eind aan al haar plezier, haar hoogtijdagen, haar nieuwe maan, haar sabbat en al haar festiviteiten."
+          }
+        ]
+      },
+      "id": "hosea.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Op de bergtoppen brengen zij offers, op de heuvels branden zij wierook onder eik en populier en terebint, want de schaduw is daar zo goed. Geen wonder dat uw dochters ontucht plegen en uw schoondochters overspel begaan!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de bergtoppen brengen zij offers, op de heuvels branden zij wierook onder eik en populier en terebint, want de schaduw is daar zo goed. Geen wonder dat uw dochters ontucht plegen en uw schoondochters overspel begaan!"
+          }
+        ]
+      },
+      "id": "hosea.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Wanneer Efraim zijn ziekte ziet en Juda zijn etterende wonde, dan loopt Efraim naar Assur en zendt Juda gezanten naar de Wraakvorst. Maar hij kan u niet genezen, hij helpt u niet van die etterende wonde af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer Efraim zijn ziekte ziet en Juda zijn etterende wonde, dan loopt Efraim naar Assur en zendt Juda gezanten naar de Wraakvorst. Maar hij kan u niet genezen, hij helpt u niet van die etterende wonde af."
+          }
+        ]
+      },
+      "id": "hosea.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Wee over hen, omdat ze Mij ontvluchten, verderf over hen, omdat ze Mij ontvluchten, verderf over hen, omdat ze Mij ontrouw zijn! Hoe kan Ik hen verlossen, terwijl ze zo leugenachtig tegen Mij spreken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee over hen, omdat ze Mij ontvluchten, verderf over hen, omdat ze Mij ontvluchten, verderf over hen, omdat ze Mij ontrouw zijn! Hoe kan Ik hen verlossen, terwijl ze zo leugenachtig tegen Mij spreken,"
+          }
+        ]
+      },
+      "id": "hosea.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Zij brengen offers naar hun eigen welbehagen en eten van het offervlees, maar Jahwe aanvaardt die niet. Nu herinnert Hij zich hun schuld en straft Hij hun zonden: zij gaan naar Egypte terug!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij brengen offers naar hun eigen welbehagen en eten van het offervlees, maar Jahwe aanvaardt die niet. Nu herinnert Hij zich hun schuld en straft Hij hun zonden: zij gaan naar Egypte terug!"
+          }
+        ]
+      },
+      "id": "hosea.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Efraim, zoals Ik het ontwaarde, was een jonge palm, geplant in een weide. Dat Efraim moet zijn zonen nu brengen naar iemand die ze vermoordt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim, zoals Ik het ontwaarde, was een jonge palm, geplant in een weide. Dat Efraim moet zijn zonen nu brengen naar iemand die ze vermoordt."
+          }
+        ]
+      },
+      "id": "hosea.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Maar gij hebt boosheid ingeploegd, misdaad geoogst en de vrucht gegeten van het bedrog. Omdat gij vertrouwd hebt op uw eigen wegen, op het grote getal van uw helden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij hebt boosheid ingeploegd, misdaad geoogst en de vrucht gegeten van het bedrog. Omdat gij vertrouwd hebt op uw eigen wegen, op het grote getal van uw helden,"
+          }
+        ]
+      },
+      "id": "hosea.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "Jakob vluchtte naar de vlakte van Aram; Israël ging dienen om de hand van een vrouw, om de hand van een vrouw hoedde hij het vee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jakob vluchtte naar de vlakte van Aram; Israël ging dienen om de hand van een vrouw, om de hand van een vrouw hoedde hij het vee."
+          }
+        ]
+      },
+      "id": "hosea.12.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Als de barensweeën van hem komen, dan blijkt hij een onwijs kind te zijn; wanneer het zijn tijd is, vertoont hij zich niet in de opening van de moederschoot.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de barensweeën van hem komen, dan blijkt hij een onwijs kind te zijn; wanneer het zijn tijd is, vertoont hij zich niet in de opening van de moederschoot."
+          }
+        ]
+      },
+      "id": "hosea.13.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Ik verwoest haar wingerden en vijgenbomen, waarvan zij beweert: &#39;Dit is het loon dat ik gekregen heb van mijn minnaars&#39;. Ik maak er verwilderd hout van, waar de dieren aan vreten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik verwoest haar wingerden en vijgenbomen, waarvan zij beweert: 'Dit is het loon dat ik gekregen heb van mijn minnaars'. Ik maak er verwilderd hout van, waar de dieren aan vreten."
+          }
+        ]
+      },
+      "id": "hosea.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Maar niet uw dochters zal Ik ter verantwoording roepen voor hun ontucht en niet uw schoondochters voor hun overspel. De heren zoeken het immers zelf bij de hoeren en brengen hun offers in het gezelschap van tempeldeernen! Het domme volk komt ten val",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar niet uw dochters zal Ik ter verantwoording roepen voor hun ontucht en niet uw schoondochters voor hun overspel. De heren zoeken het immers zelf bij de hoeren en brengen hun offers in het gezelschap van tempeldeernen! Het domme volk komt ten val"
+          }
+        ]
+      },
+      "id": "hosea.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Ik zelf immers, als een leeuw keer Ik Mij tegen Efraim, als een leeuwejong tegen het huis Juda. Ik verscheur ze en Ik ga heen, Ik haal ze weg en niemand ontrukt ze Mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zelf immers, als een leeuw keer Ik Mij tegen Efraim, als een leeuwejong tegen het huis Juda. Ik verscheur ze en Ik ga heen, Ik haal ze weg en niemand ontrukt ze Mij."
+          }
+        ]
+      },
+      "id": "hosea.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "terwijl zij niet uit de grond van hun hart tot Mij roepen, maar op de bedden liggen te jammeren, terwijl ze zich kerven om koren en most, maar zich afkeren van Mij?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "terwijl zij niet uit de grond van hun hart tot Mij roepen, maar op de bedden liggen te jammeren, terwijl ze zich kerven om koren en most, maar zich afkeren van Mij?"
+          }
+        ]
+      },
+      "id": "hosea.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Israël heeft zijn maker vergeten en heeft zich hoge huizen gebouwd. Juda heeft zijn vestingen talrijk gemaakt. Maar Ik slinger vuur in zijn steden: het verslindt zijn paleizen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israël heeft zijn maker vergeten en heeft zich hoge huizen gebouwd. Juda heeft zijn vestingen talrijk gemaakt. Maar Ik slinger vuur in zijn steden: het verslindt zijn paleizen."
+          }
+        ]
+      },
+      "id": "hosea.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Geef hun, Jahwe - ja, wat zult Gij hun geven? - geef hun een schoot, die geen vrucht houdt, en geef hun verdorde borsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef hun, Jahwe - ja, wat zult Gij hun geven? - geef hun een schoot, die geen vrucht houdt, en geef hun verdorde borsten."
+          }
+        ]
+      },
+      "id": "hosea.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "daarom zal er een krijgsgeschreeuw opgaan tegen uw volk en zullen al uw vestingen verwoest worden, zoals Salman Bet-Arbel verwoest heeft op de dag van de strijd, toen de moeder te pletter werd gegooid bovenop haar zonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "daarom zal er een krijgsgeschreeuw opgaan tegen uw volk en zullen al uw vestingen verwoest worden, zoals Salman Bet-Arbel verwoest heeft op de dag van de strijd, toen de moeder te pletter werd gegooid bovenop haar zonen."
+          }
+        ]
+      },
+      "id": "hosea.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Maar door de hand van een profeet heeft Jahwe Israël uit Egypte geleid, door de hand van een profeet werd Israël gehoed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar door de hand van een profeet heeft Jahwe Israël uit Egypte geleid, door de hand van een profeet werd Israël gehoed."
+          }
+        ]
+      },
+      "id": "hosea.12.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "Zou Ik hen dan bevrijden uit de macht van het dodenrijk? Zou Ik hen loskopen van de dood? Dood, waar blijft uw pest? Dodenrijk, waar uw verderf? Mijn ogen kennen geen erbarmen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zou Ik hen dan bevrijden uit de macht van het dodenrijk? Zou Ik hen loskopen van de dood? Dood, waar blijft uw pest? Dodenrijk, waar uw verderf? Mijn ogen kennen geen erbarmen."
+          }
+        ]
+      },
+      "id": "hosea.13.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Ik vraag haar rekenschap voor de dagen die zij aan de Baäls gewijd heeft, waarop zij offervuren voor hen brandde, waarop zij, gesierd met haar ringen en halstooi, haar minnaars achterna ging en Mij vergat. Zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vraag haar rekenschap voor de dagen die zij aan de Baäls gewijd heeft, waarop zij offervuren voor hen brandde, waarop zij, gesierd met haar ringen en halstooi, haar minnaars achterna ging en Mij vergat. Zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "hosea.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "met dat ontuchtige gedoe! Gij Israël, maak u toch niet schuldig - en ook Juda niet! -, ga toch niet naar Gilgal, trek toch niet op naar Bet-awen en zweer daar niet bij het leven van Jahwe!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "met dat ontuchtige gedoe! Gij Israël, maak u toch niet schuldig - en ook Juda niet! -, ga toch niet naar Gilgal, trek toch niet op naar Bet-awen en zweer daar niet bij het leven van Jahwe!"
+          }
+        ]
+      },
+      "id": "hosea.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Ik wil heengaan, naar mijn woonplaats terug, totdat zij, met schuld beladen, mijn aangezicht zoeken. In hun nood zullen zij naar Mij uitzien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil heengaan, naar mijn woonplaats terug, totdat zij, met schuld beladen, mijn aangezicht zoeken. In hun nood zullen zij naar Mij uitzien."
+          }
+        ]
+      },
+      "id": "hosea.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Ik was het die hen onderwees en die hun armen kracht gaf, maar zij beramen kwaad tegen Mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik was het die hen onderwees en die hun armen kracht gaf, maar zij beramen kwaad tegen Mij."
+          }
+        ]
+      },
+      "id": "hosea.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "In Gilgal is heel hun boosheid gebleken: daar ben Ik hen gaan verfoeien. Om de boosheid van hun daden jaag Ik hen weg uit mijn huis. Ik wil hen niet langer liefhebben: al hun leiders zijn rebellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Gilgal is heel hun boosheid gebleken: daar ben Ik hen gaan verfoeien. Om de boosheid van hun daden jaag Ik hen weg uit mijn huis. Ik wil hen niet langer liefhebben: al hun leiders zijn rebellen."
+          }
+        ]
+      },
+      "id": "hosea.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "Dit heeft Betel u bezorgd vanwege uw barre verdorvenheid. Al bij het morgenkrieken wordt Israëls koning voorgoed tot zwijgen gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit heeft Betel u bezorgd vanwege uw barre verdorvenheid. Al bij het morgenkrieken wordt Israëls koning voorgoed tot zwijgen gebracht."
+          }
+        ]
+      },
+      "id": "hosea.10.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Efraim heeft zijn Heer bitter beledigd, maar deze vraagt hem rekenschap van zijn bloedschuld en vergeldt hem zijn smaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim heeft zijn Heer bitter beledigd, maar deze vraagt hem rekenschap van zijn bloedschuld en vergeldt hem zijn smaad."
+          }
+        ]
+      },
+      "id": "hosea.12.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Terwijl hij tussen het riet gedijt, komt de schroeiwind aan, de adem van Jahwe, opstekend uit de woestijn. Dan verdroogt zijn bron, dan geeft zijn wel geen water meer. Dan komt degene die zijn schatten rooft en al zijn kostbaarheden weghaalt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl hij tussen het riet gedijt, komt de schroeiwind aan, de adem van Jahwe, opstekend uit de woestijn. Dan verdroogt zijn bron, dan geeft zijn wel geen water meer. Dan komt degene die zijn schatten rooft en al zijn kostbaarheden weghaalt."
+          }
+        ]
+      },
+      "id": "hosea.13.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "En daarom weldra lok Ik haar weer naar Mij toe, zorg Ik dat zij naar de woestijn gaat en spreek Ik tot haar hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daarom weldra lok Ik haar weer naar Mij toe, zorg Ik dat zij naar de woestijn gaat en spreek Ik tot haar hart."
+          }
+        ]
+      },
+      "id": "hosea.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Als een rebelse koe, zo rebels is Israël. en Jahwe zou het moeten weiden als een lam in het wijde veld?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een rebelse koe, zo rebels is Israël. en Jahwe zou het moeten weiden als een lam in het wijde veld?"
+          }
+        ]
+      },
+      "id": "hosea.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Zij wenden zich tot Baäl, zij zijn als een boog zonder veerkracht. Hun leiders zullen vallen door het zwaard vanwege hun onbeschaamde taal, hun krompraat in Egypte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij wenden zich tot Baäl, zij zijn als een boog zonder veerkracht. Hun leiders zullen vallen door het zwaard vanwege hun onbeschaamde taal, hun krompraat in Egypte."
+          }
+        ]
+      },
+      "id": "hosea.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Efraim is geslagen, zijn wortel verdord; zij dragen geen vrucht meer, en zelfs al baarden zij kinderen, Ik doodde de dierbare vrucht van hun schoot.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim is geslagen, zijn wortel verdord; zij dragen geen vrucht meer, en zelfs al baarden zij kinderen, Ik doodde de dierbare vrucht van hun schoot."
+          }
+        ]
+      },
+      "id": "hosea.9.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Vervolgens geef Ik haar dan de wijngaarden terug en maak Ik het Achordal tot een poort van hoop. Daar wordt zij weer gewillig, zoals in de dagen van haar jeugd, toen zij optrok uit Egypte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vervolgens geef Ik haar dan de wijngaarden terug en maak Ik het Achordal tot een poort van hoop. Daar wordt zij weer gewillig, zoals in de dagen van haar jeugd, toen zij optrok uit Egypte."
+          }
+        ]
+      },
+      "id": "hosea.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Efraim is aan afgodsbeelden verknocht. Laat hem!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Efraim is aan afgodsbeelden verknocht. Laat hem!"
+          }
+        ]
+      },
+      "id": "hosea.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Mijn God zal hen verwerpen, omdat zij niet naar Hem geluisterd hebben: zij zullen ontheemd zijn onder de volken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn God zal hen verwerpen, omdat zij niet naar Hem geluisterd hebben: zij zullen ontheemd zijn onder de volken."
+          }
+        ]
+      },
+      "id": "hosea.9.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Op die dag - zo luidt de godsspraak van Jahwe - zult gij tot Mij roepen: 'Mijn man!' Nooit roept gij Mij dan meer toe: 'Mijn Baäl!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van Jahwe - zult gij tot Mij roepen: 'Mijn man!' Nooit roept gij Mij dan meer toe: 'Mijn Baäl!'"
+          }
+        ]
+      },
+      "id": "hosea.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Nauwelijks is de dronkenschap voorbij, of zij storten zich in de ontucht; zij zijn verslingerd aan de schande van de schaamtelozen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nauwelijks is de dronkenschap voorbij, of zij storten zich in de ontucht; zij zijn verslingerd aan de schande van de schaamtelozen."
+          }
+        ]
+      },
+      "id": "hosea.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Dan zal Ik de namen van de Baäls uit haar mond verwijderen: van hun namen wordt nooit meer gerept.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal Ik de namen van de Baäls uit haar mond verwijderen: van hun namen wordt nooit meer gerept."
+          }
+        ]
+      },
+      "id": "hosea.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Een stormwind wikkelt hen in vleugels. Hun altaren staan voor schande.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een stormwind wikkelt hen in vleugels. Hun altaren staan voor schande."
+          }
+        ]
+      },
+      "id": "hosea.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Op die dag zal Ik een verbond sluiten, ten bate van hen, met de dieren in het wild, met de vogels in de lucht en met wat er kruipt op de grond. Boog en zwaard en oorlog sla Ik het land uit en in veiligheid laat Ik hen wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zal Ik een verbond sluiten, ten bate van hen, met de dieren in het wild, met de vogels in de lucht en met wat er kruipt op de grond. Boog en zwaard en oorlog sla Ik het land uit en in veiligheid laat Ik hen wonen."
+          }
+        ]
+      },
+      "id": "hosea.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Ik neem u als mijn bruid, voor altijd, als mijn bruid, in recht en gerechtigheid, in goedheid en erbarming,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik neem u als mijn bruid, voor altijd, als mijn bruid, in recht en gerechtigheid, in goedheid en erbarming,"
+          }
+        ]
+      },
+      "id": "hosea.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "als mijn bruid, in onverbrekelijke trouw: dan zult gij Jahwe leren kennen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als mijn bruid, in onverbrekelijke trouw: dan zult gij Jahwe leren kennen."
+          }
+        ]
+      },
+      "id": "hosea.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Op die dag ben Ik - zo luidt de godsspraak van Jahwe - ben Ik de hemel ter wille en is de hemel de aarde ter wille",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag ben Ik - zo luidt de godsspraak van Jahwe - ben Ik de hemel ter wille en is de hemel de aarde ter wille"
+          }
+        ]
+      },
+      "id": "hosea.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "en is de aarde het koren, de most en de olie ter wille en zijn zij allen Jizreel ter wille.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en is de aarde het koren, de most en de olie ter wille en zijn zij allen Jizreel ter wille."
+          }
+        ]
+      },
+      "id": "hosea.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Dan bezaai Ik het weer, het land, dan erbarm Ik mij weer over Lo-Ruchama, dan zeg ik tot Lo-Ammi: &#39;Mijn volk zijt gij.&#39; en dan zegt hij tot Mij: &#39;Mijn God!&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan bezaai Ik het weer, het land, dan erbarm Ik mij weer over Lo-Ruchama, dan zeg ik tot Lo-Ammi: 'Mijn volk zijt gij.' en dan zegt hij tot Mij: 'Mijn God!'"
+          }
+        ]
+      },
+      "id": "hosea.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

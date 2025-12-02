@@ -1,0 +1,2626 @@
+{
+  "id": "klaagliederen",
+  "name": "Klaagliederen",
+  "chapters": 5,
+  "verseCount": 154,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Ach, hoe eenzaam is de volkrijke stad. De heerseres over de volken is nu een weduwe, de vorstin der gewesten nu onderhorig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ach, hoe eenzaam is de volkrijke stad. De heerseres over de volken is nu een weduwe, de vorstin der gewesten nu onderhorig."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Ach, de Heer in zijn toorn heeft Sion in duister gehuld, de luister van Israël van hemel naar aarde verwezen. Hij dacht aan zijn voetbank niet meer op de dag van zijn toorn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ach, de Heer in zijn toorn heeft Sion in duister gehuld, de luister van Israël van hemel naar aarde verwezen. Hij dacht aan zijn voetbank niet meer op de dag van zijn toorn."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Hoe heb ik onder de slagen van zijn toorn geleden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe heb ik onder de slagen van zijn toorn geleden."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ach, dof is het goud en glansloos dit edel metaal; op iedere straathoek liggen de kostbaarste stenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ach, dof is het goud en glansloos dit edel metaal; op iedere straathoek liggen de kostbaarste stenen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Gedenk wat ons is overkomen, zie, Jahwe, naar onze schande.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gedenk wat ons is overkomen, zie, Jahwe, naar onze schande."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Luidop schreit zij, iedere nacht, over haar wangen stromen de tranen. Geen van haar minnaars komt haar nog troosten; ontrouw werden alle vrienden nu haar vijanden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luidop schreit zij, iedere nacht, over haar wangen stromen de tranen. Geen van haar minnaars komt haar nog troosten; ontrouw werden alle vrienden nu haar vijanden."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Meedogenloos heeft de Heer het gebied van Jakob verwoest en in zijn woede heeft Hij de sterkten van Juda geslecht. Eerloos zijn rijk en bestuurders ter aarde geworpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Meedogenloos heeft de Heer het gebied van Jakob verwoest en in zijn woede heeft Hij de sterkten van Juda geslecht. Eerloos zijn rijk en bestuurders ter aarde geworpen."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "In het donkerste duister heeft Hij mij gedreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het donkerste duister heeft Hij mij gedreven."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Ach, de edelste zonen van Sion, meer waard dan louter goud, zijn nu slechts aarden kruiken, werk van pottenbakkers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ach, de edelste zonen van Sion, meer waard dan louter goud, zijn nu slechts aarden kruiken, werk van pottenbakkers."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Ons gebied is aan vreemden vervallen, een vreemde woont in ons huis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ons gebied is aan vreemden vervallen, een vreemde woont in ons huis."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Geknecht en verdrukt leeft Juda verbannen onder de volken, het vindt geen rust, door de vervolgers achterhaald en in het nauw gedreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geknecht en verdrukt leeft Juda verbannen onder de volken, het vindt geen rust, door de vervolgers achterhaald en in het nauw gedreven."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Ziedend van toorn heeft Hij de macht van Juda gebroken. Zijn hand trok Hij terug in het zicht van de vijand. Zijn woede op Jakob: een laaiend vuur, dat alles verteert.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ziedend van toorn heeft Hij de macht van Juda gebroken. Zijn hand trok Hij terug in het zicht van de vijand. Zijn woede op Jakob: een laaiend vuur, dat alles verteert."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Hij keert zich tegen mij, elke dag weer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij keert zich tegen mij, elke dag weer."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "De jakhals is nog bereid haar jongen te voeren, mijn volk echter misdraagt zich als de struisvogel in de woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De jakhals is nog bereid haar jongen te voeren, mijn volk echter misdraagt zich als de struisvogel in de woestijn."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Wezen zijn wij, zonder vader, en weduwen zijn onze moeders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wezen zijn wij, zonder vader, en weduwen zijn onze moeders."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Hoe troosteloos zijn de wegen naar Sion, geen feestgangers komen er meer; de poorten liggen in puin, de priesters klagen, de meisjes treuren: rampzalig is de stad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe troosteloos zijn de wegen naar Sion, geen feestgangers komen er meer; de poorten liggen in puin, de priesters klagen, de meisjes treuren: rampzalig is de stad."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Als een vijand spande Hij met vaste hand de boog, als een vijand moordde Hij uit die Sion het dierbaarst waren. Zijn gramschap kwam als een vuur over haar tenten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een vijand spande Hij met vaste hand de boog, als een vijand moordde Hij uit die Sion het dierbaarst waren. Zijn gramschap kwam als een vuur over haar tenten."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Mijn vlees en mijn huid teren weg, Hij heeft mij de beenderen gebroken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vlees en mijn huid teren weg, Hij heeft mij de beenderen gebroken."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "De tong van de zuigeling kleeft van dorst aan het gehemelte vast; de kinderen roepen om brood, maar niemand breekt het voor hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tong van de zuigeling kleeft van dorst aan het gehemelte vast; de kinderen roepen om brood, maar niemand breekt het voor hen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Geld moeten wij geven voor water en voor ons stookhout betalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geld moeten wij geven voor water en voor ons stookhout betalen."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "De overheersers zijn gelukkig: de stad is in hun macht. Om haar vele misdaden heeft Jahwe haar geslagen. De kinderen gaan gevangen voor de vijand uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De overheersers zijn gelukkig: de stad is in hun macht. Om haar vele misdaden heeft Jahwe haar geslagen. De kinderen gaan gevangen voor de vijand uit."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "De Heer was een vijand gelijk: Israël heeft Hij vernietigd; de burchten verwoest, de vestingen gesloopt. Daarom kon Juda slechts zuchten en klagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer was een vijand gelijk: Israël heeft Hij vernietigd; de burchten verwoest, de vestingen gesloopt. Daarom kon Juda slechts zuchten en klagen."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Een muur van bitter lijden heeft Hij om mij gebouwd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een muur van bitter lijden heeft Hij om mij gebouwd."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "De smulpapen van weleer teren weg in de straten; die op purperen kussens lagen, zitten nu in het vuil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De smulpapen van weleer teren weg in de straten; die op purperen kussens lagen, zitten nu in het vuil."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Met het juk op de nek, opgejaagd, matten wij ons rusteloos af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met het juk op de nek, opgejaagd, matten wij ons rusteloos af."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "De trots van Sion is uit haar verdwenen. Als herten zonder voedsel zijn haar edelen: uitgeput gaan ze voor de jagers uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De trots van Sion is uit haar verdwenen. Als herten zonder voedsel zijn haar edelen: uitgeput gaan ze voor de jagers uit."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Jahwe verwoestte zijn woning en haalde zijn tempel neer. Hij maakte in Sion een eind aan feesten en sabbat, en verwierp in grimmige toorn en koning en priester.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe verwoestte zijn woning en haalde zijn tempel neer. Hij maakte in Sion een eind aan feesten en sabbat, en verwierp in grimmige toorn en koning en priester."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "In duisternis liet Hij mij wonen, als dood voor altijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In duisternis liet Hij mij wonen, als dood voor altijd."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "De schuld van mijn volk is groter dan al de zonden van Sodom, dat ineens werd verwoest, zonder tussenkomst van de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De schuld van mijn volk is groter dan al de zonden van Sodom, dat ineens werd verwoest, zonder tussenkomst van de mensen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Bij Egypte en Assur zochten wij steun om te eten te hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij Egypte en Assur zochten wij steun om te eten te hebben."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Jeruzalem blijft denken aan de rampen van de verbanning en de rijkdom van vroeger. Het zwaard van de vijand velde de bewoners, door niemand gesteund, bespot in hun ondergang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jeruzalem blijft denken aan de rampen van de verbanning en de rijkdom van vroeger. Het zwaard van de vijand velde de bewoners, door niemand gesteund, bespot in hun ondergang."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "De Heer heeft zijn altaar verlaten, zijn heiligdom prijsgegeven; de muren der vesting heeft Hij aan de vijand overgeleverd. Zijn roepen weerklonk in de tempel als was het een feestdag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer heeft zijn altaar verlaten, zijn heiligdom prijsgegeven; de muren der vesting heeft Hij aan de vijand overgeleverd. Zijn roepen weerklonk in de tempel als was het een feestdag."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Hij sloot mij in, zwaargeboeid kon ik nergens meer heen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij sloot mij in, zwaargeboeid kon ik nergens meer heen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Hoe schitterden zijn jongemannen als sneeuw en glansden als melk, hun lichaam was rood als koraal, hun aangezicht straalde als saffier.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe schitterden zijn jongemannen als sneeuw en glansden als melk, hun lichaam was rood als koraal, hun aangezicht straalde als saffier."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Onze voorvaderen hebben gezondigd, wij gaan gebukt onder hun schuld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze voorvaderen hebben gezondigd, wij gaan gebukt onder hun schuld."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Om haar zonden werd Jeruzalem een mikpunt van spot. Haar vereerders zagen haar naakt, nu verachten ze haar. Ze zucht daaronder en wendt zich af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om haar zonden werd Jeruzalem een mikpunt van spot. Haar vereerders zagen haar naakt, nu verachten ze haar. Ze zucht daaronder en wendt zich af."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Jahwe had vast besloten de muren van Sion te slechten: Hij spande het meetsnoer erover en verwoestte tenslotte alles; de muren stortten ineen, de wallen vervielen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe had vast besloten de muren van Sion te slechten: Hij spande het meetsnoer erover en verwoestte tenslotte alles; de muren stortten ineen, de wallen vervielen."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Hoe ik ook schreeuwde en riep, Hij hoorde mijn smeekbeden niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe ik ook schreeuwde en riep, Hij hoorde mijn smeekbeden niet."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Nu zien ze zwarter dan roet, op straat herkent men hen niet; ze zijn nu vel over been en uitgedroogd als brandhout.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu zien ze zwarter dan roet, op straat herkent men hen niet; ze zijn nu vel over been en uitgedroogd als brandhout."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "De slaven zijn nu onze meesters en niemand verlost ons van hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De slaven zijn nu onze meesters en niemand verlost ons van hen."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Haar kleed is besmeurd, aan deze afloop had zij nooit gedacht. Hoe diep is ze gezonken; niemand die haar troost. `Jahwe, hoe ellendig ben ik, de vijand triomfeert.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haar kleed is besmeurd, aan deze afloop had zij nooit gedacht. Hoe diep is ze gezonken; niemand die haar troost. `Jahwe, hoe ellendig ben ik, de vijand triomfeert.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De poorten zijn omgevallen, de grendels gebroken, rijksgroten en koning verstrooid zodat er geen leiding meer is. Ook krijgen Jahwe's profeten geen openbaring meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De poorten zijn omgevallen, de grendels gebroken, rijksgroten en koning verstrooid zodat er geen leiding meer is. Ook krijgen Jahwe's profeten geen openbaring meer."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Mijn weg heeft Hij opgebroken, met stenen versperd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn weg heeft Hij opgebroken, met stenen versperd."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Omkomen door het zwaard was beter dan sterven van honger, want dan kwijnt men langzaam weg, uitgemergeld door voedselgebrek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omkomen door het zwaard was beter dan sterven van honger, want dan kwijnt men langzaam weg, uitgemergeld door voedselgebrek."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Wij oogsten gevaar voor ons leven, bedreigd vanuit de woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij oogsten gevaar voor ons leven, bedreigd vanuit de woestijn."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "De vijand legde beslag op haar rijkdommen; de heidenen zag zij haar heiligdom binnendringen, al had Gij hen de toegang daartoe ontzegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vijand legde beslag op haar rijkdommen; de heidenen zag zij haar heiligdom binnendringen, al had Gij hen de toegang daartoe ontzegd."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Zwijgend zitten de oudsten van Sion neer op de grond, in zakken gekleed en met as op het hoofd. Jeruzalems meisjes laten het hoofd hangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zwijgend zitten de oudsten van Sion neer op de grond, in zakken gekleed en met as op het hoofd. Jeruzalems meisjes laten het hoofd hangen."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Hij loerde op mij als een beer, als een leeuw uit zijn schuilplaats.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij loerde op mij als een beer, als een leeuw uit zijn schuilplaats."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Moeders, vol tedere zorgen, kookten hun eigen kinderen tot voedsel in hun nood bij de ondergang van mijn volk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moeders, vol tedere zorgen, kookten hun eigen kinderen tot voedsel in hun nood bij de ondergang van mijn volk."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Ons lichaam gloeit als een oven, omdat de honger ons kwelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ons lichaam gloeit als een oven, omdat de honger ons kwelt."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Haar bewoners zuchten en zoeken naar voedsel. Zij ruilen hun schatten voor eten om weer op krachten te komen. `Jahwe, zie toch, ze spotten met mij.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haar bewoners zuchten en zoeken naar voedsel. Zij ruilen hun schatten voor eten om weer op krachten te komen. `Jahwe, zie toch, ze spotten met mij.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Mijn ogen zijn moe van geween, hoe branden mijn ingewanden, ontzonken is mij de moed: mijn volk is zozeer geslagen, kinderen en zuigelingen sterven op straat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn ogen zijn moe van geween, hoe branden mijn ingewanden, ontzonken is mij de moed: mijn volk is zozeer geslagen, kinderen en zuigelingen sterven op straat."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Al mijn wegen verwoestte Hij: een braakland, een woesternij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al mijn wegen verwoestte Hij: een braakland, een woesternij."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Jahwe heeft zijn woede gekoeld en zijn toorn losgelaten. Zijn vuur, in Sion ontstoken, heeft de stad tot de grond verteerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe heeft zijn woede gekoeld en zijn toorn losgelaten. Zijn vuur, in Sion ontstoken, heeft de stad tot de grond verteerd."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "In Sion en Juda's steden zijn vrouwen en meisjes verkracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Sion en Juda's steden zijn vrouwen en meisjes verkracht."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Allen die voorbij komt, zie het lijden dat ik moet dragen, dat Jahwe mij aandeed op de dag van zijn toorn, zie, wie heeft ooit zo geleden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen die voorbij komt, zie het lijden dat ik moet dragen, dat Jahwe mij aandeed op de dag van zijn toorn, zie, wie heeft ooit zo geleden."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Zij vroegen hun moeder nog: `Waar is het brood en de wijn?' maar streden gewond met de dood in de straten der stad en gaven de geest op de schoot van hun moeder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij vroegen hun moeder nog: `Waar is het brood en de wijn?' maar streden gewond met de dood in de straten der stad en gaven de geest op de schoot van hun moeder."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Hij spande zijn boog en richtte zijn pijlen op mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij spande zijn boog en richtte zijn pijlen op mij."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Koningen en bewoners der aarde konden het niet geloven, dat de vijand zou binnendringen in Jeruzalems poorten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Koningen en bewoners der aarde konden het niet geloven, dat de vijand zou binnendringen in Jeruzalems poorten."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Edelen zijn door hen gehangen, bejaarden ontzagen ze niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Edelen zijn door hen gehangen, bejaarden ontzagen ze niet."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Uit de hemel slingerde Hij zijn bliksem die door merg en been ging. Hij spande een net voor mijn voeten, en dreef mij terug. Eenzaam maakte Hij mij, doodziek, iedere dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit de hemel slingerde Hij zijn bliksem die door merg en been ging. Hij spande een net voor mijn voeten, en dreef mij terug. Eenzaam maakte Hij mij, doodziek, iedere dag."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Wat kan ik nog zeggen, waarmee Jeruzalem, u vergelijken? Wat kan ik nog aanvoeren, Sion, om u te troosten? Uw wonden zijn groot als de zee en niemand die u geneest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat kan ik nog zeggen, waarmee Jeruzalem, u vergelijken? Wat kan ik nog aanvoeren, Sion, om u te troosten? Uw wonden zijn groot als de zee en niemand die u geneest."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Zijn hele koker met pijlen schoot Hij op mij leeg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn hele koker met pijlen schoot Hij op mij leeg."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Al deze rampen kwamen voort uit de zonden van de profeten en de misdaden van de priesters: ze vergoten rechtvaardig bloed in de stad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al deze rampen kwamen voort uit de zonden van de profeten en de misdaden van de priesters: ze vergoten rechtvaardig bloed in de stad."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "De jongens sleuren de molen, ze bezwijken onder stapels hout.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De jongens sleuren de molen, ze bezwijken onder stapels hout."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Zwaar weegt het juk van mijn zonden dat zijn hand mij oplegt; het drukt op mijn nek, mijn kracht is gebroken. Hij leverde mij uit aan machten, voor mij onweerstaanbaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zwaar weegt het juk van mijn zonden dat zijn hand mij oplegt; het drukt op mijn nek, mijn kracht is gebroken. Hij leverde mij uit aan machten, voor mij onweerstaanbaar."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "De visioenen van uw profeten zijn leugen en bedrog; ze wekken geen schuldbesef en wenden de rampen niet af; waardeloos zijn hun orakels, misleidend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De visioenen van uw profeten zijn leugen en bedrog; ze wekken geen schuldbesef en wenden de rampen niet af; waardeloos zijn hun orakels, misleidend."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Mijn volk lacht mij nu uit met spotliedjes elke dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn volk lacht mij nu uit met spotliedjes elke dag."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Als blind en met bloed besmeurd dwalen zij nu door de straten. Niemand is er die het waagt hun kleren nog aan te raken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als blind en met bloed besmeurd dwalen zij nu door de straten. Niemand is er die het waagt hun kleren nog aan te raken."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "De oudsten blijven weg uit de poort, de jeugd denkt niet meer aan muziek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De oudsten blijven weg uit de poort, de jeugd denkt niet meer aan muziek."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Alle dapperen heeft de Heer uit de stad verdreven. Op een tijd door Hem zelf bepaald heeft Hij de elite vernietigd. Heel Juda heeft de Heer in de wijnpers getreden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle dapperen heeft de Heer uit de stad verdreven. Op een tijd door Hem zelf bepaald heeft Hij de elite vernietigd. Heel Juda heeft de Heer in de wijnpers getreden."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Alle voorbijgangers slaan de handen ineen, hoofdschuddend en verstomd over Jeruzalem zeggend: `Waart gij die volmaakte schoonheid, die vreugde der aarde?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle voorbijgangers slaan de handen ineen, hoofdschuddend en verstomd over Jeruzalem zeggend: `Waart gij die volmaakte schoonheid, die vreugde der aarde?'"
+          }
+        ]
+      },
+      "id": "klaagliederen.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Hij gaf mij slechts bittere kruiden en alsem te eten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij gaf mij slechts bittere kruiden en alsem te eten."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "`Uit de weg! Een onreine', roept men: `Ga hem uit de weg en raak hem niet aan! Laat ze hun heil elders zoeken, hier kunnen ze immers niet blijven!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "`Uit de weg! Een onreine', roept men: `Ga hem uit de weg en raak hem niet aan! Laat ze hun heil elders zoeken, hier kunnen ze immers niet blijven!'"
+          }
+        ]
+      },
+      "id": "klaagliederen.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "De blijdschap is weg uit ons hart, en rouw verving onze reidans.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De blijdschap is weg uit ons hart, en rouw verving onze reidans."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Dus kan ik alleen maar schreien, beken van tranen storten mijn ogen; troost en hulp is ver te zoeken. Mijn kinderen zijn verweesd, de vijand heerst over hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dus kan ik alleen maar schreien, beken van tranen storten mijn ogen; troost en hulp is ver te zoeken. Mijn kinderen zijn verweesd, de vijand heerst over hen."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Uw vijanden, in hun grootspraak, spotten brutaal met u. Grinnikend zeggen zij: `Eindelijk is het vernietigd. Nu wij dit mochten beleven, is onze hoop vervuld.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw vijanden, in hun grootspraak, spotten brutaal met u. Grinnikend zeggen zij: `Eindelijk is het vernietigd. Nu wij dit mochten beleven, is onze hoop vervuld.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Hij drukte mij neer in het stof, mijn tanden gaan stuk op het kiezel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij drukte mij neer in het stof, mijn tanden gaan stuk op het kiezel."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Jahwe zelf heeft hen verjaagd, Hij kijk niet meer naar hen om. Geen ontzag is er meer voor de priesters, geen erbarmen met ouden van dagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe zelf heeft hen verjaagd, Hij kijk niet meer naar hen om. Geen ontzag is er meer voor de priesters, geen erbarmen met ouden van dagen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "De kroon viel ons van het hoofd, wee ons, wij hebben gezondigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De kroon viel ons van het hoofd, wee ons, wij hebben gezondigd."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Sion strekte de handen, niemand kwam haar troosten. De vijanden in de omgeving riep Jahwe op tegen Jakob. Van hen kan Jeruzalem slechts bespotting verwachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sion strekte de handen, niemand kwam haar troosten. De vijanden in de omgeving riep Jahwe op tegen Jakob. Van hen kan Jeruzalem slechts bespotting verwachten."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Eindelijk zijn toch de plannen waarmee Hij sinds lang had gedreigd, genadeloos door Jahwe ten uitvoer gebracht, heeft Hij verwoest: de vijand heerst over u, met macht en triomf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eindelijk zijn toch de plannen waarmee Hij sinds lang had gedreigd, genadeloos door Jahwe ten uitvoer gebracht, heeft Hij verwoest: de vijand heerst over u, met macht en triomf."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Geluk bleef verre van mij, wat welstand is wist ik niet meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geluk bleef verre van mij, wat welstand is wist ik niet meer."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Wij bleven uitzien naar hulp, maar alles was tevergeefs. Als wachters zagen wij uit naar een volk dat niet kan helpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij bleven uitzien naar hulp, maar alles was tevergeefs. Als wachters zagen wij uit naar een volk dat niet kan helpen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Ziek en zwak is ons hart, vertroebeld zijn onze ogen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ziek en zwak is ons hart, vertroebeld zijn onze ogen."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Toch staat Jahwe in zijn recht, ik kwam tegen Hem in verzet. Volkeren, hoor, zie hoe ik lijd: gevangen zijn weggevoerd jongens en meisjes.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch staat Jahwe in zijn recht, ik kwam tegen Hem in verzet. Volkeren, hoor, zie hoe ik lijd: gevangen zijn weggevoerd jongens en meisjes."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Roep met uw hart tot de Heer, de schutsmuur van Sion. Houd met wenen niet op, geef aan uw ogen geen rust en de vrije loop aan uw tranen, dag en nacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Roep met uw hart tot de Heer, de schutsmuur van Sion. Houd met wenen niet op, geef aan uw ogen geen rust en de vrije loop aan uw tranen, dag en nacht."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Mijn hoop op Jahwe blijkt vervlogen, ik leef zonder hoop.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn hoop op Jahwe blijkt vervlogen, ik leef zonder hoop."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Wij werden bespied waar wij gingen, in het openbaar niet meer geduld. Onze dagen bleken geteld, inderdaad is het einde gekomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij werden bespied waar wij gingen, in het openbaar niet meer geduld. Onze dagen bleken geteld, inderdaad is het einde gekomen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Verwoest ligt de heuvel van Sion, de vossen lopen er rond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verwoest ligt de heuvel van Sion, de vossen lopen er rond."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Ik heb om mijn minnaars geroepen, ze lieten mij in de steek. De priesters en de oudsten zochten de stad af naar eten om in leven te blijven, omkomend van honger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb om mijn minnaars geroepen, ze lieten mij in de steek. De priesters en de oudsten zochten de stad af naar eten om in leven te blijven, omkomend van honger."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Roep, geheel de nacht, tot de Heer, stort uw hart als water uit. Bid, met de handen geheven, dat uw kinderen leven, die nu op de hoeken der straten van honger verkwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Roep, geheel de nacht, tot de Heer, stort uw hart als water uit. Bid, met de handen geheven, dat uw kinderen leven, die nu op de hoeken der straten van honger verkwijnen."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Ik denk aan mijn nood en ellende, dit vergiftigt mijn leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik denk aan mijn nood en ellende, dit vergiftigt mijn leven."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Onze vervolgers kwamen sneller dan arenden uit de lucht. Ze joegen ons na in de bergen, belaagden ons in de woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze vervolgers kwamen sneller dan arenden uit de lucht. Ze joegen ons na in de bergen, belaagden ons in de woestijn."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Gij, Jahwe, zetelt voor eeuwig, van geslacht op geslacht blijft uw troon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij, Jahwe, zetelt voor eeuwig, van geslacht op geslacht blijft uw troon."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Jahwe, zie mijn ellende: hoe branden mijn ingewanden, binnen mij keert zich mijn hart, want hardnekkig was mijn verzet. Buiten rooft het zwaard mijn kinderen, binnen woedt de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, zie mijn ellende: hoe branden mijn ingewanden, binnen mij keert zich mijn hart, want hardnekkig was mijn verzet. Buiten rooft het zwaard mijn kinderen, binnen woedt de dood."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Jahwe, hebt Ge ooit zo met iemand gedaan? Hoe konden de moeder de kinderen eten, die ze beminden? Waarom zijn in de tempel gedood profeten en priesters?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, hebt Ge ooit zo met iemand gedaan? Hoe konden de moeder de kinderen eten, die ze beminden? Waarom zijn in de tempel gedood profeten en priesters?"
+          }
+        ]
+      },
+      "id": "klaagliederen.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Ik blijf er aldoor aan denken, het weegt op mij als een last.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik blijf er aldoor aan denken, het weegt op mij als een last."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "De gezalfde van Jahwe, ons leven, is in hun vangkuil gevallen; en wij dachten nog wel: `In zijn schaduw leven wij onder de volken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De gezalfde van Jahwe, ons leven, is in hun vangkuil gevallen; en wij dachten nog wel: `In zijn schaduw leven wij onder de volken."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Gij kunt ons toch niet vergeten, en ons voor altijd verlaten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij kunt ons toch niet vergeten, en ons voor altijd verlaten!"
+          }
+        ]
+      },
+      "id": "klaagliederen.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Mijn vijanden horen mij zuchten, niemand is er die mij troost. Toen zij van mijn ongeluk hoorden, juichten ze toe wat Gij deedt. Dit is de dag door U bepaald; ditzelfde lot treffe hen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vijanden horen mij zuchten, niemand is er die mij troost. Toen zij van mijn ongeluk hoorden, juichten ze toe wat Gij deedt. Dit is de dag door U bepaald; ditzelfde lot treffe hen!"
+          }
+        ]
+      },
+      "id": "klaagliederen.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Kinderen en ouden van dagen liggen in't stof van de straten, meisjes en jongens zijn allen geveld door het zwaard, uitgemoord op de dag van uw toorn, zonder genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen en ouden van dagen liggen in't stof van de straten, meisjes en jongens zijn allen geveld door het zwaard, uitgemoord op de dag van uw toorn, zonder genade."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Ik prent mij desondanks in - dat geeft mij hoop -:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik prent mij desondanks in - dat geeft mij hoop -:"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Wees nu maar opgewekt, Edom, en bewoners van Us, weest blij; ook u zal de kelk niet voorbijgaan, beschonken en naakt blijft ge liggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wees nu maar opgewekt, Edom, en bewoners van Us, weest blij; ook u zal de kelk niet voorbijgaan, beschonken en naakt blijft ge liggen."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Jahwe, breng ons weer bij U terug, maak ons leven opnieuw zoals vroeger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, breng ons weer bij U terug, maak ons leven opnieuw zoals vroeger."
+          }
+        ]
+      },
+      "id": "klaagliederen.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Sla ook acht op hun boosheid en doe ook met hen wat gij om al mijn zonden met mij hebt gedaan. Zo vaak moet ik zuchten, mijn hart is doodziek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sla ook acht op hun boosheid en doe ook met hen wat gij om al mijn zonden met mij hebt gedaan. Zo vaak moet ik zuchten, mijn hart is doodziek."
+          }
+        ]
+      },
+      "id": "klaagliederen.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Verschrikking hebt Gij genood van overal, als voor een feest. Aan de hevige toorn van Jahwe kon niemand ontkomen. Die Ik grootbracht met zorg, werd door de vijand gedood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verschrikking hebt Gij genood van overal, als voor een feest. Aan de hevige toorn van Jahwe kon niemand ontkomen. Die Ik grootbracht met zorg, werd door de vijand gedood."
+          }
+        ]
+      },
+      "id": "klaagliederen.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Zonder einde is Jahwe's genade, onuitputtelijk is zijn erbarmen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zonder einde is Jahwe's genade, onuitputtelijk is zijn erbarmen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Sion, uw straf is ten einde, Jahwe zal u nooit meer verbannen; maar uw zonden, Edom, legt Hij bloot, met uw misdaden rekent Hij af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sion, uw straf is ten einde, Jahwe zal u nooit meer verbannen; maar uw zonden, Edom, legt Hij bloot, met uw misdaden rekent Hij af."
+          }
+        ]
+      },
+      "id": "klaagliederen.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Of hebt Gij ons helemaal verworpen en kent uw toorn geen maat?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of hebt Gij ons helemaal verworpen en kent uw toorn geen maat?"
+          }
+        ]
+      },
+      "id": "klaagliederen.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Uw grote trouw is iedere morgen weer nieuw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw grote trouw is iedere morgen weer nieuw."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "'Ik behoor aan Jahwe,' zegt mijn hart, `Hij blijft mijn hoop.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Ik behoor aan Jahwe,' zegt mijn hart, `Hij blijft mijn hoop.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Goed is Jahwe voor wie hoopt, voor iedereen die Hem zoekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Goed is Jahwe voor wie hoopt, voor iedereen die Hem zoekt."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "text": "Goed is het, in stilte, op redding van Jahwe te wachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Goed is het, in stilte, op redding van Jahwe te wachten."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 27,
+      "text": "Goed is het zijn juk van jongs af te dragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Goed is het zijn juk van jongs af te dragen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 28,
+      "text": "Hij zit eenzaam en zwijgt, als Jahwe het oplegt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zit eenzaam en zwijgt, als Jahwe het oplegt,"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "text": "het gezicht naar de grond, maar uitkomst verwachtend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het gezicht naar de grond, maar uitkomst verwachtend."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 30,
+      "text": "Hij biedt zijn wang, wie hem slaat, hij laat zich honen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij biedt zijn wang, wie hem slaat, hij laat zich honen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 31,
+      "text": "Want hij weet dat de Heer niet voor altijd verstoot,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want hij weet dat de Heer niet voor altijd verstoot,"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 32,
+      "text": "dat hij droefheid geeft, maar ook genadig zich weer ontfermt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat hij droefheid geeft, maar ook genadig zich weer ontfermt."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 33,
+      "text": "Hij bedroeft en vernedert niet voor eigen plezier.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij bedroeft en vernedert niet voor eigen plezier."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 34,
+      "text": "Maar worden in welk land ook de gevangenen vertrapt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar worden in welk land ook de gevangenen vertrapt,"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 35,
+      "text": "wordt het recht verkracht van mensen voor het gezicht van de Allerhoogste",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wordt het recht verkracht van mensen voor het gezicht van de Allerhoogste"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 36,
+      "text": "en hen onrecht gedaan in hun zaak, zou de Heer dat niet zien?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en hen onrecht gedaan in hun zaak, zou de Heer dat niet zien?"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 37,
+      "text": "Op wiens woord kwam alles tot stand, was het niet op bevel van de Heer?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op wiens woord kwam alles tot stand, was het niet op bevel van de Heer?"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 38,
+      "text": "Ontstaat niet het goed en het kwaad op bevel van de Allerhoogste?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ontstaat niet het goed en het kwaad op bevel van de Allerhoogste?"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 39,
+      "text": "Wat klaagt de mens, als hij leeft ondanks zijn zonden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat klaagt de mens, als hij leeft ondanks zijn zonden?"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 40,
+      "text": "Bezien wij ons eigen gedrag en keren wij terug tot Jahwe,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bezien wij ons eigen gedrag en keren wij terug tot Jahwe,"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.40",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 41,
+      "text": "niet met de hand, maar het hart gericht op God in de hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet met de hand, maar het hart gericht op God in de hemel."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.41",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 42,
+      "text": "Wij waren ontrouw en opstandig: Gij vergaaft het ons niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij waren ontrouw en opstandig: Gij vergaaft het ons niet."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.42",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 43,
+      "text": "Woedend hebt Gij ons vervolgd en ons zonder genade gedood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Woedend hebt Gij ons vervolgd en ons zonder genade gedood."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.43",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 44,
+      "text": "Gij hebt U in wolken gehuld, ons gebed drong niet tot U door.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt U in wolken gehuld, ons gebed drong niet tot U door."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.44",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 45,
+      "text": "Uitvaagsel onder de volken maakt Gij van ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uitvaagsel onder de volken maakt Gij van ons."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.45",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 46,
+      "text": "Onze vijanden sperren hun muil tegen ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze vijanden sperren hun muil tegen ons."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.46",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 47,
+      "text": "Een dodelijke schrik overviel ons en ondergang en vernieling.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een dodelijke schrik overviel ons en ondergang en vernieling."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.47",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 48,
+      "text": "Mijn oog stort stromen van tranen: mijn volk ging onder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn oog stort stromen van tranen: mijn volk ging onder."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.48",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 49,
+      "text": "Mijn tranen blijven stromen en zonder ophouden ween ik,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn tranen blijven stromen en zonder ophouden ween ik,"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.49",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 50,
+      "text": "totdat uit de hoge hemel Jahwe naar mij omziet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "totdat uit de hoge hemel Jahwe naar mij omziet."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.50",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 51,
+      "text": "Mijn ogen doen pijn van het wenen over mijn stad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn ogen doen pijn van het wenen over mijn stad."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.51",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 52,
+      "text": "Als een vogel joeg de vijand mij op - ik weet niet waarom - en gooide",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een vogel joeg de vijand mij op - ik weet niet waarom - en gooide"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.52",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 53,
+      "text": "mij levend in de put en bedolf mij onder stenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "mij levend in de put en bedolf mij onder stenen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.53",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 54,
+      "text": "Het water rees boven mij en ik riep: `Ik ben verloren.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het water rees boven mij en ik riep: `Ik ben verloren.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.54",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 55,
+      "text": "Uit de diepte van de put riep ik uw naam: `Jahwe.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit de diepte van de put riep ik uw naam: `Jahwe.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.55",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 56,
+      "text": "Gij hebt mijn roepen gehoord: `Blijf niet doof voor mijn klacht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt mijn roepen gehoord: `Blijf niet doof voor mijn klacht.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.56",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 57,
+      "text": "Gij hebt mij verhoord en gezegd: `Wees niet bang.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt mij verhoord en gezegd: `Wees niet bang.'"
+          }
+        ]
+      },
+      "id": "klaagliederen.3.57",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 58,
+      "text": "Gij zijt voor mij opgekomen en Ge hebt, Heer, mijn leven gered.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt voor mij opgekomen en Ge hebt, Heer, mijn leven gered."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.58",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 59,
+      "text": "Ge hebt mijn verdrukking gezien, Jahwe, en mij recht verschaft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge hebt mijn verdrukking gezien, Jahwe, en mij recht verschaft."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.59",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 60,
+      "text": "Gij hebt hun wraakzucht doorzien, hun snode plannen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt hun wraakzucht doorzien, hun snode plannen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.60",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 61,
+      "text": "Gij hebt mij horen beledigen, Jahwe, hun snode plannen gezien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt mij horen beledigen, Jahwe, hun snode plannen gezien."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.61",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 62,
+      "text": "Mijn vijanden zweren samen, iedere dag tegen mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vijanden zweren samen, iedere dag tegen mij."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.62",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 63,
+      "text": "Zie: of zij zitten of staan, ze spotten met mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie: of zij zitten of staan, ze spotten met mij."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.63",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 64,
+      "text": "Vergeld hun toch, Jahwe, wat ze mij hebben misdaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vergeld hun toch, Jahwe, wat ze mij hebben misdaan."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.64",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 65,
+      "text": "Verblind hun hart en geest en breng uw vloek over hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verblind hun hart en geest en breng uw vloek over hen."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.65",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 66,
+      "text": "Vervolg hen, in uw toorn, Jahwe, vaag hen van de aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vervolg hen, in uw toorn, Jahwe, vaag hen van de aarde."
+          }
+        ]
+      },
+      "id": "klaagliederen.3.66",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

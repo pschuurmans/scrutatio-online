@@ -1,0 +1,2793 @@
+{
+  "id": "efesiers",
+  "name": "Efesiërs",
+  "chapters": 6,
+  "verseCount": 155,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, aan de heiligen en gelovigen in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, aan de heiligen en gelovigen in Christus Jezus."
+          }
+        ]
+      },
+      "id": "efesiers.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "En gij die dood waart door uw afdwalingen en uw zonden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij die dood waart door uw afdwalingen en uw zonden,"
+          }
+        ]
+      },
+      "id": "efesiers.2.1",
+      "title": "De doden zijn in Christus levend geworden",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Daarom is het dat ik, Paulus, de gevangene van Christus Jezus ter wille van u, de heidenvolken...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is het dat ik, Paulus, de gevangene van Christus Jezus ter wille van u, de heidenvolken..."
+          }
+        ]
+      },
+      "id": "efesiers.3.1",
+      "title": "De apostel als dienaar van het mysterie van Christus en de kerk",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ik, de gevangene in de Heer, vraag u met aandrang: leidt een leven dat beantwoordt aan de roeping die gij van God ontvangen hebt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, de gevangene in de Heer, vraag u met aandrang: leidt een leven dat beantwoordt aan de roeping die gij van God ontvangen hebt,"
+          }
+        ]
+      },
+      "id": "efesiers.4.1",
+      "title": "Vermaning tot eenheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Weest navolgers van God, zoals geliefde kinderen past.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest navolgers van God, zoals geliefde kinderen past."
+          }
+        ]
+      },
+      "id": "efesiers.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Kinderen, gehoorzaamt uw ouders; zo hoort het.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, gehoorzaamt uw ouders; zo hoort het."
+          }
+        ]
+      },
+      "id": "efesiers.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Genade en vrede voor u vanwege God onze Vader en de Heer Jezus Christus!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade en vrede voor u vanwege God onze Vader en de Heer Jezus Christus!"
+          }
+        ]
+      },
+      "id": "efesiers.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "waarin gij eertijds hebt geleefd volgens de god van deze wereld, de heerser over het machtsgebied van de lucht, de geest die nog altijd aan het werk is onder de weerspannigen...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarin gij eertijds hebt geleefd volgens de god van deze wereld, de heerser over het machtsgebied van de lucht, de geest die nog altijd aan het werk is onder de weerspannigen..."
+          }
+        ]
+      },
+      "id": "efesiers.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Gij hebt toch vernomen hoe de genade Gods die mij met het oog op u gegeven is, zich heeft verwerkelijkt:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt toch vernomen hoe de genade Gods die mij met het oog op u gegeven is, zich heeft verwerkelijkt:"
+          }
+        ]
+      },
+      "id": "efesiers.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "in alle deemoed en zachtheid, in lankmoedigheid, liefdevol elkaar verdragend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in alle deemoed en zachtheid, in lankmoedigheid, liefdevol elkaar verdragend."
+          }
+        ]
+      },
+      "id": "efesiers.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Leidt een leven van liefde naar het voorbeeld van Christus, die ons heeft bemind en zich voor ons heeft overgeleverd als offergave en slachtoffer, God tot een lieflijke geur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leidt een leven van liefde naar het voorbeeld van Christus, die ons heeft bemind en zich voor ons heeft overgeleverd als offergave en slachtoffer, God tot een lieflijke geur."
+          }
+        ]
+      },
+      "id": "efesiers.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Eer uw vader en uw moeder, zo luidt het eerste gebod waaraan een belofte is verbonden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eer uw vader en uw moeder, zo luidt het eerste gebod waaraan een belofte is verbonden,"
+          }
+        ]
+      },
+      "id": "efesiers.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Gezegend is God,<br />\r\nde Vader van onze Heer Jezus Christus,<br />\r\ndie ons in de hemelen in Christus heeft gezegend<br />\r\nmet elke geestelijke zegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend is God,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde Vader van onze Heer Jezus Christus,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndie ons in de hemelen in Christus heeft gezegend"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nmet elke geestelijke zegen."
+          }
+        ]
+      },
+      "id": "efesiers.1.3",
+      "title": "Hymne",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Trouwens, ook wij allen, zonder uitzondering, hebben vroeger tot hen behoord, toen wij ons leven lieten beheersen door zondige begeerten en deden wat onze zelfzucht en onze boze neigingen van ons wilden. Uit onszelf waren wij een voorwerp van Gods toorn, evenzeer als de anderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trouwens, ook wij allen, zonder uitzondering, hebben vroeger tot hen behoord, toen wij ons leven lieten beheersen door zondige begeerten en deden wat onze zelfzucht en onze boze neigingen van ons wilden. Uit onszelf waren wij een voorwerp van Gods toorn, evenzeer als de anderen."
+          }
+        ]
+      },
+      "id": "efesiers.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "dat mij door openbaring de kennis van het geheim is meegedeeld zoals ik het reeds in het kort heb beschreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat mij door openbaring de kennis van het geheim is meegedeeld zoals ik het reeds in het kort heb beschreven."
+          }
+        ]
+      },
+      "id": "efesiers.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Beijvert u de eenheid des Geestes te behouden door de band van de vrede:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beijvert u de eenheid des Geestes te behouden door de band van de vrede:"
+          }
+        ]
+      },
+      "id": "efesiers.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Ontucht en onzedelijkheid, in welke vorm dan ook, of hebzucht mag onder u zelfs niet ter sprake komen. Heiligen betaamt dit niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ontucht en onzedelijkheid, in welke vorm dan ook, of hebzucht mag onder u zelfs niet ter sprake komen. Heiligen betaamt dit niet."
+          }
+        ]
+      },
+      "id": "efesiers.5.3",
+      "title": "Leven in het licht",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "opdat het u welga en gij lang moogt leven op aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat het u welga en gij lang moogt leven op aarde."
+          }
+        ]
+      },
+      "id": "efesiers.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "In Hem heeft Hij ons uitverkoren<br />\r\nv&oacute;&oacute;r de grondlegging der wereld,<br />\r\nom heilig en vlekkeloos te zijn voor zijn aangezicht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Hem heeft Hij ons uitverkoren"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nvóór de grondlegging der wereld,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nom heilig en vlekkeloos te zijn voor zijn aangezicht."
+          }
+        ]
+      },
+      "id": "efesiers.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Maar God, die rijk is aan erbarming, heeft wegens de grote liefde waarmee Hij ons heeft liefgehad,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar God, die rijk is aan erbarming, heeft wegens de grote liefde waarmee Hij ons heeft liefgehad,"
+          }
+        ]
+      },
+      "id": "efesiers.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Wanneer gij dit leest, kunt gij u op grond daarvan een begrip vormen van mijn inzicht in het Christusmysterie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer gij dit leest, kunt gij u op grond daarvan een begrip vormen van mijn inzicht in het Christusmysterie."
+          }
+        ]
+      },
+      "id": "efesiers.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "&eacute;&eacute;n lichaam en &eacute;&eacute;n Geest, zoals gij ook geroepen zijt tot &eacute;&eacute;n en dezelfde hoop waarvoor Gods roeping borg staat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "één lichaam en één Geest, zoals gij ook geroepen zijt tot één en dezelfde hoop waarvoor Gods roeping borg staat."
+          }
+        ]
+      },
+      "id": "efesiers.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Evenmin past u schandelijke, grove of dubbelzinnige taal, maar veeleer dankzegging.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evenmin past u schandelijke, grove of dubbelzinnige taal, maar veeleer dankzegging."
+          }
+        ]
+      },
+      "id": "efesiers.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "En gij, vaders, verbittert uw kinderen niet, maar voedt ze op met christelijke tucht en vermaning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij, vaders, verbittert uw kinderen niet, maar voedt ze op met christelijke tucht en vermaning."
+          }
+        ]
+      },
+      "id": "efesiers.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "In liefde heeft Hij ons voorbestemd<br />\r\nzijn kinderen te worden door Jezus Christus,<br />\r\nnaar het welbehagen van zijn wil,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In liefde heeft Hij ons voorbestemd"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nzijn kinderen te worden door Jezus Christus,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nnaar het welbehagen van zijn wil,"
+          }
+        ]
+      },
+      "id": "efesiers.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "ons met Christus ten leven gewekt, hoewel wij dood waren door onze zonden; aan zijn genade dankt gij uw redding.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ons met Christus ten leven gewekt, hoewel wij dood waren door onze zonden; aan zijn genade dankt gij uw redding."
+          }
+        ]
+      },
+      "id": "efesiers.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Nooit is het onder vroegere geslachten aan de kinderen der mensen bekend gemaakt, zoals het nu door de Geest is geopenbaard aan zijn heilige apostelen en profeten:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nooit is het onder vroegere geslachten aan de kinderen der mensen bekend gemaakt, zoals het nu door de Geest is geopenbaard aan zijn heilige apostelen en profeten:"
+          }
+        ]
+      },
+      "id": "efesiers.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "&Eacute;&eacute;n Heer, &eacute;&eacute;n geloof, &eacute;&eacute;n doop.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Één Heer, één geloof, één doop."
+          }
+        ]
+      },
+      "id": "efesiers.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Beseft het goed: geen ontuchtige of onreine of gierige - wat hetzelfde is als een afgodendienaar - heeft enig erfdeel in het koninkrijk van Christus en van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beseft het goed: geen ontuchtige of onreine of gierige - wat hetzelfde is als een afgodendienaar - heeft enig erfdeel in het koninkrijk van Christus en van God."
+          }
+        ]
+      },
+      "id": "efesiers.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Slaven, weest uw aardse meesters gehoorzaam met eerbied en in eenvoud des harten, als gold uw onderdanigheid Christus zelf,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaven, weest uw aardse meesters gehoorzaam met eerbied en in eenvoud des harten, als gold uw onderdanigheid Christus zelf,"
+          }
+        ]
+      },
+      "id": "efesiers.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "tot lof van de heerlijkheid van zijn genade.<br />\r\nHiermee heeft Hij ons begiftigd in de Geliefde,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tot lof van de heerlijkheid van zijn genade."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHiermee heeft Hij ons begiftigd in de Geliefde,"
+          }
+        ]
+      },
+      "id": "efesiers.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "En Hij heeft ons samen met Hem doen opstaan en zetelen in de hemelen, in Christus Jezus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Hij heeft ons samen met Hem doen opstaan en zetelen in de hemelen, in Christus Jezus,"
+          }
+        ]
+      },
+      "id": "efesiers.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "dat de heidenen in Christus Jezus medeërfgenamen zijn, medeleden en mededeelgenoten van de belofte door middel van het evangelie,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat de heidenen in Christus Jezus medeërfgenamen zijn, medeleden en mededeelgenoten van de belofte door middel van het evangelie,"
+          }
+        ]
+      },
+      "id": "efesiers.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "&Eacute;&eacute;n God en Vader van allen, die is boven allen en met allen en in allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Één God en Vader van allen, die is boven allen en met allen en in allen."
+          }
+        ]
+      },
+      "id": "efesiers.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Laat niemand u met loze woorden misleiden: om zulke dingen komt Gods toorn over de ongehoorzamen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat niemand u met loze woorden misleiden: om zulke dingen komt Gods toorn over de ongehoorzamen."
+          }
+        ]
+      },
+      "id": "efesiers.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "niet als ogendienaars om mensen te behagen, maar als knechten van Christus, die Gods wil van harte volbrengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet als ogendienaars om mensen te behagen, maar als knechten van Christus, die Gods wil van harte volbrengen."
+          }
+        ]
+      },
+      "id": "efesiers.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "in wie wij de verlossing hebben door zijn bloed,<br />\r\nde vergeving van de zonden,<br />\r\ndankzij de rijkdom van zijn genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in wie wij de verlossing hebben door zijn bloed,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde vergeving van de zonden,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndankzij de rijkdom van zijn genade."
+          }
+        ]
+      },
+      "id": "efesiers.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "om de naderbij komende eeuwen de overgrote rijkdom van zijn genade te tonen door zijn goedheid jegens ons in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om de naderbij komende eeuwen de overgrote rijkdom van zijn genade te tonen door zijn goedheid jegens ons in Christus Jezus."
+          }
+        ]
+      },
+      "id": "efesiers.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "waarvan ik bedienaar geworden ben krachtens de gave van Gods genade, mij geschonken door de werking van zijn macht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarvan ik bedienaar geworden ben krachtens de gave van Gods genade, mij geschonken door de werking van zijn macht."
+          }
+        ]
+      },
+      "id": "efesiers.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Maar aan ieder van ons afzonderlijk is de genade verleend naar de maat van Christus&rsquo; gave.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar aan ieder van ons afzonderlijk is de genade verleend naar de maat van Christus’ gave."
+          }
+        ]
+      },
+      "id": "efesiers.4.7",
+      "title": "Verscheidenheid van Christus' gaven in de kerk",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Doet niet met hen mee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doet niet met hen mee."
+          }
+        ]
+      },
+      "id": "efesiers.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Dient welgemoed in de mensen de Heer,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dient welgemoed in de mensen de Heer,"
+          }
+        ]
+      },
+      "id": "efesiers.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Die heeft Hij ons meegedeeld<br />\r\nals een overvloed van wijsheid en inzicht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die heeft Hij ons meegedeeld"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nals een overvloed van wijsheid en inzicht."
+          }
+        ]
+      },
+      "id": "efesiers.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Ja, aan die genade dankt gij uw heil, door het geloof; niet aan uzelf, Gods gave is het;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, aan die genade dankt gij uw heil, door het geloof; niet aan uzelf, Gods gave is het;"
+          }
+        ]
+      },
+      "id": "efesiers.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Aan mij, de allerminste van alle heiligen, is de genade gegeven de heidenen de ondoorgrondelijke rijkdom van de Christus te verkondigen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan mij, de allerminste van alle heiligen, is de genade gegeven de heidenen de ondoorgrondelijke rijkdom van de Christus te verkondigen,"
+          }
+        ]
+      },
+      "id": "efesiers.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Daarom zegt de Schrift: Hij is opgevaren naar den hoge, Hij heeft gevangenen meegevoerd, Hij heeft gaven gegeven aan de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zegt de Schrift: Hij is opgevaren naar den hoge, Hij heeft gevangenen meegevoerd, Hij heeft gaven gegeven aan de mensen."
+          }
+        ]
+      },
+      "id": "efesiers.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Eens waart gij duisternis, nu zijt gij licht door uw gemeenschap met de Heer. Leeft dan ook als kinderen van het licht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eens waart gij duisternis, nu zijt gij licht door uw gemeenschap met de Heer. Leeft dan ook als kinderen van het licht,"
+          }
+        ]
+      },
+      "id": "efesiers.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "wetend dat ieder, hij moge slaaf zijn of vrije, het goede dat hij gedaan heeft, van de Heer zal terugontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wetend dat ieder, hij moge slaaf zijn of vrije, het goede dat hij gedaan heeft, van de Heer zal terugontvangen."
+          }
+        ]
+      },
+      "id": "efesiers.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Want Hij heeft ons zijn geheim raadsbesluit doen kennen,<br />\r\nde beslissing die Hij in Christus had genomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij heeft ons zijn geheim raadsbesluit doen kennen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde beslissing die Hij in Christus had genomen."
+          }
+        ]
+      },
+      "id": "efesiers.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "niet aan uw prestaties, niemand mag zich verhovaardigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet aan uw prestaties, niemand mag zich verhovaardigen."
+          }
+        ]
+      },
+      "id": "efesiers.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "en de volvoering van het geheim in het licht te stellen. Het was van eeuwigheid verborgen in God, de schepper van het heelal,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de volvoering van het geheim in het licht te stellen. Het was van eeuwigheid verborgen in God, de schepper van het heelal,"
+          }
+        ]
+      },
+      "id": "efesiers.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Hij is opgestegen: dit betekent dat Hij eerst in de diepte is afgedaald tot op de aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is opgestegen: dit betekent dat Hij eerst in de diepte is afgedaald tot op de aarde."
+          }
+        ]
+      },
+      "id": "efesiers.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "en de vrucht van het licht kan alleen maar zijn: goedheid, gerechtigheid, waarheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de vrucht van het licht kan alleen maar zijn: goedheid, gerechtigheid, waarheid."
+          }
+        ]
+      },
+      "id": "efesiers.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "En gij meesters, behandelt hen in dezelfde geest. Laat dreigementen achterwege. Denkt eraan dat gij dezelfde meester in de hemel hebt als zij; Hij heeft geen gunstelingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij meesters, behandelt hen in dezelfde geest. Laat dreigementen achterwege. Denkt eraan dat gij dezelfde meester in de hemel hebt als zij; Hij heeft geen gunstelingen."
+          }
+        ]
+      },
+      "id": "efesiers.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "ter verwezenlijking van de volheid der tijden:<br />\r\nhet heelal in Christus onder &eacute;&eacute;n hoofd te brengen,<br />\r\nalle wezens in de hemelen<br />\r\nen alle wezens op aarde,<br />\r\nin Hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ter verwezenlijking van de volheid der tijden:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nhet heelal in Christus onder één hoofd te brengen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nalle wezens in de hemelen"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen alle wezens op aarde,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nin Hem."
+          }
+        ]
+      },
+      "id": "efesiers.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Gods werk zijn wij, geschapen in Christus Jezus, om in ons leven de goede daden te realiseren die God voor ons al bereid heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gods werk zijn wij, geschapen in Christus Jezus, om in ons leven de goede daden te realiseren die God voor ons al bereid heeft."
+          }
+        ]
+      },
+      "id": "efesiers.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "opdat thans aan de heerschappijen en de machten in de hemelen door middel van de kerk de veelvoudige wijsheid Gods bekend zou worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat thans aan de heerschappijen en de machten in de hemelen door middel van de kerk de veelvoudige wijsheid Gods bekend zou worden."
+          }
+        ]
+      },
+      "id": "efesiers.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Hij die is neergedaald, is dezelfde die ook is opgestegen hoog boven alle hemelen, om het heelal te vervullen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die is neergedaald, is dezelfde die ook is opgestegen hoog boven alle hemelen, om het heelal te vervullen."
+          }
+        ]
+      },
+      "id": "efesiers.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Tracht te ontdekken wat de Heer behaagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tracht te ontdekken wat de Heer behaagt."
+          }
+        ]
+      },
+      "id": "efesiers.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Ten slotte, zoekt uw kracht bij de Heer en zijn almacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ten slotte, zoekt uw kracht bij de Heer en zijn almacht."
+          }
+        ]
+      },
+      "id": "efesiers.6.10",
+      "title": "Geestelijke wapens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "In Christus hebben wij ook ons erfdeel ontvangen,<br />\r\ndaartoe voorbestemd door de beschikking van Hem<br />\r\ndie alles tot stand brengt naar het besluit van zijn wil,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Christus hebben wij ook ons erfdeel ontvangen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndaartoe voorbestemd door de beschikking van Hem"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndie alles tot stand brengt naar het besluit van zijn wil,"
+          }
+        ]
+      },
+      "id": "efesiers.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Beseft dus goed, dat gij, vroeger &lsquo;de heidenen&rsquo; geheten, &lsquo;de onbesnedenen&rsquo;, zo genoemd door hen die zich vanwege een lichamelijke ingreep &lsquo;de besnedenen&rsquo; noemen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beseft dus goed, dat gij, vroeger ‘de heidenen’ geheten, ‘de onbesnedenen’, zo genoemd door hen die zich vanwege een lichamelijke ingreep ‘de besnedenen’ noemen,"
+          }
+        ]
+      },
+      "id": "efesiers.2.11",
+      "title": "De heidenwereld in de kerk opgenomen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Zo was zijn eeuwig voornemen dat Hij uitgevoerd heeft in Christus Jezus, onze Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo was zijn eeuwig voornemen dat Hij uitgevoerd heeft in Christus Jezus, onze Heer."
+          }
+        ]
+      },
+      "id": "efesiers.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Hij heeft ook gaven gegeven: sommigen maakte Hij apostelen, anderen profeten, anderen evangelisten, weer anderen herders en leraars,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft ook gaven gegeven: sommigen maakte Hij apostelen, anderen profeten, anderen evangelisten, weer anderen herders en leraars,"
+          }
+        ]
+      },
+      "id": "efesiers.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Neemt geen deel aan hun duistere en onvruchtbare praktijken, brengt ze liever aan het licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neemt geen deel aan hun duistere en onvruchtbare praktijken, brengt ze liever aan het licht."
+          }
+        ]
+      },
+      "id": "efesiers.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Legt de wapenrusting Gods aan om te kunnen standhouden tegen de listen van de duivel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Legt de wapenrusting Gods aan om te kunnen standhouden tegen de listen van de duivel."
+          }
+        ]
+      },
+      "id": "efesiers.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "opdat wij verbreiden de lof van zijn heerlijkheid<br />\r\nwij die reeds tevoren onze hoop op de Christus hadden gebouwd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat wij verbreiden de lof van zijn heerlijkheid"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nwij die reeds tevoren onze hoop op de Christus hadden gebouwd."
+          }
+        ]
+      },
+      "id": "efesiers.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "bedenkt dat gij indertijd van Christus gescheiden waart, uitgesloten van de gemeenschap van Israël en van de verbonden waaraan de belofte verbonden was, zonder hoop en zonder God in de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bedenkt dat gij indertijd van Christus gescheiden waart, uitgesloten van de gemeenschap van Israël en van de verbonden waaraan de belofte verbonden was, zonder hoop en zonder God in de wereld."
+          }
+        ]
+      },
+      "id": "efesiers.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "In Hem hebben wij, door het geloof in Hem, vol vertrouwen de vrije toegang tot God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Hem hebben wij, door het geloof in Hem, vol vertrouwen de vrije toegang tot God."
+          }
+        ]
+      },
+      "id": "efesiers.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "om de heiligen toe te rusten voor het werk der bediening, tot opbouw van het lichaam van Christus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om de heiligen toe te rusten voor het werk der bediening, tot opbouw van het lichaam van Christus,"
+          }
+        ]
+      },
+      "id": "efesiers.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Wat deze lieden in het geheim doen is te schandelijk om ook maar over te spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat deze lieden in het geheim doen is te schandelijk om ook maar over te spreken."
+          }
+        ]
+      },
+      "id": "efesiers.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Want onze strijd gaat niet tegen vlees en bloed maar tegen de heerschappijen, tegen de machten, tegen de wereldbeheersers van deze duisternis, tegen de boze geesten in de hemelen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want onze strijd gaat niet tegen vlees en bloed maar tegen de heerschappijen, tegen de machten, tegen de wereldbeheersers van deze duisternis, tegen de boze geesten in de hemelen,"
+          }
+        ]
+      },
+      "id": "efesiers.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "In Christus zijt ook gij,<br />\r\nnadat gij het woord der waarheid,<br />\r\nhet evangelie van uw heil, hebt aanhoord,<br />\r\nin Hem zijt ook gij tot het geloof gekomen,<br />\r\nverzegeld met de heilige Geest der belofte,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Christus zijt ook gij,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nnadat gij het woord der waarheid,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nhet evangelie van uw heil, hebt aanhoord,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nin Hem zijt ook gij tot het geloof gekomen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nverzegeld met de heilige Geest der belofte,"
+          }
+        ]
+      },
+      "id": "efesiers.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Thans echter zijt gij die eertijds veraf waart, in Christus Jezus dichtbij gekomen, door het bloed van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Thans echter zijt gij die eertijds veraf waart, in Christus Jezus dichtbij gekomen, door het bloed van Christus."
+          }
+        ]
+      },
+      "id": "efesiers.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Ik bid u dus de moed niet te verliezen bij de verdrukkingen die ik voor u doorsta: die zijn voor u een eer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bid u dus de moed niet te verliezen bij de verdrukkingen die ik voor u doorsta: die zijn voor u een eer."
+          }
+        ]
+      },
+      "id": "efesiers.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "totdat wij allen tezamen komen tot de eenheid in het geloof en de kennis van Gods Zoon, tot de volmaakte Man, tot de gehele omvang van de volheid van de Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "totdat wij allen tezamen komen tot de eenheid in het geloof en de kennis van Gods Zoon, tot de volmaakte Man, tot de gehele omvang van de volheid van de Christus."
+          }
+        ]
+      },
+      "id": "efesiers.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Alles echter wat aan het licht wordt gebracht, komt in het licht tot helderheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles echter wat aan het licht wordt gebracht, komt in het licht tot helderheid."
+          }
+        ]
+      },
+      "id": "efesiers.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Grijpt daarom naar de wapenrusting Gods; dan kunt ge weerstand bieden op de dag der verschrikking en staande blijven, strijdend tot het einde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Grijpt daarom naar de wapenrusting Gods; dan kunt ge weerstand bieden op de dag der verschrikking en staande blijven, strijdend tot het einde."
+          }
+        ]
+      },
+      "id": "efesiers.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "die het onderpand is van onze erfenis,<br />\r\ntot verlossing van Gods eigen volk,<br />\r\nen tot lof van zijn heerlijkheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die het onderpand is van onze erfenis,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ntot verlossing van Gods eigen volk,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen tot lof van zijn heerlijkheid."
+          }
+        ]
+      },
+      "id": "efesiers.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Want Hij is onze vrede, Hij die de twee werelden &eacute;&eacute;n gemaakt heeft, en de scheidsmuur heeft neergehaald, door in zijn vlees de vijandschap,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij is onze vrede, Hij die de twee werelden één gemaakt heeft, en de scheidsmuur heeft neergehaald, door in zijn vlees de vijandschap,"
+          }
+        ]
+      },
+      "id": "efesiers.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Daarom buig ik mijn knie&euml;n voor de Vader,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom buig ik mijn knieën voor de Vader,"
+          }
+        ]
+      },
+      "id": "efesiers.3.14",
+      "title": "Gebed om de volmaakte gnosis",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Dan zullen wij niet langer onmondig zijn, heen en weer geslingerd en meegesleurd door elke windvlaag, ik bedoel, elke leer die door het valse spel van sluwe mensen wordt uitgedacht om tot dwaling te verleiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen wij niet langer onmondig zijn, heen en weer geslingerd en meegesleurd door elke windvlaag, ik bedoel, elke leer die door het valse spel van sluwe mensen wordt uitgedacht om tot dwaling te verleiden."
+          }
+        ]
+      },
+      "id": "efesiers.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "En alles wat verhelderd wordt, is zelf &lsquo;licht&rsquo; geworden. Zo zegt ook de hymne: &#39;Ontwaak, slaper, sta op uit de dood, en Christus&rsquo; licht zal over u stralen.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En alles wat verhelderd wordt, is zelf ‘licht’ geworden. Zo zegt ook de hymne: 'Ontwaak, slaper, sta op uit de dood, en Christus’ licht zal over u stralen.'"
+          }
+        ]
+      },
+      "id": "efesiers.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Staat dan, uw lendenen omgord met de waarheid, bekleed met het harnas der gerechtigheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Staat dan, uw lendenen omgord met de waarheid, bekleed met het harnas der gerechtigheid,"
+          }
+        ]
+      },
+      "id": "efesiers.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Daarom zeg ook ik onophoudelijk dank, want ik heb gehoord van uw geloof in de Heer Jezus en uw liefde voor alle heiligen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zeg ook ik onophoudelijk dank, want ik heb gehoord van uw geloof in de Heer Jezus en uw liefde voor alle heiligen."
+          }
+        ]
+      },
+      "id": "efesiers.1.15",
+      "title": "Dankzegging en gebed",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "de wet der geboden met haar verordeningen, te vernietigen. Hij heeft vrede gesticht door in zijn persoon uit de twee &eacute;&eacute;n nieuwe mens te scheppen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de wet der geboden met haar verordeningen, te vernietigen. Hij heeft vrede gesticht door in zijn persoon uit de twee één nieuwe mens te scheppen,"
+          }
+        ]
+      },
+      "id": "efesiers.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "naar wie alle vaderschap in de hemel en op aarde genoemd wordt:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "naar wie alle vaderschap in de hemel en op aarde genoemd wordt:"
+          }
+        ]
+      },
+      "id": "efesiers.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Neen, laten wij de waarheid spreken in liefde en zo geheel naar Christus toegroeien. Hij is het hoofd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, laten wij de waarheid spreken in liefde en zo geheel naar Christus toegroeien. Hij is het hoofd"
+          }
+        ]
+      },
+      "id": "efesiers.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Let dus nauwkeurig op hoe ge u gedraagt: als verstandige mensen, niet als dwazen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Let dus nauwkeurig op hoe ge u gedraagt: als verstandige mensen, niet als dwazen."
+          }
+        ]
+      },
+      "id": "efesiers.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "de voeten geschoeid met ijver voor het evangelie van de vrede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de voeten geschoeid met ijver voor het evangelie van de vrede."
+          }
+        ]
+      },
+      "id": "efesiers.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Steeds gedenk ik u in mijn gebeden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Steeds gedenk ik u in mijn gebeden."
+          }
+        ]
+      },
+      "id": "efesiers.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "en die beiden in &eacute;&eacute;n lichaam met God te verzoenen door het kruis, waaraan Hij de vijandschap heeft gedood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en die beiden in één lichaam met God te verzoenen door het kruis, waaraan Hij de vijandschap heeft gedood."
+          }
+        ]
+      },
+      "id": "efesiers.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "moge Hij u in zijn onmetelijke heerlijkheid geven dat uw diepste wezen machtig door zijn Geest wordt gesterkt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "moge Hij u in zijn onmetelijke heerlijkheid geven dat uw diepste wezen machtig door zijn Geest wordt gesterkt,"
+          }
+        ]
+      },
+      "id": "efesiers.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "waaruit het hele lichaam kracht put. Als een welsluitend geheel bijeengehouden door de steun van al zijn gewrichten bereikt het zijn volle wasdom door de werkzaamheid die ieder deel is toegemeten en bouwt het zichzelf op in liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waaruit het hele lichaam kracht put. Als een welsluitend geheel bijeengehouden door de steun van al zijn gewrichten bereikt het zijn volle wasdom door de werkzaamheid die ieder deel is toegemeten en bouwt het zichzelf op in liefde."
+          }
+        ]
+      },
+      "id": "efesiers.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Benut de gunstige gelegenheid, want de tijden zijn slecht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Benut de gunstige gelegenheid, want de tijden zijn slecht."
+          }
+        ]
+      },
+      "id": "efesiers.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Hanteert daarbij het grote schild van het geloof, waarmee gij alle brandende pijlen van de boze kunt doven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hanteert daarbij het grote schild van het geloof, waarmee gij alle brandende pijlen van de boze kunt doven."
+          }
+        ]
+      },
+      "id": "efesiers.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Ik smeek de God van onze Heer Jezus Christus, de Vader der heerlijkheid, u de Geest te geven van wijsheid en openbaring om Hem waarachtig te kennen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik smeek de God van onze Heer Jezus Christus, de Vader der heerlijkheid, u de Geest te geven van wijsheid en openbaring om Hem waarachtig te kennen."
+          }
+        ]
+      },
+      "id": "efesiers.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "En Hij is gekomen en Hij heeft vrede verkondigd aan u die veraf waart en vrede aan hen die dichtbij waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Hij is gekomen en Hij heeft vrede verkondigd aan u die veraf waart en vrede aan hen die dichtbij waren."
+          }
+        ]
+      },
+      "id": "efesiers.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "dat Christus door het geloof woont in uw hart en dat gij in de liefde geworteld en gegrondvest blijft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat Christus door het geloof woont in uw hart en dat gij in de liefde geworteld en gegrondvest blijft."
+          }
+        ]
+      },
+      "id": "efesiers.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Daarom doe ik een beroep op u bij de Heer: leeft niet langer zoals de heidenen in hun waanwijsheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom doe ik een beroep op u bij de Heer: leeft niet langer zoals de heidenen in hun waanwijsheid,"
+          }
+        ]
+      },
+      "id": "efesiers.4.17",
+      "title": "De oude en de nieuwe mens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Daarom, weest niet onverstandig, maar tracht te begrijpen wat de Heer wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, weest niet onverstandig, maar tracht te begrijpen wat de Heer wil."
+          }
+        ]
+      },
+      "id": "efesiers.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Neemt ook de helm van het heil en het zwaard van de Geest, dat is, het woord Gods.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neemt ook de helm van het heil en het zwaard van de Geest, dat is, het woord Gods."
+          }
+        ]
+      },
+      "id": "efesiers.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Moge Hij uw innerlijk oog verlichten om te zien, hoe groot de hoop is waartoe Hij u roept, hoe rijk de heerlijkheid van zijn erfdeel temidden der heiligen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge Hij uw innerlijk oog verlichten om te zien, hoe groot de hoop is waartoe Hij u roept, hoe rijk de heerlijkheid van zijn erfdeel temidden der heiligen"
+          }
+        ]
+      },
+      "id": "efesiers.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Want door Hem hebben wij beiden in &eacute;&eacute;n Geest de toegang tot de Vader.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want door Hem hebben wij beiden in één Geest de toegang tot de Vader."
+          }
+        ]
+      },
+      "id": "efesiers.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Moogt gij in staat zijn met alle heiligen te vatten, wat de breedte en lengte en diepte is,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moogt gij in staat zijn met alle heiligen te vatten, wat de breedte en lengte en diepte is,"
+          }
+        ]
+      },
+      "id": "efesiers.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "verduisterd als zij zijn in hun verstand en vervreemd van Gods leven door de onwetendheid die in hen heerst en de verstoktheid van hun hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "verduisterd als zij zijn in hun verstand en vervreemd van Gods leven door de onwetendheid die in hen heerst en de verstoktheid van hun hart."
+          }
+        ]
+      },
+      "id": "efesiers.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Bedwelmt u niet met wijn, wat tot losbandigheid leidt, maar laat u bezielen door de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bedwelmt u niet met wijn, wat tot losbandigheid leidt, maar laat u bezielen door de Geest."
+          }
+        ]
+      },
+      "id": "efesiers.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Bidt en smeekt in de Geest bij elke gelegenheid en op allerlei wijze. Houdt daartoe nachtwaken, waarbij gij met volharding God smeekt voor alle heiligen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt en smeekt in de Geest bij elke gelegenheid en op allerlei wijze. Houdt daartoe nachtwaken, waarbij gij met volharding God smeekt voor alle heiligen."
+          }
+        ]
+      },
+      "id": "efesiers.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "en hoe overgroot zijn macht in ons die geloven. Dezelfde sterkte en kracht",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en hoe overgroot zijn macht in ons die geloven. Dezelfde sterkte en kracht"
+          }
+        ]
+      },
+      "id": "efesiers.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Zo zijt gij dus geen vreemdelingen en ontheemden meer, maar medeburgers van de heiligen en huisgenoten van God,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zijt gij dus geen vreemdelingen en ontheemden meer, maar medeburgers van de heiligen en huisgenoten van God,"
+          }
+        ]
+      },
+      "id": "efesiers.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "en te kennen de liefde van Christus, die alle kennis te boven gaat. Moogt gij de volheid bereiken die de volheid van God zelf is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en te kennen de liefde van Christus, die alle kennis te boven gaat. Moogt gij de volheid bereiken die de volheid van God zelf is."
+          }
+        ]
+      },
+      "id": "efesiers.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Zedelijk afgestompt, hebben zij zich overgegeven aan losbandigheid, om gretig winst te slaan uit allerlei immorele praktijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zedelijk afgestompt, hebben zij zich overgegeven aan losbandigheid, om gretig winst te slaan uit allerlei immorele praktijken."
+          }
+        ]
+      },
+      "id": "efesiers.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Spreekt elkander toe in psalmen en hymnen en liederen, ingegeven door de Geest. Zingt en speelt voor de Heer van ganser harte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spreekt elkander toe in psalmen en hymnen en liederen, ingegeven door de Geest. Zingt en speelt voor de Heer van ganser harte."
+          }
+        ]
+      },
+      "id": "efesiers.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Bidt ook voor mij, dat mij het woord gegeven mag worden als ik mijn mond open om vrijmoedig het mysterie openbaar te maken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt ook voor mij, dat mij het woord gegeven mag worden als ik mijn mond open om vrijmoedig het mysterie openbaar te maken,"
+          }
+        ]
+      },
+      "id": "efesiers.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "heeft Hij betoond in Christus, toen Hij Hem opwekte uit de doden en zette aan zijn rechterhand in de hemelen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heeft Hij betoond in Christus, toen Hij Hem opwekte uit de doden en zette aan zijn rechterhand in de hemelen,"
+          }
+        ]
+      },
+      "id": "efesiers.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "gebouwd op het fundament van de apostelen en profeten, terwijl de sluitsteen Christus Jezus zelf is,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gebouwd op het fundament van de apostelen en profeten, terwijl de sluitsteen Christus Jezus zelf is,"
+          }
+        ]
+      },
+      "id": "efesiers.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Aan Hem die door de kracht welke in ons werkt bij machte is oneindig meer te volbrengen dan al wat wij kunnen vragen of bevroeden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan Hem die door de kracht welke in ons werkt bij machte is oneindig meer te volbrengen dan al wat wij kunnen vragen of bevroeden,"
+          }
+        ]
+      },
+      "id": "efesiers.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Maar gij hebt de Christus zo niet leren kennen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij hebt de Christus zo niet leren kennen!"
+          }
+        ]
+      },
+      "id": "efesiers.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Zegt altijd voor alles dank aan God de Vader in de naam van onze Heer Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zegt altijd voor alles dank aan God de Vader in de naam van onze Heer Jezus Christus."
+          }
+        ]
+      },
+      "id": "efesiers.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "waarvoor ik een gezant ben in boeien. Bidt dat ik het vrijmoedig mag verkondigen, zoals het mijn plicht is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarvoor ik een gezant ben in boeien. Bidt dat ik het vrijmoedig mag verkondigen, zoals het mijn plicht is."
+          }
+        ]
+      },
+      "id": "efesiers.6.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "hoog boven alle heerschappijen, machten, krachten en hoogheden, en boven elke naam die genoemd wordt niet alleen in deze, maar ook in de toekomstige tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoog boven alle heerschappijen, machten, krachten en hoogheden, en boven elke naam die genoemd wordt niet alleen in deze, maar ook in de toekomstige tijd."
+          }
+        ]
+      },
+      "id": "efesiers.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "die het hele bouwwerk in zijn voegen houdt. In Hem groeit het uit tot een heilige tempel in de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die het hele bouwwerk in zijn voegen houdt. In Hem groeit het uit tot een heilige tempel in de Heer."
+          }
+        ]
+      },
+      "id": "efesiers.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "aan Hem zij de heerlijkheid in de kerk en in Christus Jezus, tot in alle geslachten, van eeuwigheid tot eeuwigheid! Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "aan Hem zij de heerlijkheid in de kerk en in Christus Jezus, tot in alle geslachten, van eeuwigheid tot eeuwigheid! Amen."
+          }
+        ]
+      },
+      "id": "efesiers.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Want gij hebt van Hem gehoord en zijt in Hem onderricht naar de waarheid die in Jezus is:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want gij hebt van Hem gehoord en zijt in Hem onderricht naar de waarheid die in Jezus is:"
+          }
+        ]
+      },
+      "id": "efesiers.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Weest elkander onderdanig uit ontzag voor Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest elkander onderdanig uit ontzag voor Christus."
+          }
+        ]
+      },
+      "id": "efesiers.5.21",
+      "title": "Het christelijk gezin",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "T&yacute;chikus, de geliefde broeder en trouwe dienaar in de Heer, zal u alles vertellen, zodat ook gij te weten komt hoe ik het maak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Týchikus, de geliefde broeder en trouwe dienaar in de Heer, zal u alles vertellen, zodat ook gij te weten komt hoe ik het maak."
+          }
+        ]
+      },
+      "id": "efesiers.6.21",
+      "title": "Mededeling en zegenwens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Alles heeft God onder zijn voeten gelegd, en Hemzelf, verheven boven alles, heeft Hij als Hoofd gegeven aan de kerk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles heeft God onder zijn voeten gelegd, en Hemzelf, verheven boven alles, heeft Hij als Hoofd gegeven aan de kerk,"
+          }
+        ]
+      },
+      "id": "efesiers.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "In Hem wordt ook gij mee opgebouwd tot een woonstede van God, in de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Hem wordt ook gij mee opgebouwd tot een woonstede van God, in de Geest."
+          }
+        ]
+      },
+      "id": "efesiers.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "dat gij de oude mens van uw vroegere levenswandel, die te gronde gaat aan zijn bedrieglijke begeerten, moet afleggen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat gij de oude mens van uw vroegere levenswandel, die te gronde gaat aan zijn bedrieglijke begeerten, moet afleggen"
+          }
+        ]
+      },
+      "id": "efesiers.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Vrouwen, weest onderdanig aan uw man als aan de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrouwen, weest onderdanig aan uw man als aan de Heer."
+          }
+        ]
+      },
+      "id": "efesiers.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Juist daarom zend ik hem naar u toe, dat gij zoudt vernemen hoe het ons gaat en hij uw hart moge vertroosten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Juist daarom zend ik hem naar u toe, dat gij zoudt vernemen hoe het ons gaat en hij uw hart moge vertroosten."
+          }
+        ]
+      },
+      "id": "efesiers.6.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "die zijn lichaam is, de volheid van Hem die het al in alles vervult.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die zijn lichaam is, de volheid van Hem die het al in alles vervult."
+          }
+        ]
+      },
+      "id": "efesiers.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "en dat geheel uw denken zich moet vernieuwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en dat geheel uw denken zich moet vernieuwen."
+          }
+        ]
+      },
+      "id": "efesiers.4.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Want de man is het hoofd van de vrouw, zoals Christus het hoofd is van de kerk. Hij is ook de verlosser van zijn lichaam,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de man is het hoofd van de vrouw, zoals Christus het hoofd is van de kerk. Hij is ook de verlosser van zijn lichaam,"
+          }
+        ]
+      },
+      "id": "efesiers.5.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "text": "God de Vader en de Heer Jezus Christus mogen de broeders vrede geven en liefde met geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God de Vader en de Heer Jezus Christus mogen de broeders vrede geven en liefde met geloof."
+          }
+        ]
+      },
+      "id": "efesiers.6.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Bekleedt u met de nieuwe mens, die naar Gods beeld is geschapen in ware gerechtigheid en heiligheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bekleedt u met de nieuwe mens, die naar Gods beeld is geschapen in ware gerechtigheid en heiligheid."
+          }
+        ]
+      },
+      "id": "efesiers.4.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "maar zoals de kerk onderdanig is aan Christus, zo moet ook de vrouw haar man in alles onderdanig zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar zoals de kerk onderdanig is aan Christus, zo moet ook de vrouw haar man in alles onderdanig zijn."
+          }
+        ]
+      },
+      "id": "efesiers.5.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "text": "De genade zij met allen die onze Heer Jezus Christus liefhebben, in onvergankelijkheid!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade zij met allen die onze Heer Jezus Christus liefhebben, in onvergankelijkheid!"
+          }
+        ]
+      },
+      "id": "efesiers.6.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "text": "Daarom, doet de leugen weg en laat ieder met zijn naaste de waarheid spreken, want wij zijn elkanders ledematen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, doet de leugen weg en laat ieder met zijn naaste de waarheid spreken, want wij zijn elkanders ledematen."
+          }
+        ]
+      },
+      "id": "efesiers.4.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Mannen, hebt uw vrouw lief, zoals Christus de kerk heeft liefgehad: Hij heeft zich voor haar overgeleverd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mannen, hebt uw vrouw lief, zoals Christus de kerk heeft liefgehad: Hij heeft zich voor haar overgeleverd"
+          }
+        ]
+      },
+      "id": "efesiers.5.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "text": "Wordt toornig maar zondigt niet. De zon mag over uw toorn niet ondergaan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wordt toornig maar zondigt niet. De zon mag over uw toorn niet ondergaan,"
+          }
+        ]
+      },
+      "id": "efesiers.4.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "om haar te heiligen, haar reinigend door het waterbad met het woord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om haar te heiligen, haar reinigend door het waterbad met het woord."
+          }
+        ]
+      },
+      "id": "efesiers.5.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "text": "geeft de duivel geen kans.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "geeft de duivel geen kans."
+          }
+        ]
+      },
+      "id": "efesiers.4.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 27,
+      "text": "Hij heeft de kerk tot zich gevoerd als een heerlijke bruid, zonder vlek of rimpel of fout, heilig en onbesmet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft de kerk tot zich gevoerd als een heerlijke bruid, zonder vlek of rimpel of fout, heilig en onbesmet."
+          }
+        ]
+      },
+      "id": "efesiers.5.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "text": "Wie een dief was moet niet meer stelen, maar zich inspannen met eerlijke arbeid; dan kan hij de behoeftige iets geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie een dief was moet niet meer stelen, maar zich inspannen met eerlijke arbeid; dan kan hij de behoeftige iets geven."
+          }
+        ]
+      },
+      "id": "efesiers.4.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 28,
+      "text": "Zo moeten ook de mannen hun vrouwen liefhebben, zoals ze hun eigen lichaam liefhebben. Wie zijn vrouw bemint, bemint zichzelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo moeten ook de mannen hun vrouwen liefhebben, zoals ze hun eigen lichaam liefhebben. Wie zijn vrouw bemint, bemint zichzelf."
+          }
+        ]
+      },
+      "id": "efesiers.5.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "text": "Laat geen slecht woord over uw lippen komen, maar spreekt een goed woord, opbouwend, als het nodig is, tot zegen voor de hoorders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat geen slecht woord over uw lippen komen, maar spreekt een goed woord, opbouwend, als het nodig is, tot zegen voor de hoorders."
+          }
+        ]
+      },
+      "id": "efesiers.4.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 29,
+      "text": "Niemand heeft ooit zijn eigen vlees gehaat; integendeel, hij voedt en koestert het. En zo doet Christus met de kerk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand heeft ooit zijn eigen vlees gehaat; integendeel, hij voedt en koestert het. En zo doet Christus met de kerk,"
+          }
+        ]
+      },
+      "id": "efesiers.5.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "text": "Wilt Gods heilige Geest niet bedroeven: gij zijt met zijn zegel gewaarmerkt voor de dag der verlossing.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wilt Gods heilige Geest niet bedroeven: gij zijt met zijn zegel gewaarmerkt voor de dag der verlossing."
+          }
+        ]
+      },
+      "id": "efesiers.4.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 30,
+      "text": "omdat wij ledematen zijn van zijn lichaam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "omdat wij ledematen zijn van zijn lichaam."
+          }
+        ]
+      },
+      "id": "efesiers.5.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "text": "Wrok, gramschap, toorn, geschreeuw en gevloek, kortom alle boosaardigheid moet bij u verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wrok, gramschap, toorn, geschreeuw en gevloek, kortom alle boosaardigheid moet bij u verdwijnen."
+          }
+        ]
+      },
+      "id": "efesiers.4.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 31,
+      "text": "Daarom zal de man vader en moeder verlaten om zich te hechten aan zijn vrouw, en die twee zullen &eacute;&eacute;n vlees zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zal de man vader en moeder verlaten om zich te hechten aan zijn vrouw, en die twee zullen één vlees zijn."
+          }
+        ]
+      },
+      "id": "efesiers.5.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "text": "Weest goed voor elkaar en hartelijk. Vergeeft elkaar zoals God u vergeven heeft in Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest goed voor elkaar en hartelijk. Vergeeft elkaar zoals God u vergeven heeft in Christus."
+          }
+        ]
+      },
+      "id": "efesiers.4.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 32,
+      "text": "Dit geheim heeft een diepe zin. Ik voor mij betrek het op Christus en de kerk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit geheim heeft een diepe zin. Ik voor mij betrek het op Christus en de kerk."
+          }
+        ]
+      },
+      "id": "efesiers.5.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 33,
+      "text": "Hoe dit ook zij, ieder van u moet zijn vrouw beminnen als zichzelf en de vrouw moet ontzag hebben voor haar man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe dit ook zij, ieder van u moet zijn vrouw beminnen als zichzelf en de vrouw moet ontzag hebben voor haar man."
+          }
+        ]
+      },
+      "id": "efesiers.5.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

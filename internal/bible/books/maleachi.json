@@ -1,0 +1,943 @@
+{
+  "id": "maleachi",
+  "name": "Maleachi",
+  "chapters": 3,
+  "verseCount": 55,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Een uitspraak. Een woord van Jahwe, tot Israël gericht, bij monde van Maleachi.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een uitspraak. Een woord van Jahwe, tot Israël gericht, bij monde van Maleachi."
+          }
+        ]
+      },
+      "id": "maleachi.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Daarom geldt voor u, priesters, dit besluit:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom geldt voor u, priesters, dit besluit:"
+          }
+        ]
+      },
+      "id": "maleachi.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "'Zie, ik zend mijn bode om voor Mij uit de weg te banen. Plotseling zal dan de Heer in zijn heiligdom binnentreden, de Heer die gij zoekt, de bode van het verbond, naar wie gij met vreugde uitziet. Zie, Hij komt, zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Zie, ik zend mijn bode om voor Mij uit de weg te banen. Plotseling zal dan de Heer in zijn heiligdom binnentreden, de Heer die gij zoekt, de bode van het verbond, naar wie gij met vreugde uitziet. Zie, Hij komt, zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Ik heb u lief, zegt Jahwe. Gij vraagt: 'Hoe hebt gij uw liefde voor ons dan getoond?' Was Esau niet de broer van Jakob? luidt de godsspraak van Jahwe. Toch had Ik Jakob lief",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u lief, zegt Jahwe. Gij vraagt: 'Hoe hebt gij uw liefde voor ons dan getoond?' Was Esau niet de broer van Jakob? luidt de godsspraak van Jahwe. Toch had Ik Jakob lief"
+          }
+        ]
+      },
+      "id": "maleachi.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Wanneer gij niet luistert en wanneer gij u om de glorie van mijn naam niet bekommert - zegt Jahwe van de machten -, dan laat Ik de vloek over u komen, dan vervloek Ik de u gegeven zegen; voorwaar, Ik vervloek die, omdat gij er u toch niet om bekommert.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer gij niet luistert en wanneer gij u om de glorie van mijn naam niet bekommert - zegt Jahwe van de machten -, dan laat Ik de vloek over u komen, dan vervloek Ik de u gegeven zegen; voorwaar, Ik vervloek die, omdat gij er u toch niet om bekommert."
+          }
+        ]
+      },
+      "id": "maleachi.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Maar wie verdraagt de dag van zijn komst? Wie blijft er staande, als Hij verschijnt? Want Hij is als het vuur van de smelter, als het loog van de blekers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wie verdraagt de dag van zijn komst? Wie blijft er staande, als Hij verschijnt? Want Hij is als het vuur van de smelter, als het loog van de blekers."
+          }
+        ]
+      },
+      "id": "maleachi.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "en haatte Ik Esau: van zijn bergland heb Ik een wildernis gemaakt en zijn erfdeel heb Ik prijsgegeven aan de jakhalzen van de woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en haatte Ik Esau: van zijn bergland heb Ik een wildernis gemaakt en zijn erfdeel heb Ik prijsgegeven aan de jakhalzen van de woestijn."
+          }
+        ]
+      },
+      "id": "maleachi.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Ik zal uw arm krachteloos maken en Ik zal u de afval van uw feestoffers in het gezicht werpen, en daarmee zult ge worden weggebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal uw arm krachteloos maken en Ik zal u de afval van uw feestoffers in het gezicht werpen, en daarmee zult ge worden weggebracht."
+          }
+        ]
+      },
+      "id": "maleachi.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Hij zal zich neerzetten, Hij die het zilver smelt en reinigt: de levieten reinigt en loutert Hij, als goud en zilver. Dan zullen zij Jahwe weer hun offergaven brengen zoals dat betaamt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal zich neerzetten, Hij die het zilver smelt en reinigt: de levieten reinigt en loutert Hij, als goud en zilver. Dan zullen zij Jahwe weer hun offergaven brengen zoals dat betaamt."
+          }
+        ]
+      },
+      "id": "maleachi.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "En als Edom zou zeggen: 'Wij zijn wel neergeslagen, maar wij zullen weer opbouwen wat in puin ligt' - dan spreekt Jahwe van de machten aldus: Laat hen maar bouwen, Ik sloop het weer;' goddeloos land,' zal men van hen zeggen en: 'dat volk, waarop Jahwe voor eeuwig vertoornd is.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als Edom zou zeggen: 'Wij zijn wel neergeslagen, maar wij zullen weer opbouwen wat in puin ligt' - dan spreekt Jahwe van de machten aldus: Laat hen maar bouwen, Ik sloop het weer;' goddeloos land,' zal men van hen zeggen en: 'dat volk, waarop Jahwe voor eeuwig vertoornd is.'"
+          }
+        ]
+      },
+      "id": "maleachi.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Dan zult gij weten, dat Ik dit besluit over u heb doen uitgaan, op grond van mijn verbond met Levi - zegt Jahwe van de legerscharen -.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult gij weten, dat Ik dit besluit over u heb doen uitgaan, op grond van mijn verbond met Levi - zegt Jahwe van de legerscharen -."
+          }
+        ]
+      },
+      "id": "maleachi.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Dan zal het offer van Juda en Jeruzalem aan Jahwe behagen, evenals in de dagen van weleer, in de vroegere jaren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal het offer van Juda en Jeruzalem aan Jahwe behagen, evenals in de dagen van weleer, in de vroegere jaren."
+          }
+        ]
+      },
+      "id": "maleachi.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Met uw eigen ogen zult gij het zien en gij zult erkennen: Groot toont Jahwe zich over het gebied van Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met uw eigen ogen zult gij het zien en gij zult erkennen: Groot toont Jahwe zich over het gebied van Israël."
+          }
+        ]
+      },
+      "id": "maleachi.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Mijn verbond met hem betekende leven en vrede, en Ik heb hem die ook gegeven; het betekende vrees, en hij heeft Mij ook gevreesd en gebeefd voor mijn naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn verbond met hem betekende leven en vrede, en Ik heb hem die ook gegeven; het betekende vrees, en hij heeft Mij ook gevreesd en gebeefd voor mijn naam."
+          }
+        ]
+      },
+      "id": "maleachi.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Dan kom Ik tot u om recht te doen, om als een voortvarend aanklager op te treden tegen de tovenaars, de echtbrekers, de meinedigen, tegen degenen die de dagloner zijn verdiende loon onthouden, die de weduwe en de wees verdrukken, die de vreemdeling opzijdringen, tegen al degenen die Mij niet vrezen, zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan kom Ik tot u om recht te doen, om als een voortvarend aanklager op te treden tegen de tovenaars, de echtbrekers, de meinedigen, tegen degenen die de dagloner zijn verdiende loon onthouden, die de weduwe en de wees verdrukken, die de vreemdeling opzijdringen, tegen al degenen die Mij niet vrezen, zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "De zoon eert zijn vader, de knecht zijn meester. Maar als Ik de vader ben, waar is dan de eerbied voor Mij? En ben Ik de meester, waar is dan de vrees voor Mij? Dat zegt Jahwe van de machten tot u, priesters, die mijn naam minacht. En gij vraagt dan nog: 'Waardoor minachten wij uw naam?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zoon eert zijn vader, de knecht zijn meester. Maar als Ik de vader ben, waar is dan de eerbied voor Mij? En ben Ik de meester, waar is dan de vrees voor Mij? Dat zegt Jahwe van de machten tot u, priesters, die mijn naam minacht. En gij vraagt dan nog: 'Waardoor minachten wij uw naam?'"
+          }
+        ]
+      },
+      "id": "maleachi.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "De ware leer lag hen in de mond en over zijn lippen kwam geen ongerechtigheid; in vrede en rechtschapenheid heeft hij met Mij verkeerd en velen heeft hij van het kwade weerhouden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De ware leer lag hen in de mond en over zijn lippen kwam geen ongerechtigheid; in vrede en rechtschapenheid heeft hij met Mij verkeerd en velen heeft hij van het kwade weerhouden."
+          }
+        ]
+      },
+      "id": "maleachi.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Voorwaar, Ik, Jahwe, Ik ben niet veranderd, maar gij, zonen van Jakob, gij weet van geen ophouden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, Ik, Jahwe, Ik ben niet veranderd, maar gij, zonen van Jakob, gij weet van geen ophouden."
+          }
+        ]
+      },
+      "id": "maleachi.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Door op mijn altaar verachtelijk voedsel te brengen. En als gij dan verder vraagt: 'Hoe hebben wij U dan veracht?' Door te menen, dat de tafel van Jahwe geminacht kan worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door op mijn altaar verachtelijk voedsel te brengen. En als gij dan verder vraagt: 'Hoe hebben wij U dan veracht?' Door te menen, dat de tafel van Jahwe geminacht kan worden."
+          }
+        ]
+      },
+      "id": "maleachi.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "En inderdaad: de lippen van de priester moeten de kennis bewaren en uit zijn mond verwacht men de leer, omdat hij een bode is van Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En inderdaad: de lippen van de priester moeten de kennis bewaren en uit zijn mond verwacht men de leer, omdat hij een bode is van Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Sinds de dagen van uw vaderen zijt gij van mijn voorschriften afgeweken en hebt gij ze niet onderhouden. Keert terug tot Mij, dan keer Ik terug tot u, zegt Jahwe van de machten. Gij vraagt: 'Hoe moeten wij dan terugkeren?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sinds de dagen van uw vaderen zijt gij van mijn voorschriften afgeweken en hebt gij ze niet onderhouden. Keert terug tot Mij, dan keer Ik terug tot u, zegt Jahwe van de machten. Gij vraagt: 'Hoe moeten wij dan terugkeren?'"
+          }
+        ]
+      },
+      "id": "maleachi.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Of is het niet erg, wanneer gij een blind dier brengt om te offeren? En is het niet erg, wanneer gij een kreupel en een ziek dier brengt? Bied ze uw landvoogd maar eens aan! Zou hij welgevallen in u hebben en u vriendelijk ontvangen? vraagt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of is het niet erg, wanneer gij een blind dier brengt om te offeren? En is het niet erg, wanneer gij een kreupel en een ziek dier brengt? Bied ze uw landvoogd maar eens aan! Zou hij welgevallen in u hebben en u vriendelijk ontvangen? vraagt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Gij echter zijt van de weg afgeweken en hebt door uw lering velen laten struikelen; gij hebt het verbond met Levi tenietgedaan, spreekt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij echter zijt van de weg afgeweken en hebt door uw lering velen laten struikelen; gij hebt het verbond met Levi tenietgedaan, spreekt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Een mens mag God toch niet bestelen? En toch, gij besteelt Mij. Gij vraagt: 'Hoe bestelen wij u dan?' In de tienden en de verplichte bijdragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een mens mag God toch niet bestelen? En toch, gij besteelt Mij. Gij vraagt: 'Hoe bestelen wij u dan?' In de tienden en de verplichte bijdragen."
+          }
+        ]
+      },
+      "id": "maleachi.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Welnu, probeer maar de gunst van God te winnen: dan zal Hij ons genadig zijn. Want als gij handelt zoals nu, zou Hij zich dan goedgunstig tonen? zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, probeer maar de gunst van God te winnen: dan zal Hij ons genadig zijn. Want als gij handelt zoals nu, zou Hij zich dan goedgunstig tonen? zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Daarom zal Ik zorgen dat gij bij het hele volk verguisd en versmaad wordt, omdat gij mijn wegen niet hebt bewandeld en in uw lering de mensen naar de ogen hebt gezien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zal Ik zorgen dat gij bij het hele volk verguisd en versmaad wordt, omdat gij mijn wegen niet hebt bewandeld en in uw lering de mensen naar de ogen hebt gezien."
+          }
+        ]
+      },
+      "id": "maleachi.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Gij zijt door de vervloeking getroffen en toch blijft gij Mij bestelen, heel het volk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt door de vervloeking getroffen en toch blijft gij Mij bestelen, heel het volk."
+          }
+        ]
+      },
+      "id": "maleachi.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Was er onder u maar iemand, die de deuren dichtdeed, zodat er geen doelloos vuur meer op mijn altaar werd ontstoken. Ik heb geen welgevallen in u, zegt Jahwe van de machten, en het offer uit uw handen behaagt Mij niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Was er onder u maar iemand, die de deuren dichtdeed, zodat er geen doelloos vuur meer op mijn altaar werd ontstoken. Ik heb geen welgevallen in u, zegt Jahwe van de machten, en het offer uit uw handen behaagt Mij niet."
+          }
+        ]
+      },
+      "id": "maleachi.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Hebben wij niet allen &eacute;&eacute;n vader? Heeft niet &eacute;&eacute;n God ons geschapen? Waarom bedriegen wij elkaar dan en schenden wij daarmee het verbond, dat met onze vaderen is gesloten?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hebben wij niet allen één vader? Heeft niet één God ons geschapen? Waarom bedriegen wij elkaar dan en schenden wij daarmee het verbond, dat met onze vaderen is gesloten?"
+          }
+        ]
+      },
+      "id": "maleachi.2.10",
+      "title": "Gemengde huwelijken en echtscheidingen",
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Brengt de tienden van alles naar het voorraadhuis, zodat er in mijn woning voedsel is; stelt Mij maar eens op de proef, zegt Jahwe van de machten, of Ik de luiken van de hemel niet voor u openzet en of Ik niet zegen over u uitstort, meer dan gij kunt opnemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Brengt de tienden van alles naar het voorraadhuis, zodat er in mijn woning voedsel is; stelt Mij maar eens op de proef, zegt Jahwe van de machten, of Ik de luiken van de hemel niet voor u openzet en of Ik niet zegen over u uitstort, meer dan gij kunt opnemen."
+          }
+        ]
+      },
+      "id": "maleachi.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Werkelijk, van de opkomst van de zon tot aan haar ondergang is mijn naam groot onder de volken; overal wordt aan mijn naam een wierookoffer gebracht en een reine offergave. Ja, groot is mijn naam onder de volken, zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Werkelijk, van de opkomst van de zon tot aan haar ondergang is mijn naam groot onder de volken; overal wordt aan mijn naam een wierookoffer gebracht en een reine offergave. Ja, groot is mijn naam onder de volken, zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Juda heeft ontrouw gepleegd. In Israël en Jeruzalem is een gruwelijke daad bedreven. Want door de dochter van een vreemde god te huwen heeft Juda datgene geschonden wat aan Jahwe is toegeheiligd en wat Hem zo dierbaar is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Juda heeft ontrouw gepleegd. In Israël en Jeruzalem is een gruwelijke daad bedreven. Want door de dochter van een vreemde god te huwen heeft Juda datgene geschonden wat aan Jahwe is toegeheiligd en wat Hem zo dierbaar is."
+          }
+        ]
+      },
+      "id": "maleachi.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Dan verjaag Ik voor u de veelvraten, zodat die de vruchten van uw akkerland niet meer kunnen vernielen en de wingerd op het veld niet onvruchtbaar voor u blijft, zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan verjaag Ik voor u de veelvraten, zodat die de vruchten van uw akkerland niet meer kunnen vernielen en de wingerd op het veld niet onvruchtbaar voor u blijft, zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Gij echter ontheiligt die naam door te zeggen: De tafel van de Heer is verachtelijk en het voedsel dat er vandaan komt is verwerpelijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij echter ontheiligt die naam door te zeggen: De tafel van de Heer is verachtelijk en het voedsel dat er vandaan komt is verwerpelijk."
+          }
+        ]
+      },
+      "id": "maleachi.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Moge Jahwe ieder, die voor deze man spreekt of getuigt of aan Jahwe van de machten een offer voor Hem brengt, uit de tenten van Jakob laten verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge Jahwe ieder, die voor deze man spreekt of getuigt of aan Jahwe van de machten een offer voor Hem brengt, uit de tenten van Jakob laten verdwijnen."
+          }
+        ]
+      },
+      "id": "maleachi.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Dan zullen alle volken u gelukkig prijzen, omdat gij een begenadigd land zult zijn, zegt Jahwe van de machten. op de Dag van Jahwe",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen alle volken u gelukkig prijzen, omdat gij een begenadigd land zult zijn, zegt Jahwe van de machten. op de Dag van Jahwe"
+          }
+        ]
+      },
+      "id": "maleachi.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "En terwijl gij zegt: 'Wat een moeite!' en er uw neus voor optrekt - zegt Jahwe van de machten - brengt gij geroofde dieren en kreupele en zieke, om die te offeren. Moet Ik daarin behagen hebben? zegt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En terwijl gij zegt: 'Wat een moeite!' en er uw neus voor optrekt - zegt Jahwe van de machten - brengt gij geroofde dieren en kreupele en zieke, om die te offeren. Moet Ik daarin behagen hebben? zegt Jahwe."
+          }
+        ]
+      },
+      "id": "maleachi.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Er is ook nog iets anders dat gij doet. Onder gekerm en geklaag overstelpt gij het altaar van Jahwe met tranen, omdat Hij geen acht meer slaat op uw offergave en niets meer met welgevallen uit uw handen aanneemt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is ook nog iets anders dat gij doet. Onder gekerm en geklaag overstelpt gij het altaar van Jahwe met tranen, omdat Hij geen acht meer slaat op uw offergave en niets meer met welgevallen uit uw handen aanneemt."
+          }
+        ]
+      },
+      "id": "maleachi.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Uw woorden ergeren Mij, zegt Jahwe. Gij vraagt: 'Wat was er in onze gesprekken dan tegen u gericht?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw woorden ergeren Mij, zegt Jahwe. Gij vraagt: 'Wat was er in onze gesprekken dan tegen u gericht?'"
+          }
+        ]
+      },
+      "id": "maleachi.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Vervloekt de bedrieger, die een mannelijk dier in zijn kudde heeft en die dat wel belooft, maar de Heer toch een minderwaardig offer brengt, want Ik ben een grote koning, zegt Jahwe van de machten, en mijn naam wordt gevreesd onder de volken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vervloekt de bedrieger, die een mannelijk dier in zijn kudde heeft en die dat wel belooft, maar de Heer toch een minderwaardig offer brengt, want Ik ben een grote koning, zegt Jahwe van de machten, en mijn naam wordt gevreesd onder de volken."
+          }
+        ]
+      },
+      "id": "maleachi.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Vraagt gij waarom? Omdat Jahwe de getuige is geweest bij u en de vrouw van uw jeugd, de vrouw, tegenover wie gij ontrouw hebt gepleegd, terwijl ze uw gezellin is en de vrouw van uw verbond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vraagt gij waarom? Omdat Jahwe de getuige is geweest bij u en de vrouw van uw jeugd, de vrouw, tegenover wie gij ontrouw hebt gepleegd, terwijl ze uw gezellin is en de vrouw van uw verbond."
+          }
+        ]
+      },
+      "id": "maleachi.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Gij hebt gezegd: 'Het is zinloos God te dienen. Wat winnen wij ermee, dat wij zijn geboden onderhouden en voor Jahwe van de machten in boetekleren lopen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt gezegd: 'Het is zinloos God te dienen. Wat winnen wij ermee, dat wij zijn geboden onderhouden en voor Jahwe van de machten in boetekleren lopen?"
+          }
+        ]
+      },
+      "id": "maleachi.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Heeft de Ene haar niet voor hem gemaakt als zijn vlees en leven? En wat wil die Ene anders dan kinderen van God? Draagt dus zorg voor uw leven en wees niet ontrouw aan de vrouw van uw jeugd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft de Ene haar niet voor hem gemaakt als zijn vlees en leven? En wat wil die Ene anders dan kinderen van God? Draagt dus zorg voor uw leven en wees niet ontrouw aan de vrouw van uw jeugd."
+          }
+        ]
+      },
+      "id": "maleachi.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Het is immers zo, dat wij degenen die God trotseren gelukkig prijzen; degenen die kwaad doen gaat het voor de wind en degenen die God verzoeken brengen het er goed af.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is immers zo, dat wij degenen die God trotseren gelukkig prijzen; degenen die kwaad doen gaat het voor de wind en degenen die God verzoeken brengen het er goed af.'"
+          }
+        ]
+      },
+      "id": "maleachi.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Want als een man zijn vrouw uit haat wegzendt - zegt Jahwe, de God van Israël - bedekt hij onrecht met zijn kleed, zegt Jahwe van de machten. Draagt dus zorg voor uw leven en weest niet ontrouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want als een man zijn vrouw uit haat wegzendt - zegt Jahwe, de God van Israël - bedekt hij onrecht met zijn kleed, zegt Jahwe van de machten. Draagt dus zorg voor uw leven en weest niet ontrouw."
+          }
+        ]
+      },
+      "id": "maleachi.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Toen spraken degenen die Jahwe vrezen met elkaar. En Jahwe heeft geluisterd en het gehoord. En voor zijn aangezicht werd een gedenkschrift opgesteld aangaande hen die Jahwe vrezen, hen die zijn naam eerbiedigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen spraken degenen die Jahwe vrezen met elkaar. En Jahwe heeft geluisterd en het gehoord. En voor zijn aangezicht werd een gedenkschrift opgesteld aangaande hen die Jahwe vrezen, hen die zijn naam eerbiedigen."
+          }
+        ]
+      },
+      "id": "maleachi.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Gij maakt Jahwe moe met uw woorden! Gij zegt: 'Hoe doen wij dat dan?' Doordat gij zegt: 'Ieder die kwaad doet staat bij Jahwe in de gunst; in zulke mensen heeft Hij welgevallen.' Of: 'Waar blijft de God van het recht?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij maakt Jahwe moe met uw woorden! Gij zegt: 'Hoe doen wij dat dan?' Doordat gij zegt: 'Ieder die kwaad doet staat bij Jahwe in de gunst; in zulke mensen heeft Hij welgevallen.' Of: 'Waar blijft de God van het recht?'"
+          }
+        ]
+      },
+      "id": "maleachi.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Zij zullen mijn eigendom zijn, zegt Jahwe van de machten, op de dag, die Ik ga maken. Dan zal Ik hen sparen, zoals een man zijn zoon spaart, wanneer die hem dient.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen mijn eigendom zijn, zegt Jahwe van de machten, op de dag, die Ik ga maken. Dan zal Ik hen sparen, zoals een man zijn zoon spaart, wanneer die hem dient."
+          }
+        ]
+      },
+      "id": "maleachi.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Dan zult gij opnieuw het verschil zien tussen de rechtvaardige en de boosdoener, tussen degene die God dient en degene die Hem niet dient.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult gij opnieuw het verschil zien tussen de rechtvaardige en de boosdoener, tussen degene die God dient en degene die Hem niet dient."
+          }
+        ]
+      },
+      "id": "maleachi.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Want weet wel: hij gaat komen, de dag, die zal branden als een oven. Al degenen die God trotseren en al degenen die kwaad doen, zij worden kaf. De dag die gaat komen, steekt hen in brand - zegt Jahwe van de machten - de dag, die wortel noch tak van hen overlaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want weet wel: hij gaat komen, de dag, die zal branden als een oven. Al degenen die God trotseren en al degenen die kwaad doen, zij worden kaf. De dag die gaat komen, steekt hen in brand - zegt Jahwe van de machten - de dag, die wortel noch tak van hen overlaat."
+          }
+        ]
+      },
+      "id": "maleachi.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Maar voor u, die mijn naam vreest, gaat dan de zon van de gerechtigheid op, die met haar vleugels genezing brengt. Dan zult gij dansend naar buiten komen, als kalveren die op stal hebben gestaan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar voor u, die mijn naam vreest, gaat dan de zon van de gerechtigheid op, die met haar vleugels genezing brengt. Dan zult gij dansend naar buiten komen, als kalveren die op stal hebben gestaan,"
+          }
+        ]
+      },
+      "id": "maleachi.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "en gij zult de boosdoeners vertrappen; ze zullen stof onder uw voetzolen zijn, op de dag, die Ik ga maken, zegt Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en gij zult de boosdoeners vertrappen; ze zullen stof onder uw voetzolen zijn, op de dag, die Ik ga maken, zegt Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "maleachi.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Weest dus de wet indachtig van Mozes, mijn dienaar, aan wie Ik op de Horeb voorschriften en bepalingen voor heel Israël heb gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest dus de wet indachtig van Mozes, mijn dienaar, aan wie Ik op de Horeb voorschriften en bepalingen voor heel Israël heb gegeven."
+          }
+        ]
+      },
+      "id": "maleachi.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Zie, Ik ga u de profeet Elia zenden voordat de dag van Jahwe komt, de grote, vreeswekkende dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie, Ik ga u de profeet Elia zenden voordat de dag van Jahwe komt, de grote, vreeswekkende dag."
+          }
+        ]
+      },
+      "id": "maleachi.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "En hij zal het hart van de vaders naar de zonen keren en het hart van de zonen naar de vaders, zodat Ik niet behoef te komen om het land met de ban te slaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hij zal het hart van de vaders naar de zonen keren en het hart van de zonen naar de vaders, zodat Ik niet behoef te komen om het land met de ban te slaan."
+          }
+        ]
+      },
+      "id": "maleachi.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

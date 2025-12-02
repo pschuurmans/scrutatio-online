@@ -1,0 +1,1045 @@
+{
+  "id": "2petrus",
+  "name": "2 Petrus",
+  "chapters": 3,
+  "verseCount": 61,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "SIMEON PETRUS, dienstknecht en apostel van Jezus Christus, aan hen die door de goedheid van onze God en Heiland Jezus Christus met ons het voorrecht delen van hetzelfde geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "SIMEON PETRUS, dienstknecht en apostel van Jezus Christus, aan hen die door de goedheid van onze God en Heiland Jezus Christus met ons het voorrecht delen van hetzelfde geloof."
+          }
+        ]
+      },
+      "id": "2petrus.1.1",
+      "title": "Schrijver, lezers, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Toch zijn er onder het volk ook valse profeten geweest. En zo zullen er onder u valse leraars komen, die heimelijk verderfelijke ketterijen invoeren. Zij zullen zich niet ontzien tot hun eigen schielijke ondergang de Heerser te verloochenen die hen heeft vrijgekocht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch zijn er onder het volk ook valse profeten geweest. En zo zullen er onder u valse leraars komen, die heimelijk verderfelijke ketterijen invoeren. Zij zullen zich niet ontzien tot hun eigen schielijke ondergang de Heerser te verloochenen die hen heeft vrijgekocht."
+          }
+        ]
+      },
+      "id": "2petrus.2.1",
+      "title": "Tegen de dwaalleraars",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Vrienden, dit is reeds de tweede brief die ik u schrijf. In mijn brieven probeer ik bij u een zuivere gezindheid levendig te houden",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, dit is reeds de tweede brief die ik u schrijf. In mijn brieven probeer ik bij u een zuivere gezindheid levendig te houden"
+          }
+        ]
+      },
+      "id": "2petrus.3.1",
+      "title": "De wederkomst",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Genade voor u en vrede in rijke overvloed door de kennis van God en van Jezus, onze Heer!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade voor u en vrede in rijke overvloed door de kennis van God en van Jezus, onze Heer!"
+          }
+        ]
+      },
+      "id": "2petrus.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Velen zullen hun losbandigheid navolgen en de weg van de waarheid zal door hun toedoen in discrediet raken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Velen zullen hun losbandigheid navolgen en de weg van de waarheid zal door hun toedoen in discrediet raken."
+          }
+        ]
+      },
+      "id": "2petrus.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "door u te herinneren aan de voorspellingen van de heilige profeten en aan het gebod van onze Heer en Heiland, dat u door uw apostelen is overgeleverd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "door u te herinneren aan de voorspellingen van de heilige profeten en aan het gebod van onze Heer en Heiland, dat u door uw apostelen is overgeleverd."
+          }
+        ]
+      },
+      "id": "2petrus.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Want al wat voor leven en vroomheid nodig is, heeft zijn goddelijke kracht ons geschonken met de kennis van Hem die ons geroepen heeft door eigen heerlijkheid en wondermacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want al wat voor leven en vroomheid nodig is, heeft zijn goddelijke kracht ons geschonken met de kennis van Hem die ons geroepen heeft door eigen heerlijkheid en wondermacht."
+          }
+        ]
+      },
+      "id": "2petrus.1.3",
+      "title": "Gods gave en de taak van de christen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "In hun hebzucht zullen zij u met verzonnen verhalen geld uit de zak kloppen. Maar hun vonnis is allang geveld, hun ondergang zal niet op zich laten wachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hun hebzucht zullen zij u met verzonnen verhalen geld uit de zak kloppen. Maar hun vonnis is allang geveld, hun ondergang zal niet op zich laten wachten."
+          }
+        ]
+      },
+      "id": "2petrus.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Gij moet vooral weten dat er in de laatste dagen spotters zullen komen, mensen die leven volgens hun eigen begeerten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij moet vooral weten dat er in de laatste dagen spotters zullen komen, mensen die leven volgens hun eigen begeerten,"
+          }
+        ]
+      },
+      "id": "2petrus.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Door die heerlijkheid en macht heeft Hij verheven, onschatbare beloften voor ons gerealiseerd, opdat gij zoudt ontkomen aan het bederf van de zelfzucht dat de wereld heeft aangetast, en deel krijgen aan Gods eigen wezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door die heerlijkheid en macht heeft Hij verheven, onschatbare beloften voor ons gerealiseerd, opdat gij zoudt ontkomen aan het bederf van de zelfzucht dat de wereld heeft aangetast, en deel krijgen aan Gods eigen wezen."
+          }
+        ]
+      },
+      "id": "2petrus.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Want ook de engelen die zondigden heeft God niet gespaard, maar naar de onderwereld verwezen en in duistere holen opgesloten, in afwachting van het Gericht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ook de engelen die zondigden heeft God niet gespaard, maar naar de onderwereld verwezen en in duistere holen opgesloten, in afwachting van het Gericht."
+          }
+        ]
+      },
+      "id": "2petrus.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "en die honend vragen: “Waar blijft nu de wederkomst die Hij heeft toegezegd? Onze vaderen zijn al gestorven, maar alles blijft zoals het van het begin der schepping geweest is.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en die honend vragen: “Waar blijft nu de wederkomst die Hij heeft toegezegd? Onze vaderen zijn al gestorven, maar alles blijft zoals het van het begin der schepping geweest is.”"
+          }
+        ]
+      },
+      "id": "2petrus.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Doet daarom uw uiterste best om uw geloof te voeden met deugd, de deugd met kennis,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doet daarom uw uiterste best om uw geloof te voeden met deugd, de deugd met kennis,"
+          }
+        ]
+      },
+      "id": "2petrus.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Evenmin heeft Hij de wereld van de voortijd gespaard; Hij heeft alleen Noach, de heraut der gerechtigheid, met zeven anderen behoed, toen Hij de zondvloed bracht over die wereld van goddelozen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evenmin heeft Hij de wereld van de voortijd gespaard; Hij heeft alleen Noach, de heraut der gerechtigheid, met zeven anderen behoed, toen Hij de zondvloed bracht over die wereld van goddelozen."
+          }
+        ]
+      },
+      "id": "2petrus.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Zij gaan met opzet voorbij aan het feit dat er lang geleden een hemel en een aarde bestonden, door Gods woord gevormd uit water en door middel van water,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij gaan met opzet voorbij aan het feit dat er lang geleden een hemel en een aarde bestonden, door Gods woord gevormd uit water en door middel van water,"
+          }
+        ]
+      },
+      "id": "2petrus.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "de kennis met zelfbeheersing, de zelfbeheersing met standvastigheid, de standvastigheid met godsvrucht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de kennis met zelfbeheersing, de zelfbeheersing met standvastigheid, de standvastigheid met godsvrucht,"
+          }
+        ]
+      },
+      "id": "2petrus.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Ook de steden Sodom en Gomorra heeft Hij ten ondergang gedoemd en met as overdekt als een afschrikwekkend voorbeeld voor de goddelozen van latere tijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de steden Sodom en Gomorra heeft Hij ten ondergang gedoemd en met as overdekt als een afschrikwekkend voorbeeld voor de goddelozen van latere tijden."
+          }
+        ]
+      },
+      "id": "2petrus.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "en dat die toenmalige wereld vergaan is, verzwolgen door het water.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en dat die toenmalige wereld vergaan is, verzwolgen door het water."
+          }
+        ]
+      },
+      "id": "2petrus.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "de godsvrucht met broederliefde, en de broederlijke genegenheid met liefde voor allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de godsvrucht met broederliefde, en de broederlijke genegenheid met liefde voor allen."
+          }
+        ]
+      },
+      "id": "2petrus.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Maar Hij heeft Lot gered, de rechtvaardige, die zwaar te lijden had onder het schandelijk gedrag van die onverlaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Hij heeft Lot gered, de rechtvaardige, die zwaar te lijden had onder het schandelijk gedrag van die onverlaten."
+          }
+        ]
+      },
+      "id": "2petrus.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Maar de hemel en de aarde van nu zijn door hetzelfde woord opgespaard voor het vuur en bewaard voor de dag van het oordeel en de ondergang der goddelozen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de hemel en de aarde van nu zijn door hetzelfde woord opgespaard voor het vuur en bewaard voor de dag van het oordeel en de ondergang der goddelozen."
+          }
+        ]
+      },
+      "id": "2petrus.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Als gij deze gaven in overvloed bezit, zullen zij uw kennis van onze Heer Jezus Christus werkzaam en vruchtbaar maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij deze gaven in overvloed bezit, zullen zij uw kennis van onze Heer Jezus Christus werkzaam en vruchtbaar maken."
+          }
+        ]
+      },
+      "id": "2petrus.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Wonend in hun midden, dag aan dag zulke misdaden te moeten aanschouwen en aanhoren, was een foltering voor zijn rechtschapen gemoed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wonend in hun midden, dag aan dag zulke misdaden te moeten aanschouwen en aanhoren, was een foltering voor zijn rechtschapen gemoed."
+          }
+        ]
+      },
+      "id": "2petrus.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Een ding echter, vrienden, mag u niet ontgaan: Voor de Heer is een dag als duizend jaren en duizend jaren als een dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een ding echter, vrienden, mag u niet ontgaan: Voor de Heer is een dag als duizend jaren en duizend jaren als een dag."
+          }
+        ]
+      },
+      "id": "2petrus.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Wie ze niet bezit, is een kortzichtige, een blinde; hij vergeet dat hij van zijn vroegere zonden gereinigd is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie ze niet bezit, is een kortzichtige, een blinde; hij vergeet dat hij van zijn vroegere zonden gereinigd is."
+          }
+        ]
+      },
+      "id": "2petrus.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De Heer weet dus zowel de vromen uit de beproeving te redden alsook de boosdoeners ter kastijding te bewaren voor de dag van het oordeel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer weet dus zowel de vromen uit de beproeving te redden alsook de boosdoeners ter kastijding te bewaren voor de dag van het oordeel,"
+          }
+        ]
+      },
+      "id": "2petrus.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "De Heer talmt niet met zijn belofte, zoals sommigen menen, maar Hij heeft geduld met u, daar Hij wil dat allen tot inkeer komen en niemand verloren gaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer talmt niet met zijn belofte, zoals sommigen menen, maar Hij heeft geduld met u, daar Hij wil dat allen tot inkeer komen en niemand verloren gaat."
+          }
+        ]
+      },
+      "id": "2petrus.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Daarom, broeders, doet uw best om steeds meer aan Gods roeping en uitverkiezing te beantwoorden. Als ge zo handelt, zult ge nooit ten val komen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, broeders, doet uw best om steeds meer aan Gods roeping en uitverkiezing te beantwoorden. Als ge zo handelt, zult ge nooit ten val komen,"
+          }
+        ]
+      },
+      "id": "2petrus.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "vooral hen die, door schandelijke begeerte gedreven, zich overgeven aan wellust en de Heerschappij verachten. Vermetel en verwaand schromen zij niet de hemelse machten te beschimpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "vooral hen die, door schandelijke begeerte gedreven, zich overgeven aan wellust en de Heerschappij verachten. Vermetel en verwaand schromen zij niet de hemelse machten te beschimpen."
+          }
+        ]
+      },
+      "id": "2petrus.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Maar de dag des Heren zal komen als een dief. Dan zullen de hemelen dreunend vergaan en de elementen door vuur worden verteerd; en de aarde en de daden op aarde verricht zullen zich bevinden (voor Gods oordeel).",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de dag des Heren zal komen als een dief. Dan zullen de hemelen dreunend vergaan en de elementen door vuur worden verteerd; en de aarde en de daden op aarde verricht zullen zich bevinden (voor Gods oordeel)."
+          }
+        ]
+      },
+      "id": "2petrus.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "en wordt u royaal toegang verleend tot het eeuwige koninkrijk van onze Heer en Heiland Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en wordt u royaal toegang verleend tot het eeuwige koninkrijk van onze Heer en Heiland Jezus Christus."
+          }
+        ]
+      },
+      "id": "2petrus.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "terwijl engelen, hun meerderen in sterkte en kracht, geen smadelijk oordeel tegen deze bij de Heer durven inbrengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "terwijl engelen, hun meerderen in sterkte en kracht, geen smadelijk oordeel tegen deze bij de Heer durven inbrengen."
+          }
+        ]
+      },
+      "id": "2petrus.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Wanneer alles zo vergaat, hoe moet gij dan uitmunten door een heilig leven en innige vroomheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer alles zo vergaat, hoe moet gij dan uitmunten door een heilig leven en innige vroomheid,"
+          }
+        ]
+      },
+      "id": "2petrus.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Ik zal dan ook niet ophouden u deze dingen in herinnering te brengen, ofschoon gij ze weet en vaststaat in de waarheid die gij hebt aanvaard.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal dan ook niet ophouden u deze dingen in herinnering te brengen, ofschoon gij ze weet en vaststaat in de waarheid die gij hebt aanvaard."
+          }
+        ]
+      },
+      "id": "2petrus.1.12",
+      "title": "Het getuigenis van apostelen en profeten",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Maar zij, gelijkend op redeloze dieren, van nature bestemd om gevangen en gedood te worden, zij beschimpen wat zij niet kennen; en als dieren zullen zij ook omkomen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij, gelijkend op redeloze dieren, van nature bestemd om gevangen en gedood te worden, zij beschimpen wat zij niet kennen; en als dieren zullen zij ook omkomen,"
+          }
+        ]
+      },
+      "id": "2petrus.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "de komst verwachtend en verhaastend van de dag Gods, waardoor de hemelen in vlammen zullen opgaan en de elementen wegsmelten in de vuurgloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de komst verwachtend en verhaastend van de dag Gods, waardoor de hemelen in vlammen zullen opgaan en de elementen wegsmelten in de vuurgloed."
+          }
+        ]
+      },
+      "id": "2petrus.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Maar zolang ik nog in dit lichaam woon, voel ik me verplicht uw geheugen op te frissen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zolang ik nog in dit lichaam woon, voel ik me verplicht uw geheugen op te frissen."
+          }
+        ]
+      },
+      "id": "2petrus.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "beroofd van hun oneerlijke winst. Het is hun lust op klaarlichte dag te zwelgen; eerloze, geschandvlekte mensen zijn het, die bandeloos feesten en zich te goed doen in uw gezelschap.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "beroofd van hun oneerlijke winst. Het is hun lust op klaarlichte dag te zwelgen; eerloze, geschandvlekte mensen zijn het, die bandeloos feesten en zich te goed doen in uw gezelschap."
+          }
+        ]
+      },
+      "id": "2petrus.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Maar volgens zijn belofte verwachten wij nieuwe hemelen en een nieuwe aarde, waar gerechtigheid zal wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar volgens zijn belofte verwachten wij nieuwe hemelen en een nieuwe aarde, waar gerechtigheid zal wonen."
+          }
+        ]
+      },
+      "id": "2petrus.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Ik weet dat ik dit lichaam weldra zal verlaten; onze Heer Jezus Christus heeft het mij gezegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik weet dat ik dit lichaam weldra zal verlaten; onze Heer Jezus Christus heeft het mij gezegd."
+          }
+        ]
+      },
+      "id": "2petrus.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Hun ogen zijn vol overspel en onverzadigbaar van zonde. Zij verlokken onstandvastige zielen. Dit vervloekt geslacht, volleerd in hebzucht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun ogen zijn vol overspel en onverzadigbaar van zonde. Zij verlokken onstandvastige zielen. Dit vervloekt geslacht, volleerd in hebzucht,"
+          }
+        ]
+      },
+      "id": "2petrus.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "In deze verwachting, geliefden, moet gij u beijveren onbevlekt en onberispelijk voor Hem te verschijnen, in vrede met God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In deze verwachting, geliefden, moet gij u beijveren onbevlekt en onberispelijk voor Hem te verschijnen, in vrede met God."
+          }
+        ]
+      },
+      "id": "2petrus.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Maar ik zal ervoor zorgen, dat gij ook na mijn heengaan u telkens opnieuw dit alles voor de geest kunt brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik zal ervoor zorgen, dat gij ook na mijn heengaan u telkens opnieuw dit alles voor de geest kunt brengen."
+          }
+        ]
+      },
+      "id": "2petrus.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "heeft de rechte weg verlaten; zij zijn afgedwaald en het pad opgegaan van Bileam, de zoon van Beor, die het loon der ongerechtigheid liefhad,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heeft de rechte weg verlaten; zij zijn afgedwaald en het pad opgegaan van Bileam, de zoon van Beor, die het loon der ongerechtigheid liefhad,"
+          }
+        ]
+      },
+      "id": "2petrus.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "En beschouwt het uitstel dat de Heer u in zijn lankmoedigheid gunt, als een genade ten heil. In deze geest heeft ook onze geliefde broeder Paulus u geschreven met de hem verleende wijsheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En beschouwt het uitstel dat de Heer u in zijn lankmoedigheid gunt, als een genade ten heil. In deze geest heeft ook onze geliefde broeder Paulus u geschreven met de hem verleende wijsheid,"
+          }
+        ]
+      },
+      "id": "2petrus.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Toen wij u de macht en de komst van onze Heer Jezus Christus verkondigden, beriepen wij ons niet op vernuftig bedachte mythen, maar wij spraken als ooggetuigen van zijn luister.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen wij u de macht en de komst van onze Heer Jezus Christus verkondigden, beriepen wij ons niet op vernuftig bedachte mythen, maar wij spraken als ooggetuigen van zijn luister."
+          }
+        ]
+      },
+      "id": "2petrus.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "maar dan ook voor zijn misdrijf een terechtwijzing ontving; en de waanzin van de profeet moest worden gestuit door een stom lastdier dat begon te spreken als een mens!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar dan ook voor zijn misdrijf een terechtwijzing ontving; en de waanzin van de profeet moest worden gestuit door een stom lastdier dat begon te spreken als een mens!"
+          }
+        ]
+      },
+      "id": "2petrus.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "evenals in alle brieven, wanneer hij over deze dingen spreekt. Daarin komt het een en ander voor dat moeilijk is, en waarvan de betekenis door onwetende en onstandvastige lieden tot hun eigen verderf wordt verdraaid; hetzelfde doen zij trouwens met de overige geschriften.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "evenals in alle brieven, wanneer hij over deze dingen spreekt. Daarin komt het een en ander voor dat moeilijk is, en waarvan de betekenis door onwetende en onstandvastige lieden tot hun eigen verderf wordt verdraaid; hetzelfde doen zij trouwens met de overige geschriften."
+          }
+        ]
+      },
+      "id": "2petrus.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Want Hij heeft van God de Vader eer en verheerlijking ontvangen, toen door de verheven Majesteit dit woord tot Hem gericht werd: “Deze is mijn geliefde Zoon in wie Ik mijn welbehagen heb.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij heeft van God de Vader eer en verheerlijking ontvangen, toen door de verheven Majesteit dit woord tot Hem gericht werd: “Deze is mijn geliefde Zoon in wie Ik mijn welbehagen heb.”"
+          }
+        ]
+      },
+      "id": "2petrus.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Zij zijn bronnen zonder water, wolken door de storm voortgejaagd; de diepste duisternis is voor hen weggelegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn bronnen zonder water, wolken door de storm voortgejaagd; de diepste duisternis is voor hen weggelegd."
+          }
+        ]
+      },
+      "id": "2petrus.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Vrienden, gij zijt dus gewaarschuwd. Past op dat gij u niet laat meeslepen op de dwaalwegen van die goddelozen; geeft uw standpunt niet prijs.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, gij zijt dus gewaarschuwd. Past op dat gij u niet laat meeslepen op de dwaalwegen van die goddelozen; geeft uw standpunt niet prijs."
+          }
+        ]
+      },
+      "id": "2petrus.3.17",
+      "title": "Slot",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "En deze stem hebben wijzelf uit de hemel horen klinken, toen wij met Hem waren op de heilige berg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En deze stem hebben wijzelf uit de hemel horen klinken, toen wij met Hem waren op de heilige berg."
+          }
+        ]
+      },
+      "id": "2petrus.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Met hun holle grootspraak en bandeloze wellust verlokken zij hen die nauwelijks begonnen zijn zich af te keren van de levenswijze der verdoolden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hun holle grootspraak en bandeloze wellust verlokken zij hen die nauwelijks begonnen zijn zich af te keren van de levenswijze der verdoolden."
+          }
+        ]
+      },
+      "id": "2petrus.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Neemt toe in de genade en de kennis van onze Heer en Heiland Jezus Christus. Hem zij de eer, nu en in eeuwigheid!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neemt toe in de genade en de kennis van onze Heer en Heiland Jezus Christus. Hem zij de eer, nu en in eeuwigheid!"
+          }
+        ]
+      },
+      "id": "2petrus.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Hierdoor kreeg voor ons het woord van de profeten nog meer gezag. Ook gij doet er wel aan daarop acht te geven: het is de lamp die licht verspreidt in een donkere ruimte tot het ogenblik dat de dag aanbreekt en de morgenster opgaat in uw hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierdoor kreeg voor ons het woord van de profeten nog meer gezag. Ook gij doet er wel aan daarop acht te geven: het is de lamp die licht verspreidt in een donkere ruimte tot het ogenblik dat de dag aanbreekt en de morgenster opgaat in uw hart."
+          }
+        ]
+      },
+      "id": "2petrus.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Zij spiegelen hun vrijheid voor, maar zijn zelf slaven van het bederf. Want een mens is slaaf van wat hem overmeestert:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij spiegelen hun vrijheid voor, maar zijn zelf slaven van het bederf. Want een mens is slaaf van wat hem overmeestert:"
+          }
+        ]
+      },
+      "id": "2petrus.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Bedenkt daarbij wel, dat geen profetie van de Schrift eigenmachtige uitleg toelaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bedenkt daarbij wel, dat geen profetie van de Schrift eigenmachtige uitleg toelaat."
+          }
+        ]
+      },
+      "id": "2petrus.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "toen zij de Heer en Heiland Jezus Christus leerden kennen, hebben zij zich afgewend van de schanddaden der wereld; maar als zij zich nu opnieuw daardoor laten verstrikken en overmeesteren, is hun laatste toestand erger dan de eerste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "toen zij de Heer en Heiland Jezus Christus leerden kennen, hebben zij zich afgewend van de schanddaden der wereld; maar als zij zich nu opnieuw daardoor laten verstrikken en overmeesteren, is hun laatste toestand erger dan de eerste."
+          }
+        ]
+      },
+      "id": "2petrus.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Want profetie is nooit voortgekomen uit menselijke aandrift; door de heilige Geest gedreven hebben mensen gesproken van Godswege.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want profetie is nooit voortgekomen uit menselijke aandrift; door de heilige Geest gedreven hebben mensen gesproken van Godswege."
+          }
+        ]
+      },
+      "id": "2petrus.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Het was beter voor hen geweest de weg der gerechtigheid nooit te hebben gekend dan na hem gekend te hebben de rug toe te keren aan het heilige, overgeleverde gebod.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het was beter voor hen geweest de weg der gerechtigheid nooit te hebben gekend dan na hem gekend te hebben de rug toe te keren aan het heilige, overgeleverde gebod."
+          }
+        ]
+      },
+      "id": "2petrus.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "In hen is het spreekwoord bewaarheid: “Een hond keert terug naar zijn eigen braaksel en een schoongewassen zeug naar de modderpoel.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hen is het spreekwoord bewaarheid: “Een hond keert terug naar zijn eigen braaksel en een schoongewassen zeug naar de modderpoel.”"
+          }
+        ]
+      },
+      "id": "2petrus.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": "filemon",
+  "name": "Filemon",
+  "chapters": 1,
+  "verseCount": 25,
+  "verses": [
+    {
+      "chapter": 0,
+      "verse": 1,
+      "text": "Van Paulus, gevangene van Christus Jezus, en onze broeder Tim&oacute;te&uuml;s, aan onze beminde medewerker Fil&eacute;mon,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van Paulus, gevangene van Christus Jezus, en onze broeder Timóteüs, aan onze beminde medewerker Filémon,"
+          }
+        ]
+      },
+      "id": "filemon.0.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 2,
+      "text": "Appia, onze zuster, Archippus, onze wapenbroeder, en de gemeente die bij u aan huis samenkomt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Appia, onze zuster, Archippus, onze wapenbroeder, en de gemeente die bij u aan huis samenkomt."
+          }
+        ]
+      },
+      "id": "filemon.0.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 3,
+      "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!"
+          }
+        ]
+      },
+      "id": "filemon.0.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 4,
+      "text": "Ik dank mijn God altijd, telkens als ik u in mijn gebeden gedenk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik dank mijn God altijd, telkens als ik u in mijn gebeden gedenk,"
+          }
+        ]
+      },
+      "id": "filemon.0.4",
+      "title": "Dankzegging en gebed",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 5,
+      "text": "want ik hoor van de liefde en de trouw die gij de Heer Jezus en alle heiligen betoont.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want ik hoor van de liefde en de trouw die gij de Heer Jezus en alle heiligen betoont."
+          }
+        ]
+      },
+      "id": "filemon.0.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 6,
+      "text": "Moge het geloof waaraan gij deel hebt werkzaam worden door het inzicht in alle goeds dat wij voor Christus kunnen doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge het geloof waaraan gij deel hebt werkzaam worden door het inzicht in alle goeds dat wij voor Christus kunnen doen."
+          }
+        ]
+      },
+      "id": "filemon.0.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 7,
+      "text": "Veel vreugde en troost, broeder, heb ik al ondervonden van de liefde waarmee gij het hart van de christenen verkwikt hebt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Veel vreugde en troost, broeder, heb ik al ondervonden van de liefde waarmee gij het hart van de christenen verkwikt hebt."
+          }
+        ]
+      },
+      "id": "filemon.0.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 8,
+      "text": "Daarom, al heb ik ook in Christus alle recht u op uw plicht te wijzen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, al heb ik ook in Christus alle recht u op uw plicht te wijzen,"
+          }
+        ]
+      },
+      "id": "filemon.0.8",
+      "title": "Pleidooi voor Onésimus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 9,
+      "text": "toch geef ik de voorkeur aan een verzoek en aan een beroep op uw liefde. Paulus is het die u schrijft, een oud man, nu bovendien een gevangene van Christus Jezus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "toch geef ik de voorkeur aan een verzoek en aan een beroep op uw liefde. Paulus is het die u schrijft, een oud man, nu bovendien een gevangene van Christus Jezus,"
+          }
+        ]
+      },
+      "id": "filemon.0.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 10,
+      "text": "en mijn verzoek geldt het kind dat ik hier in de gevangenis heb verwekt. Ik bedoel Onesimus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en mijn verzoek geldt het kind dat ik hier in de gevangenis heb verwekt. Ik bedoel Onesimus,"
+          }
+        ]
+      },
+      "id": "filemon.0.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 11,
+      "text": "die u in het verleden bijzonder weinig voordeel heeft opgeleverd, maar die nu terdege nuttig is, zowel voor u als voor mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die u in het verleden bijzonder weinig voordeel heeft opgeleverd, maar die nu terdege nuttig is, zowel voor u als voor mij."
+          }
+        ]
+      },
+      "id": "filemon.0.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 12,
+      "text": "Ik stuur hem terug naar u en met hem heel mijn liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik stuur hem terug naar u en met hem heel mijn liefde."
+          }
+        ]
+      },
+      "id": "filemon.0.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 13,
+      "text": "Gaarne had ik hem hier gehouden, als uw plaatsvervanger, om voor mij te zorgen in mijn gevangenschap voor het evangelie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gaarne had ik hem hier gehouden, als uw plaatsvervanger, om voor mij te zorgen in mijn gevangenschap voor het evangelie."
+          }
+        ]
+      },
+      "id": "filemon.0.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 14,
+      "text": "Maar ik wil niets doen zonder uw instemming, ik wil niets afdwingen, uw goedheid moet zich spontaan kunnen uiten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik wil niets doen zonder uw instemming, ik wil niets afdwingen, uw goedheid moet zich spontaan kunnen uiten!"
+          }
+        ]
+      },
+      "id": "filemon.0.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 15,
+      "text": "Misschien was dat wel de reden waarom hij een tijd lang bij u is weg geweest: dat ge hem voorgoed terug zoudt krijgen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Misschien was dat wel de reden waarom hij een tijd lang bij u is weg geweest: dat ge hem voorgoed terug zoudt krijgen,"
+          }
+        ]
+      },
+      "id": "filemon.0.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 16,
+      "text": "nu niet meer als slaaf, maar als veel meer dan een slaaf, als een geliefde broeder. Dat is hij voor mij al helemaal, hoeveel meer dan voor u, als mens en als christen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "nu niet meer als slaaf, maar als veel meer dan een slaaf, als een geliefde broeder. Dat is hij voor mij al helemaal, hoeveel meer dan voor u, als mens en als christen."
+          }
+        ]
+      },
+      "id": "filemon.0.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 17,
+      "text": "Als gij u dus met mij verbonden voelt, heet hem dan welkom zoals ge het mij zoudt doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij u dus met mij verbonden voelt, heet hem dan welkom zoals ge het mij zoudt doen."
+          }
+        ]
+      },
+      "id": "filemon.0.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 18,
+      "text": "En mocht hij u schade hebben berokkend of iets schuldig zijn, zet het maar op mijn rekening.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En mocht hij u schade hebben berokkend of iets schuldig zijn, zet het maar op mijn rekening."
+          }
+        ]
+      },
+      "id": "filemon.0.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 19,
+      "text": "Hier is mijn handtekening: Paulus, ik zal betalen... Of zullen we zeggen: zet het op uw eigen rekening? Ge zijt me toch al uzelf schuldig!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier is mijn handtekening: Paulus, ik zal betalen... Of zullen we zeggen: zet het op uw eigen rekening? Ge zijt me toch al uzelf schuldig!"
+          }
+        ]
+      },
+      "id": "filemon.0.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 20,
+      "text": "Kom broeder, laat me een beetje van u profiteren, ter wille van de Heer. Stel om Christus ' wil mijn hart gerust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom broeder, laat me een beetje van u profiteren, ter wille van de Heer. Stel om Christus ' wil mijn hart gerust."
+          }
+        ]
+      },
+      "id": "filemon.0.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 21,
+      "text": "Ik schrijf met alle vertrouwen op uw bereidwilligheid; ik weet zeker dat gij nog meer zult doen dan ik vraag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik schrijf met alle vertrouwen op uw bereidwilligheid; ik weet zeker dat gij nog meer zult doen dan ik vraag."
+          }
+        ]
+      },
+      "id": "filemon.0.21",
+      "title": "Slot, groeten en zegenbede",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 22,
+      "text": "Maak meteen ook voor mij logies klaar, want ik heb goede hoop dat ik dank zij u aller gebeden aan u zal worden teruggegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maak meteen ook voor mij logies klaar, want ik heb goede hoop dat ik dank zij u aller gebeden aan u zal worden teruggegeven."
+          }
+        ]
+      },
+      "id": "filemon.0.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 23,
+      "text": "U groet Epafras, mijn medegevangene in Christus Jezus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U groet Epafras, mijn medegevangene in Christus Jezus,"
+          }
+        ]
+      },
+      "id": "filemon.0.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 24,
+      "text": "en Marcus, Aristarchus, Demas en Lucas, allen medewerkers van mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en Marcus, Aristarchus, Demas en Lucas, allen medewerkers van mij."
+          }
+        ]
+      },
+      "id": "filemon.0.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 25,
+      "text": "De genade van de Heer Jezus Christus zij met uw geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade van de Heer Jezus Christus zij met uw geest."
+          }
+        ]
+      },
+      "id": "filemon.0.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

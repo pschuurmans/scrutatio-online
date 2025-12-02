@@ -1,0 +1,1799 @@
+{
+  "id": "1johannes",
+  "name": "1 Johannes",
+  "chapters": 5,
+  "verseCount": 105,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "HET bestond vanaf het begin - we hebben het gehoord en met eigen ogen gezien; we hebben het aanschouwd en onze handen hebben het aangeraakt - d&aacute;&aacute;rover spreken wij, over het woord dat leven is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "HET bestond vanaf het begin - we hebben het gehoord en met eigen ogen gezien; we hebben het aanschouwd en onze handen hebben het aangeraakt - dáárover spreken wij, over het woord dat leven is."
+          }
+        ]
+      },
+      "id": "1johannes.1.1",
+      "title": "Proloog",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Kinderen, ik schrijf u met de bedoeling dat gij niet zoudt zondigen. Maar ook al zou iemand zonde bedrijven: we hebben een voorspreker bij de Vader, Jezus Christus, die geheel zondeloos is,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, ik schrijf u met de bedoeling dat gij niet zoudt zondigen. Maar ook al zou iemand zonde bedrijven: we hebben een voorspreker bij de Vader, Jezus Christus, die geheel zondeloos is,"
+          }
+        ]
+      },
+      "id": "1johannes.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Hoe groot is de liefde die de Vader ons betoond heeft! Wij worden kinderen van God genoemd, en we zijn het ook. De wereld begrijpt ons niet, en ze kent ons niet, omdat zij Hem niet heeft erkend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe groot is de liefde die de Vader ons betoond heeft! Wij worden kinderen van God genoemd, en we zijn het ook. De wereld begrijpt ons niet, en ze kent ons niet, omdat zij Hem niet heeft erkend."
+          }
+        ]
+      },
+      "id": "1johannes.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Vrienden, vertrouwt niet elke geest. onderzoekt de geesten, of ze wel van God komen, want onder hen die tot de wereld zijn uitgegaan, zijn veel valse profeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, vertrouwt niet elke geest. onderzoekt de geesten, of ze wel van God komen, want onder hen die tot de wereld zijn uitgegaan, zijn veel valse profeten."
+          }
+        ]
+      },
+      "id": "1johannes.4.1",
+      "title": "Hier scheiden zich de geesten",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Iedereen die gelooft dat Jezus de verlosser is, is een kind van God. Welnu, wie de vader liefheeft bemint ook het kind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iedereen die gelooft dat Jezus de verlosser is, is een kind van God. Welnu, wie de vader liefheeft bemint ook het kind."
+          }
+        ]
+      },
+      "id": "1johannes.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Want het leven is verschenen; het eeuwige leven dat bij de Vader was, heeft zich aan ons geopenbaard, wij hebben het gezien, wij getuigen ervan, wij maken het u bekend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want het leven is verschenen; het eeuwige leven dat bij de Vader was, heeft zich aan ons geopenbaard, wij hebben het gezien, wij getuigen ervan, wij maken het u bekend."
+          }
+        ]
+      },
+      "id": "1johannes.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "die al onze zonden goedmaakt, en niet alleen die van ons maar die van de hele wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die al onze zonden goedmaakt, en niet alleen die van ons maar die van de hele wereld."
+          }
+        ]
+      },
+      "id": "1johannes.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Vrienden, nu reeds zijn wij kinderen van God, en wat wij zullen zijn is nog niet geopenbaard; maar wij weten dat wanneer het geopenbaard wordt, wij aan Hem gelijk zullen zijn, omdat wij Hem zullen zien zoals Hij is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, nu reeds zijn wij kinderen van God, en wat wij zullen zijn is nog niet geopenbaard; maar wij weten dat wanneer het geopenbaard wordt, wij aan Hem gelijk zullen zijn, omdat wij Hem zullen zien zoals Hij is."
+          }
+        ]
+      },
+      "id": "1johannes.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Hieraan onderkent gij de Geest van God: iedere geest die belijdt dat Jezus Christus werkelijk mens is geworden, is van God;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hieraan onderkent gij de Geest van God: iedere geest die belijdt dat Jezus Christus werkelijk mens is geworden, is van God;"
+          }
+        ]
+      },
+      "id": "1johannes.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Willen wij God liefhebben en zijn geboden onderhouden, dan moeten wij ook Gods kinderen liefhebben. Dat is onze maatstaf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Willen wij God liefhebben en zijn geboden onderhouden, dan moeten wij ook Gods kinderen liefhebben. Dat is onze maatstaf."
+          }
+        ]
+      },
+      "id": "1johannes.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Wat wij gezien en gehoord hebben, dat verkondigen wij ook aan u, opdat gij gemeenschap moogt hebben met ons. En onze gemeenschap is er een met de Vader en met Jezus Christus, zijn Zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat wij gezien en gehoord hebben, dat verkondigen wij ook aan u, opdat gij gemeenschap moogt hebben met ons. En onze gemeenschap is er een met de Vader en met Jezus Christus, zijn Zoon."
+          }
+        ]
+      },
+      "id": "1johannes.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Hoe weten wij dat wij God kennen? Er is maar een bewijs: dat we ons houden aan zijn geboden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe weten wij dat wij God kennen? Er is maar een bewijs: dat we ons houden aan zijn geboden."
+          }
+        ]
+      },
+      "id": "1johannes.2.3",
+      "title": "De liefde voert tot God",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Wie zulk een heil van God verwacht, maakt zich rein, zoals Christus rein is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zulk een heil van God verwacht, maakt zich rein, zoals Christus rein is."
+          }
+        ]
+      },
+      "id": "1johannes.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "maar iedere geest, die Jezus neerhaalt, is niet van God, en dat is de eigenlijke ‘antichrist'. Men heeft u gezegd dat hij komen zou, maar hij is reeds in de wereld, nu al.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar iedere geest, die Jezus neerhaalt, is niet van God, en dat is de eigenlijke ‘antichrist'. Men heeft u gezegd dat hij komen zou, maar hij is reeds in de wereld, nu al."
+          }
+        ]
+      },
+      "id": "1johannes.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "God beminnen wil zeggen zijn geboden onderhouden, en zijn geboden zijn niet moeilijk te onderhouden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God beminnen wil zeggen zijn geboden onderhouden, en zijn geboden zijn niet moeilijk te onderhouden,"
+          }
+        ]
+      },
+      "id": "1johannes.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "En wij schrijven dit om ons aller vreugde volkomen te maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wij schrijven dit om ons aller vreugde volkomen te maken."
+          }
+        ]
+      },
+      "id": "1johannes.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Wie zegt dat hij Hem kent, maar zich niet houdt aan zijn geboden, is een leugenaar; in zo iemand woont de waarheid niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zegt dat hij Hem kent, maar zich niet houdt aan zijn geboden, is een leugenaar; in zo iemand woont de waarheid niet."
+          }
+        ]
+      },
+      "id": "1johannes.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Wie zonde doet bedrijft boosheid, want de zonde is de boosheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zonde doet bedrijft boosheid, want de zonde is de boosheid."
+          }
+        ]
+      },
+      "id": "1johannes.3.4",
+      "title": "De kinderen van God zondigen niet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Kinderen, gij hoort bij God, en gij zijt sterker dan de leugenprofeten, want Hij die u bezielt is machtiger dan hij die de wereld beheert.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, gij hoort bij God, en gij zijt sterker dan de leugenprofeten, want Hij die u bezielt is machtiger dan hij die de wereld beheert."
+          }
+        ]
+      },
+      "id": "1johannes.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "want ieder die uit God geboren is, overwint de wereld. En het wapen waarmee wij de wereld overwinnen is geen ander dan ons geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want ieder die uit God geboren is, overwint de wereld. En het wapen waarmee wij de wereld overwinnen is geen ander dan ons geloof."
+          }
+        ]
+      },
+      "id": "1johannes.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Dit is de boodschap die wij van Hem gehoord hebben en aan u doorgeven: God is licht, er is in Hem geen spoor van duisternis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is de boodschap die wij van Hem gehoord hebben en aan u doorgeven: God is licht, er is in Hem geen spoor van duisternis."
+          }
+        ]
+      },
+      "id": "1johannes.1.5",
+      "title": "De zonde scheidt van God",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Maar in een mens die Gods woord bewaart, heeft zijn liefde werkelijk haar volmaaktheid bereikt; dan weten we zeker dat we ‘in Hem’ zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar in een mens die Gods woord bewaart, heeft zijn liefde werkelijk haar volmaaktheid bereikt; dan weten we zeker dat we ‘in Hem’ zijn."
+          }
+        ]
+      },
+      "id": "1johannes.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "En gij weet dat Christus verschenen is om de zonden weg te nemen, en er is in Hem geen zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij weet dat Christus verschenen is om de zonden weg te nemen, en er is in Hem geen zonde."
+          }
+        ]
+      },
+      "id": "1johannes.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Zij horen bij de wereld, daarom ontlenen zij hun leer ook aan de wereld en luistert de wereld naar hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij horen bij de wereld, daarom ontlenen zij hun leer ook aan de wereld en luistert de wereld naar hen."
+          }
+        ]
+      },
+      "id": "1johannes.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Niemand kan de wereld overwinnen dan hij die gelooft dat Jezus de Zoon van God is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand kan de wereld overwinnen dan hij die gelooft dat Jezus de Zoon van God is."
+          }
+        ]
+      },
+      "id": "1johannes.5.5",
+      "title": "In Jezus geloven is leven",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Als wij zeggen dat wij gemeenschap met Hem hebben, terwijl onze wegen duister zijn, liegen wij met woord en met daad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij zeggen dat wij gemeenschap met Hem hebben, terwijl onze wegen duister zijn, liegen wij met woord en met daad."
+          }
+        ]
+      },
+      "id": "1johannes.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Wie aanspraak maakt op verbondenheid met God, moet leven juist zoals Christus geleefd heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie aanspraak maakt op verbondenheid met God, moet leven juist zoals Christus geleefd heeft."
+          }
+        ]
+      },
+      "id": "1johannes.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Wie in Hem blijft zondigt niet; de zondaar heeft Hem niet gezien en kent Hem niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie in Hem blijft zondigt niet; de zondaar heeft Hem niet gezien en kent Hem niet."
+          }
+        ]
+      },
+      "id": "1johannes.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Maar wij horen bij God, en wie God werkelijk kent luistert naar ons. Wie niet van God is weigert naar ons te luisteren. Zo onderscheiden wij de geest der waarheid van de geest der dwaling.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij horen bij God, en wie God werkelijk kent luistert naar ons. Wie niet van God is weigert naar ons te luisteren. Zo onderscheiden wij de geest der waarheid van de geest der dwaling."
+          }
+        ]
+      },
+      "id": "1johannes.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Hij is het die gekomen is met water en bloed, Jezus Christus. Hij is gekomen niet door water alleen, maar door water en door bloed. De Geest betuigt het, omdat de Geest de waarheid is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is het die gekomen is met water en bloed, Jezus Christus. Hij is gekomen niet door water alleen, maar door water en door bloed. De Geest betuigt het, omdat de Geest de waarheid is."
+          }
+        ]
+      },
+      "id": "1johannes.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Maar als wij wandelen in het licht &nbsp;- zoals Hij zelf is in het licht - dan hebben wij gemeenschap met elkaar en het bloed van zijn Zoon Jezus reinigt ons van elke zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als wij wandelen in het licht  - zoals Hij zelf is in het licht - dan hebben wij gemeenschap met elkaar en het bloed van zijn Zoon Jezus reinigt ons van elke zonde."
+          }
+        ]
+      },
+      "id": "1johannes.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Vrienden, ik leg u geen nieuw gebod op. Het is het oude gebod dat gij altijd gehad hebt; het is de boodschap die gij vanaf het begin hebt gehoord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, ik leg u geen nieuw gebod op. Het is het oude gebod dat gij altijd gehad hebt; het is de boodschap die gij vanaf het begin hebt gehoord."
+          }
+        ]
+      },
+      "id": "1johannes.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Kinderen, laat u niet misleiden: wie het goede doet is heilig zoals Hij;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, laat u niet misleiden: wie het goede doet is heilig zoals Hij;"
+          }
+        ]
+      },
+      "id": "1johannes.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Vrienden, laten wij elkander liefhebben, want de liefde komt van God. Iedereen die liefheeft is een kind van God, en kent God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, laten wij elkander liefhebben, want de liefde komt van God. Iedereen die liefheeft is een kind van God, en kent God."
+          }
+        ]
+      },
+      "id": "1johannes.4.7",
+      "title": "Nogmaals de liefde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Want er zijn drie getuigen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want er zijn drie getuigen,"
+          }
+        ]
+      },
+      "id": "1johannes.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Als wij beweren zonder zonde te zijn, bedriegen wij onszelf en woont de waarheid niet in ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij beweren zonder zonde te zijn, bedriegen wij onszelf en woont de waarheid niet in ons."
+          }
+        ]
+      },
+      "id": "1johannes.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Toch is het ook weer een nieuw gebod, en dat geldt van Christus maar ook van u, want de duisternis gaat voorbij en het waarachtige licht schijnt reeds.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch is het ook weer een nieuw gebod, en dat geldt van Christus maar ook van u, want de duisternis gaat voorbij en het waarachtige licht schijnt reeds."
+          }
+        ]
+      },
+      "id": "1johannes.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "wie zondigt is een kind van de duivel, want de duivel zondigt vanaf het begin, en de Zoon van God is juist gekomen om het werk van de duivel ongedaan te maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wie zondigt is een kind van de duivel, want de duivel zondigt vanaf het begin, en de Zoon van God is juist gekomen om het werk van de duivel ongedaan te maken."
+          }
+        ]
+      },
+      "id": "1johannes.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "De mens zonder liefde kent God niet, want God is liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mens zonder liefde kent God niet, want God is liefde."
+          }
+        ]
+      },
+      "id": "1johannes.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "de Geest, het water en het bloed, en deze drie stemmen overeen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de Geest, het water en het bloed, en deze drie stemmen overeen."
+          }
+        ]
+      },
+      "id": "1johannes.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Als wij onze zonden belijden, is Hij zo getrouw en genadig, dat Hij onze zonden vergeeft en ons reinigt van alle kwaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij onze zonden belijden, is Hij zo getrouw en genadig, dat Hij onze zonden vergeeft en ons reinigt van alle kwaad."
+          }
+        ]
+      },
+      "id": "1johannes.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Wie zegt in het licht te zijn, maar zijn broeder haat, die is nog steeds in duisternis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zegt in het licht te zijn, maar zijn broeder haat, die is nog steeds in duisternis."
+          }
+        ]
+      },
+      "id": "1johannes.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Een kind van God zondigt niet, want de goddelijke levenskiem blijft werkzaam in hem; hij kan zelfs niet zondigen, want hij is uit God geboren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een kind van God zondigt niet, want de goddelijke levenskiem blijft werkzaam in hem; hij kan zelfs niet zondigen, want hij is uit God geboren."
+          }
+        ]
+      },
+      "id": "1johannes.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "En de liefde die God is, heeft zich onder ons geopenbaard doordat Hij zijn enige Zoon in de wereld gezonden heeft, om ons het leven te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de liefde die God is, heeft zich onder ons geopenbaard doordat Hij zijn enige Zoon in de wereld gezonden heeft, om ons het leven te brengen."
+          }
+        ]
+      },
+      "id": "1johannes.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Als wij het getuigenis van mensen aannemen, dan zeker dat van God, dat zoveel groter gezag heeft; God zelf waarborgt het getuigenis, dat Hij heeft afgelegd aangaande zijn Zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij het getuigenis van mensen aannemen, dan zeker dat van God, dat zoveel groter gezag heeft; God zelf waarborgt het getuigenis, dat Hij heeft afgelegd aangaande zijn Zoon."
+          }
+        ]
+      },
+      "id": "1johannes.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Maar als wij zeggen dat wij geen zonde bedreven hebben, maken wij Hem tot leugenaar; dan woont zijn woord niet in ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als wij zeggen dat wij geen zonde bedreven hebben, maken wij Hem tot leugenaar; dan woont zijn woord niet in ons."
+          }
+        ]
+      },
+      "id": "1johannes.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Wie zijn broeder liefheeft, blijft in het licht en hij komt niet ten val.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zijn broeder liefheeft, blijft in het licht en hij komt niet ten val."
+          }
+        ]
+      },
+      "id": "1johannes.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Hieraan kan men de kinderen van God en de kinderen van de duivel onderscheiden: wie het goede niet doet is Gods kind niet, allerminst hij die zijn broeder niet liefheeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hieraan kan men de kinderen van God en de kinderen van de duivel onderscheiden: wie het goede niet doet is Gods kind niet, allerminst hij die zijn broeder niet liefheeft."
+          }
+        ]
+      },
+      "id": "1johannes.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Hierin bestaat de liefde: niet wij hebben God liefgehad, maar Hij heeft ons liefgehad, en Hij heeft zijn Zoon gezonden om door het offer van zijn leven onze zonden uit te wissen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierin bestaat de liefde: niet wij hebben God liefgehad, maar Hij heeft ons liefgehad, en Hij heeft zijn Zoon gezonden om door het offer van zijn leven onze zonden uit te wissen."
+          }
+        ]
+      },
+      "id": "1johannes.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Wie in de Zoon van God gelooft, draagt Gods getuigenis in zijn hart. Wie God geen geloof schenkt, maakt Hem tot een leugenaar, want hij weigert Gods eigen getuigenis over zijn Zoon te aanvaarden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie in de Zoon van God gelooft, draagt Gods getuigenis in zijn hart. Wie God geen geloof schenkt, maakt Hem tot een leugenaar, want hij weigert Gods eigen getuigenis over zijn Zoon te aanvaarden."
+          }
+        ]
+      },
+      "id": "1johannes.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Maar wie zijn broeder haat is in duisternis. Hij tast in het donker en weet niet waarheen zijn weg hem voert, want de duisternis heeft hem blind gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wie zijn broeder haat is in duisternis. Hij tast in het donker en weet niet waarheen zijn weg hem voert, want de duisternis heeft hem blind gemaakt."
+          }
+        ]
+      },
+      "id": "1johannes.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Want dit is de boodschap die gij vanaf het begin gehoord hebt: dat wij elkaar moeten beminnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want dit is de boodschap die gij vanaf het begin gehoord hebt: dat wij elkaar moeten beminnen."
+          }
+        ]
+      },
+      "id": "1johannes.3.11",
+      "title": "Het gebod van de liefde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Vrienden, als God ons zozeer heeft liefgehad, moeten ook wij elkander liefhebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrienden, als God ons zozeer heeft liefgehad, moeten ook wij elkander liefhebben."
+          }
+        ]
+      },
+      "id": "1johannes.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "En dit is de zin van het getuigenis: God heeft ons eeuwig leven gegeven en dat leven is in zijn Zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit is de zin van het getuigenis: God heeft ons eeuwig leven gegeven en dat leven is in zijn Zoon."
+          }
+        ]
+      },
+      "id": "1johannes.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ik schrijf u, kinderen, dat uw zonden vergeven zijn ter wille van zijn naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik schrijf u, kinderen, dat uw zonden vergeven zijn ter wille van zijn naam."
+          }
+        ]
+      },
+      "id": "1johannes.2.12",
+      "title": "Geruststelling",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Wij mogen niet zijn zoals Ka&iuml;n, die een kind van de boze was en zijn broeder vermoordde. En waarom vermoordde hij hem? Omdat zijn eigen daden slecht waren en die van zijn broeder goed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij mogen niet zijn zoals Kaïn, die een kind van de boze was en zijn broeder vermoordde. En waarom vermoordde hij hem? Omdat zijn eigen daden slecht waren en die van zijn broeder goed."
+          }
+        ]
+      },
+      "id": "1johannes.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Nooit heeft iemand God gezien, maar als wij elkaar liefhebben, woont God in ons, en is zijn liefde in ons volmaakt geworden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nooit heeft iemand God gezien, maar als wij elkaar liefhebben, woont God in ons, en is zijn liefde in ons volmaakt geworden."
+          }
+        ]
+      },
+      "id": "1johannes.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Wie de Zoon heeft, heeft leven gevonden; wie de Zoon van God niet heeft, heeft ook het leven niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie de Zoon heeft, heeft leven gevonden; wie de Zoon van God niet heeft, heeft ook het leven niet."
+          }
+        ]
+      },
+      "id": "1johannes.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ik schrijf u, vaders, dat gij Hem kent die er was vanaf het begin. Ik schrijf u, jonge mannen, dat gij de boze overwonnen hebt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik schrijf u, vaders, dat gij Hem kent die er was vanaf het begin. Ik schrijf u, jonge mannen, dat gij de boze overwonnen hebt."
+          }
+        ]
+      },
+      "id": "1johannes.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Broeders, weest niet verwonderd als de wereld u haat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, weest niet verwonderd als de wereld u haat."
+          }
+        ]
+      },
+      "id": "1johannes.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Dit is het bewijs dat wij in Hem verblijven (zoals Hij verblijft in ons), dat Hij ons deel heeft gegeven aan zijn Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is het bewijs dat wij in Hem verblijven (zoals Hij verblijft in ons), dat Hij ons deel heeft gegeven aan zijn Geest."
+          }
+        ]
+      },
+      "id": "1johannes.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Ik heb u deze brief geschreven om u ervan te overtuigen dat gij eeuwig leven hebt, gij allen die waarachtig gelooft in de Zoon van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u deze brief geschreven om u ervan te overtuigen dat gij eeuwig leven hebt, gij allen die waarachtig gelooft in de Zoon van God."
+          }
+        ]
+      },
+      "id": "1johannes.5.13",
+      "title": "Besluit",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Nogmaals, kinderen, ik schrijf u, dat gij de Vader kent. Ik schrijf u, dat gij Hem kent die er was vanaf het begin. Ik schrijf u, jonge mannen, dat gij sterk zijt. Gods woord woont in u en gij hebt de boze overwonnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nogmaals, kinderen, ik schrijf u, dat gij de Vader kent. Ik schrijf u, dat gij Hem kent die er was vanaf het begin. Ik schrijf u, jonge mannen, dat gij sterk zijt. Gods woord woont in u en gij hebt de boze overwonnen."
+          }
+        ]
+      },
+      "id": "1johannes.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Wij zijn overgegaan van de dood naar het leven; wij weten het, omdat wij onze broeders liefhebben. De mens zonder liefde is nog in het gebied van de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zijn overgegaan van de dood naar het leven; wij weten het, omdat wij onze broeders liefhebben. De mens zonder liefde is nog in het gebied van de dood."
+          }
+        ]
+      },
+      "id": "1johannes.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "En wij, wij hebben gezien en wij getuigen, dat de Vader zijn Zoon heeft gezonden om de Heiland van de wereld te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wij, wij hebben gezien en wij getuigen, dat de Vader zijn Zoon heeft gezonden om de Heiland van de wereld te zijn."
+          }
+        ]
+      },
+      "id": "1johannes.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Ons vertrouwen op God geeft ons de zekerheid dat Hij naar ons luistert, als wij Hem iets vragen overeenkomstig zijn wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ons vertrouwen op God geeft ons de zekerheid dat Hij naar ons luistert, als wij Hem iets vragen overeenkomstig zijn wil."
+          }
+        ]
+      },
+      "id": "1johannes.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Verliest uw hart niet aan de wereld of aan de dingen in de wereld! Als iemand de wereld liefheeft, is de liefde van de Vader niet in hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verliest uw hart niet aan de wereld of aan de dingen in de wereld! Als iemand de wereld liefheeft, is de liefde van de Vader niet in hem."
+          }
+        ]
+      },
+      "id": "1johannes.2.15",
+      "title": "De wereld zonder God",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Ieder die zijn broeder haat is een moordenaar, en gij weet dat geen moordenaar eeuwig leven in zich heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ieder die zijn broeder haat is een moordenaar, en gij weet dat geen moordenaar eeuwig leven in zich heeft."
+          }
+        ]
+      },
+      "id": "1johannes.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Als iemand erkent dat Jezus de Zoon van God is, woont God in hem en woont hij in God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand erkent dat Jezus de Zoon van God is, woont God in hem en woont hij in God."
+          }
+        ]
+      },
+      "id": "1johannes.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "En als wij weten dat Hij naar al ons vragen luistert, mogen wij er ook zeker van zijn dat onze gebeden al zijn verhoord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als wij weten dat Hij naar al ons vragen luistert, mogen wij er ook zeker van zijn dat onze gebeden al zijn verhoord."
+          }
+        ]
+      },
+      "id": "1johannes.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Want al wat in de wereld is - het begeren van de lust en het begeren der ogen en de hovaardij van het geld - het komt niet van de Vader maar van de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want al wat in de wereld is - het begeren van de lust en het begeren der ogen en de hovaardij van het geld - het komt niet van de Vader maar van de wereld."
+          }
+        ]
+      },
+      "id": "1johannes.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Wat liefde is hebben wij geleerd van Christus: Hij heeft zijn leven voor ons gegeven. Dus zijn ook wij verplicht ons leven te geven voor onze broeders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat liefde is hebben wij geleerd van Christus: Hij heeft zijn leven voor ons gegeven. Dus zijn ook wij verplicht ons leven te geven voor onze broeders."
+          }
+        ]
+      },
+      "id": "1johannes.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Zo hebben wij de liefde leren kennen die God voor ons heeft, en wij geloven in haar. God is liefde: wie in de liefde woont, woont in God en God is met hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo hebben wij de liefde leren kennen die God voor ons heeft, en wij geloven in haar. God is liefde: wie in de liefde woont, woont in God en God is met hem."
+          }
+        ]
+      },
+      "id": "1johannes.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Als iemand zijn broeder een zonde ziet bedrijven die niet voert tot de dood, moet hij voor zijn broeder bidden, en God zal hem in leven houden, dat wil zeggen, als zijn zonde hem niet doodt. Want er is een zonde die voert tot de dood; hiervoor geldt mijn aansporing om te bidden niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand zijn broeder een zonde ziet bedrijven die niet voert tot de dood, moet hij voor zijn broeder bidden, en God zal hem in leven houden, dat wil zeggen, als zijn zonde hem niet doodt. Want er is een zonde die voert tot de dood; hiervoor geldt mijn aansporing om te bidden niet."
+          }
+        ]
+      },
+      "id": "1johannes.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "En die wereld gaat voorbij met heel haar begeerlijkheid, maar wie de wil doet van God blijft in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En die wereld gaat voorbij met heel haar begeerlijkheid, maar wie de wil doet van God blijft in eeuwigheid."
+          }
+        ]
+      },
+      "id": "1johannes.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Hoe kan de goddelijke liefde blijven in een mens die geld genoeg heeft, en toch zijn hart sluit voor de nood van zijn broeder?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe kan de goddelijke liefde blijven in een mens die geld genoeg heeft, en toch zijn hart sluit voor de nood van zijn broeder?"
+          }
+        ]
+      },
+      "id": "1johannes.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Onze liefde is volmaakt, als wij vertrouwvol uitzien naar de dag van het oordeel, omdat wij in deze wereld leven volgens het voorbeeld van Christus. Liefde laat geen ruimte voor vrees.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze liefde is volmaakt, als wij vertrouwvol uitzien naar de dag van het oordeel, omdat wij in deze wereld leven volgens het voorbeeld van Christus. Liefde laat geen ruimte voor vrees."
+          }
+        ]
+      },
+      "id": "1johannes.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Maar hoewel elke verkeerde daad zonde is, brengt niet elke zonde de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hoewel elke verkeerde daad zonde is, brengt niet elke zonde de dood."
+          }
+        ]
+      },
+      "id": "1johannes.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Kinderen, het is &lsquo;het laatste uur&#39;. Gij hebt gehoord dat de &#39;antichrist&#39; moet komen. Inderdaad, er zijn nu al vele antichristen opgestaan, en daarom weten wij dat het laatste uur is aangebroken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, het is ‘het laatste uur'. Gij hebt gehoord dat de 'antichrist' moet komen. Inderdaad, er zijn nu al vele antichristen opgestaan, en daarom weten wij dat het laatste uur is aangebroken."
+          }
+        ]
+      },
+      "id": "1johannes.2.18",
+      "title": "De grote leugen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Kinderen, wij moeten niet liefhebben met woorden en leuzen maar met concrete daden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, wij moeten niet liefhebben met woorden en leuzen maar met concrete daden."
+          }
+        ]
+      },
+      "id": "1johannes.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "De volmaakte liefde drijft de vrees uit, want vrees duidt op straf en wie vreest is niet volgroeid in de liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De volmaakte liefde drijft de vrees uit, want vrees duidt op straf en wie vreest is niet volgroeid in de liefde."
+          }
+        ]
+      },
+      "id": "1johannes.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Wij weten dat een kind van God niet zondigt; de Zoon van God behoedt hem, en de boze heeft geen vat op hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij weten dat een kind van God niet zondigt; de Zoon van God behoedt hem, en de boze heeft geen vat op hem."
+          }
+        ]
+      },
+      "id": "1johannes.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Zij zijn uit ons midden voortgekomen, maar zij behoorden niet werkelijk tot ons. Hadden zij tot ons behoord, dan waren zij bij ons gebleven; maar het moest duidelijk worden dat zij geen van allen bij ons horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn uit ons midden voortgekomen, maar zij behoorden niet werkelijk tot ons. Hadden zij tot ons behoord, dan waren zij bij ons gebleven; maar het moest duidelijk worden dat zij geen van allen bij ons horen."
+          }
+        ]
+      },
+      "id": "1johannes.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Dat is onze maatstaf; daardoor krijgen wij de zekerheid dat wij thuishoren bij de waarachtige God. Dan mogen wij ook voor zijn aanschijn ons geweten geruststellen, ook als het ons veroordeelt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat is onze maatstaf; daardoor krijgen wij de zekerheid dat wij thuishoren bij de waarachtige God. Dan mogen wij ook voor zijn aanschijn ons geweten geruststellen, ook als het ons veroordeelt,"
+          }
+        ]
+      },
+      "id": "1johannes.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Wij hebben lief, omdat Hij ons het eerst heeft liefgehad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben lief, omdat Hij ons het eerst heeft liefgehad."
+          }
+        ]
+      },
+      "id": "1johannes.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Wij weten dat wij bij God horen, terwijl de hele boze wereld in de macht van de boze ligt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij weten dat wij bij God horen, terwijl de hele boze wereld in de macht van de boze ligt."
+          }
+        ]
+      },
+      "id": "1johannes.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Maar ook gij hebt van de Heilige de inwijding ontvangen, ook gij bezit allen ‘kennis'.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ook gij hebt van de Heilige de inwijding ontvangen, ook gij bezit allen ‘kennis'."
+          }
+        ]
+      },
+      "id": "1johannes.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "want God is groter dan ons hart en Hij weet alles.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want God is groter dan ons hart en Hij weet alles."
+          }
+        ]
+      },
+      "id": "1johannes.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Maar als iemand zegt dat hij God liefheeft, terwijl hij zijn broeder haat, is hij een leugenaar. Want als hij zijn broeder die hij ziet niet liefheeft, kan hij God niet liefhebben die hij nooit heeft gezien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als iemand zegt dat hij God liefheeft, terwijl hij zijn broeder haat, is hij een leugenaar. Want als hij zijn broeder die hij ziet niet liefheeft, kan hij God niet liefhebben die hij nooit heeft gezien."
+          }
+        ]
+      },
+      "id": "1johannes.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Wij weten dat de Zoon van God gekomen is, en ons inzicht gegeven heeft om de waarachtige God te kennen, en wij zijn in de waarachtige God, want wij zijn in Jezus Christus, zijn Zoon. Dit is de ware God, dit is eeuwig leven!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij weten dat de Zoon van God gekomen is, en ons inzicht gegeven heeft om de waarachtige God te kennen, en wij zijn in de waarachtige God, want wij zijn in Jezus Christus, zijn Zoon. Dit is de ware God, dit is eeuwig leven!"
+          }
+        ]
+      },
+      "id": "1johannes.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "En ik schrijf u niet, omdat gij de waarheid niet zoudt kennen, maar juist omdat gij haar kent en omdat de leugen onverenigbaar is met de waarheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik schrijf u niet, omdat gij de waarheid niet zoudt kennen, maar juist omdat gij haar kent en omdat de leugen onverenigbaar is met de waarheid."
+          }
+        ]
+      },
+      "id": "1johannes.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Dierbare vrienden, daar ons geweten ons niet hoeft te veroordelen, mogen wij vrijmoedig met God omgaan;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vrienden, daar ons geweten ons niet hoeft te veroordelen, mogen wij vrijmoedig met God omgaan;"
+          }
+        ]
+      },
+      "id": "1johannes.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Dit gebod hebben wij dan ook van Hem gekregen: wie God liefheeft moet ook zijn broeder liefhebben.<br />\r\n&nbsp;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit gebod hebben wij dan ook van Hem gekregen: wie God liefheeft moet ook zijn broeder liefhebben."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\n "
+          }
+        ]
+      },
+      "id": "1johannes.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Kinderen, wacht u voor valse goden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, wacht u voor valse goden."
+          }
+        ]
+      },
+      "id": "1johannes.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Wie is de leugenaar? Wie anders dan hij die ontkent dat Jezus de verlosser is? Dat is de ‘antichrist’: de loochenaar van de Vader en van de Zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is de leugenaar? Wie anders dan hij die ontkent dat Jezus de verlosser is? Dat is de ‘antichrist’: de loochenaar van de Vader en van de Zoon."
+          }
+        ]
+      },
+      "id": "1johannes.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "wij krijgen van Hem alles wat wij vragen, omdat wij zijn geboden onderhouden en doen wat Hem aangenaam is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wij krijgen van Hem alles wat wij vragen, omdat wij zijn geboden onderhouden en doen wat Hem aangenaam is."
+          }
+        ]
+      },
+      "id": "1johannes.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Wie de Zoon loochent heeft ook de Vader niet; wie de Zoon belijdt heeft ook de Vader.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie de Zoon loochent heeft ook de Vader niet; wie de Zoon belijdt heeft ook de Vader."
+          }
+        ]
+      },
+      "id": "1johannes.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "En dit is zijn gebod: van harte geloven in zijn Zoon Jezus Christus en elkaar liefhebben zoals Hij ons bevolen heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit is zijn gebod: van harte geloven in zijn Zoon Jezus Christus en elkaar liefhebben zoals Hij ons bevolen heeft."
+          }
+        ]
+      },
+      "id": "1johannes.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Wat u betreft, zorgt ervoor dat in u levend blijft wat gij vanaf het begin gehoord hebt; dan zult gij zelf blijven in de Zoon en ook in de Vader.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat u betreft, zorgt ervoor dat in u levend blijft wat gij vanaf het begin gehoord hebt; dan zult gij zelf blijven in de Zoon en ook in de Vader."
+          }
+        ]
+      },
+      "id": "1johannes.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "Wie zijn geboden onderhoudt blijft in God, en God blijft in hem. En dat Hij in ons woont weten we door de Geest die Hij ons gegeven heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zijn geboden onderhoudt blijft in God, en God blijft in hem. En dat Hij in ons woont weten we door de Geest die Hij ons gegeven heeft."
+          }
+        ]
+      },
+      "id": "1johannes.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "En gij kent de belofte die Hij ons zelf gedaan heeft: de belofte van eeuwig leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij kent de belofte die Hij ons zelf gedaan heeft: de belofte van eeuwig leven."
+          }
+        ]
+      },
+      "id": "1johannes.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Dit met het oog op hen die u willen misleiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit met het oog op hen die u willen misleiden."
+          }
+        ]
+      },
+      "id": "1johannes.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Wat uzelf aangaat, de inwijding die gij van Hem ontvangen hebt blijft u bij, gij hebt geen andere leraar nodig. Zijn wijding onderricht u in alles; ze is waarachtig en zonder bedrog. Blijft in Hem zoals zij het leert.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat uzelf aangaat, de inwijding die gij van Hem ontvangen hebt blijft u bij, gij hebt geen andere leraar nodig. Zijn wijding onderricht u in alles; ze is waarachtig en zonder bedrog. Blijft in Hem zoals zij het leert."
+          }
+        ]
+      },
+      "id": "1johannes.2.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "En nu, kinderen, blijft in Hem. Dan zijn wij vol vertrouwen als Hij zal verschijnen, en hoeven wij bij zijn komst niet beschaamd te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu, kinderen, blijft in Hem. Dan zijn wij vol vertrouwen als Hij zal verschijnen, en hoeven wij bij zijn komst niet beschaamd te zijn."
+          }
+        ]
+      },
+      "id": "1johannes.2.28",
+      "title": "De grote verwachting",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "Daar gij weet dat Hij geheel zonder zonde is, moet gij inzien dat ieder die het goede doet ook kind van God is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar gij weet dat Hij geheel zonder zonde is, moet gij inzien dat ieder die het goede doet ook kind van God is."
+          }
+        ]
+      },
+      "id": "1johannes.2.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

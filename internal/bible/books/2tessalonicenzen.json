@@ -1,0 +1,915 @@
+{
+  "id": "2tessalonicenzen",
+  "name": "2 Tessalonicenzen",
+  "chapters": 3,
+  "verseCount": 47,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "PAULUS, Silv&aacute;nus en Tim&oacute;te&uuml;s aan de christengemeente van Tessalonica, die is in God onze Vader en de Heer Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "PAULUS, Silvánus en Timóteüs aan de christengemeente van Tessalonica, die is in God onze Vader en de Heer Jezus Christus."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Wij moeten u echter verzoeken, broeders, in verband met de komst van onze Heer Jezus Christus en onze hereniging met Hem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij moeten u echter verzoeken, broeders, in verband met de komst van onze Heer Jezus Christus en onze hereniging met Hem,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.1",
+      "title": "De wederkomst en haar voortekenen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Voorts, broeders, bidt voor ons, opdat het woord des Heren, overal zoals bij u, zijn luisterrijke loop mag volbrengen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorts, broeders, bidt voor ons, opdat het woord des Heren, overal zoals bij u, zijn luisterrijke loop mag volbrengen,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade voor u en vrede vanwege God onze Vader en de Heer Jezus Christus!"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "niet zo gauw uw bezinning te verliezen en u niet te laten opschrikken door profetieën, uitspraken of brieven die van ons afkomstig zouden zijn, en die beweren dat de dag van de Heer is aangebroken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet zo gauw uw bezinning te verliezen en u niet te laten opschrikken door profetieën, uitspraken of brieven die van ons afkomstig zouden zijn, en die beweren dat de dag van de Heer is aangebroken."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "en wij verlost worden van die kwaadaardige en boze lieden; want het geloof is niet aller deel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en wij verlost worden van die kwaadaardige en boze lieden; want het geloof is niet aller deel."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Broeders, wij voelen ons verplicht God telkens opnieuw voor u te danken. En niet zonder reden: uw geloof groeit krachtig, steeds groter wordt onder u de liefde van allen voor allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, wij voelen ons verplicht God telkens opnieuw voor u te danken. En niet zonder reden: uw geloof groeit krachtig, steeds groter wordt onder u de liefde van allen voor allen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.3",
+      "title": "Dankzegging en gebed",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Laat u door niemand iets wijsmaken! Eerst moet de grote afval komen en de goddeloze mens zich openbaren, de zoon des verderfs,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat u door niemand iets wijsmaken! Eerst moet de grote afval komen en de goddeloze mens zich openbaren, de zoon des verderfs,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Maar de Heer is getrouw, Hij zal u sterken en behoeden voor de boze.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de Heer is getrouw, Hij zal u sterken en behoeden voor de boze."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Wij roemen dan ook over u in de gemeenten van God, omdat uw geloof standhoudt onder al de vervolgingen en verdrukkingen die gij moet verduren:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij roemen dan ook over u in de gemeenten van God, omdat uw geloof standhoudt onder al de vervolgingen en verdrukkingen die gij moet verduren:"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "de tegenstander, <em>die zich verheft boven al wat God heet</em> of verering ontvangt, zo zelfs dat hij zich neerzet in Gods tempel en zich voor God uitgeeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de tegenstander, "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "die zich verheft boven al wat God heet"
+              }
+            ]
+          },
+          {
+            "text": " of verering ontvangt, zo zelfs dat hij zich neerzet in Gods tempel en zich voor God uitgeeft."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "In de Heer vertrouwen wij op u, dat gij doet wat wij bevelen, en dit ook zult blijven doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de Heer vertrouwen wij op u, dat gij doet wat wij bevelen, en dit ook zult blijven doen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "een bewijs dat Gods rechtvaardig oordeel u zijn koninkrijk, waarvoor ge nu lijdt, zal waardig keuren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een bewijs dat Gods rechtvaardig oordeel u zijn koninkrijk, waarvoor ge nu lijdt, zal waardig keuren."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Herinnert gij u niet, dat ik u dit meermalen heb gezegd, toen ik nog bij u was?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Herinnert gij u niet, dat ik u dit meermalen heb gezegd, toen ik nog bij u was?"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Moge de Heer uw harten neigen tot de liefde Gods en de standvastigheid van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge de Heer uw harten neigen tot de liefde Gods en de standvastigheid van Christus."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Want zijn rechtvaardigheid eist dat Hij hen die u verdrukken verdrukking uitbetaalt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want zijn rechtvaardigheid eist dat Hij hen die u verdrukken verdrukking uitbetaalt,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Wat hem thans tegenhoudt, weet ge; hij zal zich niet openbaren voor zijn tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat hem thans tegenhoudt, weet ge; hij zal zich niet openbaren voor zijn tijd."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Wij bevelen u, broeders, in de naam van de Heer Jezus Christus, iedere broeder te mijden die arbeid schuwt en niet leeft volgens de overlevering die gij van ons hebt ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij bevelen u, broeders, in de naam van de Heer Jezus Christus, iedere broeder te mijden die arbeid schuwt en niet leeft volgens de overlevering die gij van ons hebt ontvangen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.6",
+      "title": "Arbeidsplicht is christenplicht",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "en u die verdrukt wordt rust en verkwikking, samen met ons, wanneer de Heer Jezus zal verschijnen en met zijn machtige engelen <em>in laaiend vuur</em> van de hemel zal neerdalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en u die verdrukt wordt rust en verkwikking, samen met ons, wanneer de Heer Jezus zal verschijnen en met zijn machtige engelen "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "in laaiend vuur"
+              }
+            ]
+          },
+          {
+            "text": " van de hemel zal neerdalen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Het geheim der goddeloosheid doet zijn werking al gevoelen; alleen moet degene die hem nu tegenhoudt nog van het toneel verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het geheim der goddeloosheid doet zijn werking al gevoelen; alleen moet degene die hem nu tegenhoudt nog van het toneel verdwijnen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Hoe gij ons moet navolgen, is u bekend; wij hebben bij u geen werk geschuwd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe gij ons moet navolgen, is u bekend; wij hebben bij u geen werk geschuwd"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Dan zal Hij <em>straffen hen die God weigeren te erkennen</em> en hen die geen gehoor willen geven aan het evangelie van onze Heer Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal Hij "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "straffen hen die God weigeren te erkennen"
+              }
+            ]
+          },
+          {
+            "text": " en hen die geen gehoor willen geven aan het evangelie van onze Heer Jezus."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Dan zal de goddeloze zich openbaren; en de Heer Jezus zal hem <em>doden met de adem van zijn mond </em>en hem vernietigen door de luister van zijn aankomst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal de goddeloze zich openbaren; en de Heer Jezus zal hem "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "doden met de adem van zijn mond "
+              }
+            ]
+          },
+          {
+            "text": "en hem vernietigen door de luister van zijn aankomst."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "en niemands brood om niets gegeten. Dag en nacht hebben wij gearbeid, met veel inspanning en moeite, om niemand van u tot last te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en niemands brood om niets gegeten. Dag en nacht hebben wij gearbeid, met veel inspanning en moeite, om niemand van u tot last te zijn."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Een eeuwig verderf zal hun straf zijn, <em>ver van het aanschijn des Heren en de glans van zijn majesteit,</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een eeuwig verderf zal hun straf zijn, "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "ver van het aanschijn des Heren en de glans van zijn majesteit,"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De komst van de goddeloze zal steunen op de kracht van de satan, en vergezeld gaan van allerlei wonderen, tekenen en goochelkunsten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De komst van de goddeloze zal steunen op de kracht van de satan, en vergezeld gaan van allerlei wonderen, tekenen en goochelkunsten,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Niet dat wij er geen recht toe hebben, maar wij wilden een voorbeeld geven ter navolging.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet dat wij er geen recht toe hebben, maar wij wilden een voorbeeld geven ter navolging."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "wanneer Hij komt op de grote dag <em>om verheerlijkt te worden onder zijn heiligen</em> en <em>gevierd</em> onder al de gelovigen (want bij u heeft ons getuigenis inderdaad geloof gevonden).",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wanneer Hij komt op de grote dag "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "om verheerlijkt te worden onder zijn heiligen"
+              }
+            ]
+          },
+          {
+            "text": " en "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "gevierd"
+              }
+            ]
+          },
+          {
+            "text": " onder al de gelovigen (want bij u heeft ons getuigenis inderdaad geloof gevonden)."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "en van alle mogelijke misdadige verleiding, bestemd voor hen die verloren gaan, omdat zij zich hebben afgesloten voor de liefde tot de waarheid, die hen had kunnen redden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en van alle mogelijke misdadige verleiding, bestemd voor hen die verloren gaan, omdat zij zich hebben afgesloten voor de liefde tot de waarheid, die hen had kunnen redden."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Ook toen wij bij u waren, hielden wij u telkens deze regel voor: als iemand niet wil werken, zal hij ook niet eten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook toen wij bij u waren, hielden wij u telkens deze regel voor: als iemand niet wil werken, zal hij ook niet eten."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Met het oog hierop bidden wij onze God telkens opnieuw, dat Hij u zijn roeping waardig maakt en al uw goede voornemens en elke daad van uw geloof met macht tot volkomenheid brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met het oog hierop bidden wij onze God telkens opnieuw, dat Hij u zijn roeping waardig maakt en al uw goede voornemens en elke daad van uw geloof met macht tot volkomenheid brengt."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "En daarom zendt God hun een geest van dwaling, zodat zij geloof hechten aan de leugen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daarom zendt God hun een geest van dwaling, zodat zij geloof hechten aan de leugen,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Wij hebben namelijk gehoord, dat sommigen bij u werkeloos rondhangen, alle moeite schuwen, maar wel zich met alles bemoeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben namelijk gehoord, dat sommigen bij u werkeloos rondhangen, alle moeite schuwen, maar wel zich met alles bemoeien."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Dan <em>zal de naam van onze Heer</em> Jezus in u <em>verheerlijkt worden</em>&nbsp;- en gij in Hem - door de genade van onze God en de Heer Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "zal de naam van onze Heer"
+              }
+            ]
+          },
+          {
+            "text": " Jezus in u "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "verheerlijkt worden"
+              }
+            ]
+          },
+          {
+            "text": " - en gij in Hem - door de genade van onze God en de Heer Jezus Christus."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "en allen veroordeeld worden die de waarheid geweigerd hebben en de ongerechtigheid gekozen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en allen veroordeeld worden die de waarheid geweigerd hebben en de ongerechtigheid gekozen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "In de naam van de Heer Jezus Christus gebieden en vermanen wij zulke mensen, dat zij regelmatig moeten werken en hun eigen kost verdienen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de naam van de Heer Jezus Christus gebieden en vermanen wij zulke mensen, dat zij regelmatig moeten werken en hun eigen kost verdienen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Wij echter moeten God altijd danken voor u, broeders, vrienden van de Heer. Want vanaf het begin heeft God u uitgekozen om door de Geest die heilig maakt en door uw geloof in de waarheid gered te worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij echter moeten God altijd danken voor u, broeders, vrienden van de Heer. Want vanaf het begin heeft God u uitgekozen om door de Geest die heilig maakt en door uw geloof in de waarheid gered te worden."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.13",
+      "title": "Aansporing tot volharding",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "En gij, broeders, wordt niet moede het goede te doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En gij, broeders, wordt niet moede het goede te doen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Daartoe heeft Hij u geroepen door onze verkondiging van het evangelie, opdat gij de heerlijkheid van onze Heer Jezus Christus zoudt verwerven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daartoe heeft Hij u geroepen door onze verkondiging van het evangelie, opdat gij de heerlijkheid van onze Heer Jezus Christus zoudt verwerven."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Volgt iemand ons bevel, in deze brief gegeven, niet op, noteert hem dan en gaat niet meer met hem om; dan zal hij zich schamen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Volgt iemand ons bevel, in deze brief gegeven, niet op, noteert hem dan en gaat niet meer met hem om; dan zal hij zich schamen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Dus, broeders, staat vast en houdt u aan de overleveringen waarin gij door ons, hetzij mondeling hetzij schriftelijk, zijt onderwezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dus, broeders, staat vast en houdt u aan de overleveringen waarin gij door ons, hetzij mondeling hetzij schriftelijk, zijt onderwezen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Gij moet hem echter niet behandelen als een vijand, maar terechtwijzen als een broeder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij moet hem echter niet behandelen als een vijand, maar terechtwijzen als een broeder."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Moge onze Heer Jezus Christus zelf, moge God, onze Vader, die ons zijn liefde heeft betoond en ons in zijn genade eeuwige troost en blijde hoop heeft geschonken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge onze Heer Jezus Christus zelf, moge God, onze Vader, die ons zijn liefde heeft betoond en ons in zijn genade eeuwige troost en blijde hoop heeft geschonken,"
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "De Heer van de vrede,<br />\r\nHij geve u de vrede, altijd en op allerlei wijzen.<br />\r\nDe Heer zij met u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer van de vrede,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij geve u de vrede, altijd en op allerlei wijzen."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nDe Heer zij met u allen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.16",
+      "title": "Slot",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "uw harten bemoedigen en sterken met alle goeds in woord en daad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "uw harten bemoedigen en sterken met alle goeds in woord en daad."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Deze groet schrijf ik, Paulus met eigen hand. Dit is een waarmerk in elke brief. Zo is mijn handschrift.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze groet schrijf ik, Paulus met eigen hand. Dit is een waarmerk in elke brief. Zo is mijn handschrift."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "De genade van onze Heer Jezus Christus zij met u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade van onze Heer Jezus Christus zij met u allen."
+          }
+        ]
+      },
+      "id": "2tessalonicenzen.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

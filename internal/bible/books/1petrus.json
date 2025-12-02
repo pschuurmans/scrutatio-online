@@ -1,0 +1,1804 @@
+{
+  "id": "1petrus",
+  "name": "1 Petrus",
+  "chapters": 5,
+  "verseCount": 105,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PETRUS, apostel van Jezus Christus, aan de vreemdelingen in de Verstrooiing van Pontus, Galati&euml;, Kappadoci&euml;, Asia en Bityni&euml;, die zijn uitverkoren",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PETRUS, apostel van Jezus Christus, aan de vreemdelingen in de Verstrooiing van Pontus, Galatië, Kappadocië, Asia en Bitynië, die zijn uitverkoren"
+          }
+        ]
+      },
+      "id": "1petrus.1.1",
+      "title": "Schrijver, lezers, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Weg dus met alle boosheid en bedrog, maakt een einde aan intriges, jaloezie en laster!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weg dus met alle boosheid en bedrog, maakt een einde aan intriges, jaloezie en laster!"
+          }
+        ]
+      },
+      "id": "1petrus.2.1",
+      "title": "Het priesterschap van Gods volk",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Eveneens moet gij, vrouwen, het gezag van uw mannen aanvaarden; dan worden ook zij die nog gehoorzaamheid weigeren aan het woord, zonder woorden gewonnen door het gedrag van hun vrouwen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eveneens moet gij, vrouwen, het gezag van uw mannen aanvaarden; dan worden ook zij die nog gehoorzaamheid weigeren aan het woord, zonder woorden gewonnen door het gedrag van hun vrouwen,"
+          }
+        ]
+      },
+      "id": "1petrus.3.1",
+      "title": "Het huwelijk",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Heeft Christus dan geleden naar het lichaam, zo wapent ook gij u met diezelfde gedachte, namelijk dat hij die naar het lichaam heeft geleden, met de zonde heeft afgerekend;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft Christus dan geleden naar het lichaam, zo wapent ook gij u met diezelfde gedachte, namelijk dat hij die naar het lichaam heeft geleden, met de zonde heeft afgerekend;"
+          }
+        ]
+      },
+      "id": "1petrus.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "De oudsten onder u vermaan ik, oudste evenals zij en getuige van het lijden van Christus, tevens deelgenoot van de heerlijkheid die geopenbaard zal worden:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De oudsten onder u vermaan ik, oudste evenals zij en getuige van het lijden van Christus, tevens deelgenoot van de heerlijkheid die geopenbaard zal worden:"
+          }
+        ]
+      },
+      "id": "1petrus.5.1",
+      "title": "Laatste vermaningen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "krachtens de voorbeschikking van God de Vader in de heiliging van de Geest tot gehoorzaamheid en besprenkeling met het bloed van Jezus Christus. Genade voor u en vrede in rijke overvloed!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "krachtens de voorbeschikking van God de Vader in de heiliging van de Geest tot gehoorzaamheid en besprenkeling met het bloed van Jezus Christus. Genade voor u en vrede in rijke overvloed!"
+          }
+        ]
+      },
+      "id": "1petrus.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Weest als pasgeboren kinderen begerig naar de geestelijke, onvervalste melk, die u wasdom zal schenken ter zaligheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest als pasgeboren kinderen begerig naar de geestelijke, onvervalste melk, die u wasdom zal schenken ter zaligheid."
+          }
+        ]
+      },
+      "id": "1petrus.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "als zij getuigen zijn van uw reine en godvruchtige levenswijze.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als zij getuigen zijn van uw reine en godvruchtige levenswijze."
+          }
+        ]
+      },
+      "id": "1petrus.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "zo iemand moet de rest van zijn aardse leven doorbrengen volgens Gods wil en niet langer volgens menselijke begeerten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zo iemand moet de rest van zijn aardse leven doorbrengen volgens Gods wil en niet langer volgens menselijke begeerten."
+          }
+        ]
+      },
+      "id": "1petrus.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "weidt de kudden van God waarvan gij de herders zijt; hoedt haar zoals God het wil: van harte en niet uit dwang, met toewijding en niet uit winstbejag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "weidt de kudden van God waarvan gij de herders zijt; hoedt haar zoals God het wil: van harte en niet uit dwang, met toewijding en niet uit winstbejag."
+          }
+        ]
+      },
+      "id": "1petrus.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Gezegend is God, de Vader van onze Heer Jezus Christus, die ons in zijn grote barmhartigheid deed herboren worden tot een leven van hoop door de opstanding van Jezus Christus uit de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend is God, de Vader van onze Heer Jezus Christus, die ons in zijn grote barmhartigheid deed herboren worden tot een leven van hoop door de opstanding van Jezus Christus uit de dood."
+          }
+        ]
+      },
+      "id": "1petrus.1.3",
+      "title": "Lof van het christelijk heil",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Gij hebt immers al geproefd van de zoetheid des Heren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt immers al geproefd van de zoetheid des Heren."
+          }
+        ]
+      },
+      "id": "1petrus.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Zoekt uw schoonheid niet in uiterlijke dingen, zoals kunstige kapsels, gouden sieraden en mooie kleren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoekt uw schoonheid niet in uiterlijke dingen, zoals kunstige kapsels, gouden sieraden en mooie kleren,"
+          }
+        ]
+      },
+      "id": "1petrus.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Tijd genoeg is reeds voorbijgegaan met te doen wat de heidenen willen: gij hebt een leven geleid van losbandigheid, wellust, dronkenschap, feesten, drinkgelagen en de verwerpelijke dienst der afgoden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tijd genoeg is reeds voorbijgegaan met te doen wat de heidenen willen: gij hebt een leven geleid van losbandigheid, wellust, dronkenschap, feesten, drinkgelagen en de verwerpelijke dienst der afgoden."
+          }
+        ]
+      },
+      "id": "1petrus.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Speelt niet de baas over hen die aan uw zorgen zijn toevertrouwd, maar toont u een voorbeeld voor de kudde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Speelt niet de baas over hen die aan uw zorgen zijn toevertrouwd, maar toont u een voorbeeld voor de kudde."
+          }
+        ]
+      },
+      "id": "1petrus.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Een onvergankelijke, onbederfelijke, onaantastbare erfenis is voor u weggelegd in de hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een onvergankelijke, onbederfelijke, onaantastbare erfenis is voor u weggelegd in de hemel."
+          }
+        ]
+      },
+      "id": "1petrus.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Treedt toe tot Hem, de levende steen, door de mensen verworpen maar uitverkoren en kostbaar in het oog van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Treedt toe tot Hem, de levende steen, door de mensen verworpen maar uitverkoren en kostbaar in het oog van God."
+          }
+        ]
+      },
+      "id": "1petrus.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "maar veeleer in de innerlijke hoedanigheden van het hart, in het onvergankelijke sieraad van een zacht en gelijkmatig gemoed, dat kostbaar is in het oog van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar veeleer in de innerlijke hoedanigheden van het hart, in het onvergankelijke sieraad van een zacht en gelijkmatig gemoed, dat kostbaar is in het oog van God."
+          }
+        ]
+      },
+      "id": "1petrus.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Nu het hen bevreemdt dat gij niet meer aan die buitensporigheden meedoet, weten zij niet beter te doen dan u te belasteren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu het hen bevreemdt dat gij niet meer aan die buitensporigheden meedoet, weten zij niet beter te doen dan u te belasteren."
+          }
+        ]
+      },
+      "id": "1petrus.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Dan zult ge, als de opperherder verschijnt, de nooit verwelkende krans van de heerlijkheid ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult ge, als de opperherder verschijnt, de nooit verwelkende krans van de heerlijkheid ontvangen."
+          }
+        ]
+      },
+      "id": "1petrus.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "In Gods kracht geborgen door het geloof, wacht gij op het heil, dat al gereed ligt om op het eind van de tijd geopenbaard te worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Gods kracht geborgen door het geloof, wacht gij op het heil, dat al gereed ligt om op het eind van de tijd geopenbaard te worden."
+          }
+        ]
+      },
+      "id": "1petrus.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Laat ook uzelf als levende stenen voegen in de bouw van de geestelijke tempel. Draagt als een heilig priesterschap geestelijke offers op, die welgevallig zijn aan God door Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat ook uzelf als levende stenen voegen in de bouw van de geestelijke tempel. Draagt als een heilig priesterschap geestelijke offers op, die welgevallig zijn aan God door Jezus Christus."
+          }
+        ]
+      },
+      "id": "1petrus.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Zo tooiden zich eertijds de heilige vrouwen die hun hoop hadden gesteld op God en aan hun man onderdanig waren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo tooiden zich eertijds de heilige vrouwen die hun hoop hadden gesteld op God en aan hun man onderdanig waren,"
+          }
+        ]
+      },
+      "id": "1petrus.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Maar zij zullen daarvan rekenschap moeten afleggen aan Hem die gereed staat levenden en doden te oordelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij zullen daarvan rekenschap moeten afleggen aan Hem die gereed staat levenden en doden te oordelen."
+          }
+        ]
+      },
+      "id": "1petrus.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Evenzo, gij, jongeren, onderwerpt u aan de oudsten. Trouwens, allen moeten zich in de omgang met elkaar laten leiden door nederigheid, want God weerstaat de hovaardigen, maar aan de nederigen geeft Hij genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evenzo, gij, jongeren, onderwerpt u aan de oudsten. Trouwens, allen moeten zich in de omgang met elkaar laten leiden door nederigheid, want God weerstaat de hovaardigen, maar aan de nederigen geeft Hij genade."
+          }
+        ]
+      },
+      "id": "1petrus.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Dan zult gij juichen, ook al hebt gij nu, als het zo moet zijn, voor een korte tijd te lijden onder allerlei beproevingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult gij juichen, ook al hebt gij nu, als het zo moet zijn, voor een korte tijd te lijden onder allerlei beproevingen."
+          }
+        ]
+      },
+      "id": "1petrus.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Daarom staat er in de Schrift: Ik leg in Sion een steen, een uitverkoren, kostbare hoeksteen. En wie op Hem vertrouwt, zal niet worden teleurgesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom staat er in de Schrift: Ik leg in Sion een steen, een uitverkoren, kostbare hoeksteen. En wie op Hem vertrouwt, zal niet worden teleurgesteld."
+          }
+        ]
+      },
+      "id": "1petrus.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "zoals Sara, die gehoorzaam was aan Abraham en hem haar heer noemde. Gij toont u haar dochters, als gij deugdzaam leeft en geen verschrikking vreest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zoals Sara, die gehoorzaam was aan Abraham en hem haar heer noemde. Gij toont u haar dochters, als gij deugdzaam leeft en geen verschrikking vreest."
+          }
+        ]
+      },
+      "id": "1petrus.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Daarom is ook aan gestorvenen het evangelie verkondigd, opdat zij, hoewel als mensen naar het vlees veroordeeld, voor God zouden leven door de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is ook aan gestorvenen het evangelie verkondigd, opdat zij, hoewel als mensen naar het vlees veroordeeld, voor God zouden leven door de Geest."
+          }
+        ]
+      },
+      "id": "1petrus.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Houdt u dan klein onder de sterke hand van God: Hij zal u te zijner tijd omhoogheffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houdt u dan klein onder de sterke hand van God: Hij zal u te zijner tijd omhoogheffen."
+          }
+        ]
+      },
+      "id": "1petrus.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Die dienen om de deugdelijkheid van uw geloof te bewijzen, dat zoveel kostbaarder is dan vergankelijk goud, dat toch ook door het vuur gelouterd wordt. Dan zal, wanneer Jezus Christus zich openbaart, lof, heerlijkheid en eer uw deel zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die dienen om de deugdelijkheid van uw geloof te bewijzen, dat zoveel kostbaarder is dan vergankelijk goud, dat toch ook door het vuur gelouterd wordt. Dan zal, wanneer Jezus Christus zich openbaart, lof, heerlijkheid en eer uw deel zijn."
+          }
+        ]
+      },
+      "id": "1petrus.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Kostbaar, dat geldt voor u die gelooft. Maar voor de ongelovigen geldt: De steen die de bouwers hebben afgekeurd, die is de hoeksteen geworden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kostbaar, dat geldt voor u die gelooft. Maar voor de ongelovigen geldt: De steen die de bouwers hebben afgekeurd, die is de hoeksteen geworden,"
+          }
+        ]
+      },
+      "id": "1petrus.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Eveneens gij, mannen, toont in het huwelijk begrip voor uw vrouwen; bewijst hun de eer die het zwakkere geslacht toekomt, want met u zijn zij erfgenamen van de genade des levens; dan zullen uw gebeden geen belemmering ondervinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eveneens gij, mannen, toont in het huwelijk begrip voor uw vrouwen; bewijst hun de eer die het zwakkere geslacht toekomt, want met u zijn zij erfgenamen van de genade des levens; dan zullen uw gebeden geen belemmering ondervinden."
+          }
+        ]
+      },
+      "id": "1petrus.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Het einde van alle dingen is nabij. Weest dus bezonnen en nuchter opdat gij kunt bidden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het einde van alle dingen is nabij. Weest dus bezonnen en nuchter opdat gij kunt bidden."
+          }
+        ]
+      },
+      "id": "1petrus.4.7",
+      "title": "In afwachting van het einde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Schuift al uw zorgen op Hem af, want Hij heeft zorg voor u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Schuift al uw zorgen op Hem af, want Hij heeft zorg voor u."
+          }
+        ]
+      },
+      "id": "1petrus.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Hem hebt gij lief zonder Hem ooit gezien te hebben. In Hem gelooft gij, ofschoon gij Hem ook nu niet ziet. Hoe onuitsprekelijk, hoe hemels zal uw vreugde zijn,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hem hebt gij lief zonder Hem ooit gezien te hebben. In Hem gelooft gij, ofschoon gij Hem ook nu niet ziet. Hoe onuitsprekelijk, hoe hemels zal uw vreugde zijn,"
+          }
+        ]
+      },
+      "id": "1petrus.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "maar ook een steen waaraan zij zich stoten, een rots waarover zij struikelen. Zij stoten zich, omdat zij het woord weigeren te gehoorzamen; en daartoe waren zij ook bestemd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar ook een steen waaraan zij zich stoten, een rots waarover zij struikelen. Zij stoten zich, omdat zij het woord weigeren te gehoorzamen; en daartoe waren zij ook bestemd."
+          }
+        ]
+      },
+      "id": "1petrus.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Tenslotte, weest allen eensgezind in meegevoel, broederliefde, barmhartigheid en ootmoed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tenslotte, weest allen eensgezind in meegevoel, broederliefde, barmhartigheid en ootmoed."
+          }
+        ]
+      },
+      "id": "1petrus.3.8",
+      "title": "Onderlinge liefde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Beoefent vooral de onderlinge liefde met volharding, want de liefde bedekt tal van zonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beoefent vooral de onderlinge liefde met volharding, want de liefde bedekt tal van zonden."
+          }
+        ]
+      },
+      "id": "1petrus.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Weest nuchter, wordt wakker! Uw vijand de duivel zwerft rond als een brullende leeuw, op zoek naar een prooi om te verslinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest nuchter, wordt wakker! Uw vijand de duivel zwerft rond als een brullende leeuw, op zoek naar een prooi om te verslinden."
+          }
+        ]
+      },
+      "id": "1petrus.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "als gij het einddoel van uw geloof, de redding van uw ziel, bereikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als gij het einddoel van uw geloof, de redding van uw ziel, bereikt."
+          }
+        ]
+      },
+      "id": "1petrus.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Maar gij zijt een uitverkoren geslacht, een koninklijk priesterschap, een heilige natie, Gods eigen volk, bestemd om de roemruchte daden te verkondigen van Hem die u uit de duisternis heeft geroepen tot zijn wonderbaar licht:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij zijt een uitverkoren geslacht, een koninklijk priesterschap, een heilige natie, Gods eigen volk, bestemd om de roemruchte daden te verkondigen van Hem die u uit de duisternis heeft geroepen tot zijn wonderbaar licht:"
+          }
+        ]
+      },
+      "id": "1petrus.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Vergeldt geen kwaad met kwaad; als men u uitscheldt, scheldt dan niet terug. Integendeel, zegent elkander, opdat gij de zegen verwerft waartoe gij geroepen zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vergeldt geen kwaad met kwaad; als men u uitscheldt, scheldt dan niet terug. Integendeel, zegent elkander, opdat gij de zegen verwerft waartoe gij geroepen zijt."
+          }
+        ]
+      },
+      "id": "1petrus.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Betoont elkander gastvrijheid zonder morren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Betoont elkander gastvrijheid zonder morren."
+          }
+        ]
+      },
+      "id": "1petrus.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Weerstaat hem, sterk door het geloof. Ge weet dat soortgelijk lijden het deel is van uw broeders over heel de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weerstaat hem, sterk door het geloof. Ge weet dat soortgelijk lijden het deel is van uw broeders over heel de wereld."
+          }
+        ]
+      },
+      "id": "1petrus.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Naar dat heil hebben reeds profeten gezocht en gevorst, toen zij profeteerden over de genade die voor u bestemd was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Naar dat heil hebben reeds profeten gezocht en gevorst, toen zij profeteerden over de genade die voor u bestemd was."
+          }
+        ]
+      },
+      "id": "1petrus.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "gij, vroeger geen volk, nu Gods volk; vroeger van genade verstoken, nu begenadigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gij, vroeger geen volk, nu Gods volk; vroeger van genade verstoken, nu begenadigd."
+          }
+        ]
+      },
+      "id": "1petrus.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Want <em>wie het leven liefheeft en gelukkige dagen wil genieten, weerhoude zijn tong van het kwade en zijn lippen van het spreken van bedrog</em>.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "wie het leven liefheeft en gelukkige dagen wil genieten, weerhoude zijn tong van het kwade en zijn lippen van het spreken van bedrog"
+              }
+            ]
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      "id": "1petrus.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Dient elkaar, als goede beheerders van Gods veelsoortige genade, met de gaven, zoals ieder die heeft ontvangen:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dient elkaar, als goede beheerders van Gods veelsoortige genade, met de gaven, zoals ieder die heeft ontvangen:"
+          }
+        ]
+      },
+      "id": "1petrus.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "De God van alle genade, die u in Christus tot zijn eeuwige heerlijkheid heeft geroepen, Hijzelf zal u na een korte tijd van lijden herstellen en bevestigen en stevig zetten op hechte grondslagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De God van alle genade, die u in Christus tot zijn eeuwige heerlijkheid heeft geroepen, Hijzelf zal u na een korte tijd van lijden herstellen en bevestigen en stevig zetten op hechte grondslagen."
+          }
+        ]
+      },
+      "id": "1petrus.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Zij vroegen zich af op welk tijdstip en welke omstandigheden de Geest van Christus in hen doelde, toen Hij voorspelde al het lijden dat over Christus zou komen, en de daaropvolgende verheerlijking.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij vroegen zich af op welk tijdstip en welke omstandigheden de Geest van Christus in hen doelde, toen Hij voorspelde al het lijden dat over Christus zou komen, en de daaropvolgende verheerlijking."
+          }
+        ]
+      },
+      "id": "1petrus.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Dierbare vrienden, ik vraag u als vreemdelingen en ballingen u te onthouden van zondige lusten die strijd voeren tegen de ziel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vrienden, ik vraag u als vreemdelingen en ballingen u te onthouden van zondige lusten die strijd voeren tegen de ziel."
+          }
+        ]
+      },
+      "id": "1petrus.2.11",
+      "title": "Plichten tegenover de heidenen en de overheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Laat hij het kwade mijden en het goede doen, vrede zoeken en die nastreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat hij het kwade mijden en het goede doen, vrede zoeken en die nastreven."
+          }
+        ]
+      },
+      "id": "1petrus.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "wie spreekt, moet beseffen dat hij Gods woorden spreekt; wie een dienst verricht, wete dat God het is die hem kracht verleent. Dan zal God in alles worden verheerlijkt door Jezus Christus, aan wie de heerlijkheid is en de macht in de eeuwen der eeuwen. Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wie spreekt, moet beseffen dat hij Gods woorden spreekt; wie een dienst verricht, wete dat God het is die hem kracht verleent. Dan zal God in alles worden verheerlijkt door Jezus Christus, aan wie de heerlijkheid is en de macht in de eeuwen der eeuwen. Amen."
+          }
+        ]
+      },
+      "id": "1petrus.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Hem is de kracht in eeuwigheid. Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hem is de kracht in eeuwigheid. Amen."
+          }
+        ]
+      },
+      "id": "1petrus.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Maar hun werd geopenbaard, dat zij deze boodschap moesten beheren voor u, niet voor zichzelf. En nu is die boodschap bij monde van de evangeliepredikers openlijk aan u verkondigd, in de kracht van de heilige Geest, die van de hemel is neergezonden. Dit zijn geheimen waarin zelfs engelen verlangen door te dringen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hun werd geopenbaard, dat zij deze boodschap moesten beheren voor u, niet voor zichzelf. En nu is die boodschap bij monde van de evangeliepredikers openlijk aan u verkondigd, in de kracht van de heilige Geest, die van de hemel is neergezonden. Dit zijn geheimen waarin zelfs engelen verlangen door te dringen."
+          }
+        ]
+      },
+      "id": "1petrus.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Leidt onder de heidenen een voorbeeldig leven; dan zullen zij die u nu als boosdoeners belasteren, bij nader toezien God om uw goede daden verheerlijken, op de dag dat Hij komt rechtspreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leidt onder de heidenen een voorbeeldig leven; dan zullen zij die u nu als boosdoeners belasteren, bij nader toezien God om uw goede daden verheerlijken, op de dag dat Hij komt rechtspreken."
+          }
+        ]
+      },
+      "id": "1petrus.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Want de ogen van de Heer zijn gericht op de rechtvaardigen en zijn oren gewend naar hun smeken. Maar zijn gelaat keert zich tegen hen die kwaad doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de ogen van de Heer zijn gericht op de rechtvaardigen en zijn oren gewend naar hun smeken. Maar zijn gelaat keert zich tegen hen die kwaad doen."
+          }
+        ]
+      },
+      "id": "1petrus.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Dierbare vrienden, verwondert u niet over de brand die in uw midden woedt om u te louteren, alsof u iets ongewoons overkomt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vrienden, verwondert u niet over de brand die in uw midden woedt om u te louteren, alsof u iets ongewoons overkomt."
+          }
+        ]
+      },
+      "id": "1petrus.4.12",
+      "title": "Lijden om de christennaam",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Ik beschouw Silv&aacute;nus als een betrouwbaar medebroeder; met zijn hulp heb ik u dit kort woord van bemoediging geschreven. Het is mijn vaste overtuiging dat dit de ware genade van God is: houdt daarin stand!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik beschouw Silvánus als een betrouwbaar medebroeder; met zijn hulp heb ik u dit kort woord van bemoediging geschreven. Het is mijn vaste overtuiging dat dit de ware genade van God is: houdt daarin stand!"
+          }
+        ]
+      },
+      "id": "1petrus.5.12",
+      "title": "Slot",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Weest daarom wakker en actief, weest nuchter, vestigt heel uw hoop op de genade die uw deel wordt, wanneer Jezus Christus zich zal openbaren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest daarom wakker en actief, weest nuchter, vestigt heel uw hoop op de genade die uw deel wordt, wanneer Jezus Christus zich zal openbaren."
+          }
+        ]
+      },
+      "id": "1petrus.1.13",
+      "title": "Heilig leven en naastenliefde",
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Onderwerpt u aan alle menselijke instellingen ter wille van de Heer: aan de keizer als het hoogste gezag,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderwerpt u aan alle menselijke instellingen ter wille van de Heer: aan de keizer als het hoogste gezag,"
+          }
+        ]
+      },
+      "id": "1petrus.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "En wie zal u kwaad doen, als gij ijvert voor het goede?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wie zal u kwaad doen, als gij ijvert voor het goede?"
+          }
+        ]
+      },
+      "id": "1petrus.3.13",
+      "title": "Lijden om de gerechtigheid naar het voorbeeld van de Heer",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Verheug u veeleer, juist in de mate dat gij deelhebt aan het lijden van Christus; dan zult gij juichen van blijdschap, wanneer zijn heerlijkheid zich openbaart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verheug u veeleer, juist in de mate dat gij deelhebt aan het lijden van Christus; dan zult gij juichen van blijdschap, wanneer zijn heerlijkheid zich openbaart."
+          }
+        ]
+      },
+      "id": "1petrus.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "U groet de zustergemeente in Babylon, evenals mijn zoon Marcus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U groet de zustergemeente in Babylon, evenals mijn zoon Marcus."
+          }
+        ]
+      },
+      "id": "1petrus.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Geeft gehoor aan de waarheid, geeft niet langer toe aan de lusten die uw leven beheersten in de tijd van uw onwetendheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geeft gehoor aan de waarheid, geeft niet langer toe aan de lusten die uw leven beheersten in de tijd van uw onwetendheid."
+          }
+        ]
+      },
+      "id": "1petrus.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "en aan de stadhouders, omdat zij door Hem zijn aangesteld om boosdoeners te straffen en hen die het goede doen te eren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en aan de stadhouders, omdat zij door Hem zijn aangesteld om boosdoeners te straffen en hen die het goede doen te eren."
+          }
+        ]
+      },
+      "id": "1petrus.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Maar ook al moet gij lijden om de gerechtigheid, toch zijt gij zalig. Vreest hun bedreigingen niet en laat u niet verontrusten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ook al moet gij lijden om de gerechtigheid, toch zijt gij zalig. Vreest hun bedreigingen niet en laat u niet verontrusten,"
+          }
+        ]
+      },
+      "id": "1petrus.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Prijst u gelukkig, als men u hoont om de naam van Christus: het is een teken dat de Geest der heerlijkheid, die de Geest van God is, op u rust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Prijst u gelukkig, als men u hoont om de naam van Christus: het is een teken dat de Geest der heerlijkheid, die de Geest van God is, op u rust."
+          }
+        ]
+      },
+      "id": "1petrus.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Groet elkaar met de kus van de liefde. Vrede voor allen die in Christus zijt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groet elkaar met de kus van de liefde. Vrede voor allen die in Christus zijt!"
+          }
+        ]
+      },
+      "id": "1petrus.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Hij die u geroepen heeft, is heilig. Weest heilig zoals Hij, in heel uw gedrag;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die u geroepen heeft, is heilig. Weest heilig zoals Hij, in heel uw gedrag;"
+          }
+        ]
+      },
+      "id": "1petrus.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Het is de wil van God, dat gij door een goed gedrag de onwetendheid van onverstandige lieden tot zwijgen brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is de wil van God, dat gij door een goed gedrag de onwetendheid van onverstandige lieden tot zwijgen brengt."
+          }
+        ]
+      },
+      "id": "1petrus.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "heiligt in uw hart Christus als de Heer. Weest altijd bereid tot verantwoording aan al wie u rekenschap vraagt van de hoop die in u leeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heiligt in uw hart Christus als de Heer. Weest altijd bereid tot verantwoording aan al wie u rekenschap vraagt van de hoop die in u leeft."
+          }
+        ]
+      },
+      "id": "1petrus.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Zorgt dat niemand van u te lijden heeft als moordenaar of dief of boosdoener of aanbrenger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zorgt dat niemand van u te lijden heeft als moordenaar of dief of boosdoener of aanbrenger."
+          }
+        ]
+      },
+      "id": "1petrus.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "want er staat geschreven: Weest heilig, want Ik ben heilig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want er staat geschreven: Weest heilig, want Ik ben heilig."
+          }
+        ]
+      },
+      "id": "1petrus.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Leeft als vrije mensen, maar maakt als dienstknechten van God van de vrijheid geen voorwendsel voor de ondeugd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leeft als vrije mensen, maar maakt als dienstknechten van God van de vrijheid geen voorwendsel voor de ondeugd."
+          }
+        ]
+      },
+      "id": "1petrus.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Maar verdedigt u met zachtmoedigheid en gepaste eerbied, en zorgt dat uw geweten zuiver is. Dan zullen die beschimpers van uw goede christelijke levenswandel beschaamd staan met hun laster.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar verdedigt u met zachtmoedigheid en gepaste eerbied, en zorgt dat uw geweten zuiver is. Dan zullen die beschimpers van uw goede christelijke levenswandel beschaamd staan met hun laster."
+          }
+        ]
+      },
+      "id": "1petrus.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Maar wie als christen lijdt, moet zich niet schamen, maar God eren met de naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wie als christen lijdt, moet zich niet schamen, maar God eren met de naam."
+          }
+        ]
+      },
+      "id": "1petrus.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Hij die gij aanroept als Vader, is ook de onpartijdige rechter over al onze daden; koestert daarom ontzag voor Hem, zolang gij hier in ballingschap leeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die gij aanroept als Vader, is ook de onpartijdige rechter over al onze daden; koestert daarom ontzag voor Hem, zolang gij hier in ballingschap leeft."
+          }
+        ]
+      },
+      "id": "1petrus.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Betoont eer aan allen, bemint de broeders, vreest God, eert de keizer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Betoont eer aan allen, bemint de broeders, vreest God, eert de keizer."
+          }
+        ]
+      },
+      "id": "1petrus.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Hoeveel beter is het, zo God het wil, te lijden voor het goede dat men doet dan straf te ondergaan voor misdrijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoeveel beter is het, zo God het wil, te lijden voor het goede dat men doet dan straf te ondergaan voor misdrijven."
+          }
+        ]
+      },
+      "id": "1petrus.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Want de tijd van het oordeel is aangebroken, en het begint met het huisgezin van God. Als het met ons begint, hoe zal het dan eindigen voor hen die het evangelie van God weigeren te gehoorzamen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de tijd van het oordeel is aangebroken, en het begint met het huisgezin van God. Als het met ons begint, hoe zal het dan eindigen voor hen die het evangelie van God weigeren te gehoorzamen?"
+          }
+        ]
+      },
+      "id": "1petrus.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Gij weet dat gij niet met vergankelijke dingen, zoals goud en zilver, zijt verlost uit het zinloze bestaan dat gij van uw vaderen had geërfd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet dat gij niet met vergankelijke dingen, zoals goud en zilver, zijt verlost uit het zinloze bestaan dat gij van uw vaderen had geërfd."
+          }
+        ]
+      },
+      "id": "1petrus.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Slaven, aanvaardt met gepaste onderwerping het gezag van uw meesters, niet alleen als zij goed en vriendelijk, ook als zij lastig zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaven, aanvaardt met gepaste onderwerping het gezag van uw meesters, niet alleen als zij goed en vriendelijk, ook als zij lastig zijn."
+          }
+        ]
+      },
+      "id": "1petrus.2.18",
+      "title": "De slaven: het voorbeeld van Christus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Ook Christus heeft eens voor al geleden voor de zonden, de rechtvaardige voor de onrechtvaardigen, om u tot God te brengen. Gedood naar het vlees, werd Hij ten leven gewekt naar de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook Christus heeft eens voor al geleden voor de zonden, de rechtvaardige voor de onrechtvaardigen, om u tot God te brengen. Gedood naar het vlees, werd Hij ten leven gewekt naar de Geest."
+          }
+        ]
+      },
+      "id": "1petrus.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "En als de rechtvaardige ternauwernood gered wordt, waar blijft dan de goddeloze en de zondaar?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als de rechtvaardige ternauwernood gered wordt, waar blijft dan de goddeloze en de zondaar?"
+          }
+        ]
+      },
+      "id": "1petrus.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Gij zijt verlost door het kostbaar bloed van Christus, het lam zonder vlek of gebrek,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt verlost door het kostbaar bloed van Christus, het lam zonder vlek of gebrek,"
+          }
+        ]
+      },
+      "id": "1petrus.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Want met God in gedachten onverdiend leed verdragen is iets moois.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want met God in gedachten onverdiend leed verdragen is iets moois."
+          }
+        ]
+      },
+      "id": "1petrus.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Zo ging Hij heen en predikte voor de geesten in de kerker,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo ging Hij heen en predikte voor de geesten in de kerker,"
+          }
+        ]
+      },
+      "id": "1petrus.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Daarom moeten ook zij die onschuldig te lijden hebben, omdat God het zo toelaat, hun ziel aan hun Schepper toevertrouwen door te doen wat goed is: Hij zal hen niet in de steek laten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom moeten ook zij die onschuldig te lijden hebben, omdat God het zo toelaat, hun ziel aan hun Schepper toevertrouwen door te doen wat goed is: Hij zal hen niet in de steek laten."
+          }
+        ]
+      },
+      "id": "1petrus.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "dat uitverkoren was voor de grondlegging der wereld, maar eerst op het einde der tijden is verschenen, om uwentwil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat uitverkoren was voor de grondlegging der wereld, maar eerst op het einde der tijden is verschenen, om uwentwil."
+          }
+        ]
+      },
+      "id": "1petrus.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Slagen verduren die men verdiend heeft is niets bijzonders. Maar geduldig verdragen dat gij te lijden hebt om uw goede daden, dat is het wat God behaagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slagen verduren die men verdiend heeft is niets bijzonders. Maar geduldig verdragen dat gij te lijden hebt om uw goede daden, dat is het wat God behaagt."
+          }
+        ]
+      },
+      "id": "1petrus.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "die eertijds, in de dagen dat Noach de ark bouwde, weerspannig waren geweest, terwijl God in zijn lankmoedigheid geduld oefende. In de ark bleven slechts enkelen, niet meer dan acht personen, behouden te midden van het water.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die eertijds, in de dagen dat Noach de ark bouwde, weerspannig waren geweest, terwijl God in zijn lankmoedigheid geduld oefende. In de ark bleven slechts enkelen, niet meer dan acht personen, behouden te midden van het water."
+          }
+        ]
+      },
+      "id": "1petrus.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Door Hem gelooft gij in God, die Hem van de doden opgewekt en Hem de heerlijkheid gegeven heeft; daarom is uw geloof in God tevens hoop op God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door Hem gelooft gij in God, die Hem van de doden opgewekt en Hem de heerlijkheid gegeven heeft; daarom is uw geloof in God tevens hoop op God."
+          }
+        ]
+      },
+      "id": "1petrus.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "En het is ook uw roeping, want Christus heeft voor u geleden en u een voorbeeld nagelaten; gij moet in zijn voetstappen treden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En het is ook uw roeping, want Christus heeft voor u geleden en u een voorbeeld nagelaten; gij moet in zijn voetstappen treden."
+          }
+        ]
+      },
+      "id": "1petrus.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Dit was een voorafbeelding van het doopwater, waardoor gij nu gered wordt. De doop beoogt niet de verwijdering van lichamelijke onreinheid, maar de verbintenis met God van een goed geweten, krachtens de opstanding van Jezus Christus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit was een voorafbeelding van het doopwater, waardoor gij nu gered wordt. De doop beoogt niet de verwijdering van lichamelijke onreinheid, maar de verbintenis met God van een goed geweten, krachtens de opstanding van Jezus Christus,"
+          }
+        ]
+      },
+      "id": "1petrus.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Nu gij uw ziel gereinigd hebt door de waarheid gehoorzaam te aanvaarden, moet gij elkander beminnen met oprechte broederliefde, met hart en vurigheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu gij uw ziel gereinigd hebt door de waarheid gehoorzaam te aanvaarden, moet gij elkander beminnen met oprechte broederliefde, met hart en vurigheid,"
+          }
+        ]
+      },
+      "id": "1petrus.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Hij heeft geen zonde gedaan en in zijn mond is geen bedrog gevonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft geen zonde gedaan en in zijn mond is geen bedrog gevonden."
+          }
+        ]
+      },
+      "id": "1petrus.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "die ten hemel gevaren zetelt aan Gods rechterhand, nadat engelen en machten en krachten aan Hem onderworpen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die ten hemel gevaren zetelt aan Gods rechterhand, nadat engelen en machten en krachten aan Hem onderworpen zijn."
+          }
+        ]
+      },
+      "id": "1petrus.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "als mensen die opnieuw geboren zijn, niet uit een vergankelijk zaad, maar door het onvergankelijke woord van de levende en eeuwige God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als mensen die opnieuw geboren zijn, niet uit een vergankelijk zaad, maar door het onvergankelijke woord van de levende en eeuwige God."
+          }
+        ]
+      },
+      "id": "1petrus.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Als Hij gescholden werd, schold Hij niet terug. Als men Hem leed aandeed, uitte Hij geen dreigementen. Hij liet zijn zaak over aan Hem die rechtvaardig oordeelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als Hij gescholden werd, schold Hij niet terug. Als men Hem leed aandeed, uitte Hij geen dreigementen. Hij liet zijn zaak over aan Hem die rechtvaardig oordeelt."
+          }
+        ]
+      },
+      "id": "1petrus.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Want alle vlees is als gras en heel zijn luister als een veldbloem. Het gras verdort, de bloem valt af,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want alle vlees is als gras en heel zijn luister als een veldbloem. Het gras verdort, de bloem valt af,"
+          }
+        ]
+      },
+      "id": "1petrus.1.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "In zijn eigen lichaam heeft Hij onze zonden op het kruishout gedragen, opdat wij aan de zonden zouden afsterven en gaan leven voor gerechtigheid. Door zijn striemen zijt gij genezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In zijn eigen lichaam heeft Hij onze zonden op het kruishout gedragen, opdat wij aan de zonden zouden afsterven en gaan leven voor gerechtigheid. Door zijn striemen zijt gij genezen."
+          }
+        ]
+      },
+      "id": "1petrus.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "maar het woord des Heren blijft in eeuwigheid. En dit woord is de boodschap die u in het evangelie is verkondigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar het woord des Heren blijft in eeuwigheid. En dit woord is de boodschap die u in het evangelie is verkondigd."
+          }
+        ]
+      },
+      "id": "1petrus.1.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Want gij waart verdwaald als schapen, maar nu zijt ge bekeerd tot de herder en behoeder van uw zielen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want gij waart verdwaald als schapen, maar nu zijt ge bekeerd tot de herder en behoeder van uw zielen."
+          }
+        ]
+      },
+      "id": "1petrus.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

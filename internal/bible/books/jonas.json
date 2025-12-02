@@ -1,0 +1,824 @@
+{
+  "id": "jonas",
+  "name": "Jona",
+  "chapters": 4,
+  "verseCount": 48,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het woord van Jahwe werd gericht tot Jona, de zoon van Amittai:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe werd gericht tot Jona, de zoon van Amittai:"
+          }
+        ]
+      },
+      "id": "jonas.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Nu zond Jahwe een grote vis om Jona te verzwelgen. En Jona was in de buik van de vis, drie dagen en drie nachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu zond Jahwe een grote vis om Jona te verzwelgen. En Jona was in de buik van de vis, drie dagen en drie nachten."
+          }
+        ]
+      },
+      "id": "jonas.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Nu werd het woord van Jahwe voor de tweede maal tot Jona gericht:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu werd het woord van Jahwe voor de tweede maal tot Jona gericht:"
+          }
+        ]
+      },
+      "id": "jonas.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Jona echter vond dit een heilloos besluit en hij werd nijdig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jona echter vond dit een heilloos besluit en hij werd nijdig."
+          }
+        ]
+      },
+      "id": "jonas.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "'Sta op, ga naar Nineve, de grote stad Nineve, en zeg haar aan, dat hun verdorvenheid is doorgedrongen tot Mij in den hoge.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Sta op, ga naar Nineve, de grote stad Nineve, en zeg haar aan, dat hun verdorvenheid is doorgedrongen tot Mij in den hoge.'"
+          }
+        ]
+      },
+      "id": "jonas.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "En in de buik van de vis bad Jona tot Jahwe, zijn God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En in de buik van de vis bad Jona tot Jahwe, zijn God."
+          }
+        ]
+      },
+      "id": "jonas.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "'Sta op, ga naar Nineve, de grote stad Nineve, en zeg haar aan wat Ik u te zeggen heb gegeven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Sta op, ga naar Nineve, de grote stad Nineve, en zeg haar aan wat Ik u te zeggen heb gegeven.'"
+          }
+        ]
+      },
+      "id": "jonas.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Hij bad tot Jahwe: 'Ach Jahwe, had ik het niet gedacht, toen ik nog in mijn land was! Daarom ben ik ook aanstonds maar naar Tarsis gevlucht! Ik wist immers, dat Gij een medelijdende en barmhartige God zijt, lankmoedig en rijk aan liefde, altijd geneigd om spijt te krijgen over aangezegd onheil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij bad tot Jahwe: 'Ach Jahwe, had ik het niet gedacht, toen ik nog in mijn land was! Daarom ben ik ook aanstonds maar naar Tarsis gevlucht! Ik wist immers, dat Gij een medelijdende en barmhartige God zijt, lankmoedig en rijk aan liefde, altijd geneigd om spijt te krijgen over aangezegd onheil."
+          }
+        ]
+      },
+      "id": "jonas.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "En Jona stond op, maar om te vluchten naar Tarsis, weg van Jahwe. Hij begaf zich naar Jafo en hij vond daar een schip dat op het punt stond naar Tarsis te varen; hij betaalde voor de overtocht en ging aan boord om mee te varen naar Tarsis, weg van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Jona stond op, maar om te vluchten naar Tarsis, weg van Jahwe. Hij begaf zich naar Jafo en hij vond daar een schip dat op het punt stond naar Tarsis te varen; hij betaalde voor de overtocht en ging aan boord om mee te varen naar Tarsis, weg van Jahwe."
+          }
+        ]
+      },
+      "id": "jonas.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Hij zei: 'In mijn nood roep ik Jahwe aan, roep ik tot Hem om antwoord. Uit de schoot van de onderwereld schreeuw ik: Luister naar mijn stem!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zei: 'In mijn nood roep ik Jahwe aan, roep ik tot Hem om antwoord. Uit de schoot van de onderwereld schreeuw ik: Luister naar mijn stem!"
+          }
+        ]
+      },
+      "id": "jonas.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "En Jona stond op en ging naar Nineve, zoals Jahwe bevolen had. Nineve was een geweldig grote stad; drie dagen had men nodig om er doorheen te trekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Jona stond op en ging naar Nineve, zoals Jahwe bevolen had. Nineve was een geweldig grote stad; drie dagen had men nodig om er doorheen te trekken."
+          }
+        ]
+      },
+      "id": "jonas.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Gij kunt mijn levensadem nu wel van mij wegnemen, Jahwe: de dood is mij liever dan het leven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij kunt mijn levensadem nu wel van mij wegnemen, Jahwe: de dood is mij liever dan het leven.'"
+          }
+        ]
+      },
+      "id": "jonas.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Maar Jahwe smeet hevige wind op de zee en er brak op de zee zo een hevige storm los, dat het schip dreigde te breken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Jahwe smeet hevige wind op de zee en er brak op de zee zo een hevige storm los, dat het schip dreigde te breken."
+          }
+        ]
+      },
+      "id": "jonas.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Gij hebt mij in de afgrond geworpen, in het hart van de zee; stromen water omgeven mij; al uw brekers, al uw golven slaan over mij heen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt mij in de afgrond geworpen, in het hart van de zee; stromen water omgeven mij; al uw brekers, al uw golven slaan over mij heen."
+          }
+        ]
+      },
+      "id": "jonas.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Jona begon de stad in te gaan, een dagreis ver. Toen riep hij: 'Veertig dagen nog, en Nineve wordt met de grond gelijk gemaakt!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jona begon de stad in te gaan, een dagreis ver. Toen riep hij: 'Veertig dagen nog, en Nineve wordt met de grond gelijk gemaakt!'"
+          }
+        ]
+      },
+      "id": "jonas.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Maar Jahwe vroeg: 'Is er wel reden om zo nijdig te zijn?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Jahwe vroeg: 'Is er wel reden om zo nijdig te zijn?'"
+          }
+        ]
+      },
+      "id": "jonas.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "De zeelieden werden bevreesd en ieder van hen riep tot zijn eigen god. Om het schip lichter te maken smeten ze de lading in zee. Jona echter was afgedaald tot in het diepst van het ruim, had zich daar neergelegd en was in een diepe slaap gevallen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zeelieden werden bevreesd en ieder van hen riep tot zijn eigen god. Om het schip lichter te maken smeten ze de lading in zee. Jona echter was afgedaald tot in het diepst van het ruim, had zich daar neergelegd en was in een diepe slaap gevallen."
+          }
+        ]
+      },
+      "id": "jonas.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Ik zei al: Verworpen ben ik, uit uw ogen verbannen. Hoe zal ik ooit nog uw heilige tempel aanschouwen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zei al: Verworpen ben ik, uit uw ogen verbannen. Hoe zal ik ooit nog uw heilige tempel aanschouwen?"
+          }
+        ]
+      },
+      "id": "jonas.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Maar de Ninevieten zochten hun steun bij God; zij riepen een vasten uit en allen, van groot tot klein, trokken zij boetekleren aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de Ninevieten zochten hun steun bij God; zij riepen een vasten uit en allen, van groot tot klein, trokken zij boetekleren aan."
+          }
+        ]
+      },
+      "id": "jonas.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Jona ging de stad uit en aan de oostkant van de stad gekomen, ging hij daar zitten. Hij maakte zich een loofdak en ging daaronder in de schaduw zitten uitkijken, wat er met de stad zou gebeuren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jona ging de stad uit en aan de oostkant van de stad gekomen, ging hij daar zitten. Hij maakte zich een loofdak en ging daaronder in de schaduw zitten uitkijken, wat er met de stad zou gebeuren."
+          }
+        ]
+      },
+      "id": "jonas.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "De kapitein kwam naar hem toe en zei tot hem: 'Hoe kunt u zo diep slapen? Sta op en bid tot uw god; dan denkt die god misschien aan ons en gaan wij niet te gronde!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De kapitein kwam naar hem toe en zei tot hem: 'Hoe kunt u zo diep slapen? Sta op en bid tot uw god; dan denkt die god misschien aan ons en gaan wij niet te gronde!'"
+          }
+        ]
+      },
+      "id": "jonas.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Het water staat tot mijn lippen, de oceaan omgeeft mij, mijn hoofd is met wier omwonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het water staat tot mijn lippen, de oceaan omgeeft mij, mijn hoofd is met wier omwonden."
+          }
+        ]
+      },
+      "id": "jonas.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Het woord van Jona kwam ook de koning van Nineve ter ore; hij stond op van zijn troon, legde zijn staatsiegewaad af, trok een boetekleed aan en zette zich neer in het stof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jona kwam ook de koning van Nineve ter ore; hij stond op van zijn troon, legde zijn staatsiegewaad af, trok een boetekleed aan en zette zich neer in het stof."
+          }
+        ]
+      },
+      "id": "jonas.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Nu liet Jahwe God een ricinusboom opschieten, tot boven Jona uit, om zijn hoofd te beschaduwen en hem zo van zijn wreveligheid te genezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu liet Jahwe God een ricinusboom opschieten, tot boven Jona uit, om zijn hoofd te beschaduwen en hem zo van zijn wreveligheid te genezen."
+          }
+        ]
+      },
+      "id": "jonas.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "De mannen zeiden tot elkaar: 'Kom, laten we het lot werpen om te zien, aan wie het ligt, dat deze ramp ons treft.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mannen zeiden tot elkaar: 'Kom, laten we het lot werpen om te zien, aan wie het ligt, dat deze ramp ons treft.'"
+          }
+        ]
+      },
+      "id": "jonas.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Tot aan het grondvlak van de bergen ben ik in de onderwereld afgedaald; haar grendels zijn achter mij dichtgegaan, voor eeuwig. Trek mij levend omhoog uit de grafkuil, Jahwe, mijn God!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot aan het grondvlak van de bergen ben ik in de onderwereld afgedaald; haar grendels zijn achter mij dichtgegaan, voor eeuwig. Trek mij levend omhoog uit de grafkuil, Jahwe, mijn God!"
+          }
+        ]
+      },
+      "id": "jonas.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Hij liet in Nineve omroepen: 'Op last van de koning en van zijn rijksgroten! Mensen en dieren, grootvee en kleinvee, zij mogen niets eten, zij mogen niet grazen en geen water drinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij liet in Nineve omroepen: 'Op last van de koning en van zijn rijksgroten! Mensen en dieren, grootvee en kleinvee, zij mogen niets eten, zij mogen niet grazen en geen water drinken."
+          }
+        ]
+      },
+      "id": "jonas.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Jona was opgetogen over die boom. Maar toen beschikte God het zo, dat er de volgende dag in alle vroegte een worm kwam, die de boom aanvrat en deed verdorren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jona was opgetogen over die boom. Maar toen beschikte God het zo, dat er de volgende dag in alle vroegte een worm kwam, die de boom aanvrat en deed verdorren."
+          }
+        ]
+      },
+      "id": "jonas.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Zij wierpen het lot en het lot viel op Jona. Zij vroegen hem: 'U, aan wie het ligt dat ons deze ramp treft, vertel ons eens: 'Waarom bent u op reis en waar komt u vandaan? Wat is uw land en tot welk volk behoort u?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij wierpen het lot en het lot viel op Jona. Zij vroegen hem: 'U, aan wie het ligt dat ons deze ramp treft, vertel ons eens: 'Waarom bent u op reis en waar komt u vandaan? Wat is uw land en tot welk volk behoort u?'"
+          }
+        ]
+      },
+      "id": "jonas.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Nu mijn levensadem mij begeeft, gaan mijn gedachten naar Jahwe. Laat mijn gebed tot U komen, in uw heilige tempel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu mijn levensadem mij begeeft, gaan mijn gedachten naar Jahwe. Laat mijn gebed tot U komen, in uw heilige tempel."
+          }
+        ]
+      },
+      "id": "jonas.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Mensen en dieren moeten zich in boetekleren hullen en uit alle macht tot God roepen; ieder moet terugkomen van zijn heilloze wegen en van de ongerechtigheid, die aan zijn handen kleeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mensen en dieren moeten zich in boetekleren hullen en uit alle macht tot God roepen; ieder moet terugkomen van zijn heilloze wegen en van de ongerechtigheid, die aan zijn handen kleeft."
+          }
+        ]
+      },
+      "id": "jonas.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Bovendien zond God, zodra de zon was opgekomen, een verzengende oostenwind, en de zon stak zo hevig op Jona's hoofd, dat hij uitgeput neerzonk. Hij verlangde te sterven en zei: 'De dood is mij liever dan het leven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien zond God, zodra de zon was opgekomen, een verzengende oostenwind, en de zon stak zo hevig op Jona's hoofd, dat hij uitgeput neerzonk. Hij verlangde te sterven en zei: 'De dood is mij liever dan het leven.'"
+          }
+        ]
+      },
+      "id": "jonas.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Jona antwoordde: 'Ik ben een Hebreeër en ik vrees Jahwe, de God van de hemel, die de zee en het land gemaakt heeft.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jona antwoordde: 'Ik ben een Hebreeër en ik vrees Jahwe, de God van de hemel, die de zee en het land gemaakt heeft.'"
+          }
+        ]
+      },
+      "id": "jonas.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Degenen die voze waanbeelden dienen, zij geven hun toeverlaat prijs.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Degenen die voze waanbeelden dienen, zij geven hun toeverlaat prijs."
+          }
+        ]
+      },
+      "id": "jonas.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Wie weet of God dan niet terugkomt op zijn besluit en daar spijt van krijgt; wie weet of Hij niet terugkomt op zijn vlammende toorn, zodat wij niet te gronde gaan!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie weet of God dan niet terugkomt op zijn besluit en daar spijt van krijgt; wie weet of Hij niet terugkomt op zijn vlammende toorn, zodat wij niet te gronde gaan!'"
+          }
+        ]
+      },
+      "id": "jonas.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Maar God vroeg aan Jona: 'Is er wel reden om zo nijdig te zijn over die ricinusboom?' Hij antwoordde: 'Ja, ik heb reden om door en door nijdig te zijn!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar God vroeg aan Jona: 'Is er wel reden om zo nijdig te zijn over die ricinusboom?' Hij antwoordde: 'Ja, ik heb reden om door en door nijdig te zijn!'"
+          }
+        ]
+      },
+      "id": "jonas.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Toen werden de mannen zeer bevreesd en ze zeiden tot Jona: 'Hoe hebt u zoiets kunnen doen?' Ze hoorden namelijk dat hij, om weg te komen van Jahwe, op de vlucht was gegaan: dat vertelde hij hun.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen werden de mannen zeer bevreesd en ze zeiden tot Jona: 'Hoe hebt u zoiets kunnen doen?' Ze hoorden namelijk dat hij, om weg te komen van Jahwe, op de vlucht was gegaan: dat vertelde hij hun."
+          }
+        ]
+      },
+      "id": "jonas.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Maar ik, ik wil, onder lofgezang U offers brengen, ik wil mijn gelofte gestand doen. Bij Jahwe is redding.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik, ik wil, onder lofgezang U offers brengen, ik wil mijn gelofte gestand doen. Bij Jahwe is redding."
+          }
+        ]
+      },
+      "id": "jonas.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "En God zag wat zij deden; Hij zag hoe zij terugkwamen van hun heilloze wegen. En God kreeg spijt, dat Hij hen met dat onheil bedreigd had. Hij bracht het niet ten uitvoer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En God zag wat zij deden; Hij zag hoe zij terugkwamen van hun heilloze wegen. En God kreeg spijt, dat Hij hen met dat onheil bedreigd had. Hij bracht het niet ten uitvoer."
+          }
+        ]
+      },
+      "id": "jonas.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Daarop sprak Jahwe: 'Gij zijt begaan met die ricinusboom, waarvoor gij niets hebt gedaan en die gij niet hebt opgekweekt, die boom die tussen de ene nacht en de andere is opgeschoten en verdwenen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop sprak Jahwe: 'Gij zijt begaan met die ricinusboom, waarvoor gij niets hebt gedaan en die gij niet hebt opgekweekt, die boom die tussen de ene nacht en de andere is opgeschoten en verdwenen?"
+          }
+        ]
+      },
+      "id": "jonas.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Zij vroegen hem: 'Wat moeten wij met u doen om door de zee met rust gelaten te worden?' De zee werd namelijk steeds stormachtiger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij vroegen hem: 'Wat moeten wij met u doen om door de zee met rust gelaten te worden?' De zee werd namelijk steeds stormachtiger."
+          }
+        ]
+      },
+      "id": "jonas.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Toen sprak Jahwe tot de vis en de vis spuwde Jona op het droge.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen sprak Jahwe tot de vis en de vis spuwde Jona op het droge."
+          }
+        ]
+      },
+      "id": "jonas.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "En zou Ik dan niet begaan zijn met Nineve, de grote stad Nineve, waar zoveel mensen wonen - meer dan twaalf tienduizendtallen - mensen, die het verschil tussen hun rechterhand en hun linkerhand niet weten, en ook nog zoveel dieren?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zou Ik dan niet begaan zijn met Nineve, de grote stad Nineve, waar zoveel mensen wonen - meer dan twaalf tienduizendtallen - mensen, die het verschil tussen hun rechterhand en hun linkerhand niet weten, en ook nog zoveel dieren?'"
+          }
+        ]
+      },
+      "id": "jonas.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Hij antwoordde: 'Neemt mij maar op en smijt mij in zee: dan zal de zee u met rust laten. Ik weet: het ligt aan mij dat deze hevige storm u heeft getroffen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij antwoordde: 'Neemt mij maar op en smijt mij in zee: dan zal de zee u met rust laten. Ik weet: het ligt aan mij dat deze hevige storm u heeft getroffen.'"
+          }
+        ]
+      },
+      "id": "jonas.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "De mannen deden nog een poging om terug te roeien naar het land, maar zij slaagden daar niet in, omdat de zee om hen heen steeds stormachtiger werd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mannen deden nog een poging om terug te roeien naar het land, maar zij slaagden daar niet in, omdat de zee om hen heen steeds stormachtiger werd."
+          }
+        ]
+      },
+      "id": "jonas.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Toen riepen zij tot Jahwe: 'Ach Jahwe, laat ons niet te gronde gaan, wanneer wij deze man om het leven brengen, en reken ons dit niet aan als het vergieten van onschuldig bloed; het heeft U, Jahwe, toch immers behaagd, dit te laten gebeuren!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen riepen zij tot Jahwe: 'Ach Jahwe, laat ons niet te gronde gaan, wanneer wij deze man om het leven brengen, en reken ons dit niet aan als het vergieten van onschuldig bloed; het heeft U, Jahwe, toch immers behaagd, dit te laten gebeuren!'"
+          }
+        ]
+      },
+      "id": "jonas.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Toen namen zij Jona op en smeten hem in zee, en de woede van de zee bedaarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen namen zij Jona op en smeten hem in zee, en de woede van de zee bedaarde."
+          }
+        ]
+      },
+      "id": "jonas.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "De mannen werden met grote vrees voor Jahwe vervuld; ze brachten een offer aan Jahwe en deden Hem geloften.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mannen werden met grote vrees voor Jahwe vervuld; ze brachten een offer aan Jahwe en deden Hem geloften."
+          }
+        ]
+      },
+      "id": "jonas.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

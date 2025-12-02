@@ -1,0 +1,4768 @@
+{
+  "id": "ezra",
+  "name": "Ezra",
+  "chapters": 10,
+  "verseCount": 280,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "In het eerste regeringsjaar van Kores, de koning van Perzië, liet Jahwe de voorspelling die Hij door Jeremia gedaan had, in vervulling gaan. Hij gaf Kores, de koning van Perzië, in om in heel zijn koninkrijk een boodschap af te kondigen en brieven rond te sturen van de volgende inhoud:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het eerste regeringsjaar van Kores, de koning van Perzië, liet Jahwe de voorspelling die Hij door Jeremia gedaan had, in vervulling gaan. Hij gaf Kores, de koning van Perzië, in om in heel zijn koninkrijk een boodschap af te kondigen en brieven rond te sturen van de volgende inhoud:"
+          }
+        ]
+      },
+      "id": "ezra.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Dit zijn de ballingen van de provincie Juda, die door Nebukadnessar de koning van Babel naar Babel waren weggevoerd, maar die uit de ballingschap teruggekeerd zijn naar Jeruzalem en Juda, ieder naar zijn plaats van afkomst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit zijn de ballingen van de provincie Juda, die door Nebukadnessar de koning van Babel naar Babel waren weggevoerd, maar die uit de ballingschap teruggekeerd zijn naar Jeruzalem en Juda, ieder naar zijn plaats van afkomst."
+          }
+        ]
+      },
+      "id": "ezra.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Toen de zevende maand was aangebroken, stroomden alle Israëlieten die zich in de steden gevestigd hadden naar Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de zevende maand was aangebroken, stroomden alle Israëlieten die zich in de steden gevestigd hadden naar Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Toen de vijanden van Juda en Benjamin vernamen dat de teruggekeerde ballingen een tempel bouwden voor Jahwe, de God van Israël,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de vijanden van Juda en Benjamin vernamen dat de teruggekeerde ballingen een tempel bouwden voor Jahwe, de God van Israël,"
+          }
+        ]
+      },
+      "id": "ezra.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "In dat jaar traden Haggai en Zacharia als profeten op onder de joden van Juda en Jeruzalem in de naam van Israëls God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In dat jaar traden Haggai en Zacharia als profeten op onder de joden van Juda en Jeruzalem in de naam van Israëls God."
+          }
+        ]
+      },
+      "id": "ezra.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Daarop beval koning Darius in Babel een onderzoek in te stellen in het archief waar de officiële stukken bewaard werden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop beval koning Darius in Babel een onderzoek in te stellen in het archief waar de officiële stukken bewaard werden."
+          }
+        ]
+      },
+      "id": "ezra.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Geruime tijd later, onder de regering van Artachsasta, de koning van Perzië, vertrok Ezra uit Babel. Hij was de zoon van Seraja, de zoon van Azarja, de zoon van Chilkia,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geruime tijd later, onder de regering van Artachsasta, de koning van Perzië, vertrok Ezra uit Babel. Hij was de zoon van Seraja, de zoon van Azarja, de zoon van Chilkia,"
+          }
+        ]
+      },
+      "id": "ezra.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Dit zijn de familiehoofden met hun stamverwanten, die tijdens de regering van koning Artachsasta met mij uit Babel weggetrokken zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit zijn de familiehoofden met hun stamverwanten, die tijdens de regering van koning Artachsasta met mij uit Babel weggetrokken zijn."
+          }
+        ]
+      },
+      "id": "ezra.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Toen dat alles achter de rug was kwamen de leiders naar mij toe en zeiden: 'Het volk van Israël, de priesters en de levieten, hebben de omgang met de omwonende volken niet gemeden, maar zich schuldig gemaakt aan de gruweldaden der Kanaänieten, Hethieten, Perizzieten, Jebusieten, Ammonieten, Moabieten, Egyptenaren en Amorieten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen dat alles achter de rug was kwamen de leiders naar mij toe en zeiden: 'Het volk van Israël, de priesters en de levieten, hebben de omgang met de omwonende volken niet gemeden, maar zich schuldig gemaakt aan de gruweldaden der Kanaänieten, Hethieten, Perizzieten, Jebusieten, Ammonieten, Moabieten, Egyptenaren en Amorieten."
+          }
+        ]
+      },
+      "id": "ezra.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Terwijl Ezra bad en aller schuld beleed en zich wenend neerwierp voor de tempel, verzamelde zich een zeer grote menigte Israëlieten rondom hem, mannen, vrouwen en kinderen, en al het volk weende luidkeels.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl Ezra bad en aller schuld beleed en zich wenend neerwierp voor de tempel, verzamelde zich een zeer grote menigte Israëlieten rondom hem, mannen, vrouwen en kinderen, en al het volk weende luidkeels."
+          }
+        ]
+      },
+      "id": "ezra.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "'Zo spreekt Kores, de koning van Perzië: Jahwe, de God des hemels, heeft mij alle koninkrijken der aarde geschonken. Hij heeft mij opgedragen voor hem een tempel te bouwen in Jeruzalem in Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Zo spreekt Kores, de koning van Perzië: Jahwe, de God des hemels, heeft mij alle koninkrijken der aarde geschonken. Hij heeft mij opgedragen voor hem een tempel te bouwen in Jeruzalem in Juda."
+          }
+        ]
+      },
+      "id": "ezra.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ze zijn teruggekeerd onder leiding van Zerubbabel, Jesua, Nechemja, Seraja, Reelaja, Mordekai, Bilsan, Mispar, Bigwai, Rechum en Baana. De aantallen mannen onder deze Israëlieten waren als volgt:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze zijn teruggekeerd onder leiding van Zerubbabel, Jesua, Nechemja, Seraja, Reelaja, Mordekai, Bilsan, Mispar, Bigwai, Rechum en Baana. De aantallen mannen onder deze Israëlieten waren als volgt:"
+          }
+        ]
+      },
+      "id": "ezra.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Jesua, de zoon van Josadak, en zijn medepriesters, alsook Zerubbabel, de zoon van Sealtiël, met zijn broers, richtten het altaar van Israëls God weer op om daarop, naar de voorschriften van de wet van Mozes, de man Gods, brandoffers op te dragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jesua, de zoon van Josadak, en zijn medepriesters, alsook Zerubbabel, de zoon van Sealtiël, met zijn broers, richtten het altaar van Israëls God weer op om daarop, naar de voorschriften van de wet van Mozes, de man Gods, brandoffers op te dragen."
+          }
+        ]
+      },
+      "id": "ezra.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "gingen zij naar Zerubbabel en de familiehoofden toe en zeiden hun: 'Wij willen met u aan de bouw deelnemen, want wij vereren uw God evenals uzelf en wij hebben Hem offers gebracht sinds de tijd dat Esarhaddon, de koning van Assur, ons hier heeft gebracht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gingen zij naar Zerubbabel en de familiehoofden toe en zeiden hun: 'Wij willen met u aan de bouw deelnemen, want wij vereren uw God evenals uzelf en wij hebben Hem offers gebracht sinds de tijd dat Esarhaddon, de koning van Assur, ons hier heeft gebracht.'"
+          }
+        ]
+      },
+      "id": "ezra.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Daarom hervatten Zerubbabel, de zoon van Sealtiël, en Jesua, de zoon van Josadek, het werk aan de bouw van de tempel in Jeruzalem en Gods profeten stonden hen bij en moedigden hen aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom hervatten Zerubbabel, de zoon van Sealtiël, en Jesua, de zoon van Josadek, het werk aan de bouw van de tempel in Jeruzalem en Gods profeten stonden hen bij en moedigden hen aan."
+          }
+        ]
+      },
+      "id": "ezra.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "In Ekbatana, de hoofdstad van de provincie Medië, werd een rol gevonden waarop het volgende geschreven stond:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Ekbatana, de hoofdstad van de provincie Medië, werd een rol gevonden waarop het volgende geschreven stond:"
+          }
+        ]
+      },
+      "id": "ezra.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "de zoon van Sallum, de zoon van Sadok, de zoon van Achitub,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de zoon van Sallum, de zoon van Sadok, de zoon van Achitub,"
+          }
+        ]
+      },
+      "id": "ezra.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Van de afstammelingen van Pinechas: Gersom; van de afstammelingen van Itamar: Daniël; van de afstammelingen van David: Hattus;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van de afstammelingen van Pinechas: Gersom; van de afstammelingen van Itamar: Daniël; van de afstammelingen van David: Hattus;"
+          }
+        ]
+      },
+      "id": "ezra.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Uit deze volken hebben zij voor zichzelf en hun zonen vrouwen genomen, zodat het heilige zaad zich vermengd heeft met de omwonende volken. En leiders en oversten hebben zich hieraan nog het meest schuldig gemaakt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit deze volken hebben zij voor zichzelf en hun zonen vrouwen genomen, zodat het heilige zaad zich vermengd heeft met de omwonende volken. En leiders en oversten hebben zich hieraan nog het meest schuldig gemaakt.'"
+          }
+        ]
+      },
+      "id": "ezra.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "En Sekanja, de zoon van Jechiël, een van de zonen van Elam, nam het woord en sprak tot Ezra: 'Wij hebben inderdaad misdaan tegen onze God en uitheemse vrouwen genomen uit de volken van het land, maar ook nu is er nog hoop voor Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Sekanja, de zoon van Jechiël, een van de zonen van Elam, nam het woord en sprak tot Ezra: 'Wij hebben inderdaad misdaan tegen onze God en uitheemse vrouwen genomen uit de volken van het land, maar ook nu is er nog hoop voor Israël."
+          }
+        ]
+      },
+      "id": "ezra.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Laten al degenen onder u die tot zijn volk behoren, onder zijn hoede terugkeren naar Jeruzalem in Juda en een tempel bouwen ter ere van Jahwe, de God van Israël, de God die in Jeruzalem woont.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten al degenen onder u die tot zijn volk behoren, onder zijn hoede terugkeren naar Jeruzalem in Juda en een tempel bouwen ter ere van Jahwe, de God van Israël, de God die in Jeruzalem woont."
+          }
+        ]
+      },
+      "id": "ezra.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "tweeduizend honderdtweeënzeventig afstammelingen van Paros,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweeduizend honderdtweeënzeventig afstammelingen van Paros,"
+          }
+        ]
+      },
+      "id": "ezra.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Ondanks hun vrees voor de omwonende volken herbouwden zij het altaar op zijn vroegere grondslagen en droegen 's morgens en 's avonds brandoffers aan Jahwe op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ondanks hun vrees voor de omwonende volken herbouwden zij het altaar op zijn vroegere grondslagen en droegen 's morgens en 's avonds brandoffers aan Jahwe op."
+          }
+        ]
+      },
+      "id": "ezra.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Maar Zerubbabel, Jesua en de overige familiehoofden van Israël gaven hun ten antwoord: 'Een tempel bouwen voor onze God is geen zaak voor u en ons samen. Voor Jahwe, de God van Israël, moeten wij alleen bouwen, want zo heeft koning Kores, de koning van Perzië, ons bevolen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Zerubbabel, Jesua en de overige familiehoofden van Israël gaven hun ten antwoord: 'Een tempel bouwen voor onze God is geen zaak voor u en ons samen. Voor Jahwe, de God van Israël, moeten wij alleen bouwen, want zo heeft koning Kores, de koning van Perzië, ons bevolen.'"
+          }
+        ]
+      },
+      "id": "ezra.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Enige tijd later kwamen Tattenai, de stadhouder van het gebied aan de overzijde van de Rivier, en Setar-bozenai met hun ambtgenoten naar hen toe en vroegen hun: 'Wie heeft er toestemming verleend deze tempel te herbouwen en zijn muren weer op te trekken?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Enige tijd later kwamen Tattenai, de stadhouder van het gebied aan de overzijde van de Rivier, en Setar-bozenai met hun ambtgenoten naar hen toe en vroegen hun: 'Wie heeft er toestemming verleend deze tempel te herbouwen en zijn muren weer op te trekken?'"
+          }
+        ]
+      },
+      "id": "ezra.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "'In het eerste regeringsjaar van koning Kores vaardigde deze een decreet uit betreffende de tempel van Jeruzalem: De tempel, de plaats waar slacht - en brandoffers worden opgedragen, moet herbouwd worden, zestig el hoog en zestig el breed,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'In het eerste regeringsjaar van koning Kores vaardigde deze een decreet uit betreffende de tempel van Jeruzalem: De tempel, de plaats waar slacht - en brandoffers worden opgedragen, moet herbouwd worden, zestig el hoog en zestig el breed,"
+          }
+        ]
+      },
+      "id": "ezra.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "de zoon van Amarja, de zoon van Azarja, de zoon van Merajot,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de zoon van Amarja, de zoon van Azarja, de zoon van Merajot,"
+          }
+        ]
+      },
+      "id": "ezra.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "van de afstammelingen van Sekanja; van de afstammelingen van Paros: Zekarja, en met hem honderdvijftig ingeschreven mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Sekanja; van de afstammelingen van Paros: Zekarja, en met hem honderdvijftig ingeschreven mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Toen ik dat hoorde scheurde ik mijn kleed en mijn mantel, trok mij de haren uit het hoofd en baard en zat verbijsterd neer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik dat hoorde scheurde ik mijn kleed en mijn mantel, trok mij de haren uit het hoofd en baard en zat verbijsterd neer."
+          }
+        ]
+      },
+      "id": "ezra.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Als het mijn heer en allen die sidderen voor het gebod van onze God goeddunkt, willen wij ons tegenover onze God verplichten de vrouwen met hun kinderen weg te sturen, opdat de wet wordt nageleefd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het mijn heer en allen die sidderen voor het gebod van onze God goeddunkt, willen wij ons tegenover onze God verplichten de vrouwen met hun kinderen weg te sturen, opdat de wet wordt nageleefd."
+          }
+        ]
+      },
+      "id": "ezra.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Overal waar er nog Israëlieten zijn, zullen deze van hun medeburgers zilver en goud, have en vee ontvangen, en bovendien wijgeschenken voor de tempel van God in Jeruzalem.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Overal waar er nog Israëlieten zijn, zullen deze van hun medeburgers zilver en goud, have en vee ontvangen, en bovendien wijgeschenken voor de tempel van God in Jeruzalem.'"
+          }
+        ]
+      },
+      "id": "ezra.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "driehonderdtweeënzeventig afstammelingen van Sefatja,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "driehonderdtweeënzeventig afstammelingen van Sefatja,"
+          }
+        ]
+      },
+      "id": "ezra.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "En zij vierden het loofhuttenfeest zoals het voorgeschreven was, met het aantal brandoffers dat voor elke dag was voorgeschreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zij vierden het loofhuttenfeest zoals het voorgeschreven was, met het aantal brandoffers dat voor elke dag was voorgeschreven."
+          }
+        ]
+      },
+      "id": "ezra.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Toen trachtten de bewoners van het land het volk van Juda de moed te ontnemen en ze af te schrikken van de bouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen trachtten de bewoners van het land het volk van Juda de moed te ontnemen en ze af te schrikken van de bouw."
+          }
+        ]
+      },
+      "id": "ezra.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Zij vroegen hun bovendien naar de namen van de mannen die met de bouw begonnen waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij vroegen hun bovendien naar de namen van de mannen die met de bouw begonnen waren."
+          }
+        ]
+      },
+      "id": "ezra.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "met telkens drie lagen gehouwen steen en een laag hout. De kosten zullen betaald worden uit de koninklijke schatkist.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "met telkens drie lagen gehouwen steen en een laag hout. De kosten zullen betaald worden uit de koninklijke schatkist."
+          }
+        ]
+      },
+      "id": "ezra.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "de zoon van Zecharja, de zoon van Uzzi, de zoon van Bukki,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de zoon van Zecharja, de zoon van Uzzi, de zoon van Bukki,"
+          }
+        ]
+      },
+      "id": "ezra.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "van de afstammelingen van Pachat-moab: Eljehoenai, de zoon van Zerachja, en met hem tweehonderd mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Pachat-moab: Eljehoenai, de zoon van Zerachja, en met hem tweehonderd mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "En allen die deze misdaad van de vroeger teruggekeerde ballingen deed sidderen voor het woord van de God van Israël, verzamelden zich om mij heen; tot het uur van het avondoffer bleef ik sprakeloos zitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En allen die deze misdaad van de vroeger teruggekeerde ballingen deed sidderen voor het woord van de God van Israël, verzamelden zich om mij heen; tot het uur van het avondoffer bleef ik sprakeloos zitten."
+          }
+        ]
+      },
+      "id": "ezra.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Sta op; u komt de beslissing toe, maar wij staan aan uw zijde; wees sterk en tast door.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sta op; u komt de beslissing toe, maar wij staan aan uw zijde; wees sterk en tast door.'"
+          }
+        ]
+      },
+      "id": "ezra.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "De familiehoofden van Juda en Benjamin, de priesters en de levieten, allen wie God het ingaf, troffen voorbereidingen voor de terugreis om de tempel van Jahwe in Jeruzalem weer op te bouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De familiehoofden van Juda en Benjamin, de priesters en de levieten, allen wie God het ingaf, troffen voorbereidingen voor de terugreis om de tempel van Jahwe in Jeruzalem weer op te bouwen."
+          }
+        ]
+      },
+      "id": "ezra.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "zevenhonderdvijfenzeventig afstammelingen van Arach,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zevenhonderdvijfenzeventig afstammelingen van Arach,"
+          }
+        ]
+      },
+      "id": "ezra.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Van toen af droeg men weer het dagelijks brandoffer op, alsook het offer bij gelegenheid van de nieuwe maan en van alle heilige hoogtijdagen ter ere van Jahwe, en het offer dat iemand vrijwillig aan Jahwe wilde brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van toen af droeg men weer het dagelijks brandoffer op, alsook het offer bij gelegenheid van de nieuwe maan en van alle heilige hoogtijdagen ter ere van Jahwe, en het offer dat iemand vrijwillig aan Jahwe wilde brengen."
+          }
+        ]
+      },
+      "id": "ezra.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Zij kochten een aantal invloedrijke personen om, die erin slaagden de uitvoering van het plan te verhinderen, zolang Kores, de koning van Perzië, regeerde en zelfs tijdens de regering van Darius, de koning van Perzië.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij kochten een aantal invloedrijke personen om, die erin slaagden de uitvoering van het plan te verhinderen, zolang Kores, de koning van Perzië, regeerde en zelfs tijdens de regering van Darius, de koning van Perzië."
+          }
+        ]
+      },
+      "id": "ezra.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Maar de blik van God rustte op de oudsten der joden: zij hoefden het werk niet te staken voordat er een beslissing zou zijn afgekomen van Darius als antwoord op een rapport dat zij hem hierover zouden toezenden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de blik van God rustte op de oudsten der joden: zij hoefden het werk niet te staken voordat er een beslissing zou zijn afgekomen van Darius als antwoord op een rapport dat zij hem hierover zouden toezenden."
+          }
+        ]
+      },
+      "id": "ezra.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "De gouden en zilveren vaten van de tempel, die Nebukadnessar uit de tempel van Jeruzalem weggenomen heeft en overgebracht naar de tempel van Babel, moeten teruggegeven worden aan de tempel van Jeruzalem en op hun vroegere plaats in de tempel worden teruggezet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De gouden en zilveren vaten van de tempel, die Nebukadnessar uit de tempel van Jeruzalem weggenomen heeft en overgebracht naar de tempel van Babel, moeten teruggegeven worden aan de tempel van Jeruzalem en op hun vroegere plaats in de tempel worden teruggezet."
+          }
+        ]
+      },
+      "id": "ezra.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "de zoon van Abisua, de zoon van Pinechas, de zoon van Eleazar, de zoon van de hogepriester Aaron.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de zoon van Abisua, de zoon van Pinechas, de zoon van Eleazar, de zoon van de hogepriester Aaron."
+          }
+        ]
+      },
+      "id": "ezra.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "van de afstammelingen van Sekanja: de zoon van Jachaziël, en met hem driehonderd mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Sekanja: de zoon van Jachaziël, en met hem driehonderd mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Toen het uur van het avondoffer gekomen was, ontwaakte ik uit mijn toestand van verbijstering, viel op mijn knieën met kleed en mantel gescheurd, strekte mijn handen uit naar Jahwe, mijn God,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen het uur van het avondoffer gekomen was, ontwaakte ik uit mijn toestand van verbijstering, viel op mijn knieën met kleed en mantel gescheurd, strekte mijn handen uit naar Jahwe, mijn God,"
+          }
+        ]
+      },
+      "id": "ezra.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Nu stond Ezra op en vroeg de leiders van de priesters, van de levieten en van heel Israël, te zweren dat zij zo zouden handelen; en dat deden zij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu stond Ezra op en vroeg de leiders van de priesters, van de levieten en van heel Israël, te zweren dat zij zo zouden handelen; en dat deden zij."
+          }
+        ]
+      },
+      "id": "ezra.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "En hun buren gaven hun als bijdragen zilveren en gouden voorwerpen, have en vee en allerlei kostbaarheden en nog andere geschenken die ze spontaan aanboden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hun buren gaven hun als bijdragen zilveren en gouden voorwerpen, have en vee en allerlei kostbaarheden en nog andere geschenken die ze spontaan aanboden."
+          }
+        ]
+      },
+      "id": "ezra.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "tweeduizend achthonderdtwaalf afstammelingen van Pachat-moab uit de families van Jesua en Joab,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweeduizend achthonderdtwaalf afstammelingen van Pachat-moab uit de families van Jesua en Joab,"
+          }
+        ]
+      },
+      "id": "ezra.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Vanaf de eerste dag van de zevende maand was men begonnen brandoffers aan Jahwe op te dragen, maar met de herbouw van de tempel was nog geen begin gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vanaf de eerste dag van de zevende maand was men begonnen brandoffers aan Jahwe op te dragen, maar met de herbouw van de tempel was nog geen begin gemaakt."
+          }
+        ]
+      },
+      "id": "ezra.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Onder de regering van Ahasveros, en wel in het begin van diens bewind, dienden zij een aanklacht in tegen de bewoners van Juda en Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder de regering van Ahasveros, en wel in het begin van diens bewind, dienden zij een aanklacht in tegen de bewoners van Juda en Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Hier volgt een afschrift van de brief die Tattenai, de stadhouder aan de overzijde van de Rivier, en Setar-bozenai met hun ambtgenoten uit Afarsat, aangesteld in het gebied aan de overzijde van de Rivier, aan koning Darius gestuurd hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier volgt een afschrift van de brief die Tattenai, de stadhouder aan de overzijde van de Rivier, en Setar-bozenai met hun ambtgenoten uit Afarsat, aangesteld in het gebied aan de overzijde van de Rivier, aan koning Darius gestuurd hebben."
+          }
+        ]
+      },
+      "id": "ezra.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Derhalve mag u, Tattenai, stadhouder van het gebied aan de overzijde van de Rivier, Setar-bozenai en uw ambtgenoten uit Afarsat, aangesteld aan de overzijde van de Rivier, hun niets in de weg leggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Derhalve mag u, Tattenai, stadhouder van het gebied aan de overzijde van de Rivier, Setar-bozenai en uw ambtgenoten uit Afarsat, aangesteld aan de overzijde van de Rivier, hun niets in de weg leggen."
+          }
+        ]
+      },
+      "id": "ezra.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Hij was een schriftgeleerde, zeer bedreven in de wet van Mozes, de wet die Jahwe aan Israël geschonken heeft. En de koning was Ezra in alles ter wille, want Jahwe, zijn God, was met hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij was een schriftgeleerde, zeer bedreven in de wet van Mozes, de wet die Jahwe aan Israël geschonken heeft. En de koning was Ezra in alles ter wille, want Jahwe, zijn God, was met hem."
+          }
+        ]
+      },
+      "id": "ezra.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "van de afstammelingen van Adin: Ebed, de zoon van Jonatan, en met hem vijftig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Adin: Ebed, de zoon van Jonatan, en met hem vijftig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "en bad: 'Mijn God, ik voel mij zo diep beschaamd dat ik mijn gezicht niet tot U durf op te heffen, want onze zonden zijn boven ons hoofd uitgestegen en onze schuld reikt tot aan de hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en bad: 'Mijn God, ik voel mij zo diep beschaamd dat ik mijn gezicht niet tot U durf op te heffen, want onze zonden zijn boven ons hoofd uitgestegen en onze schuld reikt tot aan de hemel."
+          }
+        ]
+      },
+      "id": "ezra.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "Ezra ging van waar hij zich bevond voor de tempel naar de kamer van Jochanan, de zoon van Eljasib. Daar bracht hij de nacht door. Hij at geen brood en dronk geen water, omdat hij treurde over de ontrouw van de ballingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ezra ging van waar hij zich bevond voor de tempel naar de kamer van Jochanan, de zoon van Eljasib. Daar bracht hij de nacht door. Hij at geen brood en dronk geen water, omdat hij treurde over de ontrouw van de ballingen."
+          }
+        ]
+      },
+      "id": "ezra.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Bovendien liet koning Kores het vaatwerk van de tempel van Jahwe, dat door Nebukadnessar uit Jeruzalem was weggesleept en in de tempel van diens god ondergebracht, te voorschijn halen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien liet koning Kores het vaatwerk van de tempel van Jahwe, dat door Nebukadnessar uit Jeruzalem was weggesleept en in de tempel van diens god ondergebracht, te voorschijn halen."
+          }
+        ]
+      },
+      "id": "ezra.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "twaalfhonderdvierenvijftig afstammelingen van Elam,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "twaalfhonderdvierenvijftig afstammelingen van Elam,"
+          }
+        ]
+      },
+      "id": "ezra.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Daarom gaven ze geld aan de steenhouwers en de steenbewerkers, alsook voedsel en drank en olie aan de Sidoniërs en Tyriërs om ceders van de Libanon over zee te vervoeren naar Jafo, overeenkomstig de toestemming die ze van Kores, de koning van Perzië, verkregen hadden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom gaven ze geld aan de steenhouwers en de steenbewerkers, alsook voedsel en drank en olie aan de Sidoniërs en Tyriërs om ceders van de Libanon over zee te vervoeren naar Jafo, overeenkomstig de toestemming die ze van Kores, de koning van Perzië, verkregen hadden."
+          }
+        ]
+      },
+      "id": "ezra.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Ook ten tijde van Artachsasta schreven Bislan, Mitredat en Tabeel met hun overige ambtgenoten een brief aan Artachsasta, de koning van Perzië. Het schrijven was gesteld in het Aramees, maar er was een vertaling bij. Wat nu volgt staat in het Aramees.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook ten tijde van Artachsasta schreven Bislan, Mitredat en Tabeel met hun overige ambtgenoten een brief aan Artachsasta, de koning van Perzië. Het schrijven was gesteld in het Aramees, maar er was een vertaling bij. Wat nu volgt staat in het Aramees."
+          }
+        ]
+      },
+      "id": "ezra.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Het schrijven dat ze hem zonden luidde als volgt: 'Aan koning Darius alle heil!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het schrijven dat ze hem zonden luidde als volgt: 'Aan koning Darius alle heil!"
+          }
+        ]
+      },
+      "id": "ezra.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Laat het werk aan de tempel doorgaan, zodat de stadhouder van Juda en de oudsten van de joden de tempel op zijn vroegere plaats kunnen herbouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat het werk aan de tempel doorgaan, zodat de stadhouder van Juda en de oudsten van de joden de tempel op zijn vroegere plaats kunnen herbouwen."
+          }
+        ]
+      },
+      "id": "ezra.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Met hem vertrokken in het zevende regeringsjaar van koning Artachsasta een aantal Israëlieten, waaronder priesters, levieten, zangers, poortwachters en tempeldienaren, naar Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hem vertrokken in het zevende regeringsjaar van koning Artachsasta een aantal Israëlieten, waaronder priesters, levieten, zangers, poortwachters en tempeldienaren, naar Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "van de afstammelingen van Elam; Jesaja, de zoon van Atalja, en met hem zeventig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Elam; Jesaja, de zoon van Atalja, en met hem zeventig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Sinds de dagen van onze voorvaderen tot op heden gaan wij gebukt onder een grote schuld. Omwille van onze zonden werden wij, onze koningen en onze priesters, uitgeleverd aan de koningen der aarde, aan zwaard, gevangenschap, plundering en schande tot vandaag toe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sinds de dagen van onze voorvaderen tot op heden gaan wij gebukt onder een grote schuld. Omwille van onze zonden werden wij, onze koningen en onze priesters, uitgeleverd aan de koningen der aarde, aan zwaard, gevangenschap, plundering en schande tot vandaag toe."
+          }
+        ]
+      },
+      "id": "ezra.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Nu liet men door Juda en Jeruzalem omroepen dat alle teruggekeerde ballingen in Jeruzalem samen moesten komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu liet men door Juda en Jeruzalem omroepen dat alle teruggekeerde ballingen in Jeruzalem samen moesten komen."
+          }
+        ]
+      },
+      "id": "ezra.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Kores, de koning van Perzië, liet dit doen door zijn schatmeester Mitredat, die alles overdroeg aan Sesbassar, de vorst van Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kores, de koning van Perzië, liet dit doen door zijn schatmeester Mitredat, die alles overdroeg aan Sesbassar, de vorst van Juda."
+          }
+        ]
+      },
+      "id": "ezra.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "negenhonderdvijfenveertig afstammelingen van Zattu,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "negenhonderdvijfenveertig afstammelingen van Zattu,"
+          }
+        ]
+      },
+      "id": "ezra.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "In de tweede maand van het tweede jaar na hun terugkeer naar de tempel in Jeruzalem maakten Zerubbabel, de zoon van Sealtiël, en Jesua, de zoon van Josadak, met de andere priesters, hun broeders, met de levieten en allen die uit de gevangenschap teruggekeerd waren naar Jeruzalem, een begin met de herbouw van de tempel en stelden zij levieten van twintig jaar en ouder aan om toezicht te houden op de werkzaamheden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de tweede maand van het tweede jaar na hun terugkeer naar de tempel in Jeruzalem maakten Zerubbabel, de zoon van Sealtiël, en Jesua, de zoon van Josadak, met de andere priesters, hun broeders, met de levieten en allen die uit de gevangenschap teruggekeerd waren naar Jeruzalem, een begin met de herbouw van de tempel en stelden zij levieten van twintig jaar en ouder aan om toezicht te houden op de werkzaamheden."
+          }
+        ]
+      },
+      "id": "ezra.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Rechum, de landvoogd, en Simsai, de schrijver, schreven eveneens over Jeruzalem een brief aan Artachsasta van de volgende inhoud.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rechum, de landvoogd, en Simsai, de schrijver, schreven eveneens over Jeruzalem een brief aan Artachsasta van de volgende inhoud."
+          }
+        ]
+      },
+      "id": "ezra.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "De koning moge weten dat wij naar de provincie Juda en naar de tempel van de grote God gegaan zijn. Men is bezig deze met steenblokken te herbouwen en de muren met hout te bekleden. Het werk wordt met ijver uitgevoerd en vordert gestaag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning moge weten dat wij naar de provincie Juda en naar de tempel van de grote God gegaan zijn. Men is bezig deze met steenblokken te herbouwen en de muren met hout te bekleden. Het werk wordt met ijver uitgevoerd en vordert gestaag."
+          }
+        ]
+      },
+      "id": "ezra.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Bovendien bepaal ik hierbij dat u met de oudsten van de joden moet samenwerken om deze tempel te herbouwen. De uitgaven moeten aan deze mannen volledig en op tijd worden vergoed uit de koninklijke inkomsten en belastingen uit het gebied aan de overzijde van de Rivier.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien bepaal ik hierbij dat u met de oudsten van de joden moet samenwerken om deze tempel te herbouwen. De uitgaven moeten aan deze mannen volledig en op tijd worden vergoed uit de koninklijke inkomsten en belastingen uit het gebied aan de overzijde van de Rivier."
+          }
+        ]
+      },
+      "id": "ezra.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "In de vijfde maand van het zevende regeringsjaar van de koning kwam hij in Jeruzalem aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de vijfde maand van het zevende regeringsjaar van de koning kwam hij in Jeruzalem aan."
+          }
+        ]
+      },
+      "id": "ezra.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "van de afstammelingen van Sefatja: Zebadja, de zoon van Michaël, en met hem tachtig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Sefatja: Zebadja, de zoon van Michaël, en met hem tachtig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "En nu heeft Jahwe, onze God, ons een ogenblik zijn barmhartigheid getoond; Hij heeft een rest van ons overgelaten, ons een houvast gegeven in zijn heilige plaats, onze ogen weer het licht doen zien en ons een moment rust gegund in onze slavernij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu heeft Jahwe, onze God, ons een ogenblik zijn barmhartigheid getoond; Hij heeft een rest van ons overgelaten, ons een houvast gegeven in zijn heilige plaats, onze ogen weer het licht doen zien en ons een moment rust gegund in onze slavernij."
+          }
+        ]
+      },
+      "id": "ezra.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Als iemand binnen drie dagen niet zou zijn gekomen, zou hij volgens het besluit van de leiders en de oudsten heel zijn bezit verbeuren en uitgesloten worden van de gemeenschap der ballingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand binnen drie dagen niet zou zijn gekomen, zou hij volgens het besluit van de leiders en de oudsten heel zijn bezit verbeuren en uitgesloten worden van de gemeenschap der ballingen."
+          }
+        ]
+      },
+      "id": "ezra.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "De hoeveelheden waren als volgt: dertig gouden bekkens, duizend zilveren bekkens, negenentwintig offerschalen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hoeveelheden waren als volgt: dertig gouden bekkens, duizend zilveren bekkens, negenentwintig offerschalen,"
+          }
+        ]
+      },
+      "id": "ezra.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "zevenhonderdzestig afstammelingen van Zakkai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zevenhonderdzestig afstammelingen van Zakkai,"
+          }
+        ]
+      },
+      "id": "ezra.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Als opzichters over de arbeiders aan de tempel werden aangesteld Jesua met diens zonen en broers, Kadmiël en zijn zonen en de zonen van Jehuda, evenals de zonen van Chenadad, met hun zonen en broers, allen levieten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als opzichters over de arbeiders aan de tempel werden aangesteld Jesua met diens zonen en broers, Kadmiël en zijn zonen en de zonen van Jehuda, evenals de zonen van Chenadad, met hun zonen en broers, allen levieten."
+          }
+        ]
+      },
+      "id": "ezra.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Rechum, de landvoogd, en Simsai, de schrijver, met hun ambtgenoten uit Din, Afarsat, Tripolis, Afarsa, Erek, Babel, Susan in Elam",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rechum, de landvoogd, en Simsai, de schrijver, met hun ambtgenoten uit Din, Afarsat, Tripolis, Afarsa, Erek, Babel, Susan in Elam"
+          }
+        ]
+      },
+      "id": "ezra.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Wij hebben de oudsten aangesproken en hun gevraagd: Wie heeft u toestemming verleend deze tempel weer op te bouwen en zijn muren weer op te trekken?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben de oudsten aangesproken en hun gevraagd: Wie heeft u toestemming verleend deze tempel weer op te bouwen en zijn muren weer op te trekken?"
+          }
+        ]
+      },
+      "id": "ezra.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "En al wat zij nodig hebben, stieren, rammen of lammeren voor de brandoffers ter ere van de God des hemels, koren, zout, wijn of olie, al wat de priesters van Jeruzalem vragen, moet hun dagelijks zonder mankeren verstrekt worden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En al wat zij nodig hebben, stieren, rammen of lammeren voor de brandoffers ter ere van de God des hemels, koren, zout, wijn of olie, al wat de priesters van Jeruzalem vragen, moet hun dagelijks zonder mankeren verstrekt worden,"
+          }
+        ]
+      },
+      "id": "ezra.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Op de eerste dag van de eerste maand had hij in Babel de reis aanvaard en op de eerste dag van de vijfde maand kwam hij in Jeruzalem aan. Gods zorgzame hand rustte op hem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de eerste dag van de eerste maand had hij in Babel de reis aanvaard en op de eerste dag van de vijfde maand kwam hij in Jeruzalem aan. Gods zorgzame hand rustte op hem,"
+          }
+        ]
+      },
+      "id": "ezra.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "van de afstammelingen van Joab: Obadja, de zoon van Jechiël, en met hem tweehonderdachttien mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Joab: Obadja, de zoon van Jechiël, en met hem tweehonderdachttien mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Want slaven zijn wij, maar in onze slavernij heeft onze God ons niet verlaten, maar Hij heeft ons genade doen vinden bij de koningen van Perzie. Die hebben ons verlof gegeven de tempel van onze God weer op te bouwen en hem uit de puinhopen te doen herrijzen en onze woonplaatsen in Juda en Jeruzalem te ommuren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want slaven zijn wij, maar in onze slavernij heeft onze God ons niet verlaten, maar Hij heeft ons genade doen vinden bij de koningen van Perzie. Die hebben ons verlof gegeven de tempel van onze God weer op te bouwen en hem uit de puinhopen te doen herrijzen en onze woonplaatsen in Juda en Jeruzalem te ommuren."
+          }
+        ]
+      },
+      "id": "ezra.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Daarop kwamen alle mannen van Juda en Benjamin binnen drie dagen bijeen in Jeruzalem. Het was de twintigste dag van de negende maand, en heel de menigte zat op het open plein voor de tempel, bevend bij de gedachte aan wat er te gebeuren stond en niet minder vanwege de harde regen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop kwamen alle mannen van Juda en Benjamin binnen drie dagen bijeen in Jeruzalem. Het was de twintigste dag van de negende maand, en heel de menigte zat op het open plein voor de tempel, bevend bij de gedachte aan wat er te gebeuren stond en niet minder vanwege de harde regen."
+          }
+        ]
+      },
+      "id": "ezra.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "dertig gouden bekers, tweeduizend vierhonderdtien zilveren bekers en duizend andere vaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dertig gouden bekers, tweeduizend vierhonderdtien zilveren bekers en duizend andere vaten."
+          }
+        ]
+      },
+      "id": "ezra.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "zeshonderdtweeënveertig afstammelingen van Bani,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zeshonderdtweeënveertig afstammelingen van Bani,"
+          }
+        ]
+      },
+      "id": "ezra.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Terwijl de bouwlieden de fundering legden voor de tempel van Jahwe, stelden de priesters, uitgerust met trompetten, en de levieten, de zonen van Asaf, uitgerust met cimbalen, zich op om Jahwe te loven volgens de aanwijzingen van David, de koning van Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl de bouwlieden de fundering legden voor de tempel van Jahwe, stelden de priesters, uitgerust met trompetten, en de levieten, de zonen van Asaf, uitgerust met cimbalen, zich op om Jahwe te loven volgens de aanwijzingen van David, de koning van Israël."
+          }
+        ]
+      },
+      "id": "ezra.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "en uit de overige volken die de grote en edele Asnappar heeft weggevoerd en in Samaria en de andere steden aan de overzijde van de Rivier heeft doen wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en uit de overige volken die de grote en edele Asnappar heeft weggevoerd en in Samaria en de andere steden aan de overzijde van de Rivier heeft doen wonen."
+          }
+        ]
+      },
+      "id": "ezra.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Wij vroegen hun ook naar de namen van de mannen die er de leiding hebben, om u daarvan schriftelijk op de hoogte te stellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij vroegen hun ook naar de namen van de mannen die er de leiding hebben, om u daarvan schriftelijk op de hoogte te stellen."
+          }
+        ]
+      },
+      "id": "ezra.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "zodat zij welriekende offers kunnen opdragen aan de God des hemels, en bidden voor het leven van de koning en zijn zonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zodat zij welriekende offers kunnen opdragen aan de God des hemels, en bidden voor het leven van de koning en zijn zonen."
+          }
+        ]
+      },
+      "id": "ezra.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "want Ezra had zich toegelegd op de studie van de wet van Jahwe en op de naleving ervan, om haar voorschriften en bepalingen in Israël te onderwijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want Ezra had zich toegelegd op de studie van de wet van Jahwe en op de naleving ervan, om haar voorschriften en bepalingen in Israël te onderwijzen."
+          }
+        ]
+      },
+      "id": "ezra.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "van de afstammelingen van Selomit: de zoon van Josifja, en met hem honderdzestig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Selomit: de zoon van Josifja, en met hem honderdzestig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "En nu, onze God, wat kunnen wij zeggen, nu wij uw geboden overtreden hebben,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu, onze God, wat kunnen wij zeggen, nu wij uw geboden overtreden hebben,"
+          }
+        ]
+      },
+      "id": "ezra.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "En Ezra, de priester, richtte tot hen het woord en sprak: 'Gij hebt misdaan door uitheemse vrouwen te huwen en daardoor nog meer schuld geladen op Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Ezra, de priester, richtte tot hen het woord en sprak: 'Gij hebt misdaan door uitheemse vrouwen te huwen en daardoor nog meer schuld geladen op Israël."
+          }
+        ]
+      },
+      "id": "ezra.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Het totaal aan gouden en zilveren vaten bedroeg vijfduizend vierhonderd. Dit alles voerde Sesbassar met zich mee toen hij met de ballingen uit Babel optrok naar Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het totaal aan gouden en zilveren vaten bedroeg vijfduizend vierhonderd. Dit alles voerde Sesbassar met zich mee toen hij met de ballingen uit Babel optrok naar Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "zeshonderddrieëntwintig afstammelingen van Bebai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zeshonderddrieëntwintig afstammelingen van Bebai,"
+          }
+        ]
+      },
+      "id": "ezra.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "In beurtzang loofden zij Jahwe met het danklied: 'Want Hij is goed, want in eeuwigheid duurt zijn barmhartigheid voor Israël', en al het volk begon luid te juichen en Jahwe te prijzen, omdat er een begin gemaakt werd met de herbouw van de tempel van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In beurtzang loofden zij Jahwe met het danklied: 'Want Hij is goed, want in eeuwigheid duurt zijn barmhartigheid voor Israël', en al het volk begon luid te juichen en Jahwe te prijzen, omdat er een begin gemaakt werd met de herbouw van de tempel van Jahwe."
+          }
+        ]
+      },
+      "id": "ezra.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Dit is een afschrift van de brief die zij gestuurd hebben: 'Aan koning Artachsasta: Uw dienaren, de mannen die aan de overzijde van de Rivier wonen, enzovoort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is een afschrift van de brief die zij gestuurd hebben: 'Aan koning Artachsasta: Uw dienaren, de mannen die aan de overzijde van de Rivier wonen, enzovoort."
+          }
+        ]
+      },
+      "id": "ezra.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Zij hebben ons het volgende antwoord gegeven: Wij zijn dienaren van de God van hemel en aarde en wij bouwen de tempel die vele jaren geleden door een groot koning van Israël gebouwd en voltooid werd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben ons het volgende antwoord gegeven: Wij zijn dienaren van de God van hemel en aarde en wij bouwen de tempel die vele jaren geleden door een groot koning van Israël gebouwd en voltooid werd."
+          }
+        ]
+      },
+      "id": "ezra.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Mocht iemand iets willen veranderen aan deze beschikking, dan bepaal ik dat een balk uit zijn woning moet worden losgebroken, dat hij daaraan zelf moet worden opgehangen en vastgeslagen en dat zijn huis veranderd moet worden in een mesthoop.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mocht iemand iets willen veranderen aan deze beschikking, dan bepaal ik dat een balk uit zijn woning moet worden losgebroken, dat hij daaraan zelf moet worden opgehangen en vastgeslagen en dat zijn huis veranderd moet worden in een mesthoop."
+          }
+        ]
+      },
+      "id": "ezra.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Hier volgt een afschrift van de brief die Artachsasta meegaf aan Ezra, de priester en schriftgeleerde, bedreven in de wetten en geboden van Jahwe voor Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier volgt een afschrift van de brief die Artachsasta meegaf aan Ezra, de priester en schriftgeleerde, bedreven in de wetten en geboden van Jahwe voor Israël."
+          }
+        ]
+      },
+      "id": "ezra.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "van de afstammelingen van Bebai: Zekarja, de zoon van Bebai, en met hem achtentwintig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Bebai: Zekarja, de zoon van Bebai, en met hem achtentwintig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "die Gij door uw dienaars, de profeten, gegeven hebt met de woorden: Het land waar gij heen trekt om het in bezit te nemen is bezoedeld door de gruweldaden van de volken die er wonen en die het van het ene einde tot het andere met ongerechtigheden vervuld hebben;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die Gij door uw dienaars, de profeten, gegeven hebt met de woorden: Het land waar gij heen trekt om het in bezit te nemen is bezoedeld door de gruweldaden van de volken die er wonen en die het van het ene einde tot het andere met ongerechtigheden vervuld hebben;"
+          }
+        ]
+      },
+      "id": "ezra.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Welnu, geef eer aan Jahwe, de God van uw voorvaderen; doe zijn wil en staak de omgang met de volken van het land en met de uitheemse vrouwen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, geef eer aan Jahwe, de God van uw voorvaderen; doe zijn wil en staak de omgang met de volken van het land en met de uitheemse vrouwen.'"
+          }
+        ]
+      },
+      "id": "ezra.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "twaalfhonderdtweeëntwintig afstammelingen van Azgad,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "twaalfhonderdtweeëntwintig afstammelingen van Azgad,"
+          }
+        ]
+      },
+      "id": "ezra.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Wel begonnen veel oudere priesters, levieten en familiehoofden, die de oude tempel nog gekend hadden, luidkeels te weeklagen, toen de nieuwe tempel voor hun ogen herbouwd werd, maar de menigte juichte vol vreugde en jubelde luid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wel begonnen veel oudere priesters, levieten en familiehoofden, die de oude tempel nog gekend hadden, luidkeels te weeklagen, toen de nieuwe tempel voor hun ogen herbouwd werd, maar de menigte juichte vol vreugde en jubelde luid."
+          }
+        ]
+      },
+      "id": "ezra.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "De koning moge weten dat de joden die uit uw land naar hier gekomen zijn en naar Jeruzalem getrokken, de opstandige, trouweloze stad weer opbouwen; zij trekken de muren weer op en herstellen de fundamenten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning moge weten dat de joden die uit uw land naar hier gekomen zijn en naar Jeruzalem getrokken, de opstandige, trouweloze stad weer opbouwen; zij trekken de muren weer op en herstellen de fundamenten."
+          }
+        ]
+      },
+      "id": "ezra.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Maar omdat onze voorvaderen de God des hemels vertoornd hadden, heeft hij hen uitgeleverd aan de Chaldeeër Nebukadnessar, de koning van Babel. Die heeft deze tempel verwoest en de bevolking in ballingschap weggevoerd naar Babel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar omdat onze voorvaderen de God des hemels vertoornd hadden, heeft hij hen uitgeleverd aan de Chaldeeër Nebukadnessar, de koning van Babel. Die heeft deze tempel verwoest en de bevolking in ballingschap weggevoerd naar Babel."
+          }
+        ]
+      },
+      "id": "ezra.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "De God, die daar zijn naam gevestigd heeft, moge alle koningen en volken vernietigen die het wagen zouden hieraan iets te veranderen, of schade toe te brengen aan de tempel van Jeruzalem. Ik, Darius, heb dit decreet uitgevaardigd. Het moet zorgvuldig ten uitvoer gebracht worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De God, die daar zijn naam gevestigd heeft, moge alle koningen en volken vernietigen die het wagen zouden hieraan iets te veranderen, of schade toe te brengen aan de tempel van Jeruzalem. Ik, Darius, heb dit decreet uitgevaardigd. Het moet zorgvuldig ten uitvoer gebracht worden.'"
+          }
+        ]
+      },
+      "id": "ezra.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "'Artachsasta, de koning der koningen, aan Ezra, priester en groot kenner van de wet van de God des hemels, enzovoort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Artachsasta, de koning der koningen, aan Ezra, priester en groot kenner van de wet van de God des hemels, enzovoort."
+          }
+        ]
+      },
+      "id": "ezra.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "van de afstammelingen van Azgad: Jochanan, de zoon van Hakkatan, en met hem honderdtien mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Azgad: Jochanan, de zoon van Hakkatan, en met hem honderdtien mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "derhalve moogt gij uw dochters niet aan hun zonen geven, en hun dochters niet aan uw zonen, en ge moogt nooit vriendschap of vrede met hen zoeken; dan zult gij sterk zijn, de vruchten van het land eten en het voor eeuwig aan uw nakomelingen vermaken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "derhalve moogt gij uw dochters niet aan hun zonen geven, en hun dochters niet aan uw zonen, en ge moogt nooit vriendschap of vrede met hen zoeken; dan zult gij sterk zijn, de vruchten van het land eten en het voor eeuwig aan uw nakomelingen vermaken."
+          }
+        ]
+      },
+      "id": "ezra.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "En heel de gemeenschap gaf hem luid ten antwoord: 'Ja! Het is onze plicht te doen wat u gezegd hebt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En heel de gemeenschap gaf hem luid ten antwoord: 'Ja! Het is onze plicht te doen wat u gezegd hebt."
+          }
+        ]
+      },
+      "id": "ezra.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "zeshonderdzesenzestig afstammelingen van Adonikam,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zeshonderdzesenzestig afstammelingen van Adonikam,"
+          }
+        ]
+      },
+      "id": "ezra.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Het gejammer en het geweeklaag werden overstemd door het uitbundige gejuich van de menigte, want deze jubelde zo luidruchtig, dat het tot ver in de omtrek te horen was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het gejammer en het geweeklaag werden overstemd door het uitbundige gejuich van de menigte, want deze jubelde zo luidruchtig, dat het tot ver in de omtrek te horen was."
+          }
+        ]
+      },
+      "id": "ezra.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "De koning moge weten dat, zodra deze stad weer opgebouwd zal zijn, en de muren weer opgetrokken, men geen belasting, schatting of tol meer zal betalen, hetgeen nadelig is voor de koninklijke inkomsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning moge weten dat, zodra deze stad weer opgebouwd zal zijn, en de muren weer opgetrokken, men geen belasting, schatting of tol meer zal betalen, hetgeen nadelig is voor de koninklijke inkomsten."
+          }
+        ]
+      },
+      "id": "ezra.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Maar in het eerste regeringsjaar van Kores, de koning van Babel, vaardigde deze een decreet uit dat deze tempel herbouwd moest worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar in het eerste regeringsjaar van Kores, de koning van Babel, vaardigde deze een decreet uit dat deze tempel herbouwd moest worden."
+          }
+        ]
+      },
+      "id": "ezra.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Overeenkomstig de opdracht die koning Darius gegeven had deden Tattenai, de stadhouder, Setar-bozenai en hun ambtgenoten zorgvuldig alles wat koning Darius bevolen had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Overeenkomstig de opdracht die koning Darius gegeven had deden Tattenai, de stadhouder, Setar-bozenai en hun ambtgenoten zorgvuldig alles wat koning Darius bevolen had."
+          }
+        ]
+      },
+      "id": "ezra.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Hierbij bepaal ik dat allen in mijn koninkrijk die behoren tot het volk van Israël, alsook de priesters en levieten, en die vrijwillig naar Jeruzalem willen trekken, met u mee kunnen gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierbij bepaal ik dat allen in mijn koninkrijk die behoren tot het volk van Israël, alsook de priesters en levieten, en die vrijwillig naar Jeruzalem willen trekken, met u mee kunnen gaan."
+          }
+        ]
+      },
+      "id": "ezra.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "van de afstammelingen van Adonikam de jongste afstammelingen, en dit zijn hun namen: Elifalet, Jeiel en Semaja, en met hen zestig mannen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Adonikam de jongste afstammelingen, en dit zijn hun namen: Elifalet, Jeiel en Semaja, en met hen zestig mannen;"
+          }
+        ]
+      },
+      "id": "ezra.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "En nu ons omwille van onze boze daden en onze grote schuld zoveel overkomen is, en Gij, onze God, ons toch gespaard hebt, meer dan onze zonden verdienen, en een rest van ons hebt overgelaten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu ons omwille van onze boze daden en onze grote schuld zoveel overkomen is, en Gij, onze God, ons toch gespaard hebt, meer dan onze zonden verdienen, en een rest van ons hebt overgelaten,"
+          }
+        ]
+      },
+      "id": "ezra.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Maar er is veel volk en bovendien is het het regenseizoen, en wij kunnen het hier in de open lucht niet uithouden. De zaak kan in een, twee dagen niet afgehandeld worden, want wij hebben met zovelen hiertegen misdaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar er is veel volk en bovendien is het het regenseizoen, en wij kunnen het hier in de open lucht niet uithouden. De zaak kan in een, twee dagen niet afgehandeld worden, want wij hebben met zovelen hiertegen misdaan."
+          }
+        ]
+      },
+      "id": "ezra.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "tweeduizend zesenvijftig afstammelingen van Bigwai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweeduizend zesenvijftig afstammelingen van Bigwai,"
+          }
+        ]
+      },
+      "id": "ezra.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Omdat wij het zout eten van het koninklijk paleis en omdat het niet juist zou zijn lijdelijk aan te zien, dat de koning benadeeld wordt, brengen wij dit aan de koning ter kennis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat wij het zout eten van het koninklijk paleis en omdat het niet juist zou zijn lijdelijk aan te zien, dat de koning benadeeld wordt, brengen wij dit aan de koning ter kennis."
+          }
+        ]
+      },
+      "id": "ezra.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "De gouden en zilveren vaten van de tempel, die Nebukadnessar uit de tempel van Jeruzalem had weggenomen en naar de tempel van Babel had laten overbrengen, heeft koning Kores weer uit de tempel van Babel laten halen en ter hand gesteld aan een zekere Sesbassar, die hij benoemd had tot stadhouder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De gouden en zilveren vaten van de tempel, die Nebukadnessar uit de tempel van Jeruzalem had weggenomen en naar de tempel van Babel had laten overbrengen, heeft koning Kores weer uit de tempel van Babel laten halen en ter hand gesteld aan een zekere Sesbassar, die hij benoemd had tot stadhouder."
+          }
+        ]
+      },
+      "id": "ezra.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "De oudsten van de joden zetten de bouw voort en deze verliep voorspoedig, dank zij het optreden van de profeten Haggai en Zacharia, de zoon van Iddo. Zij voltooiden het werk dat hun opgelegd was door de God van Israël en door Kores en Darius en Artachsasta, de koning van Perzië.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De oudsten van de joden zetten de bouw voort en deze verliep voorspoedig, dank zij het optreden van de profeten Haggai en Zacharia, de zoon van Iddo. Zij voltooiden het werk dat hun opgelegd was door de God van Israël en door Kores en Darius en Artachsasta, de koning van Perzië."
+          }
+        ]
+      },
+      "id": "ezra.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Gezien uw deskundigheid vaardigen de koning en zijn zeven raadslieden u af, om in Juda en Jeruzalem een onderzoek in te stellen naar de naleving van de wet van uw God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezien uw deskundigheid vaardigen de koning en zijn zeven raadslieden u af, om in Juda en Jeruzalem een onderzoek in te stellen naar de naleving van de wet van uw God."
+          }
+        ]
+      },
+      "id": "ezra.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "van de afstammelingen van Bigwai: Utai en Zabbud en met hen zeventig mannen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de afstammelingen van Bigwai: Utai en Zabbud en met hen zeventig mannen."
+          }
+        ]
+      },
+      "id": "ezra.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "overtreden wij nu opnieuw uw geboden en gaan wij verbintenissen aan met deze zondige volken? Moet Gij niet zo vertoornd op ons zijn dat Gij ons totaal vernietigt, en er geen rest of overschot overblijft?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "overtreden wij nu opnieuw uw geboden en gaan wij verbintenissen aan met deze zondige volken? Moet Gij niet zo vertoornd op ons zijn dat Gij ons totaal vernietigt, en er geen rest of overschot overblijft?"
+          }
+        ]
+      },
+      "id": "ezra.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Laat onze leiders de hele gemeenschap vertegenwoordigen en laat op vooraf bepaalde tijden allen die in de verschillende steden een uitheemse vrouw hebben gehuwd, met de oudsten en de rechters van hun stad hierheen komen. Dan zal de verschrikkelijke toorn van onze God zich van ons afwenden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat onze leiders de hele gemeenschap vertegenwoordigen en laat op vooraf bepaalde tijden allen die in de verschillende steden een uitheemse vrouw hebben gehuwd, met de oudsten en de rechters van hun stad hierheen komen. Dan zal de verschrikkelijke toorn van onze God zich van ons afwenden.'"
+          }
+        ]
+      },
+      "id": "ezra.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "vierhondervierenvijftig afstammelingen van Adin,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "vierhondervierenvijftig afstammelingen van Adin,"
+          }
+        ]
+      },
+      "id": "ezra.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Als u de annalen van uw voorgangers laat raadplegen, kunt u er zich van vergewissen dat dit een opstandige stad is, die schade berokkent aan de koning en zijn provincies en dat men er van oudsher opstand heeft gepleegd. Dit is dan ook de reden waarom de stad verwoest werd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als u de annalen van uw voorgangers laat raadplegen, kunt u er zich van vergewissen dat dit een opstandige stad is, die schade berokkent aan de koning en zijn provincies en dat men er van oudsher opstand heeft gepleegd. Dit is dan ook de reden waarom de stad verwoest werd."
+          }
+        ]
+      },
+      "id": "ezra.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Hij zei hem: Breng deze vaten terug naar de tempel van Jeruzalem en laat de tempel op zijn vroegere plaats herbouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zei hem: Breng deze vaten terug naar de tempel van Jeruzalem en laat de tempel op zijn vroegere plaats herbouwen."
+          }
+        ]
+      },
+      "id": "ezra.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "De tempel kwam klaar op de derde dag van de maand Adar, in het zesde regeringsjaar van koning Darius.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tempel kwam klaar op de derde dag van de maand Adar, in het zesde regeringsjaar van koning Darius."
+          }
+        ]
+      },
+      "id": "ezra.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Bovendien moet u het zilver en het goud meenemen dat de koning en zijn raadslieden willen offeren aan de God van Israël, die zijn woning heeft in Jeruzalem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien moet u het zilver en het goud meenemen dat de koning en zijn raadslieden willen offeren aan de God van Israël, die zijn woning heeft in Jeruzalem,"
+          }
+        ]
+      },
+      "id": "ezra.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Ik liet ze bijeenkomen bij de rivier die naar Ahawa loopt, en daar kampeerden wij enkele dagen. Het viel mij op dat er onder het volk wel priesters maar geen levieten waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik liet ze bijeenkomen bij de rivier die naar Ahawa loopt, en daar kampeerden wij enkele dagen. Het viel mij op dat er onder het volk wel priesters maar geen levieten waren."
+          }
+        ]
+      },
+      "id": "ezra.8.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Jahwe, God van Israël, rechtvaardig zijt Gij! Wij zijn de rest die vandaag nog overgebleven is. Zie ons hier voor U, beladen met onze schuld. Hoe durven wij zo nog voor U te verschijnen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, God van Israël, rechtvaardig zijt Gij! Wij zijn de rest die vandaag nog overgebleven is. Zie ons hier voor U, beladen met onze schuld. Hoe durven wij zo nog voor U te verschijnen?"
+          }
+        ]
+      },
+      "id": "ezra.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "Alleen Jonatan, de zoon van Asaël, en Jachzeja, de zoon van Tikwa, verzetten zich hiertegen en Mesullam en Sabtai, de leviet, vielen hun bij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alleen Jonatan, de zoon van Asaël, en Jachzeja, de zoon van Tikwa, verzetten zich hiertegen en Mesullam en Sabtai, de leviet, vielen hun bij."
+          }
+        ]
+      },
+      "id": "ezra.10.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "achtennegentig afstammelingen van Ater uit de familie van Chizkia,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "achtennegentig afstammelingen van Ater uit de familie van Chizkia,"
+          }
+        ]
+      },
+      "id": "ezra.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Wij willen de koning erop wijzen, dat wanneer deze stad herbouwd wordt en haar muren weer worden opgetrokken, het gedaan zal zijn met uw bezittingen aan de overzijde van de Rivier.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij willen de koning erop wijzen, dat wanneer deze stad herbouwd wordt en haar muren weer worden opgetrokken, het gedaan zal zijn met uw bezittingen aan de overzijde van de Rivier.'"
+          }
+        ]
+      },
+      "id": "ezra.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Toen deze Sesbassar in Jeruzalem was aangekomen, heeft hij de fundamenten gelegd van deze tempel; sindsdien heeft men aan de tempel gebouwd, maar het werk is nog niet klaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen deze Sesbassar in Jeruzalem was aangekomen, heeft hij de fundamenten gelegd van deze tempel; sindsdien heeft men aan de tempel gebouwd, maar het werk is nog niet klaar."
+          }
+        ]
+      },
+      "id": "ezra.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Daarop vierden de Israëlieten, priesters en levieten en alle teruggekeerde ballingen, met vreugde de inwijding van de tempel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop vierden de Israëlieten, priesters en levieten en alle teruggekeerde ballingen, met vreugde de inwijding van de tempel."
+          }
+        ]
+      },
+      "id": "ezra.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "alsook al het zilver en het goud dat u in de provincie Babel bijeen zult brengen en de gaven die het volk en de priesters spontaan aanbieden voor de tempel van hun God in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "alsook al het zilver en het goud dat u in de provincie Babel bijeen zult brengen en de gaven die het volk en de priesters spontaan aanbieden voor de tempel van hun God in Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Toen ontbood ik de hoofden Eliezer, Ariël, Semaja, Elnatan, Jarib, Elnatan, Natan, Zekarja, Mesullam, Jojarib en Elnatan, verstandige mannen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ontbood ik de hoofden Eliezer, Ariël, Semaja, Elnatan, Jarib, Elnatan, Natan, Zekarja, Mesullam, Jojarib en Elnatan, verstandige mannen,"
+          }
+        ]
+      },
+      "id": "ezra.8.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "De teruggekeerde ballingen deden evenwel zoals besloten was en zij staakten de omgang. Ezra, de priester, wees onder de familiehoofden, de leiders der families, een aantal mannen met name aan, die op de eerste dag van de tiende maand bij elkaar zouden komen om de zaak te onderzoeken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De teruggekeerde ballingen deden evenwel zoals besloten was en zij staakten de omgang. Ezra, de priester, wees onder de familiehoofden, de leiders der families, een aantal mannen met name aan, die op de eerste dag van de tiende maand bij elkaar zouden komen om de zaak te onderzoeken."
+          }
+        ]
+      },
+      "id": "ezra.10.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "driehonderddrieëntwintig afstammelingen van Besai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "driehonderddrieëntwintig afstammelingen van Besai,"
+          }
+        ]
+      },
+      "id": "ezra.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "De koning stuurde het volgende antwoord: 'Aan Rechum, de landvoogd, Simsai, de schrijver, en al hun ambtgenoten die in Samaria en het overige gebied aan de andere zijde van de Rivier wonen: heil enzovoort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning stuurde het volgende antwoord: 'Aan Rechum, de landvoogd, Simsai, de schrijver, en al hun ambtgenoten die in Samaria en het overige gebied aan de andere zijde van de Rivier wonen: heil enzovoort."
+          }
+        ]
+      },
+      "id": "ezra.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Als het derhalve de koning behaagt, moge men in het koninklijk archief in Babel een onderzoek instellen om te zien of er door koning Kores inderdaad toestemming is verleend de tempel van Jeruzalem te herbouwen. Laat de koning ons vervolgens op de hoogte stellen van zijn besluit.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het derhalve de koning behaagt, moge men in het koninklijk archief in Babel een onderzoek instellen om te zien of er door koning Kores inderdaad toestemming is verleend de tempel van Jeruzalem te herbouwen. Laat de koning ons vervolgens op de hoogte stellen van zijn besluit.'"
+          }
+        ]
+      },
+      "id": "ezra.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Bij de inwijding van de tempel offerden zij honderd stieren, tweehonderd rammen, vierhonderd lammeren en, overeenkomstig het aantal stammen van Israël, twaalf bokken als zondeoffer voor heel Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij de inwijding van de tempel offerden zij honderd stieren, tweehonderd rammen, vierhonderd lammeren en, overeenkomstig het aantal stammen van Israël, twaalf bokken als zondeoffer voor heel Israël."
+          }
+        ]
+      },
+      "id": "ezra.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Met dat geld moet u met zorg gekozen stieren, rammen en lammeren kopen, alsmede de vereiste spijs - en drankoffers, en deze opdragen op het altaar in de tempel van uw God in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met dat geld moet u met zorg gekozen stieren, rammen en lammeren kopen, alsmede de vereiste spijs - en drankoffers, en deze opdragen op het altaar in de tempel van uw God in Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.7.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "en stuurde ze naar Iddo, het hoofd van Kasifja, de heilige plaats, en droeg hun op, aan Iddo en zijn broeders, de tempelknechten, in Kasifja, de heilige plaats, te verzoeken dienaren te zenden voor de tempel van onze God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en stuurde ze naar Iddo, het hoofd van Kasifja, de heilige plaats, en droeg hun op, aan Iddo en zijn broeders, de tempelknechten, in Kasifja, de heilige plaats, te verzoeken dienaren te zenden voor de tempel van onze God."
+          }
+        ]
+      },
+      "id": "ezra.8.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "En op de eerste dag van de eerste maand waren alle huwelijken van Israëlieten met uitheemse vrouwen behandeld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En op de eerste dag van de eerste maand waren alle huwelijken van Israëlieten met uitheemse vrouwen behandeld."
+          }
+        ]
+      },
+      "id": "ezra.10.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "honderdtwaalf afstammelingen van Jora,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "honderdtwaalf afstammelingen van Jora,"
+          }
+        ]
+      },
+      "id": "ezra.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Het schrijven dat u aan mij gericht hebt, heeft men mij in vertaling voorgelezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het schrijven dat u aan mij gericht hebt, heeft men mij in vertaling voorgelezen."
+          }
+        ]
+      },
+      "id": "ezra.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Met het oog op de dienst van God in Jeruzalem deelden zij de priesters in klassen in en de levieten in afdelingen, zoals het boek van Mozes dat bepaalt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met het oog op de dienst van God in Jeruzalem deelden zij de priesters in klassen in en de levieten in afdelingen, zoals het boek van Mozes dat bepaalt."
+          }
+        ]
+      },
+      "id": "ezra.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Met de rest van het zilver en het goud kunt u, overeenkomstig de wil van uw God, doen wat u en uw broeders goeddunkt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met de rest van het zilver en het goud kunt u, overeenkomstig de wil van uw God, doen wat u en uw broeders goeddunkt."
+          }
+        ]
+      },
+      "id": "ezra.7.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Omdat God ons welgezind was, brachten ze ons een verstandig man, een afstammeling van Machli, de zoon van Levi, de zoon van Israël, en Serebja, met hun zonen en broeders, achttien in getal;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat God ons welgezind was, brachten ze ons een verstandig man, een afstammeling van Machli, de zoon van Levi, de zoon van Israël, en Serebja, met hun zonen en broeders, achttien in getal;"
+          }
+        ]
+      },
+      "id": "ezra.8.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Onder de priesters hadden de volgende uitheemse vrouwen gehuwd: van de afstammelingen van Jesua: de zoon van Josadak en diens broers Maaseja, Eleazar, Jarib en Gedalja;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder de priesters hadden de volgende uitheemse vrouwen gehuwd: van de afstammelingen van Jesua: de zoon van Josadak en diens broers Maaseja, Eleazar, Jarib en Gedalja;"
+          }
+        ]
+      },
+      "id": "ezra.10.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "tweehonderddrieëntwintig afstammelingen van Chasum,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweehonderddrieëntwintig afstammelingen van Chasum,"
+          }
+        ]
+      },
+      "id": "ezra.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Op mijn bevel heeft men een onderzoek ingesteld en men heeft bevonden, dat die stad van oudsher opstandig geweest is tegen haar koningen en dat het een haard van verzet en oproer is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op mijn bevel heeft men een onderzoek ingesteld en men heeft bevonden, dat die stad van oudsher opstandig geweest is tegen haar koningen en dat het een haard van verzet en oproer is."
+          }
+        ]
+      },
+      "id": "ezra.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Op de veertiende dag van de eerste maand vierden de teruggekeerde ballingen het paasfeest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de veertiende dag van de eerste maand vierden de teruggekeerde ballingen het paasfeest."
+          }
+        ]
+      },
+      "id": "ezra.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Het vaatwerk dat u voor de eredienst in de tempel van uw God gegeven wordt, plaats dat in zijn tempel in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het vaatwerk dat u voor de eredienst in de tempel van uw God gegeven wordt, plaats dat in zijn tempel in Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.7.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "evenals Chasabja en Jesaja, afstammelingen van Merari, met hun broeders en zonen, twintig man;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "evenals Chasabja en Jesaja, afstammelingen van Merari, met hun broeders en zonen, twintig man;"
+          }
+        ]
+      },
+      "id": "ezra.8.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "zij gaven er hun hand op dat zij hun vrouwen zouden wegsturen en zij verplichtten zich een ram uit hun kudde als zoenoffer op te dragen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zij gaven er hun hand op dat zij hun vrouwen zouden wegsturen en zij verplichtten zich een ram uit hun kudde als zoenoffer op te dragen;"
+          }
+        ]
+      },
+      "id": "ezra.10.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "vijfennegentig afstammelingen van Gibbar,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "vijfennegentig afstammelingen van Gibbar,"
+          }
+        ]
+      },
+      "id": "ezra.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Er hebben zelfs machtige koningen gewoond in Jeruzalem, die heel het gebied aan de overzijde van de Rivier beheerst hebben en die belasting, schattingen en tol geheven hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er hebben zelfs machtige koningen gewoond in Jeruzalem, die heel het gebied aan de overzijde van de Rivier beheerst hebben en die belasting, schattingen en tol geheven hebben."
+          }
+        ]
+      },
+      "id": "ezra.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "De priesters en de levieten hadden zich allen geheiligd, zodat zij allen rein waren. Zij slachtten het paaslam voor alle teruggekeerde ballingen, voor hun medepriesters en voor zichzelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De priesters en de levieten hadden zich allen geheiligd, zodat zij allen rein waren. Zij slachtten het paaslam voor alle teruggekeerde ballingen, voor hun medepriesters en voor zichzelf."
+          }
+        ]
+      },
+      "id": "ezra.6.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "En wat nog meer nodig is voor de tempel van uw God, kunt u, als zich de gelegenheid daartoe voordoet, aanschaffen op kosten van de koninklijke schatkist.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wat nog meer nodig is voor de tempel van uw God, kunt u, als zich de gelegenheid daartoe voordoet, aanschaffen op kosten van de koninklijke schatkist."
+          }
+        ]
+      },
+      "id": "ezra.7.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "bovendien van de tempelknechten, die David en zijn magistraten ter beschikking hadden gesteld van de levieten, tweehonderdtwintig man, allen met name aangewezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bovendien van de tempelknechten, die David en zijn magistraten ter beschikking hadden gesteld van de levieten, tweehonderdtwintig man, allen met name aangewezen."
+          }
+        ]
+      },
+      "id": "ezra.8.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "van de zonen van Immer waren het Chanani en Zebadja;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Immer waren het Chanani en Zebadja;"
+          }
+        ]
+      },
+      "id": "ezra.10.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "honderddrieëntwintig burgers uit Bethlehem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "honderddrieëntwintig burgers uit Bethlehem,"
+          }
+        ]
+      },
+      "id": "ezra.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Geef daarom die mensen bevel het werk te staken, zodat de stad niet herbouwd wordt zolang ik het niet anders beschik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef daarom die mensen bevel het werk te staken, zodat de stad niet herbouwd wordt zolang ik het niet anders beschik."
+          }
+        ]
+      },
+      "id": "ezra.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Het werd gegeten door de Israëlieten die uit de ballingschap teruggekeerd waren en door allen die zich bij hen hadden aangesloten om Jahwe, de God van Israël, te dienen en de ongerechtigheden van de heidenen in het land hadden afgezworen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het werd gegeten door de Israëlieten die uit de ballingschap teruggekeerd waren en door allen die zich bij hen hadden aangesloten om Jahwe, de God van Israël, te dienen en de ongerechtigheden van de heidenen in het land hadden afgezworen."
+          }
+        ]
+      },
+      "id": "ezra.6.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Verder vaardig ik, koning Artachsasta, voor alle schatmeesters aan de overzijde van de Rivier dit decreet uit: Alles wat Ezra, de priester en schriftgeleerde, bedreven in de wet van de God des hemels, u vraagt, moet zonder mankeren verstrekt worden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verder vaardig ik, koning Artachsasta, voor alle schatmeesters aan de overzijde van de Rivier dit decreet uit: Alles wat Ezra, de priester en schriftgeleerde, bedreven in de wet van de God des hemels, u vraagt, moet zonder mankeren verstrekt worden,"
+          }
+        ]
+      },
+      "id": "ezra.7.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Toen kondigde ik daar een vasten af bij de rivier de Ahawa om ons te vernederen voor onze God en om een voorspoedige tocht af te smeken voor ons, onze kinderen en heel ons bezit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen kondigde ik daar een vasten af bij de rivier de Ahawa om ons te vernederen voor onze God en om een voorspoedige tocht af te smeken voor ons, onze kinderen en heel ons bezit."
+          }
+        ]
+      },
+      "id": "ezra.8.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "text": "van de zonen van Charim: Maaseja, Elia, Semaja, Jechiël en Uzzia;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Charim: Maaseja, Elia, Semaja, Jechiël en Uzzia;"
+          }
+        ]
+      },
+      "id": "ezra.10.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "zesenvijftig burgers uit Netofa,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zesenvijftig burgers uit Netofa,"
+          }
+        ]
+      },
+      "id": "ezra.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Wijd alle aandacht aan deze aangelegenheid, opdat de koning daardoor niet nog meer nadeel ondervindt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wijd alle aandacht aan deze aangelegenheid, opdat de koning daardoor niet nog meer nadeel ondervindt.'"
+          }
+        ]
+      },
+      "id": "ezra.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Vol blijdschap vierden zij zeven dagen lang het feest van de ongezuurde broden, want door Jahwe's goedheid mochten zij zich verheugen in de gunst van de koning van Assur, die hun bij de bouw van de tempel van Israëls God zijn steun had verleend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vol blijdschap vierden zij zeven dagen lang het feest van de ongezuurde broden, want door Jahwe's goedheid mochten zij zich verheugen in de gunst van de koning van Assur, die hun bij de bouw van de tempel van Israëls God zijn steun had verleend."
+          }
+        ]
+      },
+      "id": "ezra.6.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "tot een bedrag van honderd talenten zilver, honderd kor tarwe, honderd bat wijn, honderd bat olie, en zout in onbeperkte hoeveelheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tot een bedrag van honderd talenten zilver, honderd kor tarwe, honderd bat wijn, honderd bat olie, en zout in onbeperkte hoeveelheid."
+          }
+        ]
+      },
+      "id": "ezra.7.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "Ik schaamde mij namelijk de koning om een escorte paarden en ruiters te vragen om ons onderweg tegen vijanden te beschermen, want wij hadden de koning gezegd: 'Onze God is welgezind jegens allen die Hem zoeken, maar zijn geweldige toorn treft alwie Hem de rug toekeren.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik schaamde mij namelijk de koning om een escorte paarden en ruiters te vragen om ons onderweg tegen vijanden te beschermen, want wij hadden de koning gezegd: 'Onze God is welgezind jegens allen die Hem zoeken, maar zijn geweldige toorn treft alwie Hem de rug toekeren.'"
+          }
+        ]
+      },
+      "id": "ezra.8.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "text": "van de zonen van Paschur: Eljoenai, Maaseja, Jismaël, Netanel, Jozabad en Elasa.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Paschur: Eljoenai, Maaseja, Jismaël, Netanel, Jozabad en Elasa."
+          }
+        ]
+      },
+      "id": "ezra.10.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "honderdachtentwintig burgers uit Anatot,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "honderdachtentwintig burgers uit Anatot,"
+          }
+        ]
+      },
+      "id": "ezra.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "Zodra de brief van koning Artachsasta in vertaling voorgelezen was aan Rechum en Simsai, de schrijver, en al hun ambtgenoten, trokken zij haastig naar de joden in Jeruzalem en dwongen hen met kracht en geweld het werk te staken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zodra de brief van koning Artachsasta in vertaling voorgelezen was aan Rechum en Simsai, de schrijver, en al hun ambtgenoten, trokken zij haastig naar de joden in Jeruzalem en dwongen hen met kracht en geweld het werk te staken."
+          }
+        ]
+      },
+      "id": "ezra.4.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Al wat de God des hemels beveelt moet zonder mankeren gedaan worden voor de tempel van de God des hemels, opdat onder de regering van de koning of diens zonen zijn toorn niet neerkomt op het koninkrijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al wat de God des hemels beveelt moet zonder mankeren gedaan worden voor de tempel van de God des hemels, opdat onder de regering van de koning of diens zonen zijn toorn niet neerkomt op het koninkrijk."
+          }
+        ]
+      },
+      "id": "ezra.7.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "text": "Derhalve vastten wij en smeekten wij tot onze God, en Hij verhoorde ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Derhalve vastten wij en smeekten wij tot onze God, en Hij verhoorde ons."
+          }
+        ]
+      },
+      "id": "ezra.8.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "text": "Onder de levieten: Jozabad, Simi, Kelaja, ook wel Kelita genoemd, Petachja, Jehuda en Eliezer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder de levieten: Jozabad, Simi, Kelaja, ook wel Kelita genoemd, Petachja, Jehuda en Eliezer."
+          }
+        ]
+      },
+      "id": "ezra.10.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Tweeënveertig burgers uit Azmawet,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tweeënveertig burgers uit Azmawet,"
+          }
+        ]
+      },
+      "id": "ezra.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Zo werd de bouw van de tempel in Jeruzalem stilgelegd en bleef het werk rusten tot aan het tweede regeringsjaar van Darius, de koning van Perzië.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo werd de bouw van de tempel in Jeruzalem stilgelegd en bleef het werk rusten tot aan het tweede regeringsjaar van Darius, de koning van Perzië."
+          }
+        ]
+      },
+      "id": "ezra.4.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "Wij laten u ook weten dat het niet geoorloofd is, belasting, schatting of tol te heffen van priesters, levieten, zangers, deurwachters, tempeldienaren en het overige tempelpersoneel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij laten u ook weten dat het niet geoorloofd is, belasting, schatting of tol te heffen van priesters, levieten, zangers, deurwachters, tempeldienaren en het overige tempelpersoneel."
+          }
+        ]
+      },
+      "id": "ezra.7.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "text": "Daarna koos ik twaalf van de voornaamste priesters uit, Serebja en Chasabja en tien van hun collega's.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna koos ik twaalf van de voornaamste priesters uit, Serebja en Chasabja en tien van hun collega's."
+          }
+        ]
+      },
+      "id": "ezra.8.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 24,
+      "text": "Onder de zangers was het Eljasib en onder de deurwachters Sallum, Telem en Uri.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder de zangers was het Eljasib en onder de deurwachters Sallum, Telem en Uri."
+          }
+        ]
+      },
+      "id": "ezra.10.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "zevenhonderddrieënveertig burgers uit Kirjat-arim, Kefira en Beerot,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zevenhonderddrieënveertig burgers uit Kirjat-arim, Kefira en Beerot,"
+          }
+        ]
+      },
+      "id": "ezra.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "En u, Ezra, moet naar de wijsheid die God u gegeven heeft, magistraten en rechters aanstellen om recht te spreken over alle bewoners van de provincie aan de overzijde van de Rivier, over allen die de wetten van uw God kennen en allen die ze niet kennen moet u daarin onderrichten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En u, Ezra, moet naar de wijsheid die God u gegeven heeft, magistraten en rechters aanstellen om recht te spreken over alle bewoners van de provincie aan de overzijde van de Rivier, over allen die de wetten van uw God kennen en allen die ze niet kennen moet u daarin onderrichten."
+          }
+        ]
+      },
+      "id": "ezra.7.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 25,
+      "text": "In hun tegenwoordigheid woog ik het zilver, het goud en het vaatwerk af dat de koning, zijn raadslieden en zijn magistraten en de aanwezige Israëlieten hadden aangeboden als een wijgeschenk voor de tempel van onze God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hun tegenwoordigheid woog ik het zilver, het goud en het vaatwerk af dat de koning, zijn raadslieden en zijn magistraten en de aanwezige Israëlieten hadden aangeboden als een wijgeschenk voor de tempel van onze God."
+          }
+        ]
+      },
+      "id": "ezra.8.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "text": "Uit Israël waren het: van de zonen van Paros: Ramja, Jizzia, Malkia, Miamin, Elazar, Malkia en Benaja;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit Israël waren het: van de zonen van Paros: Ramja, Jizzia, Malkia, Miamin, Elazar, Malkia en Benaja;"
+          }
+        ]
+      },
+      "id": "ezra.10.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "zeshonderdeenentwintig burgers uit Rama en Geba,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zeshonderdeenentwintig burgers uit Rama en Geba,"
+          }
+        ]
+      },
+      "id": "ezra.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Mocht iemand de wet van uw God en de wet van de koning niet gehoorzamen, dan moet hij gestreng geoordeeld worden, en gestraft, hetzij met de dood, hetzij met verbanning, met verbeurdverklaring van zijn bezit of met gevangenschap.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mocht iemand de wet van uw God en de wet van de koning niet gehoorzamen, dan moet hij gestreng geoordeeld worden, en gestraft, hetzij met de dood, hetzij met verbanning, met verbeurdverklaring van zijn bezit of met gevangenschap.'"
+          }
+        ]
+      },
+      "id": "ezra.7.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "text": "Ik droeg hun zeshonderdvijftig talenten zilver over, honderd talenten aan zilveren vaatwerk, honderd talenten goud,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik droeg hun zeshonderdvijftig talenten zilver over, honderd talenten aan zilveren vaatwerk, honderd talenten goud,"
+          }
+        ]
+      },
+      "id": "ezra.8.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 26,
+      "text": "van de zonen van Elam: Mattanja, Zekarja, Jechiël, Abdi, Jeremot en Elia;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Elam: Mattanja, Zekarja, Jechiël, Abdi, Jeremot en Elia;"
+          }
+        ]
+      },
+      "id": "ezra.10.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "honderdtweeëntwintig burgers uit Mikmas,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "honderdtweeëntwintig burgers uit Mikmas,"
+          }
+        ]
+      },
+      "id": "ezra.2.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Gezegend zij Jahwe, de God van onze voorvaderen die de koning ingegeven heeft de tempel van Jahwe in Jeruzalem met luister te omgeven,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend zij Jahwe, de God van onze voorvaderen die de koning ingegeven heeft de tempel van Jahwe in Jeruzalem met luister te omgeven,"
+          }
+        ]
+      },
+      "id": "ezra.7.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 27,
+      "text": "twintig gouden kommen ter waarde van duizend darieken, en twee vaten van prachtig glanzend koper, zo kostbaar als goud.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "twintig gouden kommen ter waarde van duizend darieken, en twee vaten van prachtig glanzend koper, zo kostbaar als goud."
+          }
+        ]
+      },
+      "id": "ezra.8.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "text": "van de zonen van Zattu: Eljoenai, Eljasib, Mattanja, Jeremot, Zabad en Aziza;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Zattu: Eljoenai, Eljasib, Mattanja, Jeremot, Zabad en Aziza;"
+          }
+        ]
+      },
+      "id": "ezra.10.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "tweehonderddrieëntwintig burgers uit Betel en Ai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweehonderddrieëntwintig burgers uit Betel en Ai,"
+          }
+        ]
+      },
+      "id": "ezra.2.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "en die mij genade heeft doen vinden bij de koning en zijn raadslieden en bij alle invloedrijke ambtenaren van de koning. Ik vatte moed, omdat Jahwe, mijn God, met mij was, en ik verzamelde leiders uit het volk van Israël om met mij mee te trekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en die mij genade heeft doen vinden bij de koning en zijn raadslieden en bij alle invloedrijke ambtenaren van de koning. Ik vatte moed, omdat Jahwe, mijn God, met mij was, en ik verzamelde leiders uit het volk van Israël om met mij mee te trekken."
+          }
+        ]
+      },
+      "id": "ezra.7.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 28,
+      "text": "En ik sprak tot hen: 'Gij zijt aan Jahwe toegewijd, maar het vaatwerk ook, en het zilver en het goud zijn een wijgeschenk voor Jahwe, de God van uw vaderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik sprak tot hen: 'Gij zijt aan Jahwe toegewijd, maar het vaatwerk ook, en het zilver en het goud zijn een wijgeschenk voor Jahwe, de God van uw vaderen."
+          }
+        ]
+      },
+      "id": "ezra.8.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "text": "van de zonen van Bebai: Jehochanan, Chananja, Zabbai en Atlai;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Bebai: Jehochanan, Chananja, Zabbai en Atlai;"
+          }
+        ]
+      },
+      "id": "ezra.10.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "tweeënvijftig burgers uit Nebo,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tweeënvijftig burgers uit Nebo,"
+          }
+        ]
+      },
+      "id": "ezra.2.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 29,
+      "text": "Bewaar dat alles dus zorgvuldig, om het in Jeruzalem, in de ruimten van de tempel van Jahwe, over te dragen aan de leiders van de priesters en levieten en aan de voornaamste familiehoofden van Israël.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bewaar dat alles dus zorgvuldig, om het in Jeruzalem, in de ruimten van de tempel van Jahwe, over te dragen aan de leiders van de priesters en levieten en aan de voornaamste familiehoofden van Israël.'"
+          }
+        ]
+      },
+      "id": "ezra.8.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "text": "van de zonen van Bani: Mesullam, Malluk, Adaja, Jasub, Seal en Jeremot;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Bani: Mesullam, Malluk, Adaja, Jasub, Seal en Jeremot;"
+          }
+        ]
+      },
+      "id": "ezra.10.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "Honderdzesenvijftig burgers uit Magbis,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Honderdzesenvijftig burgers uit Magbis,"
+          }
+        ]
+      },
+      "id": "ezra.2.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 30,
+      "text": "En de priesters en de levieten namen al het zilver en goud en het vaatwerk in ontvangst om het over te brengen naar de tempel van onze God in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de priesters en de levieten namen al het zilver en goud en het vaatwerk in ontvangst om het over te brengen naar de tempel van onze God in Jeruzalem."
+          }
+        ]
+      },
+      "id": "ezra.8.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "text": "van de zonen van Pachat-moab: Adna, Kelal, Benaja, Maaseja, Mattanja, Besalel, Binnui en Menasse;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Pachat-moab: Adna, Kelal, Benaja, Maaseja, Mattanja, Besalel, Binnui en Menasse;"
+          }
+        ]
+      },
+      "id": "ezra.10.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "text": "twaalfhonderdvierenvijftig burgers uit Elam,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "twaalfhonderdvierenvijftig burgers uit Elam,"
+          }
+        ]
+      },
+      "id": "ezra.2.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 31,
+      "text": "Op de twaalfde dag van de eerste maand braken wij bij de rivier de Ahawa op, om naar Jeruzalem te gaan, en daar God met ons was behoedde Hij ons onderweg voor vijanden en rovers,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de twaalfde dag van de eerste maand braken wij bij de rivier de Ahawa op, om naar Jeruzalem te gaan, en daar God met ons was behoedde Hij ons onderweg voor vijanden en rovers,"
+          }
+        ]
+      },
+      "id": "ezra.8.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 31,
+      "text": "van de zonen van Charim: Eliezer, Jissia, Malkia, Semaja, Simon,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Charim: Eliezer, Jissia, Malkia, Semaja, Simon,"
+          }
+        ]
+      },
+      "id": "ezra.10.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "text": "driehonderdtwintig afstammelingen van Charim,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "driehonderdtwintig afstammelingen van Charim,"
+          }
+        ]
+      },
+      "id": "ezra.2.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 32,
+      "text": "en zo kwamen wij in Jeruzalem aan. Wij rustten daar drie dagen uit",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zo kwamen wij in Jeruzalem aan. Wij rustten daar drie dagen uit"
+          }
+        ]
+      },
+      "id": "ezra.8.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "text": "Benjamin, Malluk en Semarja;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Benjamin, Malluk en Semarja;"
+          }
+        ]
+      },
+      "id": "ezra.10.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "text": "zevenhonderdvijfentwintig burgers uit Lod, Chadid en Ono,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zevenhonderdvijfentwintig burgers uit Lod, Chadid en Ono,"
+          }
+        ]
+      },
+      "id": "ezra.2.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 33,
+      "text": "en op de vierde dag droegen wij in de tempel van onze God al het zilver en het goud en al het vaatwerk over aan Meremot, de zoon van Uria, de priester, in aanwezigheid van Elazar, de zoon van Pinechas, en van de levieten Jozabad, de zoon van Jesua en Noadja, de zoon van Binnui.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en op de vierde dag droegen wij in de tempel van onze God al het zilver en het goud en al het vaatwerk over aan Meremot, de zoon van Uria, de priester, in aanwezigheid van Elazar, de zoon van Pinechas, en van de levieten Jozabad, de zoon van Jesua en Noadja, de zoon van Binnui."
+          }
+        ]
+      },
+      "id": "ezra.8.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "text": "van de zonen van Chasum: Mattenai, Mattatta, Zabad, Elifelet, Jeremai, Menasse en Simi;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Chasum: Mattenai, Mattatta, Zabad, Elifelet, Jeremai, Menasse en Simi;"
+          }
+        ]
+      },
+      "id": "ezra.10.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "text": "driehonderdvijfenveertig burgers uit Jericho,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "driehonderdvijfenveertig burgers uit Jericho,"
+          }
+        ]
+      },
+      "id": "ezra.2.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 34,
+      "text": "Alles werd geteld en gewogen en het gewicht ingeschreven. Bij die gelegenheid",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles werd geteld en gewogen en het gewicht ingeschreven. Bij die gelegenheid"
+          }
+        ]
+      },
+      "id": "ezra.8.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "text": "van de zonen van Bani: Maadai, Amram en Uël,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Bani: Maadai, Amram en Uël,"
+          }
+        ]
+      },
+      "id": "ezra.10.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 35,
+      "text": "drieduizend zeshonderddertig burgers uit Senaa.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "drieduizend zeshonderddertig burgers uit Senaa."
+          }
+        ]
+      },
+      "id": "ezra.2.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 35,
+      "text": "droegen de ballingen, uit de gevangenschap teruggekeerd, brandoffers op aan de God van Israël: twaalf stieren voor heel Israël, zesennegentig rammen, zevenenzeventig lammeren en als zondeoffer twaalf bokken. Het was een groot brandoffer ter ere van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "droegen de ballingen, uit de gevangenschap teruggekeerd, brandoffers op aan de God van Israël: twaalf stieren voor heel Israël, zesennegentig rammen, zevenenzeventig lammeren en als zondeoffer twaalf bokken. Het was een groot brandoffer ter ere van Jahwe."
+          }
+        ]
+      },
+      "id": "ezra.8.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "text": "Benaja, Bedeja, Keluhu,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Benaja, Bedeja, Keluhu,"
+          }
+        ]
+      },
+      "id": "ezra.10.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 36,
+      "text": "Priesters: negenhonderddrieënzeventig afstammelingen van Jedaja uit het geslacht van Jesua,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Priesters: negenhonderddrieënzeventig afstammelingen van Jedaja uit het geslacht van Jesua,"
+          }
+        ]
+      },
+      "id": "ezra.2.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 36,
+      "text": "Zij overhandigden het koninklijk decreet aan de satrapen van de koning, de landvoogden aan de overzijde van de Rivier, waarop dezen het volk en de tempel hun steun verleenden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij overhandigden het koninklijk decreet aan de satrapen van de koning, de landvoogden aan de overzijde van de Rivier, waarop dezen het volk en de tempel hun steun verleenden."
+          }
+        ]
+      },
+      "id": "ezra.8.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 36,
+      "text": "Wanja, Meremot, Eljasub,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanja, Meremot, Eljasub,"
+          }
+        ]
+      },
+      "id": "ezra.10.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 37,
+      "text": "duizend tweeënvijftig afstammelingen van Immer,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "duizend tweeënvijftig afstammelingen van Immer,"
+          }
+        ]
+      },
+      "id": "ezra.2.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "text": "Mattanja, Mattenai en Jaasai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mattanja, Mattenai en Jaasai,"
+          }
+        ]
+      },
+      "id": "ezra.10.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 38,
+      "text": "twaalfhonderdzevenenveertig afstammelingen van Paschur,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "twaalfhonderdzevenenveertig afstammelingen van Paschur,"
+          }
+        ]
+      },
+      "id": "ezra.2.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 38,
+      "text": "Bani en Binnui, Simi,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bani en Binnui, Simi,"
+          }
+        ]
+      },
+      "id": "ezra.10.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 39,
+      "text": "duizend zeventien afstammelingen van Charim.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "duizend zeventien afstammelingen van Charim."
+          }
+        ]
+      },
+      "id": "ezra.2.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "text": "Selemja, Natan en Waadja,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Selemja, Natan en Waadja,"
+          }
+        ]
+      },
+      "id": "ezra.10.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 40,
+      "text": "Levieten: vierenzeventig afstammelingen van Jesua en Kadmiël uit de zonen van Hodawja.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Levieten: vierenzeventig afstammelingen van Jesua en Kadmiël uit de zonen van Hodawja."
+          }
+        ]
+      },
+      "id": "ezra.2.40",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 40,
+      "text": "Maknadbai, Sasai, Sarai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maknadbai, Sasai, Sarai,"
+          }
+        ]
+      },
+      "id": "ezra.10.40",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 41,
+      "text": "Zangers: honderdachtentwintig afstammelingen van Asaf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zangers: honderdachtentwintig afstammelingen van Asaf."
+          }
+        ]
+      },
+      "id": "ezra.2.41",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "text": "Azarel, Selemjahu, Semarja,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Azarel, Selemjahu, Semarja,"
+          }
+        ]
+      },
+      "id": "ezra.10.41",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 42,
+      "text": "Poortwachters: in totaal honderdnegenendertig afstammelingen van Sallum, Ater, Talmon, Akkub, Chatita en Sobai.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Poortwachters: in totaal honderdnegenendertig afstammelingen van Sallum, Ater, Talmon, Akkub, Chatita en Sobai."
+          }
+        ]
+      },
+      "id": "ezra.2.42",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 42,
+      "text": "Sallum, Amarja en Jozef;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sallum, Amarja en Jozef;"
+          }
+        ]
+      },
+      "id": "ezra.10.42",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 43,
+      "text": "Tempelknechten: afstammelingen van Sicha, Chasufa, Tabbaot,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tempelknechten: afstammelingen van Sicha, Chasufa, Tabbaot,"
+          }
+        ]
+      },
+      "id": "ezra.2.43",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 43,
+      "text": "van de zonen van Nebo: Jeiël, Mattitja, Zabad, Zebina, Jaddai, Joel en Benaja.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van de zonen van Nebo: Jeiël, Mattitja, Zabad, Zebina, Jaddai, Joel en Benaja."
+          }
+        ]
+      },
+      "id": "ezra.10.43",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 44,
+      "text": "Keros, Siaha, Padon,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Keros, Siaha, Padon,"
+          }
+        ]
+      },
+      "id": "ezra.2.44",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 44,
+      "text": "Deze allen hadden uitheemse vrouwen gehuwd, maar zij stuurden ze weg met hun kinderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze allen hadden uitheemse vrouwen gehuwd, maar zij stuurden ze weg met hun kinderen."
+          }
+        ]
+      },
+      "id": "ezra.10.44",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 45,
+      "text": "Lebana, Chagaba, Akkub,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Lebana, Chagaba, Akkub,"
+          }
+        ]
+      },
+      "id": "ezra.2.45",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 46,
+      "text": "Chagab, Samlai, Chanan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Chagab, Samlai, Chanan,"
+          }
+        ]
+      },
+      "id": "ezra.2.46",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 47,
+      "text": "Giddel, Gachar, Reaja,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Giddel, Gachar, Reaja,"
+          }
+        ]
+      },
+      "id": "ezra.2.47",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 48,
+      "text": "Resin, Nekoda, Gazzam,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Resin, Nekoda, Gazzam,"
+          }
+        ]
+      },
+      "id": "ezra.2.48",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 49,
+      "text": "Uzza, Paseach, Besai,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uzza, Paseach, Besai,"
+          }
+        ]
+      },
+      "id": "ezra.2.49",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 50,
+      "text": "Asna, Meunim, Nefissim,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Asna, Meunim, Nefissim,"
+          }
+        ]
+      },
+      "id": "ezra.2.50",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 51,
+      "text": "Bakbuk, Chakufa, Charchur,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bakbuk, Chakufa, Charchur,"
+          }
+        ]
+      },
+      "id": "ezra.2.51",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 52,
+      "text": "Baslut, Mechida, Charsa,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Baslut, Mechida, Charsa,"
+          }
+        ]
+      },
+      "id": "ezra.2.52",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 53,
+      "text": "Barkos, Sisera, Temach,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Barkos, Sisera, Temach,"
+          }
+        ]
+      },
+      "id": "ezra.2.53",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 54,
+      "text": "Nesiach en Chatifa.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nesiach en Chatifa."
+          }
+        ]
+      },
+      "id": "ezra.2.54",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 55,
+      "text": "Afstammelingen van de knechten van Salomo: afstammelingen van Sotai, Hassoferet, Peruda,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Afstammelingen van de knechten van Salomo: afstammelingen van Sotai, Hassoferet, Peruda,"
+          }
+        ]
+      },
+      "id": "ezra.2.55",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 56,
+      "text": "Jaala, Darkon, Giddel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jaala, Darkon, Giddel,"
+          }
+        ]
+      },
+      "id": "ezra.2.56",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 57,
+      "text": "Sefatja, Chattil, Pokeret-hassebaim en Ami.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sefatja, Chattil, Pokeret-hassebaim en Ami."
+          }
+        ]
+      },
+      "id": "ezra.2.57",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 58,
+      "text": "In totaal waren er driehonderdtweeënnegentig tempelknechten en Salomo's-knechten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In totaal waren er driehonderdtweeënnegentig tempelknechten en Salomo's-knechten."
+          }
+        ]
+      },
+      "id": "ezra.2.58",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 59,
+      "text": "Ballingen uit Tel-melach, Tel Charsa, Kerub, Addan en Immer, die niet konden aantonen dat ze van Israëlitische families afstamden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ballingen uit Tel-melach, Tel Charsa, Kerub, Addan en Immer, die niet konden aantonen dat ze van Israëlitische families afstamden,"
+          }
+        ]
+      },
+      "id": "ezra.2.59",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 60,
+      "text": "waren de zeshonderdtweeënvijftig afstammelingen van Delaja, Tobia en Nekoda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waren de zeshonderdtweeënvijftig afstammelingen van Delaja, Tobia en Nekoda."
+          }
+        ]
+      },
+      "id": "ezra.2.60",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 61,
+      "text": "Ook de priesters uit de geslachten van Chobaja, Hakkos en Barzillai, welke laatste een dochter van Barzillai uit Gilead gehuwd had en diens naam had aangenomen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de priesters uit de geslachten van Chobaja, Hakkos en Barzillai, welke laatste een dochter van Barzillai uit Gilead gehuwd had en diens naam had aangenomen,"
+          }
+        ]
+      },
+      "id": "ezra.2.61",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 62,
+      "text": "zochten in het register naar het bewijs van hun priesterlijke afstamming, maar konden dat niet vinden en werden uitgesloten van het priesterlijke ambt;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zochten in het register naar het bewijs van hun priesterlijke afstamming, maar konden dat niet vinden en werden uitgesloten van het priesterlijke ambt;"
+          }
+        ]
+      },
+      "id": "ezra.2.62",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 63,
+      "text": "de landvoogd verbood hun van de heilige spijzen te eten zolang er geen priester was die de oerim en toemmim kon raadplegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de landvoogd verbood hun van de heilige spijzen te eten zolang er geen priester was die de oerim en toemmim kon raadplegen."
+          }
+        ]
+      },
+      "id": "ezra.2.63",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 64,
+      "text": "De hele gemeenschap telde tweeënveertigduizend driehonderdzestig man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hele gemeenschap telde tweeënveertigduizend driehonderdzestig man."
+          }
+        ]
+      },
+      "id": "ezra.2.64",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 65,
+      "text": "Daarbij kwamen nog zevenduizend driehonderdzevenendertig slaven en slavinnen en tweehonderd zangers en zangeressen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarbij kwamen nog zevenduizend driehonderdzevenendertig slaven en slavinnen en tweehonderd zangers en zangeressen."
+          }
+        ]
+      },
+      "id": "ezra.2.65",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 66,
+      "text": "Ze hadden zevenhonderdzesendertig paarden, tweehonderdvijfenveertig muilezels,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze hadden zevenhonderdzesendertig paarden, tweehonderdvijfenveertig muilezels,"
+          }
+        ]
+      },
+      "id": "ezra.2.66",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 67,
+      "text": "vierhonderdvijfendertig kamelen en zesduizend zevenhonderdtwintig ezels.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "vierhonderdvijfendertig kamelen en zesduizend zevenhonderdtwintig ezels."
+          }
+        ]
+      },
+      "id": "ezra.2.67",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 68,
+      "text": "Toen zij bij de tempel van Jahwe in Jeruzalem aankwamen, deden de familiehoofden schenkingen voor de herbouw van de tempel op zijn vroegere plaats.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zij bij de tempel van Jahwe in Jeruzalem aankwamen, deden de familiehoofden schenkingen voor de herbouw van de tempel op zijn vroegere plaats."
+          }
+        ]
+      },
+      "id": "ezra.2.68",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 69,
+      "text": "Allen gaven naar vermogen en zo brachten ze voor het bouwfonds eenenzestigduizend gouden drachmen, vijfduizend zilveren minen en honderd priestergewaden bijeen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen gaven naar vermogen en zo brachten ze voor het bouwfonds eenenzestigduizend gouden drachmen, vijfduizend zilveren minen en honderd priestergewaden bijeen."
+          }
+        ]
+      },
+      "id": "ezra.2.69",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 70,
+      "text": "De priesters, de levieten, een gedeelte van het volk, de zangers, de poortwachters en de tempelknechten vestigden zich in Jeruzalem. De rest van Israël vestigde zich in de steden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De priesters, de levieten, een gedeelte van het volk, de zangers, de poortwachters en de tempelknechten vestigden zich in Jeruzalem. De rest van Israël vestigde zich in de steden."
+          }
+        ]
+      },
+      "id": "ezra.2.70",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

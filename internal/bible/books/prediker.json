@@ -1,0 +1,3782 @@
+{
+  "id": "prediker",
+  "name": "Prediker",
+  "chapters": 12,
+  "verseCount": 222,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "De woorden van Prediker, zoon van David, koning in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De woorden van Prediker, zoon van David, koning in Jeruzalem."
+          }
+        ]
+      },
+      "id": "prediker.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Ik zei bij mezelf: Zoek het eens in het plezier en geniet van het goede. Maar ook dat bleek ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zei bij mezelf: Zoek het eens in het plezier en geniet van het goede. Maar ook dat bleek ijdel."
+          }
+        ]
+      },
+      "id": "prediker.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Alles heeft zijn uur, alle dingen onder de hemel hebben hun tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles heeft zijn uur, alle dingen onder de hemel hebben hun tijd."
+          }
+        ]
+      },
+      "id": "prediker.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ook werd ik getroffen door al de onderdrukking die er heerst onder de zon. Onderdrukten zie je in tranen, maar niemand die ze troost. Ze gaan gebukt onder de macht van verdrukkers, maar niemand die ze troost.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook werd ik getroffen door al de onderdrukking die er heerst onder de zon. Onderdrukten zie je in tranen, maar niemand die ze troost. Ze gaan gebukt onder de macht van verdrukkers, maar niemand die ze troost."
+          }
+        ]
+      },
+      "id": "prediker.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Als je voor God staat, wees dan niet te vlug met je tong en spreek niet overijld. Want God is in de hemel en jij bent op aarde. Wees daarom zuinig met je woorden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als je voor God staat, wees dan niet te vlug met je tong en spreek niet overijld. Want God is in de hemel en jij bent op aarde. Wees daarom zuinig met je woorden."
+          }
+        ]
+      },
+      "id": "prediker.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Ik zag nog een ander kwaad onder de zon, waar de mensen zwaar onder lijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zag nog een ander kwaad onder de zon, waar de mensen zwaar onder lijden."
+          }
+        ]
+      },
+      "id": "prediker.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Een goede naam is beter dan goede parfum, een sterfdag beter dan een geboortedag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een goede naam is beter dan goede parfum, een sterfdag beter dan een geboortedag."
+          }
+        ]
+      },
+      "id": "prediker.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Wie is werkelijk wijs en wie kent de verklaring der dingen? Wijsheid doet het gezicht stralen en neemt de harde trekken weg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is werkelijk wijs en wie kent de verklaring der dingen? Wijsheid doet het gezicht stralen en neemt de harde trekken weg."
+          }
+        ]
+      },
+      "id": "prediker.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Na dit alles te hebben overwogen heb ik duidelijk ingezien dat ook de rechtvaardigen en wijzen met al wat zij doen geheel van God afhankelijk zijn. Wacht hen liefde of haat? Geen mens weet het. Beide zijn mogelijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na dit alles te hebben overwogen heb ik duidelijk ingezien dat ook de rechtvaardigen en wijzen met al wat zij doen geheel van God afhankelijk zijn. Wacht hen liefde of haat? Geen mens weet het. Beide zijn mogelijk."
+          }
+        ]
+      },
+      "id": "prediker.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Een dode vlieg bederft de beste parfum. Een beetje dwaasheid kan heel wat wijsheid te niet doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een dode vlieg bederft de beste parfum. Een beetje dwaasheid kan heel wat wijsheid te niet doen."
+          }
+        ]
+      },
+      "id": "prediker.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Gooi je brood op het water; na lange tijd vind je het misschien terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gooi je brood op het water; na lange tijd vind je het misschien terug."
+          }
+        ]
+      },
+      "id": "prediker.11.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Houd je schepper in ere zolang je nog jong bent, eer de kwade dagen komen en de jaren dat je zegt: het bevalt me niet meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd je schepper in ere zolang je nog jong bent, eer de kwade dagen komen en de jaren dat je zegt: het bevalt me niet meer."
+          }
+        ]
+      },
+      "id": "prediker.12.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "IJL en ijdel, zegt Prediker, ijl en ijdel, alles is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "IJL en ijdel, zegt Prediker, ijl en ijdel, alles is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Lachen is dwaasheid, zeg ik, en plezier maken levert niets op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Lachen is dwaasheid, zeg ik, en plezier maken levert niets op."
+          }
+        ]
+      },
+      "id": "prediker.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Er is een tijd om te baren en een tijd om te sterven, een tijd om te planten en een tijd om wat geplant is te oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is een tijd om te baren en een tijd om te sterven, een tijd om te planten en een tijd om wat geplant is te oogsten."
+          }
+        ]
+      },
+      "id": "prediker.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Daarom zeg ik: Wie dood en begraven is, is beter af dan een die nog leeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zeg ik: Wie dood en begraven is, is beter af dan een die nog leeft."
+          }
+        ]
+      },
+      "id": "prediker.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Want te veel werk leidt tot gedroom en te veel praten tot gebazel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want te veel werk leidt tot gedroom en te veel praten tot gebazel."
+          }
+        ]
+      },
+      "id": "prediker.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "God geeft iemand rijkdom, welstand en aanzien, alles wat hij maar wensen kan. Maar God laat niet toe dat hij ervan geniet en een vreemde maakt alles op. Dat is ijdel, een trieste zaak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God geeft iemand rijkdom, welstand en aanzien, alles wat hij maar wensen kan. Maar God laat niet toe dat hij ervan geniet en een vreemde maakt alles op. Dat is ijdel, een trieste zaak."
+          }
+        ]
+      },
+      "id": "prediker.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Je kunt beter naar een begrafenis dan naar een feest gaan. Want de begrafenis is het einde van iedere mens en de levenden doen er goed aan dat te bedenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je kunt beter naar een begrafenis dan naar een feest gaan. Want de begrafenis is het einde van iedere mens en de levenden doen er goed aan dat te bedenken."
+          }
+        ]
+      },
+      "id": "prediker.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Doe wat de koning beveelt, denk aan je eed van trouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doe wat de koning beveelt, denk aan je eed van trouw."
+          }
+        ]
+      },
+      "id": "prediker.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Allen wacht ook eenzelfde lot: rechtvaardigen en bozen, reinen en onreinen, hen die offers brengen en hen die er geen brengen. Het gaat de goeden net als de zondaars, degenen die eden afleggen net als wie dit vermijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen wacht ook eenzelfde lot: rechtvaardigen en bozen, reinen en onreinen, hen die offers brengen en hen die er geen brengen. Het gaat de goeden net als de zondaars, degenen die eden afleggen net als wie dit vermijden."
+          }
+        ]
+      },
+      "id": "prediker.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Het hart van een wijze zit rechts, maar dat van een dwaas zit links.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het hart van een wijze zit rechts, maar dat van een dwaas zit links."
+          }
+        ]
+      },
+      "id": "prediker.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Beleg je bezit in zeven of acht zaken; je weet niet welke ramp de aarde kan treffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beleg je bezit in zeven of acht zaken; je weet niet welke ramp de aarde kan treffen."
+          }
+        ]
+      },
+      "id": "prediker.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "Eer het zonlicht verduistert, de maan en de sterren verbleken, en de wolken na de regen blijven hangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eer het zonlicht verduistert, de maan en de sterren verbleken, en de wolken na de regen blijven hangen."
+          }
+        ]
+      },
+      "id": "prediker.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Wat heeft de mens aan al zijn zwoegen en tobben onder de zon?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat heeft de mens aan al zijn zwoegen en tobben onder de zon?"
+          }
+        ]
+      },
+      "id": "prediker.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Zo heb ik het ook eens geprobeerd met de wijn - het was de wijsheid die mij dat ingaf -: ik wilde erachter komen of in de dwaasheid nu het geluk ligt waar de mensen voor werken onder de zon, heel hun kortstondig bestaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo heb ik het ook eens geprobeerd met de wijn - het was de wijsheid die mij dat ingaf -: ik wilde erachter komen of in de dwaasheid nu het geluk ligt waar de mensen voor werken onder de zon, heel hun kortstondig bestaan."
+          }
+        ]
+      },
+      "id": "prediker.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Een tijd om te doden en een tijd om te genezen, een tijd om af te breken en een tijd om op te bouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om te doden en een tijd om te genezen, een tijd om af te breken en een tijd om op te bouwen."
+          }
+        ]
+      },
+      "id": "prediker.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Maar het beste af is hij die nooit werd geboren; hij hoeft al dat ellendig gedoe onder de zon niet mee te maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar het beste af is hij die nooit werd geboren; hij hoeft al dat ellendig gedoe onder de zon niet mee te maken."
+          }
+        ]
+      },
+      "id": "prediker.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Heb je God een belofte gedaan, volbreng ze dan zonder uitstel. Hij houdt niet van dwazen. Wat je beloofd hebt moet je volbrengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heb je God een belofte gedaan, volbreng ze dan zonder uitstel. Hij houdt niet van dwazen. Wat je beloofd hebt moet je volbrengen."
+          }
+        ]
+      },
+      "id": "prediker.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Iemand mag honderd kinderen hebben en nog zo lang leven, als hij al die tijd niet van het goede kan genieten en niet eens een begrafenis krijgt, dan zeg ik: een misgeboorte is beter af dan hij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iemand mag honderd kinderen hebben en nog zo lang leven, als hij al die tijd niet van het goede kan genieten en niet eens een begrafenis krijgt, dan zeg ik: een misgeboorte is beter af dan hij."
+          }
+        ]
+      },
+      "id": "prediker.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Je kunt beter huilen dan lachen. Want achter een treurig gezicht kan een opgewekt gemoed schuilgaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je kunt beter huilen dan lachen. Want achter een treurig gezicht kan een opgewekt gemoed schuilgaan."
+          }
+        ]
+      },
+      "id": "prediker.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Ga niet voortijdig bij hem vandaan, maar blijf hem ook niet lastig vallen met vervelende kwesties. Hij doet alles toch naar eigen goeddunken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ga niet voortijdig bij hem vandaan, maar blijf hem ook niet lastig vallen met vervelende kwesties. Hij doet alles toch naar eigen goeddunken."
+          }
+        ]
+      },
+      "id": "prediker.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Dat is het trieste van al wat gebeurt onder de zon: eenzelfde lot treft iedereen. Daarom is de mens steeds uit op het kwaad en zit zijn hoofd vol dwaze gedachten zolang hij leeft. Daarna is het toch gedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat is het trieste van al wat gebeurt onder de zon: eenzelfde lot treft iedereen. Daarom is de mens steeds uit op het kwaad en zit zijn hoofd vol dwaze gedachten zolang hij leeft. Daarna is het toch gedaan."
+          }
+        ]
+      },
+      "id": "prediker.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Waar een dwaas ook loopt, men ziet dat hij geen verstand heeft; hij laat iedereen merken hoe dwaas hij is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar een dwaas ook loopt, men ziet dat hij geen verstand heeft; hij laat iedereen merken hoe dwaas hij is."
+          }
+        ]
+      },
+      "id": "prediker.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Als de wolken vol zitten, gieten ze regen uit over het land. Een boom kan naar het zuiden vallen of naar het noorden, maar zoals hij valt blijft hij liggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de wolken vol zitten, gieten ze regen uit over het land. Een boom kan naar het zuiden vallen of naar het noorden, maar zoals hij valt blijft hij liggen."
+          }
+        ]
+      },
+      "id": "prediker.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Als het zover is staan de huisbewakers te beven en lopen de sterke mannen gebogen. De weinige maalsters die er nog zijn staken hun werk, de vrouwen aan het venster zien alleen maar duisternis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het zover is staan de huisbewakers te beven en lopen de sterke mannen gebogen. De weinige maalsters die er nog zijn staken hun werk, de vrouwen aan het venster zien alleen maar duisternis."
+          }
+        ]
+      },
+      "id": "prediker.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Geslachten gaan en geslachten komen, en de aarde blijft al maar bestaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geslachten gaan en geslachten komen, en de aarde blijft al maar bestaan."
+          }
+        ]
+      },
+      "id": "prediker.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Ik heb grootse werken ondernomen. Huizen heb ik gebouwd en wijngaarden geplant.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb grootse werken ondernomen. Huizen heb ik gebouwd en wijngaarden geplant."
+          }
+        ]
+      },
+      "id": "prediker.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Een tijd om te huilen en een tijd om te lachen, een tijd om te rouwen en een tijd om te dansen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om te huilen en een tijd om te lachen, een tijd om te rouwen en een tijd om te dansen."
+          }
+        ]
+      },
+      "id": "prediker.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Ook zag ik dat alles wat mensen tot stand brengen, op onderlinge naijver berust. Ook dat is ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook zag ik dat alles wat mensen tot stand brengen, op onderlinge naijver berust. Ook dat is ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Je kunt beter niets beloven dan een gedane belofte niet nakomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je kunt beter niets beloven dan een gedane belofte niet nakomen."
+          }
+        ]
+      },
+      "id": "prediker.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Zo'n kind komt ter wereld voor niets en naamloos verdwijnt het in het duister.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo'n kind komt ter wereld voor niets en naamloos verdwijnt het in het duister."
+          }
+        ]
+      },
+      "id": "prediker.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Iemand die wijs is gaat liever naar een begrafenis; een dwaas veeleer naar een feest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iemand die wijs is gaat liever naar een begrafenis; een dwaas veeleer naar een feest."
+          }
+        ]
+      },
+      "id": "prediker.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Het woord van de koning is nu eenmaal wet. Wie zou hem durven vragen: ` Wat doet U? '",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van de koning is nu eenmaal wet. Wie zou hem durven vragen: ` Wat doet U? '"
+          }
+        ]
+      },
+      "id": "prediker.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Zolang iemand leeft is er nog hoopt. Beter een levende hond dan een dode leeuw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zolang iemand leeft is er nog hoopt. Beter een levende hond dan een dode leeuw."
+          }
+        ]
+      },
+      "id": "prediker.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "Als een heerser tegen je uitvalt, verlaat dan niet meteen je post. Kalmte voorkomt grote misstappen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een heerser tegen je uitvalt, verlaat dan niet meteen je post. Kalmte voorkomt grote misstappen."
+          }
+        ]
+      },
+      "id": "prediker.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Wie alsmaar let op de wind komt aan zaaien niet toe, en wie naar de wolken blijft kijken komt niet tot oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie alsmaar let op de wind komt aan zaaien niet toe, en wie naar de wolken blijft kijken komt niet tot oogsten."
+          }
+        ]
+      },
+      "id": "prediker.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "De huisdeur valt in het slot, het geluid van de molen vervaagt, het gefluit van de vogels verstomt, alle tonen sterven weg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De huisdeur valt in het slot, het geluid van de molen vervaagt, het gefluit van de vogels verstomt, alle tonen sterven weg."
+          }
+        ]
+      },
+      "id": "prediker.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "De zon komt op en de zon gaat onder, en haast zich dan weer naar de plaats waar haar loop begint.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zon komt op en de zon gaat onder, en haast zich dan weer naar de plaats waar haar loop begint."
+          }
+        ]
+      },
+      "id": "prediker.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Ik heb tuinen en parken aangelegd en ze met allerlei fruitbomen volgeplant.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb tuinen en parken aangelegd en ze met allerlei fruitbomen volgeplant."
+          }
+        ]
+      },
+      "id": "prediker.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Een tijd om stenen weg te gooien en een tijd om stenen te verzamelen, een tijd om te omhelzen en een tijd om van omhelzen af te zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om stenen weg te gooien en een tijd om stenen te verzamelen, een tijd om te omhelzen en een tijd om van omhelzen af te zien."
+          }
+        ]
+      },
+      "id": "prediker.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Zeker: de dwaas zit met zijn handen over elkaar en ruineert zo zichelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeker: de dwaas zit met zijn handen over elkaar en ruineert zo zichelf."
+          }
+        ]
+      },
+      "id": "prediker.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Zorg dat je door je mond geen schuld op je laadt om dan tegen de priester te zeggen dat het een vergissing was. Waarom zou je God ontstemmen en Hem het werk van je handen teniet laten doen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zorg dat je door je mond geen schuld op je laadt om dan tegen de priester te zeggen dat het een vergissing was. Waarom zou je God ontstemmen en Hem het werk van je handen teniet laten doen?"
+          }
+        ]
+      },
+      "id": "prediker.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Het heeft nooit de zon gezien, het heeft nergens weet van en kent dus veel meer rust dan die man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het heeft nooit de zon gezien, het heeft nergens weet van en kent dus veel meer rust dan die man."
+          }
+        ]
+      },
+      "id": "prediker.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Je kunt beter luisteren naar de verwijten van een wijze dan naar de toejuichingen van dwazen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je kunt beter luisteren naar de verwijten van een wijze dan naar de toejuichingen van dwazen."
+          }
+        ]
+      },
+      "id": "prediker.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Wie zich aan de voorschriften houdt, krijgt geen moeilijkheden. Een wijs man voelt aan wanneer en hoe gehandeld moet worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zich aan de voorschriften houdt, krijgt geen moeilijkheden. Een wijs man voelt aan wanneer en hoe gehandeld moet worden."
+          }
+        ]
+      },
+      "id": "prediker.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Levenden weten tenminste nog dat ze doodgaan, maar doden weten helemaal niets meer. Ze hebben niets meer te verwachten, zelfs hun naam wordt vergeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Levenden weten tenminste nog dat ze doodgaan, maar doden weten helemaal niets meer. Ze hebben niets meer te verwachten, zelfs hun naam wordt vergeten."
+          }
+        ]
+      },
+      "id": "prediker.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Ik heb iets ergs gezien onder de zon, een vergissing die gezagdragers steeds weer maken:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb iets ergs gezien onder de zon, een vergissing die gezagdragers steeds weer maken:"
+          }
+        ]
+      },
+      "id": "prediker.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Evenmin als je weet hoe in de moederschoot het leven ontstaat, evenmin weet je iets van het werken van God, de maker van alles.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evenmin als je weet hoe in de moederschoot het leven ontstaat, evenmin weet je iets van het werken van God, de maker van alles."
+          }
+        ]
+      },
+      "id": "prediker.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Onderweg is men overal bang voor en iedere helling schrikt af. De amandel smaakt niet langer, de sprinkhaan ligt zwaar op de maag en de kappervrucht helpt niet meer: de mens is op weg naar zijn laatste verblijf, de rouwklagers staan op straat al te wachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderweg is men overal bang voor en iedere helling schrikt af. De amandel smaakt niet langer, de sprinkhaan ligt zwaar op de maag en de kappervrucht helpt niet meer: de mens is op weg naar zijn laatste verblijf, de rouwklagers staan op straat al te wachten."
+          }
+        ]
+      },
+      "id": "prediker.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "De wind waait naar het zuiden en draait naar het noorden. Hij draait en draait en waait, en telkens keert hij op zijn draaien terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wind waait naar het zuiden en draait naar het noorden. Hij draait en draait en waait, en telkens keert hij op zijn draaien terug."
+          }
+        ]
+      },
+      "id": "prediker.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Ik heb vijvers aangelegd om een bos van jonge bomen te bevloeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb vijvers aangelegd om een bos van jonge bomen te bevloeien."
+          }
+        ]
+      },
+      "id": "prediker.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Een tijd om te zoeken en een tijd om te verliezen, een tijd om te bewaren en een tijd om weg te doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om te zoeken en een tijd om te verliezen, een tijd om te bewaren en een tijd om weg te doen."
+          }
+        ]
+      },
+      "id": "prediker.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Maar: beter een handjevol rust dan handenvol zwoegen en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar: beter een handjevol rust dan handenvol zwoegen en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Dromen en ijdele woorden zijn er genoeg. Vrees liever God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dromen en ijdele woorden zijn er genoeg. Vrees liever God."
+          }
+        ]
+      },
+      "id": "prediker.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Dit geldt zelfs als iemand tweeduizend jaar zou leven, zonder het geluk te vinden. Gaan allen tenslotte niet naar dezelfde plaats?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit geldt zelfs als iemand tweeduizend jaar zou leven, zonder het geluk te vinden. Gaan allen tenslotte niet naar dezelfde plaats?"
+          }
+        ]
+      },
+      "id": "prediker.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Het lachen van dwazen is als het geknetter van dorens onder een ketel. Ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het lachen van dwazen is als het geknetter van dorens onder een ketel. Ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Want voor alles is er een juiste tijd en een juiste aanpak, hoewel de mens grote risico's loopt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want voor alles is er een juiste tijd en een juiste aanpak, hoewel de mens grote risico's loopt."
+          }
+        ]
+      },
+      "id": "prediker.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Hun liefde, hun haat en hun naijver: het is allemaal voorbij. Nooit meer hebben ze deel aan wat zich afspeelt onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun liefde, hun haat en hun naijver: het is allemaal voorbij. Nooit meer hebben ze deel aan wat zich afspeelt onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "dwazen krijgen hoge functies en bekwame mensen blijven op een lage post.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dwazen krijgen hoge functies en bekwame mensen blijven op een lage post."
+          }
+        ]
+      },
+      "id": "prediker.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Begin in de morgen te zaaien en gun je hand tot de avond geen rust. Je weet immers niet of het de ene keer lukt of de andere, of dat het beide keren goed uitvalt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Begin in de morgen te zaaien en gun je hand tot de avond geen rust. Je weet immers niet of het de ene keer lukt of de andere, of dat het beide keren goed uitvalt."
+          }
+        ]
+      },
+      "id": "prediker.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Het zilveren koord knapt af, de gouden schaal breekt, de kruik gaat stuk bij de bron en het scheprad valt gebroken in de put.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zilveren koord knapt af, de gouden schaal breekt, de kruik gaat stuk bij de bron en het scheprad valt gebroken in de put."
+          }
+        ]
+      },
+      "id": "prediker.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Alle rivieren stromen naar zee en de zee raakt niet vol. Naar de plaats waar ze begonnen zijn keren de rivieren terug om opnieuw te gaan stromen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle rivieren stromen naar zee en de zee raakt niet vol. Naar de plaats waar ze begonnen zijn keren de rivieren terug om opnieuw te gaan stromen."
+          }
+        ]
+      },
+      "id": "prediker.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Ik kocht slaven en slavinnen en kreeg er nog bij door geboorte. Mijn veestapel, runderen en schapen, was groter dan die van al mijn voorgangers in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik kocht slaven en slavinnen en kreeg er nog bij door geboorte. Mijn veestapel, runderen en schapen, was groter dan die van al mijn voorgangers in Jeruzalem."
+          }
+        ]
+      },
+      "id": "prediker.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Een tijd om stuk te scheuren en een tijd om te herstellen, een tijd om te zwijgen en een tijd om te spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om stuk te scheuren en een tijd om te herstellen, een tijd om te zwijgen en een tijd om te spreken."
+          }
+        ]
+      },
+      "id": "prediker.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Nog zag ik iets ijdels onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog zag ik iets ijdels onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Als je ziet dat in een bepaald gebied de kleine man onderdrukt wordt en dat recht en rechtvaardigheid worden verkracht, verbaas je dan niet. Want ambtenaren nemen elkaar in bescherming tot de hoogsten toe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als je ziet dat in een bepaald gebied de kleine man onderdrukt wordt en dat recht en rechtvaardigheid worden verkracht, verbaas je dan niet. Want ambtenaren nemen elkaar in bescherming tot de hoogsten toe."
+          }
+        ]
+      },
+      "id": "prediker.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "De mens zwoegt aldoor om zijn honger te stillen, maar hij heeft nooit genoeg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mens zwoegt aldoor om zijn honger te stillen, maar hij heeft nooit genoeg."
+          }
+        ]
+      },
+      "id": "prediker.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Chantage brengt een wijs man tot dwaze dingen en door steekpenningen wordt hij corrupt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Chantage brengt een wijs man tot dwaze dingen en door steekpenningen wordt hij corrupt."
+          }
+        ]
+      },
+      "id": "prediker.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Hij weet immers niet wat komen gaat. En wie zou hem dat kunnen vertellen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij weet immers niet wat komen gaat. En wie zou hem dat kunnen vertellen?"
+          }
+        ]
+      },
+      "id": "prediker.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Eet daarom je brood met vreugde en drink je wijn met een opgewekt hart. Dat heeft bij voorbaat Gods zegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eet daarom je brood met vreugde en drink je wijn met een opgewekt hart. Dat heeft bij voorbaat Gods zegen."
+          }
+        ]
+      },
+      "id": "prediker.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Slaven zag ik hoog te paard en magistraten gingen als slaven te voet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaven zag ik hoog te paard en magistraten gingen als slaven te voet."
+          }
+        ]
+      },
+      "id": "prediker.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Het licht is zalig en het is een weldaad voor de ogen de zon te zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het licht is zalig en het is een weldaad voor de ogen de zon te zien."
+          }
+        ]
+      },
+      "id": "prediker.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Het stof keert terug naar de aarde waar het vandaan kwam en de levensgeest naar God die hem schonk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het stof keert terug naar de aarde waar het vandaan kwam en de levensgeest naar God die hem schonk."
+          }
+        ]
+      },
+      "id": "prediker.12.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Het wordt een vermoeiend verhaal en geen mens kan er iets over zeggen. Hij kijkt wel maar ziet niets, hij luistert zonder iets te verstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het wordt een vermoeiend verhaal en geen mens kan er iets over zeggen. Hij kijkt wel maar ziet niets, hij luistert zonder iets te verstaan."
+          }
+        ]
+      },
+      "id": "prediker.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Ook kostbaarheden stapelde ik op: zilver en goud uit alle koninkrijken en provincies. Ik hield er zangers en zangeressen op na, en vrouwen, mooie vrouwen, waar een man van geniet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook kostbaarheden stapelde ik op: zilver en goud uit alle koninkrijken en provincies. Ik hield er zangers en zangeressen op na, en vrouwen, mooie vrouwen, waar een man van geniet."
+          }
+        ]
+      },
+      "id": "prediker.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Een tijd om lief te hebben en een tijd om te haten, een tijd voor oorlog en een tijd voor vrede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een tijd om lief te hebben en een tijd om te haten, een tijd voor oorlog en een tijd voor vrede."
+          }
+        ]
+      },
+      "id": "prediker.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Iemand staat alleen, hij heeft geen zoon of geen broer; niemand heeft hij naast zich. Toch zwoegt hij zonder ophouden en is met zijn rijkdom nooit tevreden. Voor wie beul ik me eigenlijk af en ontzeg ik mij zoveel goede dingen? Ook dat is ijdel, een zinloos gedoe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iemand staat alleen, hij heeft geen zoon of geen broer; niemand heeft hij naast zich. Toch zwoegt hij zonder ophouden en is met zijn rijkdom nooit tevreden. Voor wie beul ik me eigenlijk af en ontzeg ik mij zoveel goede dingen? Ook dat is ijdel, een zinloos gedoe."
+          }
+        ]
+      },
+      "id": "prediker.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Bij dit alles is er nog een geluk voor een land: een koning die bekommerd is om de landbouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij dit alles is er nog een geluk voor een land: een koning die bekommerd is om de landbouw."
+          }
+        ]
+      },
+      "id": "prediker.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Wat heeft een wijze voor op een dwaas; wat heeft een arme eraan te weten wat er in de wereld te koop is?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat heeft een wijze voor op een dwaas; wat heeft een arme eraan te weten wat er in de wereld te koop is?"
+          }
+        ]
+      },
+      "id": "prediker.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Beter iets aan het einde beoordelen dan aan het begin, beter geduldig zijn dan verwaand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beter iets aan het einde beoordelen dan aan het begin, beter geduldig zijn dan verwaand."
+          }
+        ]
+      },
+      "id": "prediker.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Geen mens is bij machte de wind tegen te houden, evenmin heeft hij de macht over de dag van zijn dood. In de oorlog krijgt niemand verlof en de bozen worden niet gered door hun boosheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geen mens is bij machte de wind tegen te houden, evenmin heeft hij de macht over de dag van zijn dood. In de oorlog krijgt niemand verlof en de bozen worden niet gered door hun boosheid."
+          }
+        ]
+      },
+      "id": "prediker.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Ga altijd feestelijk gekleed en zorg steeds voor parfum op je hoofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ga altijd feestelijk gekleed en zorg steeds voor parfum op je hoofd."
+          }
+        ]
+      },
+      "id": "prediker.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "wie een kuil graaft kan er in vallen; wie een muur omverhaalt kan door een slang worden gebeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wie een kuil graaft kan er in vallen; wie een muur omverhaalt kan door een slang worden gebeten."
+          }
+        ]
+      },
+      "id": "prediker.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Hoe lang iemand ook leeft, laat hij genieten van elke dag en bedenken dat er nog donkere dagen genoeg zullen zijn en dat alles wat daarna komt ijdel is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe lang iemand ook leeft, laat hij genieten van elke dag en bedenken dat er nog donkere dagen genoeg zullen zijn en dat alles wat daarna komt ijdel is."
+          }
+        ]
+      },
+      "id": "prediker.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "IJL en ijdel, zegt Prediker, alles is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "IJL en ijdel, zegt Prediker, alles is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.12.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Wat geweest is zal weer zijn. Wat gebeurd is zal weer gebeuren: nieuw is er niets onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat geweest is zal weer zijn. Wat gebeurd is zal weer gebeuren: nieuw is er niets onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Zo was ik machtiger en rijker dan al mijn voorgangers in Jeruzalem; bovendien had ik nog mijn wijsheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo was ik machtiger en rijker dan al mijn voorgangers in Jeruzalem; bovendien had ik nog mijn wijsheid."
+          }
+        ]
+      },
+      "id": "prediker.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Wat heeft iemand dan aan al zijn werken en zwoegen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat heeft iemand dan aan al zijn werken en zwoegen?"
+          }
+        ]
+      },
+      "id": "prediker.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Je kunt beter met tweeen zijn dan alleen; dan heb je iets aan je moeite.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je kunt beter met tweeen zijn dan alleen; dan heb je iets aan je moeite."
+          }
+        ]
+      },
+      "id": "prediker.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Wie uit is op geld heeft nooit genoeg en wie uit is op rijkdom wil altijd meer. Ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie uit is op geld heeft nooit genoeg en wie uit is op rijkdom wil altijd meer. Ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Beter genieten van wat je pakken kunt dan begerig achter iets aan blijven lopen. Ook dat is ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beter genieten van wat je pakken kunt dan begerig achter iets aan blijven lopen. Ook dat is ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Wind je niet al te gauw op; zich opwinden is eigen aan dwazen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wind je niet al te gauw op; zich opwinden is eigen aan dwazen."
+          }
+        ]
+      },
+      "id": "prediker.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Dit is het besluit van mijn bezinning over wat er gebeurt onder de zon, zolang de ene mens macht heeft over de andere, tot diens ongeluk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is het besluit van mijn bezinning over wat er gebeurt onder de zon, zolang de ene mens macht heeft over de andere, tot diens ongeluk."
+          }
+        ]
+      },
+      "id": "prediker.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Geniet van het leven met de vrouw van je hart, heel het ijdel en kortstondig bestaan dat God je geeft onder de zon. Dat is het enige wat je hebt in dit leven voor al je zwoegen en tobben onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geniet van het leven met de vrouw van je hart, heel het ijdel en kortstondig bestaan dat God je geeft onder de zon. Dat is het enige wat je hebt in dit leven voor al je zwoegen en tobben onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Wie stenen lostrekt kan zich bezeren; een houthakker kan zich verwonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie stenen lostrekt kan zich bezeren; een houthakker kan zich verwonden."
+          }
+        ]
+      },
+      "id": "prediker.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Jongeman, geniet van je jeugd en neem het ervan zolang je nog jong bent. Doe wat je hart je ingeeft en wat je ogen begeren. Maar besef dat God je over alles rekenschap vraagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jongeman, geniet van je jeugd en neem het ervan zolang je nog jong bent. Doe wat je hart je ingeeft en wat je ogen begeren. Maar besef dat God je over alles rekenschap vraagt."
+          }
+        ]
+      },
+      "id": "prediker.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Prediker was een wijs man, hij heeft het volk veel kennis bijgebracht. Wikkend en wegend heeft hij vele spreuken opgesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Prediker was een wijs man, hij heeft het volk veel kennis bijgebracht. Wikkend en wegend heeft hij vele spreuken opgesteld."
+          }
+        ]
+      },
+      "id": "prediker.12.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Er is wel eens iets waarvan men zegt: ` Kijk, dit is iets nieuws! ' Maar dat is niet zo: in vroeger tijden was het er ook al.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is wel eens iets waarvan men zegt: ` Kijk, dit is iets nieuws! ' Maar dat is niet zo: in vroeger tijden was het er ook al."
+          }
+        ]
+      },
+      "id": "prediker.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Niets wat mijn ogen begeerden heb ik ze onthouden; geen genoegen heb ik mij ontzegd. Naar hartelust genoot ik van alles wat ik verworven had. Dat althans had ik met mijn zwoegen bereikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niets wat mijn ogen begeerden heb ik ze onthouden; geen genoegen heb ik mij ontzegd. Naar hartelust genoot ik van alles wat ik verworven had. Dat althans had ik met mijn zwoegen bereikt."
+          }
+        ]
+      },
+      "id": "prediker.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Ik overzag de bezigheden die God de mensen heeft opgelegd om er zich mee af te tobben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik overzag de bezigheden die God de mensen heeft opgelegd om er zich mee af te tobben."
+          }
+        ]
+      },
+      "id": "prediker.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Als de een valt helpt de ander hem op de been. Maar ongelukkig de alleenstaande die valt: hij heeft niemand om hem overeind te helpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de een valt helpt de ander hem op de been. Maar ongelukkig de alleenstaande die valt: hij heeft niemand om hem overeind te helpen."
+          }
+        ]
+      },
+      "id": "prediker.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Hoe groter je bezit, hoe meer profiteurs. En wat heb je er als eigenaar aan? Je kunt er naar kijken, meer niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe groter je bezit, hoe meer profiteurs. En wat heb je er als eigenaar aan? Je kunt er naar kijken, meer niet."
+          }
+        ]
+      },
+      "id": "prediker.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Wat is, werd lang geleden vastgesteld; men weet dat een mens het niet kan opnemen tegen de Sterkere.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat is, werd lang geleden vastgesteld; men weet dat een mens het niet kan opnemen tegen de Sterkere."
+          }
+        ]
+      },
+      "id": "prediker.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Vraag niet waarom de tijden vroeger beter waren dan nu; zoiets vragen getuigt niet van wijsheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vraag niet waarom de tijden vroeger beter waren dan nu; zoiets vragen getuigt niet van wijsheid."
+          }
+        ]
+      },
+      "id": "prediker.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Verder zag ik dat misdadigers een begrafenis krijgen, maar mensen die goed leven moeten weg van de heilige plaats en worden in de stad vergeten. Ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verder zag ik dat misdadigers een begrafenis krijgen, maar mensen die goed leven moeten weg van de heilige plaats en worden in de stad vergeten. Ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Grijp met beide handen de kansen die je nu krijgt, want in de onderwereld waarheen je op weg bent is het gedaan met denken en doen, met kennis en wijsheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Grijp met beide handen de kansen die je nu krijgt, want in de onderwereld waarheen je op weg bent is het gedaan met denken en doen, met kennis en wijsheid."
+          }
+        ]
+      },
+      "id": "prediker.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Als je een botte bijl niet slijpt moet je teveel kracht zetten. Met wijsheid heb je meer kans van slagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als je een botte bijl niet slijpt moet je teveel kracht zetten. Met wijsheid heb je meer kans van slagen."
+          }
+        ]
+      },
+      "id": "prediker.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Zet alle zorgen van je af en houd alle kwalen van je lijf, want jeugd en morgenlicht zijn zo voorbij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zet alle zorgen van je af en houd alle kwalen van je lijf, want jeugd en morgenlicht zijn zo voorbij."
+          }
+        ]
+      },
+      "id": "prediker.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Prediker probeerde goede gezegden te vinden en eerlijk de waarheid onder woorden te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Prediker probeerde goede gezegden te vinden en eerlijk de waarheid onder woorden te brengen."
+          }
+        ]
+      },
+      "id": "prediker.12.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Aan de mensen van vroeger wordt niet meer gedacht, evenmin als aan die van later zal worden gedacht door degenen die na hen komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan de mensen van vroeger wordt niet meer gedacht, evenmin als aan die van later zal worden gedacht door degenen die na hen komen."
+          }
+        ]
+      },
+      "id": "prediker.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Maar toen ik terugzag op alles wat ik gepresteerd had en op al de moeite die mij dat gekost had, stelde ik vast: het is allemaal ijdel en grijpen naar wind. Er valt niets mee te winnen onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar toen ik terugzag op alles wat ik gepresteerd had en op al de moeite die mij dat gekost had, stelde ik vast: het is allemaal ijdel en grijpen naar wind. Er valt niets mee te winnen onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Alles wat Hij doet is goed op zijn tijd; ook heeft Hij de mens besef van duur ingegeven, maar toch blijft Gods werk voor hem van het begin tot het eind ondoorgrondelijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles wat Hij doet is goed op zijn tijd; ook heeft Hij de mens besef van duur ingegeven, maar toch blijft Gods werk voor hem van het begin tot het eind ondoorgrondelijk."
+          }
+        ]
+      },
+      "id": "prediker.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "En: twee die bij elkaar slapen hebben het warm. Maar hoe moet iemand die alleen ligt het warm krijgen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En: twee die bij elkaar slapen hebben het warm. Maar hoe moet iemand die alleen ligt het warm krijgen?"
+          }
+        ]
+      },
+      "id": "prediker.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Iemand die werkt slaapt goed, of hij nu veel of weinig te eten heeft. Maar een rijke heeft zo'n overvloed dat hij niet rustig kan slapen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iemand die werkt slaapt goed, of hij nu veel of weinig te eten heeft. Maar een rijke heeft zo'n overvloed dat hij niet rustig kan slapen."
+          }
+        ]
+      },
+      "id": "prediker.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Hoe meer woorden, hoe meer onzin. En wat heb je daaraan?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe meer woorden, hoe meer onzin. En wat heb je daaraan?"
+          }
+        ]
+      },
+      "id": "prediker.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Wijsheid is beter dan bezit, iedereen die de zon ziet heeft daar baat bij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wijsheid is beter dan bezit, iedereen die de zon ziet heeft daar baat bij."
+          }
+        ]
+      },
+      "id": "prediker.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Omdat slechte daden niet onmiddellijk worden bestraft, is de mens steeds uit op het kwaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat slechte daden niet onmiddellijk worden bestraft, is de mens steeds uit op het kwaad."
+          }
+        ]
+      },
+      "id": "prediker.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Nog iets anders zag ik onder de zon: niet altijd winnen de snelsten de wedloop of de dappersten de oorlog. Het zijn niet altijd de wijzen die te eten hebben, de verstandigen die rijk worden of de deskundigen die bijval krijgen. Alles hangt af van tijd en toeval.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog iets anders zag ik onder de zon: niet altijd winnen de snelsten de wedloop of de dappersten de oorlog. Het zijn niet altijd de wijzen die te eten hebben, de verstandigen die rijk worden of de deskundigen die bijval krijgen. Alles hangt af van tijd en toeval."
+          }
+        ]
+      },
+      "id": "prediker.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Bijt een slang omdat ze niet tijdig is bezworen, dan heeft de slangenbezweerder niets aan zijn kunst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bijt een slang omdat ze niet tijdig is bezworen, dan heeft de slangenbezweerder niets aan zijn kunst."
+          }
+        ]
+      },
+      "id": "prediker.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Woorden van een wijze zijn prikkels, goed vastzittende spijkers de verzameling ervan. Door een herder werden ze geschonken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Woorden van een wijze zijn prikkels, goed vastzittende spijkers de verzameling ervan. Door een herder werden ze geschonken."
+          }
+        ]
+      },
+      "id": "prediker.12.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Ik, Prediker, was koning over Israel in Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, Prediker, was koning over Israel in Jeruzalem."
+          }
+        ]
+      },
+      "id": "prediker.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Toen richtte ik mijn aandacht weer op de wijsheid en vergeleek ze met dwaasheid en onverstand. Wat kan een opvolger doen? Niets meer dan zijn voorganger.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen richtte ik mijn aandacht weer op de wijsheid en vergeleek ze met dwaasheid en onverstand. Wat kan een opvolger doen? Niets meer dan zijn voorganger."
+          }
+        ]
+      },
+      "id": "prediker.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Daarom lijkt het mij voor de mens nog het beste vrolijk te zijn en het er goed van te nemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom lijkt het mij voor de mens nog het beste vrolijk te zijn en het er goed van te nemen."
+          }
+        ]
+      },
+      "id": "prediker.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Iemand alleen kan overweldigd worden, maar met z&#39;n twee&euml;n kun je een aanvaller baas. Een driedubbel koord krijg je heel moeilijk stuk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iemand alleen kan overweldigd worden, maar met z'n tweeën kun je een aanvaller baas. Een driedubbel koord krijg je heel moeilijk stuk."
+          }
+        ]
+      },
+      "id": "prediker.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Nog een grote narigheid zag ik onder de zon: iemand pot rijkdommen op en dan gaat het verkeerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog een grote narigheid zag ik onder de zon: iemand pot rijkdommen op en dan gaat het verkeerd."
+          }
+        ]
+      },
+      "id": "prediker.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Niemand weet immers wat goed is voor de mens in dit ijdel, kortstondig bestaan dat als een schaduw voorbijgaat. En niemand kan hem vertellen wat er na hem komt onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand weet immers wat goed is voor de mens in dit ijdel, kortstondig bestaan dat als een schaduw voorbijgaat. En niemand kan hem vertellen wat er na hem komt onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Wijsheid en geld geven beide beschutting. Maar de wijsheid heeft dit voor; ze houdt hen die haar bezitten in leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wijsheid en geld geven beide beschutting. Maar de wijsheid heeft dit voor; ze houdt hen die haar bezitten in leven."
+          }
+        ]
+      },
+      "id": "prediker.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "De zondaar blijft immers leven, ook al doet hij honderd keer kwaad. Ik weet wel dat ze zeggen: Wie God vreest zal het goed gaan juist omdat hij God vreest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zondaar blijft immers leven, ook al doet hij honderd keer kwaad. Ik weet wel dat ze zeggen: Wie God vreest zal het goed gaan juist omdat hij God vreest."
+          }
+        ]
+      },
+      "id": "prediker.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Bovendien weet geen mens wanneer het zijn tijd is. Zolang een vis ineens gevangen zit in de fuik of een vogel vastraakt in een klapnet, zo wordt ook de mens gestrikt op een kwaad moment dat hem onverwachts overvalt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien weet geen mens wanneer het zijn tijd is. Zolang een vis ineens gevangen zit in de fuik of een vogel vastraakt in een klapnet, zo wordt ook de mens gestrikt op een kwaad moment dat hem onverwachts overvalt."
+          }
+        ]
+      },
+      "id": "prediker.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Woorden van een wijze bezorgen hem bijval, maar het gepraat van een dwaas stort hem in het ongeluk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Woorden van een wijze bezorgen hem bijval, maar het gepraat van een dwaas stort hem in het ongeluk."
+          }
+        ]
+      },
+      "id": "prediker.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Tenslotte nog dit: Mijn zoon, wees gewaarschuwd: veel boeken schrijven is een werk zonder eind, en veel studeren put een mens uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tenslotte nog dit: Mijn zoon, wees gewaarschuwd: veel boeken schrijven is een werk zonder eind, en veel studeren put een mens uit."
+          }
+        ]
+      },
+      "id": "prediker.12.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Ik had mij voorgenomen in alles wat onder de hemel gebeurt ijverig te zoeken naar wijsheid: een trieste bezigheid die God de mens heeft opgelegd om er zich mee af te tobben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik had mij voorgenomen in alles wat onder de hemel gebeurt ijverig te zoeken naar wijsheid: een trieste bezigheid die God de mens heeft opgelegd om er zich mee af te tobben."
+          }
+        ]
+      },
+      "id": "prediker.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ik weet wel dat wijsheid iets voorheeft op dwaasheid, zoals licht iets voorheeft op duisternis:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik weet wel dat wijsheid iets voorheeft op dwaasheid, zoals licht iets voorheeft op duisternis:"
+          }
+        ]
+      },
+      "id": "prediker.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Als hij kan eten en drinken en genieten van wat hij met al zijn zwoegen bereikt heeft, is dat immers een gave van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als hij kan eten en drinken en genieten van wat hij met al zijn zwoegen bereikt heeft, is dat immers een gave van God."
+          }
+        ]
+      },
+      "id": "prediker.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Beter een arme jonge man die wijs is dan een oude koning die dwaas is en geen enkele raad meer aanneemt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beter een arme jonge man die wijs is dan een oude koning die dwaas is en geen enkele raad meer aanneemt."
+          }
+        ]
+      },
+      "id": "prediker.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Door tegenslag raakt hij alles kwijt, en zijn kinderen staan met lege handen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door tegenslag raakt hij alles kwijt, en zijn kinderen staan met lege handen."
+          }
+        ]
+      },
+      "id": "prediker.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Wat het werk van God betreft: wie kan recht maken wat Hij krom heeft gemaakt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat het werk van God betreft: wie kan recht maken wat Hij krom heeft gemaakt?"
+          }
+        ]
+      },
+      "id": "prediker.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "De boze daarentegen zal het slecht gaan, hij leeft maar kort, als een schaduw, juist omdat hij God niet vreest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De boze daarentegen zal het slecht gaan, hij leeft maar kort, als een schaduw, juist omdat hij God niet vreest."
+          }
+        ]
+      },
+      "id": "prediker.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Op het gebied van wijsheid heb ik nog iets meegemaakt onder de zon, waarvan ik diep onder de indruk kwam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op het gebied van wijsheid heb ik nog iets meegemaakt onder de zon, waarvan ik diep onder de indruk kwam."
+          }
+        ]
+      },
+      "id": "prediker.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Zo gauw hij zijn mond opendoet praat hij onzin, en wat hij verder nog zegt is baarlijke nonsens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo gauw hij zijn mond opendoet praat hij onzin, en wat hij verder nog zegt is baarlijke nonsens."
+          }
+        ]
+      },
+      "id": "prediker.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "Om te besluiten, nu je alles hebt gehoord: vrees God en onderhoud zijn geboden; daar komt voor een mens alles op aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om te besluiten, nu je alles hebt gehoord: vrees God en onderhoud zijn geboden; daar komt voor een mens alles op aan."
+          }
+        ]
+      },
+      "id": "prediker.12.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Ik bekeek al het gedoe onder de zon. En het bleek allemaal ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bekeek al het gedoe onder de zon. En het bleek allemaal ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "een wijze heeft ogen in zijn hoofd, terwijl een dwaas in het duister tast. Maar tegelijk stel ik vast dat beiden eenzelfde lot beschoren is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een wijze heeft ogen in zijn hoofd, terwijl een dwaas in het duister tast. Maar tegelijk stel ik vast dat beiden eenzelfde lot beschoren is."
+          }
+        ]
+      },
+      "id": "prediker.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Ik kwam tot het inzicht dat alles wat God doet voor altijd blijft: er valt niets aan toe te voegen en niets gaat eraf. God maakt dat de mensen ontzag voor Hem hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik kwam tot het inzicht dat alles wat God doet voor altijd blijft: er valt niets aan toe te voegen en niets gaat eraf. God maakt dat de mensen ontzag voor Hem hebben."
+          }
+        ]
+      },
+      "id": "prediker.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Ik denk aan zo iemand, die na zijn gevangenschap koning werd en nog wel van het land waar hij arm was geboren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik denk aan zo iemand, die na zijn gevangenschap koning werd en nog wel van het land waar hij arm was geboren."
+          }
+        ]
+      },
+      "id": "prediker.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Zoals een mens uit de schoot van zijn moeder gekomen is moet hij terug: even naakt. Van zijn bezittingen kan hij niets meenemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals een mens uit de schoot van zijn moeder gekomen is moet hij terug: even naakt. Van zijn bezittingen kan hij niets meenemen."
+          }
+        ]
+      },
+      "id": "prediker.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Heb je een goede dag, geniet ervan. Heb je een kwade dag, bedenk dan dat God ook die gemaakt heeft. Hij wil eenvoudig niet dat de mens achterhaalt wat de volgende brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heb je een goede dag, geniet ervan. Heb je een kwade dag, bedenk dan dat God ook die gemaakt heeft. Hij wil eenvoudig niet dat de mens achterhaalt wat de volgende brengt."
+          }
+        ]
+      },
+      "id": "prediker.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Maar in de wereld doet zich de ongerijmdheid voor dat er rechtvaardigen zijn die het vergaat als de bozen en bozen die het vergaat als de rechtvaardigen. Ik zei: ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar in de wereld doet zich de ongerijmdheid voor dat er rechtvaardigen zijn die het vergaat als de bozen en bozen die het vergaat als de rechtvaardigen. Ik zei: ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Er was een klein stadje met weinig inwoners. Een machtige koning rukte op tegen dit stadje, omsingelde het en bouwde grote belegeringswerken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er was een klein stadje met weinig inwoners. Een machtige koning rukte op tegen dit stadje, omsingelde het en bouwde grote belegeringswerken."
+          }
+        ]
+      },
+      "id": "prediker.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Een dwaas heeft over alles iets te zeggen, ofschoon geen mens weet wat komen gaat en niemand hem dat kan vertellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een dwaas heeft over alles iets te zeggen, ofschoon geen mens weet wat komen gaat en niemand hem dat kan vertellen."
+          }
+        ]
+      },
+      "id": "prediker.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Want van alles wat je doet, zelfs in het verborgene, zal Gods oordeel uitwijzen of het goed is of kwaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want van alles wat je doet, zelfs in het verborgene, zal Gods oordeel uitwijzen of het goed is of kwaad."
+          }
+        ]
+      },
+      "id": "prediker.12.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Wat krom is krijg je niet recht en wat ontbreekt kun je niet meetellen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat krom is krijg je niet recht en wat ontbreekt kun je niet meetellen."
+          }
+        ]
+      },
+      "id": "prediker.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Daarom zei ik bij mezelf: Als mijn lot hetzelfde is als dat van een dwaas, waar heeft mijn wijsheid dan toe gediend? Zo kwam ik tot de slotsom: ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zei ik bij mezelf: Als mijn lot hetzelfde is als dat van een dwaas, waar heeft mijn wijsheid dan toe gediend? Zo kwam ik tot de slotsom: ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Wat is, was tevoren al; wat zijn zal, is vroeger al geweest. God haalt wat voorbij is steeds weer terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat is, was tevoren al; wat zijn zal, is vroeger al geweest. God haalt wat voorbij is steeds weer terug."
+          }
+        ]
+      },
+      "id": "prediker.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Ik zag hele menigten, alle levenden onder de zon, partij kiezen voor die jongeman die de plaats van de oude koning innam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zag hele menigten, alle levenden onder de zon, partij kiezen voor die jongeman die de plaats van de oude koning innam."
+          }
+        ]
+      },
+      "id": "prediker.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Inderdaad, het is erg pijnlijk: net zoals hij gekomen is moet hij weer gaan. Wat heeft hij dan bereikt? Hij heeft gezwoegd voor niets.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Inderdaad, het is erg pijnlijk: net zoals hij gekomen is moet hij weer gaan. Wat heeft hij dan bereikt? Hij heeft gezwoegd voor niets."
+          }
+        ]
+      },
+      "id": "prediker.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Beide dingen heb ik meegemaakt in mijn ijdel bestaan: rechtvaardige mensen die omkomen ondanks hun rechtvaardigheid en slechte mensen die lang leven ondanks hun slechtheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beide dingen heb ik meegemaakt in mijn ijdel bestaan: rechtvaardige mensen die omkomen ondanks hun rechtvaardigheid en slechte mensen die lang leven ondanks hun slechtheid."
+          }
+        ]
+      },
+      "id": "prediker.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Daarom prees ik de vreugde, want het beste voor de mens onder de zon is nog: eten en drinken en blij zijn. Dat is het enige wat hij heeft bij al zijn gezwoeg, heel het korte bestaan dat God hem geeft onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom prees ik de vreugde, want het beste voor de mens onder de zon is nog: eten en drinken en blij zijn. Dat is het enige wat hij heeft bij al zijn gezwoeg, heel het korte bestaan dat God hem geeft onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.8.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Nu was er een arme man die zo wijs was, dat hij het stadje had kunnen redden. Maar niemand schonk aandacht aan die man, want hij was arm.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu was er een arme man die zo wijs was, dat hij het stadje had kunnen redden. Maar niemand schonk aandacht aan die man, want hij was arm."
+          }
+        ]
+      },
+      "id": "prediker.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "De dwaas zwoegt maar en mat zich af, maar hij weet niet eens hoe hij in de stad moet komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De dwaas zwoegt maar en mat zich af, maar hij weet niet eens hoe hij in de stad moet komen."
+          }
+        ]
+      },
+      "id": "prediker.10.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Ik zei bij mezelf: Ik heb nu meer wijsheid verworven dan al mijn voorgangers in Jeruzalem. Overvloed van wijsheid en kennis heb ik opgedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zei bij mezelf: Ik heb nu meer wijsheid verworven dan al mijn voorgangers in Jeruzalem. Overvloed van wijsheid en kennis heb ik opgedaan."
+          }
+        ]
+      },
+      "id": "prediker.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Aan een wijze blijft men evenmin denken als aan een dwaas. Op de duur worden beiden vergeten. Het is treurig, maar de wijze sterft net als de dwaas.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan een wijze blijft men evenmin denken als aan een dwaas. Op de duur worden beiden vergeten. Het is treurig, maar de wijze sterft net als de dwaas."
+          }
+        ]
+      },
+      "id": "prediker.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Nog iets anders zag ik onder de zon: op de plaats van het recht heerst onrecht, op de rechterstoel zit de schuldige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog iets anders zag ik onder de zon: op de plaats van het recht heerst onrecht, op de rechterstoel zit de schuldige."
+          }
+        ]
+      },
+      "id": "prediker.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Het volk was niet te tellen, iedereen liep achter hem aan. Maar later waren ze ook over hem niet meer tevreden. Ook dat is ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het volk was niet te tellen, iedereen liep achter hem aan. Maar later waren ze ook over hem niet meer tevreden. Ook dat is ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Troosteloos was zijn hele bestaan, vol ergernis, ellende en bitterheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Troosteloos was zijn hele bestaan, vol ergernis, ellende en bitterheid."
+          }
+        ]
+      },
+      "id": "prediker.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Wees dus niet al te rechtvaardig en doe niet al te wijs. Je zou wel eens bedrogen uit kunnen komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wees dus niet al te rechtvaardig en doe niet al te wijs. Je zou wel eens bedrogen uit kunnen komen."
+          }
+        ]
+      },
+      "id": "prediker.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Ik zocht naar wijsheid en naar de zin van de moeite die de mens zich op aarde getroost. Zelfs als hij zich overdag en ' s nachts geen rust gunt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zocht naar wijsheid en naar de zin van de moeite die de mens zich op aarde getroost. Zelfs als hij zich overdag en ' s nachts geen rust gunt,"
+          }
+        ]
+      },
+      "id": "prediker.8.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Daarom zeg ik: wijsheid mag meer waard zijn dan kracht, de wijsheid van een arme telt niet mee en naar zijn woord wordt niet geluisterd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zeg ik: wijsheid mag meer waard zijn dan kracht, de wijsheid van een arme telt niet mee en naar zijn woord wordt niet geluisterd."
+          }
+        ]
+      },
+      "id": "prediker.9.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "Wee u, land, als uw koning te jong is en uw magistraten ' s morgens vroeg al aan tafel zitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee u, land, als uw koning te jong is en uw magistraten ' s morgens vroeg al aan tafel zitten."
+          }
+        ]
+      },
+      "id": "prediker.10.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Ik nam mij voor het verschil te leren kennen tussen wijsheid en dwaasheid, tussen kennis en onverstand. Maar ik kwam tot het inzicht: ook dat is grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik nam mij voor het verschil te leren kennen tussen wijsheid en dwaasheid, tussen kennis en onverstand. Maar ik kwam tot het inzicht: ook dat is grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Ik werd het leven moe; al het gedoe onder de zon stond mij tegen. Het is allemaal ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik werd het leven moe; al het gedoe onder de zon stond mij tegen. Het is allemaal ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Ik zei bij mezelf: God oordeelt over goeden en slechten. Want elk ding, elk werk heeft zijn tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zei bij mezelf: God oordeelt over goeden en slechten. Want elk ding, elk werk heeft zijn tijd."
+          }
+        ]
+      },
+      "id": "prediker.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "wat je doet als je naar het huis van God gaat. Erheen gaan om te luisteren is verstandiger dan er offers te brengen zoals de dwazen: ze beseffen het niet eens wanneer ze kwaad doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wat je doet als je naar het huis van God gaat. Erheen gaan om te luisteren is verstandiger dan er offers te brengen zoals de dwazen: ze beseffen het niet eens wanneer ze kwaad doen."
+          }
+        ]
+      },
+      "id": "prediker.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Maar iets goeds heb ik toch ontdekt. Wat deugd doet is eten en drinken en van het goede genieten bij alle zwoegen en tobben onder de zon, de korte tijd die God je toemeet. Dat is het enige wat je hebt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar iets goeds heb ik toch ontdekt. Wat deugd doet is eten en drinken en van het goede genieten bij alle zwoegen en tobben onder de zon, de korte tijd die God je toemeet. Dat is het enige wat je hebt."
+          }
+        ]
+      },
+      "id": "prediker.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Maar leef ook niet al te slecht en handel niet als een dwaas. Je zou dood kunnen gaan voor je tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar leef ook niet al te slecht en handel niet als een dwaas. Je zou dood kunnen gaan voor je tijd."
+          }
+        ]
+      },
+      "id": "prediker.7.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "dan nog, stelde ik vast, krijgt hij geen inzicht in het werk van God, in alles wat er gebeurt onder de zon. Hoe hij zich ook inspant, tot inzicht komt hij niet. Zelfs de wijze is daartoe niet in staat, ook al beweert hij van wel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dan nog, stelde ik vast, krijgt hij geen inzicht in het werk van God, in alles wat er gebeurt onder de zon. Hoe hij zich ook inspant, tot inzicht komt hij niet. Zelfs de wijze is daartoe niet in staat, ook al beweert hij van wel."
+          }
+        ]
+      },
+      "id": "prediker.8.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Het rustige betoog van een wijze vindt meer gehoor dan het luide geschreeuw van de dwazen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het rustige betoog van een wijze vindt meer gehoor dan het luide geschreeuw van de dwazen."
+          }
+        ]
+      },
+      "id": "prediker.9.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "Gelukkig land, als uw koning een man van adel is en uw magistraten aan tafel gaan wanneer het hoort, om zich te sterken en niet om zich te bedrinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gelukkig land, als uw koning een man van adel is en uw magistraten aan tafel gaan wanneer het hoort, om zich te sterken en niet om zich te bedrinken."
+          }
+        ]
+      },
+      "id": "prediker.10.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Want veel wijsheid brengt veel verdriet; en hoe groter de kennis, hoe groter de smart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want veel wijsheid brengt veel verdriet; en hoe groter de kennis, hoe groter de smart."
+          }
+        ]
+      },
+      "id": "prediker.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Het vreselijkste leek mij dat ik alles wat ik met mijn zwoegen onder de zon had bereikt, aan mijn opvolger moest achterlaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het vreselijkste leek mij dat ik alles wat ik met mijn zwoegen onder de zon had bereikt, aan mijn opvolger moest achterlaten."
+          }
+        ]
+      },
+      "id": "prediker.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Ik zei bij mezelf: God geeft de mensen wel een eigen plaats maar laat ze toch merken dat ze eigenlijk dieren zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zei bij mezelf: God geeft de mensen wel een eigen plaats maar laat ze toch merken dat ze eigenlijk dieren zijn."
+          }
+        ]
+      },
+      "id": "prediker.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Inderdaad, als God je welstand en rijkdom schenkt en je de kans geeft ervan te profiteren, als je je deel krijgt en gelukkig bent bij al je werk, dan is dat een gave van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Inderdaad, als God je welstand en rijkdom schenkt en je de kans geeft ervan te profiteren, als je je deel krijgt en gelukkig bent bij al je werk, dan is dat een gave van God."
+          }
+        ]
+      },
+      "id": "prediker.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Het beste is het ene vast te houden en het andere niet los te laten. Wie God vreest houdt het juiste midden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het beste is het ene vast te houden en het andere niet los te laten. Wie God vreest houdt het juiste midden."
+          }
+        ]
+      },
+      "id": "prediker.7.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "Wijsheid is meer waard dan wapens. Ja, maar een fout kan veel goeds bederven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wijsheid is meer waard dan wapens. Ja, maar een fout kan veel goeds bederven."
+          }
+        ]
+      },
+      "id": "prediker.9.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Als iemand lui is verzakt het gebinte, en als hij geen hand uitsteekt regent het binnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand lui is verzakt het gebinte, en als hij geen hand uitsteekt regent het binnen."
+          }
+        ]
+      },
+      "id": "prediker.10.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "En wie weet of hij een wijs man zal zijn of een dwaas? Toch zal hij beschikken over alles wat ik met wijsheid bij elkaar gebracht heb onder de zon. Ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wie weet of hij een wijs man zal zijn of een dwaas? Toch zal hij beschikken over alles wat ik met wijsheid bij elkaar gebracht heb onder de zon. Ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Want eenzelfde lot treft mensen en dieren: beiden ademen hetzelfde leven, beiden sterven dezelfde dood. De mens heeft dus niets voor op het dier. Alles is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want eenzelfde lot treft mensen en dieren: beiden ademen hetzelfde leven, beiden sterven dezelfde dood. De mens heeft dus niets voor op het dier. Alles is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Je denkt dan niet voortdurend aan de kortheid van je bestaan: God geeft je zoveel dat je er helemaal in opgaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je denkt dan niet voortdurend aan de kortheid van je bestaan: God geeft je zoveel dat je er helemaal in opgaat."
+          }
+        ]
+      },
+      "id": "prediker.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Een wijze staat door zijn wijsheid veel sterker dan een heel stadsbestuur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een wijze staat door zijn wijsheid veel sterker dan een heel stadsbestuur."
+          }
+        ]
+      },
+      "id": "prediker.7.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "Eten doet men voor zijn plezier en wijn brengt vreugde in het leven: voor geld is alles te krijgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eten doet men voor zijn plezier en wijn brengt vreugde in het leven: voor geld is alles te krijgen."
+          }
+        ]
+      },
+      "id": "prediker.10.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Ik zag geen enkele zin meer in al mijn zwoegen en tobben onder de zon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zag geen enkele zin meer in al mijn zwoegen en tobben onder de zon."
+          }
+        ]
+      },
+      "id": "prediker.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Beiden gaan naar dezelfde plaats: ze zijn voortgekomen uit stof en keren terug tot stof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beiden gaan naar dezelfde plaats: ze zijn voortgekomen uit stof en keren terug tot stof."
+          }
+        ]
+      },
+      "id": "prediker.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "Geen mens ter wereld is zo rechtvaardig dat hij alleen maar goed doet en nooit verkeerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geen mens ter wereld is zo rechtvaardig dat hij alleen maar goed doet en nooit verkeerd."
+          }
+        ]
+      },
+      "id": "prediker.7.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "Verwens een rijke niet eens in je slaapkamer, een koning zelfs niet in je gedachten; want de vogels in de lucht vertellen het verder en op hun vleugels dragen ze het uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verwens een rijke niet eens in je slaapkamer, een koning zelfs niet in je gedachten; want de vogels in de lucht vertellen het verder en op hun vleugels dragen ze het uit."
+          }
+        ]
+      },
+      "id": "prediker.10.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Want heeft iemand door zijn kennis en wijsheid moeizaam iets gepresteerd, hij moet het toch overlaten aan een ander die er niets voor gedaan heeft. Ook dat is ijdel, onzinnig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want heeft iemand door zijn kennis en wijsheid moeizaam iets gepresteerd, hij moet het toch overlaten aan een ander die er niets voor gedaan heeft. Ook dat is ijdel, onzinnig."
+          }
+        ]
+      },
+      "id": "prediker.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "En wie weet of de levensgeest van de mens omhoog gaat en die van het dier omlaag naar de aarde?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wie weet of de levensgeest van de mens omhoog gaat en die van het dier omlaag naar de aarde?"
+          }
+        ]
+      },
+      "id": "prediker.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "Verder: schenk geen aandacht aan het gepraat van de mensen; anders hoor je nog hoe je slaaf je verwenst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verder: schenk geen aandacht aan het gepraat van de mensen; anders hoor je nog hoe je slaaf je verwenst."
+          }
+        ]
+      },
+      "id": "prediker.7.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Wat heeft een mens dan aan zijn gezwoeg, aan al zijn zorgen en tobben onder de zon?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat heeft een mens dan aan zijn gezwoeg, aan al zijn zorgen en tobben onder de zon?"
+          }
+        ]
+      },
+      "id": "prediker.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Zo besefte ik dat het voor de mens nog het beste is te genieten van zijn werk. Dat is het enige wat hij heeft. Niemand kan hem immers laten genieten van wat na hem komt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo besefte ik dat het voor de mens nog het beste is te genieten van zijn werk. Dat is het enige wat hij heeft. Niemand kan hem immers laten genieten van wat na hem komt!"
+          }
+        ]
+      },
+      "id": "prediker.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "En je weet best hoe vaak je zelf anderen hebt verwenst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En je weet best hoe vaak je zelf anderen hebt verwenst."
+          }
+        ]
+      },
+      "id": "prediker.7.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Zijn leven is een lijdensweg, zijn werk een bron van ellende. Zelfs ' s nachts vindt hij geen rust. Ook dat is ijdel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn leven is een lijdensweg, zijn werk een bron van ellende. Zelfs ' s nachts vindt hij geen rust. Ook dat is ijdel."
+          }
+        ]
+      },
+      "id": "prediker.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Zo heb ik in alles naar wijsheid gezocht. Ik dacht: ` ik wil wijs worden. ' Maar de wijsheid bleef buiten mijn bereik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo heb ik in alles naar wijsheid gezocht. Ik dacht: ` ik wil wijs worden. ' Maar de wijsheid bleef buiten mijn bereik."
+          }
+        ]
+      },
+      "id": "prediker.7.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Het beste voor de mens is nog: eten en drinken en genieten van wat hij met veel zwoegen bereikt heeft. Want ook dat, zo begreep ik, komt uit de hand van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het beste voor de mens is nog: eten en drinken en genieten van wat hij met veel zwoegen bereikt heeft. Want ook dat, zo begreep ik, komt uit de hand van God."
+          }
+        ]
+      },
+      "id": "prediker.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "Al wat bestaat is onbereikbaar en onpeilbaar diep. Wie kan erbij?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al wat bestaat is onbereikbaar en onpeilbaar diep. Wie kan erbij?"
+          }
+        ]
+      },
+      "id": "prediker.7.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Of je het nu goed hebt of in de zorgen zit, het gaat nooit buiten Hem om.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of je het nu goed hebt of in de zorgen zit, het gaat nooit buiten Hem om."
+          }
+        ]
+      },
+      "id": "prediker.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "Ik heb er mij met alle zorg en ijver op toegelegd om erachter te komen wat wijs en verstandig is en heb alleen maar ontdekt dat boosheid dom en dwaasheid onverstandig is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb er mij met alle zorg en ijver op toegelegd om erachter te komen wat wijs en verstandig is en heb alleen maar ontdekt dat boosheid dom en dwaasheid onverstandig is."
+          }
+        ]
+      },
+      "id": "prediker.7.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Aan iemand die Hem bevalt, schenkt God wijsheid, kennis en blijdschap. Maar een zondaar laat Hij moeizaam sparen en vergaren om het dan over te dragen aan iemand die Hem bevalt. Ook dat is ijdel en grijpen naar wind.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan iemand die Hem bevalt, schenkt God wijsheid, kennis en blijdschap. Maar een zondaar laat Hij moeizaam sparen en vergaren om het dan over te dragen aan iemand die Hem bevalt. Ook dat is ijdel en grijpen naar wind."
+          }
+        ]
+      },
+      "id": "prediker.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Sommige vrouwen zijn, volgens mij, nog erger dan de dood. Ze zijn een vangnet, hun hart is een val en hun handen zijn boeien. Wie Gods gunst geniet ontsnapt eraan, maar de zondaar raakt erin verstrikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sommige vrouwen zijn, volgens mij, nog erger dan de dood. Ze zijn een vangnet, hun hart is een val en hun handen zijn boeien. Wie Gods gunst geniet ontsnapt eraan, maar de zondaar raakt erin verstrikt."
+          }
+        ]
+      },
+      "id": "prediker.7.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Dit, zegt Prediker, heb ik bij mijn zoeken naar inzicht geleidelijk ontdekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit, zegt Prediker, heb ik bij mijn zoeken naar inzicht geleidelijk ontdekt."
+          }
+        ]
+      },
+      "id": "prediker.7.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "Ik zocht nog verder, maar zonder veel resultaat. Een man op duizend kon ik nog vinden, maar niet een enkele vrouw op de duizend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zocht nog verder, maar zonder veel resultaat. Een man op duizend kon ik nog vinden, maar niet een enkele vrouw op de duizend."
+          }
+        ]
+      },
+      "id": "prediker.7.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 29,
+      "text": "Tenslotte heb ik alleen dit gevonden: naar Gods bedoeling is het leven eenvoudig, maar de mens haalt zich van alles in ' t hoofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tenslotte heb ik alleen dit gevonden: naar Gods bedoeling is het leven eenvoudig, maar de mens haalt zich van alles in ' t hoofd."
+          }
+        ]
+      },
+      "id": "prediker.7.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

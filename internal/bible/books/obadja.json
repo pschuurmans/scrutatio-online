@@ -1,0 +1,365 @@
+{
+  "id": "obadja",
+  "name": "Obadja",
+  "chapters": 1,
+  "verseCount": 21,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het visioen van Obadja: zo spreekt de Heer Jahwe tegen Edom. Wij hebben een boodschap van Jahwe gehoord, een bode is onder de volkeren rondgezonden: 'Vooruit! Laat ons tegen Edom ten strijde trekken!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het visioen van Obadja: zo spreekt de Heer Jahwe tegen Edom. Wij hebben een boodschap van Jahwe gehoord, een bode is onder de volkeren rondgezonden: 'Vooruit! Laat ons tegen Edom ten strijde trekken!'"
+          }
+        ]
+      },
+      "id": "obadja.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Luister, Ik maak u klein onder de volkeren, diep veracht zult gij zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luister, Ik maak u klein onder de volkeren, diep veracht zult gij zijn."
+          }
+        ]
+      },
+      "id": "obadja.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "De trots van uw hart heeft u misleid, u die in de rotskloven woont. Hij vestigt zijn woonplaats in de hoogte en zegt in zijn hart: 'Wie haalt mij omlaag naar de aarde?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De trots van uw hart heeft u misleid, u die in de rotskloven woont. Hij vestigt zijn woonplaats in de hoogte en zegt in zijn hart: 'Wie haalt mij omlaag naar de aarde?'"
+          }
+        ]
+      },
+      "id": "obadja.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Al vliegt gij zo hoog als de arend en al bouwt gij tussen de sterren uw nest, Ik haal u nog naar omlaag - zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al vliegt gij zo hoog als de arend en al bouwt gij tussen de sterren uw nest, Ik haal u nog naar omlaag - zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "obadja.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Als de dieven bij u binnendringen of de rovers bij nacht, wat zult gij dan te gronde gericht worden! Zij nemen immers alles mee wat hun te pas komt. En als de druivenplukkers bij u binnendringen, laten die meer dan de napluk over?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de dieven bij u binnendringen of de rovers bij nacht, wat zult gij dan te gronde gericht worden! Zij nemen immers alles mee wat hun te pas komt. En als de druivenplukkers bij u binnendringen, laten die meer dan de napluk over?"
+          }
+        ]
+      },
+      "id": "obadja.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Wat zal Esau doorzocht worden, wat zal men speuren naar zijn verborgen schatten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat zal Esau doorzocht worden, wat zal men speuren naar zijn verborgen schatten!"
+          }
+        ]
+      },
+      "id": "obadja.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Tot aan de grens wordt gij voortgedreven bedrogen door al uw bondgenoten; degenen met wie gij in vrede leefde en met wie gij uw brood deelde, zij overweldigen u en zij leggen u strikken. Er is geen verstand meer in Edom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot aan de grens wordt gij voortgedreven bedrogen door al uw bondgenoten; degenen met wie gij in vrede leefde en met wie gij uw brood deelde, zij overweldigen u en zij leggen u strikken. Er is geen verstand meer in Edom."
+          }
+        ]
+      },
+      "id": "obadja.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Op die dag - zo luidt de godsspraak van Jahwe - doe ik de wijzen uit Edom verdwijnen, het verstand uit Esau's bergland.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van Jahwe - doe ik de wijzen uit Edom verdwijnen, het verstand uit Esau's bergland."
+          }
+        ]
+      },
+      "id": "obadja.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Uw helden, Teman, zullen de moed verliezen, zodat uit Esau's bergland de mensen worden uitgeroeid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw helden, Teman, zullen de moed verliezen, zodat uit Esau's bergland de mensen worden uitgeroeid."
+          }
+        ]
+      },
+      "id": "obadja.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Vanwege de moord, vanwege het geweld, uw broeder Jakob aangedaan, zult gij met schande overladen worden, zult gij eens en voorgoed worden uitgeroeid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vanwege de moord, vanwege het geweld, uw broeder Jakob aangedaan, zult gij met schande overladen worden, zult gij eens en voorgoed worden uitgeroeid."
+          }
+        ]
+      },
+      "id": "obadja.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Op die dag dat gij u afzijdig hield, toen vreemdelingen het leger van Jeruzalem gevankelijk wegvoerden, toen buitenlanders zijn poorten binnendrongen om over Jeruzalem het lot te werpen, hebt gij u gedragen als een van hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag dat gij u afzijdig hield, toen vreemdelingen het leger van Jeruzalem gevankelijk wegvoerden, toen buitenlanders zijn poorten binnendrongen om over Jeruzalem het lot te werpen, hebt gij u gedragen als een van hen."
+          }
+        ]
+      },
+      "id": "obadja.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Neen, gij moet de dag van uw broeder, de dag van zijn tegenspoed, niet met leedvermaak bezien. Neen, gij moet u niet vrolijk maken over de zonen van Juda op de dag van hun ondergang, gij moet geen grote mond opzetten op de dag van hun nood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, gij moet de dag van uw broeder, de dag van zijn tegenspoed, niet met leedvermaak bezien. Neen, gij moet u niet vrolijk maken over de zonen van Juda op de dag van hun ondergang, gij moet geen grote mond opzetten op de dag van hun nood."
+          }
+        ]
+      },
+      "id": "obadja.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Neen, gij moet de poort van mijn volk niet binnengaan op de dag van zijn ongeluk, gij moet zijn rampspoed niet met leedvermaak bezien, gij zeker niet, op de dag van zijn ongeluk, gij moet u niet werpen op zijn rijkdommen, gij vrouwen, op de dag van zijn ongeluk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, gij moet de poort van mijn volk niet binnengaan op de dag van zijn ongeluk, gij moet zijn rampspoed niet met leedvermaak bezien, gij zeker niet, op de dag van zijn ongeluk, gij moet u niet werpen op zijn rijkdommen, gij vrouwen, op de dag van zijn ongeluk."
+          }
+        ]
+      },
+      "id": "obadja.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Neen, gij moet niet gaan staan bij de bressen om de vluchtelingen van mijn volk af te slachten, en hen die ontsnappen moet gij niet uitleveren op de dag van zijn nood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, gij moet niet gaan staan bij de bressen om de vluchtelingen van mijn volk af te slachten, en hen die ontsnappen moet gij niet uitleveren op de dag van zijn nood."
+          }
+        ]
+      },
+      "id": "obadja.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Want weet wel: de dag van Jahwe is nabij, die komt over alle volken: wat gij anderen doet wordt u gedaan; uw daden komen neer op uw eigen hoofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want weet wel: de dag van Jahwe is nabij, die komt over alle volken: wat gij anderen doet wordt u gedaan; uw daden komen neer op uw eigen hoofd."
+          }
+        ]
+      },
+      "id": "obadja.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Zoals gij, mijn volk, op mijn heilige berg eens mijn toorn hebt gedronken, zo zullen alle volken er altijd van drinken, drinken en wartaal uitslaan en worden als hadden zij nimmer bestaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals gij, mijn volk, op mijn heilige berg eens mijn toorn hebt gedronken, zo zullen alle volken er altijd van drinken, drinken en wartaal uitslaan en worden als hadden zij nimmer bestaan."
+          }
+        ]
+      },
+      "id": "obadja.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Maar op de berg Sion is er dan redding: hij zal heilige grond zijn en het huis Jakob krijgt zijn eigendom terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar op de berg Sion is er dan redding: hij zal heilige grond zijn en het huis Jakob krijgt zijn eigendom terug."
+          }
+        ]
+      },
+      "id": "obadja.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Dan is het huis Jakob een vuur, het huis Jozef een vlam, en het huis Esau het stoppelveld: Jakob en Jozef steken er de brand in en verteren het, zodat niemand van Esau ontsnapt, want Jahwe heeft gesproken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan is het huis Jakob een vuur, het huis Jozef een vlam, en het huis Esau het stoppelveld: Jakob en Jozef steken er de brand in en verteren het, zodat niemand van Esau ontsnapt, want Jahwe heeft gesproken."
+          }
+        ]
+      },
+      "id": "obadja.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Zij zullen de Negeb bezetten, het bergland van Esau, en de Sefela, het gebied van de Filistijnen; zij zullen het gebied van Efraim bezetten en het gebied van Samaria, en Benjamin zal Gilead bezetten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen de Negeb bezetten, het bergland van Esau, en de Sefela, het gebied van de Filistijnen; zij zullen het gebied van Efraim bezetten en het gebied van Samaria, en Benjamin zal Gilead bezetten."
+          }
+        ]
+      },
+      "id": "obadja.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Israëls ballingen, een legermacht geworden, zullen Kanaäns grond bezetten tot Sarefat toe; de ballingen van Jeruzalem die in Sefarad zijn zullen de steden van de Negeb bezetten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israëls ballingen, een legermacht geworden, zullen Kanaäns grond bezetten tot Sarefat toe; de ballingen van Jeruzalem die in Sefarad zijn zullen de steden van de Negeb bezetten."
+          }
+        ]
+      },
+      "id": "obadja.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Op de berg Sion komen dan de redders om recht te spreken over het bergland van Esau. En aan Jahwe zal het koningschap toebehoren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de berg Sion komen dan de redders om recht te spreken over het bergland van Esau. En aan Jahwe zal het koningschap toebehoren."
+          }
+        ]
+      },
+      "id": "obadja.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

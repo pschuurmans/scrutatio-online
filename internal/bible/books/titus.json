@@ -1,0 +1,790 @@
+{
+  "id": "titus",
+  "name": "Titus",
+  "chapters": 3,
+  "verseCount": 46,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS, dienstknecht van God en apostel van Jezus Christus om Gods uitverkorenen te brengen tot het geloof en de kennis van de ware godsdienst",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS, dienstknecht van God en apostel van Jezus Christus om Gods uitverkorenen te brengen tot het geloof en de kennis van de ware godsdienst"
+          }
+        ]
+      },
+      "id": "titus.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Uw taak is het te verkondigen wat strookt met de gezonde leer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw taak is het te verkondigen wat strookt met de gezonde leer."
+          }
+        ]
+      },
+      "id": "titus.2.1",
+      "title": "Vermaningen voor verschillende groepen in de gemeente",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Herinner allen aan de plicht van onderwerping aan overheid en gezag. Zij moeten hun gehoorzamen en bereid zijn alles te doen wat goed is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Herinner allen aan de plicht van onderwerping aan overheid en gezag. Zij moeten hun gehoorzamen en bereid zijn alles te doen wat goed is."
+          }
+        ]
+      },
+      "id": "titus.3.1",
+      "title": "Plicht en genade",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "in de hoop op het eeuwige leven. Reeds lang geleden heeft God, die niet liegt, eeuwig leven beloofd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in de hoop op het eeuwige leven. Reeds lang geleden heeft God, die niet liegt, eeuwig leven beloofd"
+          }
+        ]
+      },
+      "id": "titus.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Bejaarde mannen moeten matig zijn, ernstig, bezonnen, gezond in geloof, liefde en volharding.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bejaarde mannen moeten matig zijn, ernstig, bezonnen, gezond in geloof, liefde en volharding."
+          }
+        ]
+      },
+      "id": "titus.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Zij mogen niemand belasteren en geen ruzie zoeken, zij behoren veeleer vriendelijk te zijn en uiterst zachtmoedig in de omgang met alle mensen zonder uitzondering.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij mogen niemand belasteren en geen ruzie zoeken, zij behoren veeleer vriendelijk te zijn en uiterst zachtmoedig in de omgang met alle mensen zonder uitzondering."
+          }
+        ]
+      },
+      "id": "titus.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "en nu, te zijner tijd, heeft Hij zijn woord openbaar gemaakt in de verkondiging die mij is toevertrouwd door een opdracht van God onze heiland...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en nu, te zijner tijd, heeft Hij zijn woord openbaar gemaakt in de verkondiging die mij is toevertrouwd door een opdracht van God onze heiland..."
+          }
+        ]
+      },
+      "id": "titus.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Zo moeten ook oudere vrouwen zich waardig gedragen, niet kwaadspreken en niet verslaafd zijn aan de wijn. Zij moeten goede adviezen geven",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo moeten ook oudere vrouwen zich waardig gedragen, niet kwaadspreken en niet verslaafd zijn aan de wijn. Zij moeten goede adviezen geven"
+          }
+        ]
+      },
+      "id": "titus.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Want ook wij waren eertijds zonder inzicht, ongehoorzaam aan God en onderworpen aan dwaling, slaven van allerlei begeerten en lusten; wij vulden ons leven met boosaardigheid en afgunst, haat vergeldend met haat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ook wij waren eertijds zonder inzicht, ongehoorzaam aan God en onderworpen aan dwaling, slaven van allerlei begeerten en lusten; wij vulden ons leven met boosaardigheid en afgunst, haat vergeldend met haat."
+          }
+        ]
+      },
+      "id": "titus.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Paulus aan Titus, zijn wettig kind in het gemeenschappelijk geloof. Genade en vrede voor u vanwege God onze Vader en Christus Jezus onze Heiland!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Paulus aan Titus, zijn wettig kind in het gemeenschappelijk geloof. Genade en vrede voor u vanwege God onze Vader en Christus Jezus onze Heiland!"
+          }
+        ]
+      },
+      "id": "titus.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "en de jongere vrouwen leren hun man en kinderen lief te hebben,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de jongere vrouwen leren hun man en kinderen lief te hebben,"
+          }
+        ]
+      },
+      "id": "titus.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Maar de goedheid en mensenliefde van God onze Heiland is op aarde verschenen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de goedheid en mensenliefde van God onze Heiland is op aarde verschenen,"
+          }
+        ]
+      },
+      "id": "titus.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Ik heb u op Kreta achtergelaten met de bedoeling dat gij de organisatie (van de kerk) zoudt voltooien door in elke stad presbyters aan te stellen volgens de richtlijnen die ik u heb gegeven:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u op Kreta achtergelaten met de bedoeling dat gij de organisatie (van de kerk) zoudt voltooien door in elke stad presbyters aan te stellen volgens de richtlijnen die ik u heb gegeven:"
+          }
+        ]
+      },
+      "id": "titus.1.5",
+      "title": "De aanstelling tot presbyters",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "verstandig te zijn, kuis, huishoudelijk, vriendelijk, onderdanig aan hun man; dan komt het woord van God niet in opspraak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "verstandig te zijn, kuis, huishoudelijk, vriendelijk, onderdanig aan hun man; dan komt het woord van God niet in opspraak."
+          }
+        ]
+      },
+      "id": "titus.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "en Hij heeft ons gered, niet omdat wij iets goeds gedaan zouden hebben, maar alleen omdat Hij barmhartig is. Hij heeft ons gered door het bad van wedergeboorte en vernieuwing door de heilige Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en Hij heeft ons gered, niet omdat wij iets goeds gedaan zouden hebben, maar alleen omdat Hij barmhartig is. Hij heeft ons gered door het bad van wedergeboorte en vernieuwing door de heilige Geest."
+          }
+        ]
+      },
+      "id": "titus.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "onberispelijke mannen, trouwe echtgenoten, wier kinderen gelovigen zijn en niet in opspraak wegens losbandigheid of tuchteloosheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "onberispelijke mannen, trouwe echtgenoten, wier kinderen gelovigen zijn en niet in opspraak wegens losbandigheid of tuchteloosheid."
+          }
+        ]
+      },
+      "id": "titus.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Spoor ook de jonge mannen aan om altijd verstandig te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spoor ook de jonge mannen aan om altijd verstandig te zijn."
+          }
+        ]
+      },
+      "id": "titus.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Want Hij heeft de Geest overvloedig over ons uitgestort door Jezus Christus onze Heiland.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij heeft de Geest overvloedig over ons uitgestort door Jezus Christus onze Heiland."
+          }
+        ]
+      },
+      "id": "titus.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Want de leider van de gemeente moet als beheerder van Gods huis onberispelijk zijn, niet aanmatigend, niet driftig, niet aan de wijn verslaafd, niet vechtlustig, niet geldgierig,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de leider van de gemeente moet als beheerder van Gods huis onberispelijk zijn, niet aanmatigend, niet driftig, niet aan de wijn verslaafd, niet vechtlustig, niet geldgierig,"
+          }
+        ]
+      },
+      "id": "titus.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Geef hun zelf een goed voorbeeld. Laat uw onderricht eerlijk en ernstig zijn,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef hun zelf een goed voorbeeld. Laat uw onderricht eerlijk en ernstig zijn,"
+          }
+        ]
+      },
+      "id": "titus.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Zo zijn wij door zijn genade gerechtvaardigd en erfgenamen geworden van het eeuwige leven waar onze hoop op gericht is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zijn wij door zijn genade gerechtvaardigd en erfgenamen geworden van het eeuwige leven waar onze hoop op gericht is."
+          }
+        ]
+      },
+      "id": "titus.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "maar gastvrij, deugdzaam, bezonnen, rechtvaardig, vroom, ingetogen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar gastvrij, deugdzaam, bezonnen, rechtvaardig, vroom, ingetogen,"
+          }
+        ]
+      },
+      "id": "titus.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "uw prediking heilzaam en onaanvechtbaar. Dan weet de tegenstander niets kwaads van ons te zeggen en komt hij misschien tot andere gedachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "uw prediking heilzaam en onaanvechtbaar. Dan weet de tegenstander niets kwaads van ons te zeggen en komt hij misschien tot andere gedachten."
+          }
+        ]
+      },
+      "id": "titus.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Op dit woord kunt ge bouwen, en ik wil dat ge moedig voor uw overtuiging uitkomt. Zij die in God geloven, moeten zich beijveren de eersten te zijn bij elk goed werk. Dat is voor hen een ereplicht en de wereld zal er wel bij varen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op dit woord kunt ge bouwen, en ik wil dat ge moedig voor uw overtuiging uitkomt. Zij die in God geloven, moeten zich beijveren de eersten te zijn bij elk goed werk. Dat is voor hen een ereplicht en de wereld zal er wel bij varen."
+          }
+        ]
+      },
+      "id": "titus.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "met zorg voor de overgeleverde, rechtzinnige leer en in staat om volgens de gezonde beginselen te vermanen en tegensprekers te weerleggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "met zorg voor de overgeleverde, rechtzinnige leer en in staat om volgens de gezonde beginselen te vermanen en tegensprekers te weerleggen."
+          }
+        ]
+      },
+      "id": "titus.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De slaven moeten hun meesters in alles onderdanig zijn, hun eisen inwilligen, niet tegenspreken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De slaven moeten hun meesters in alles onderdanig zijn, hun eisen inwilligen, niet tegenspreken,"
+          }
+        ]
+      },
+      "id": "titus.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Maar houd u niet op met onzinnige kwesties, genealogieën, discussies en twistpunten aangaande de wet; deze dingen zijn nutteloos en hebben geen zin.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar houd u niet op met onzinnige kwesties, genealogieën, discussies en twistpunten aangaande de wet; deze dingen zijn nutteloos en hebben geen zin."
+          }
+        ]
+      },
+      "id": "titus.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Er zijn helaas heel wat onhandelbare lieden, praatjesmakers die anderen het hoofd op hol brengen; ge vindt ze vooral onder de besnedenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er zijn helaas heel wat onhandelbare lieden, praatjesmakers die anderen het hoofd op hol brengen; ge vindt ze vooral onder de besnedenen."
+          }
+        ]
+      },
+      "id": "titus.1.10",
+      "title": "Strijd tegen de dwaalleraars",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "niet stelen, maar zich strikt betrouwbaar tonen; dan zullen zij allerwegen het aanzien verhogen van de leer van God onze Heiland.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet stelen, maar zich strikt betrouwbaar tonen; dan zullen zij allerwegen het aanzien verhogen van de leer van God onze Heiland."
+          }
+        ]
+      },
+      "id": "titus.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Een ketter moet ge na een eerste en een tweede waarschuwing afwijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een ketter moet ge na een eerste en een tweede waarschuwing afwijzen."
+          }
+        ]
+      },
+      "id": "titus.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Men moet hun de mond snoeren: zij richten hele gezinnen te gronde door uit winstbejag dingen te leren die geen pas geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men moet hun de mond snoeren: zij richten hele gezinnen te gronde door uit winstbejag dingen te leren die geen pas geven."
+          }
+        ]
+      },
+      "id": "titus.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Want de genade van God, bron van heil voor alle mensen, is op aarde verschenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de genade van God, bron van heil voor alle mensen, is op aarde verschenen."
+          }
+        ]
+      },
+      "id": "titus.2.11",
+      "title": "Genade en heiligheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Ge kunt er zeker van zijn dat zo iemand op de verkeerde weg is en met zijn zonde zichzelf veroordeelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge kunt er zeker van zijn dat zo iemand op de verkeerde weg is en met zijn zonde zichzelf veroordeelt."
+          }
+        ]
+      },
+      "id": "titus.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Heeft niet een van hen, nog wel hun eigen profeet, gezegd: “Kretenzers zijn onverbeterlijke leugenaars, boze beesten, vadsige buiken”?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft niet een van hen, nog wel hun eigen profeet, gezegd: “Kretenzers zijn onverbeterlijke leugenaars, boze beesten, vadsige buiken”?"
+          }
+        ]
+      },
+      "id": "titus.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Zij leert ons goddeloosheid en wereldse begeerten te verzaken en bezonnen, rechtvaardig en vroom te leven in deze tijd,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij leert ons goddeloosheid en wereldse begeerten te verzaken en bezonnen, rechtvaardig en vroom te leven in deze tijd,"
+          }
+        ]
+      },
+      "id": "titus.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Kom, als ik Artemas of T&yacute;chikus naar u gezonden heb, zo spoedig mogelijk bij mij in Nik&oacute;polis, want ik heb besloten daar de winter door te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom, als ik Artemas of Týchikus naar u gezonden heb, zo spoedig mogelijk bij mij in Nikópolis, want ik heb besloten daar de winter door te brengen."
+          }
+        ]
+      },
+      "id": "titus.3.12",
+      "title": "Mededelingen en groeten",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Dit is een waar woord. Ge moet hun daarom duidelijk zeggen waar het op staat. Hun geloof moet gezond worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is een waar woord. Ge moet hun daarom duidelijk zeggen waar het op staat. Hun geloof moet gezond worden."
+          }
+        ]
+      },
+      "id": "titus.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "terwijl wij uitzien naar de zalige vervulling van onze hoop, de openbaring van de heerlijkheid van onze grote God en Heiland Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "terwijl wij uitzien naar de zalige vervulling van onze hoop, de openbaring van de heerlijkheid van onze grote God en Heiland Christus Jezus."
+          }
+        ]
+      },
+      "id": "titus.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Neem alle maatregelen voor de reis van Zenas, de rechtsgeleerde, en Apollos; het mag hun aan niets ontbreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neem alle maatregelen voor de reis van Zenas, de rechtsgeleerde, en Apollos; het mag hun aan niets ontbreken."
+          }
+        ]
+      },
+      "id": "titus.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Zij moeten zich niet bezighouden met Joodse fabels en allerlei voorschriften, uitgedacht door mensen die de waarheid de rug toekeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij moeten zich niet bezighouden met Joodse fabels en allerlei voorschriften, uitgedacht door mensen die de waarheid de rug toekeren."
+          }
+        ]
+      },
+      "id": "titus.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Hij heeft zichzelf voor ons gegeven om ons van alle ongerechtigheid te verlossen en ons te maken tot zijn eigen volk, gereinigd van zonde, vol ijver voor alle goeds.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft zichzelf voor ons gegeven om ons van alle ongerechtigheid te verlossen en ons te maken tot zijn eigen volk, gereinigd van zonde, vol ijver voor alle goeds."
+          }
+        ]
+      },
+      "id": "titus.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Ook de onzen moeten leren zich met eerlijke arbeid bezig te houden en het hunne bij te dragen ter voorziening in allerlei behoeften; dan maken zij zich nuttig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de onzen moeten leren zich met eerlijke arbeid bezig te houden en het hunne bij te dragen ter voorziening in allerlei behoeften; dan maken zij zich nuttig."
+          }
+        ]
+      },
+      "id": "titus.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "“Alles is rein voor de reinen”. Zonder twijfel, maar voor hen die besmet en onbetrouwbaar zijn, is niets rein, want hun eigen zedelijk oordeel is bedorven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "“Alles is rein voor de reinen”. Zonder twijfel, maar voor hen die besmet en onbetrouwbaar zijn, is niets rein, want hun eigen zedelijk oordeel is bedorven."
+          }
+        ]
+      },
+      "id": "titus.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Hierover moet gij spreken en hierop aandringen. Zet deze dingen uiteen met gezag. Laat niemand u minachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierover moet gij spreken en hierop aandringen. Zet deze dingen uiteen met gezag. Laat niemand u minachten."
+          }
+        ]
+      },
+      "id": "titus.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Allen die bij mij zijn, groeten u. Groet alle vrienden in het geloof. De genade zij met u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen die bij mij zijn, groeten u. Groet alle vrienden in het geloof. De genade zij met u allen."
+          }
+        ]
+      },
+      "id": "titus.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Zij beweren God te kennen en belijden Hem met de mond, maar verloochenen Hem met de daad; afschuwelijke mensen zijn het, onhandelbaar, tot niets goeds in staat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij beweren God te kennen en belijden Hem met de mond, maar verloochenen Hem met de daad; afschuwelijke mensen zijn het, onhandelbaar, tot niets goeds in staat."
+          }
+        ]
+      },
+      "id": "titus.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

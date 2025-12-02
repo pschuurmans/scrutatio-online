@@ -1,0 +1,1731 @@
+{
+  "id": "kolossenzen",
+  "name": "Kolossenzen",
+  "chapters": 4,
+  "verseCount": 95,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, en onze broeder Tim&oacute;te&uuml;s,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, en onze broeder Timóteüs,"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Want gij moet weten welk een zware strijd ik te voeren heb voor u en voor de gelovigen in Laodic&eacute;a en voor zovelen die mij nooit hebben gezien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want gij moet weten welk een zware strijd ik te voeren heb voor u en voor de gelovigen in Laodicéa en voor zovelen die mij nooit hebben gezien."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Als gij dan met Christus ten leven zijt gewekt, zoekt wat boven is, daar waar Christus zetelt aan de rechterhand Gods.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij dan met Christus ten leven zijt gewekt, zoekt wat boven is, daar waar Christus zetelt aan de rechterhand Gods."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.1",
+      "title": "Het nieuwe leven",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Meesters, betracht jegens uw slaven recht en billijkheid, in het besef dat ook gij een meester hebt: in de hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Meesters, betracht jegens uw slaven recht en billijkheid, in het besef dat ook gij een meester hebt: in de hemel."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "aan de gemeente van Kolosse, onze broeders in het geloof en in Christus.<br />\r\nGenade voor u en vrede vanwege God onze Vader!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "aan de gemeente van Kolosse, onze broeders in het geloof en in Christus."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nGenade voor u en vrede vanwege God onze Vader!"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Al mijn moeite is erop gericht dat zij goede moed houden en innig in liefde verbonden blijven, en zo komen tot de volle rijkdom van het inzicht in Gods geheim, Christus namelijk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al mijn moeite is erop gericht dat zij goede moed houden en innig in liefde verbonden blijven, en zo komen tot de volle rijkdom van het inzicht in Gods geheim, Christus namelijk,"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Zint op het hemelse, niet op het aardse.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zint op het hemelse, niet op het aardse."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Volhardt in het gebed en de dankzegging en blijft waakzaam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Volhardt in het gebed en de dankzegging en blijft waakzaam."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.2",
+      "title": "Gebed en maatschappelijke omgang",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Wij zeggen God, de Vader van onze Heer Jezus Christus, dank, telkens als wij u in onze gebeden gedenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zeggen God, de Vader van onze Heer Jezus Christus, dank, telkens als wij u in onze gebeden gedenken."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.3",
+      "title": "Dankzegging en gebed",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "in wie alle schatten van wijsheid en kennis verborgen liggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in wie alle schatten van wijsheid en kennis verborgen liggen."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Gij zijt immers gestorven en uw leven is nu met Christus verborgen in God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt immers gestorven en uw leven is nu met Christus verborgen in God."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Bidt tevens voor ons, dat God een deur moge openen voor onze prediking, om het geheim van Christus, waarvoor ik de boeien draag, te verkondigen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt tevens voor ons, dat God een deur moge openen voor onze prediking, om het geheim van Christus, waarvoor ik de boeien draag, te verkondigen;"
+          }
+        ]
+      },
+      "id": "kolossenzen.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Wij hebben immers gehoord van uw geloof in Christus Jezus en van de liefde die gij alle heiligen toedraagt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben immers gehoord van uw geloof in Christus Jezus en van de liefde die gij alle heiligen toedraagt,"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Ik zeg u dit om te voorkomen dat men u met schijnschone redeneringen van de wijs brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zeg u dit om te voorkomen dat men u met schijnschone redeneringen van de wijs brengt."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Christus is uw leven, en wanneer Hij verschijnt zult ook gij met Hem verschijnen in heerlijkheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Christus is uw leven, en wanneer Hij verschijnt zult ook gij met Hem verschijnen in heerlijkheid."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "moge ik het juiste woord vinden om het kenbaar te maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "moge ik het juiste woord vinden om het kenbaar te maken."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "omwille van de hoop die voor u in de hemel is weggelegd. Gij hebt daarvan vernomen, toen het evangelie, het woord van de waarheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "omwille van de hoop die voor u in de hemel is weggelegd. Gij hebt daarvan vernomen, toen het evangelie, het woord van de waarheid,"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Al ben ik naar het lichaam afwezig, in de geest ben ik bij u, en ik zie met vreugde dat gij eendrachtig steunt op uw geloof in Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al ben ik naar het lichaam afwezig, in de geest ben ik bij u, en ik zie met vreugde dat gij eendrachtig steunt op uw geloof in Christus."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Maakt dus radicaal een einde aan immorele praktijken, ontucht, onzedelijkheid, hartstocht, begeerlijkheid en de hebzucht die gelijk staat met afgoderij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maakt dus radicaal een einde aan immorele praktijken, ontucht, onzedelijkheid, hartstocht, begeerlijkheid en de hebzucht die gelijk staat met afgoderij."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Gedraagt u verstandig jegens de buitenstaanders. Benut de gunstige gelegenheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gedraagt u verstandig jegens de buitenstaanders. Benut de gunstige gelegenheid."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "tot u kwam. In heel de wereld is het bezig vrucht te dragen en te gedijen, evenals bij u, sinds de dag dat gij gehoord hebt van Gods genade en haar in waarheid hebt erkend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tot u kwam. In heel de wereld is het bezig vrucht te dragen en te gedijen, evenals bij u, sinds de dag dat gij gehoord hebt van Gods genade en haar in waarheid hebt erkend."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Daar gij Christus Jezus hebt aanvaard als uw Heer, moet gij ook leven in gemeenschap met Hem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar gij Christus Jezus hebt aanvaard als uw Heer, moet gij ook leven in gemeenschap met Hem,"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.6",
+      "title": "Waarschuwingen tegen dwalingen omtrent Christus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Deze dingen roepen Gods toorn af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze dingen roepen Gods toorn af."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Uw spreken zij steeds innemend, met een vleugje zout erbij, zodat gij iedereen het juiste antwoord weet te geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw spreken zij steeds innemend, met een vleugje zout erbij, zodat gij iedereen het juiste antwoord weet te geven."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zo hebt gij het geleerd van Épafras, onze dierbare medewerker, een trouwe dienaar van Christus in onze plaats.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo hebt gij het geleerd van Épafras, onze dierbare medewerker, een trouwe dienaar van Christus in onze plaats."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "in Hem geworteld, op Hem gebouwd, steunend op het geloof dat men u geleerd heeft, terwijl uw hart overvloeit van dankbaarheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in Hem geworteld, op Hem gebouwd, steunend op het geloof dat men u geleerd heeft, terwijl uw hart overvloeit van dankbaarheid."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ook gij hebt u indertijd hieraan overgegeven en in deze zonden geleefd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook gij hebt u indertijd hieraan overgegeven en in deze zonden geleefd."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "T&yacute;chikus, onze geliefde broeder, mijn trouwe helper en gezel in de dienst des Heren, zal u volledig inlichten over mijn omstandigheden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Týchikus, onze geliefde broeder, mijn trouwe helper en gezel in de dienst des Heren, zal u volledig inlichten over mijn omstandigheden."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.7",
+      "title": "Slot, mededelingen, groeten, zegenwens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Van hem hebben wij vernomen welke liefde door de Geest in u gewekt is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van hem hebben wij vernomen welke liefde door de Geest in u gewekt is."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Weest op uw hoede, zorgt dat ge u niet laat meeslepen door waardeloze, bedrieglijke theorie&euml;n, puur menselijke bedenksels, die de machten van de kosmos verheerlijken maar Christus bestrijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest op uw hoede, zorgt dat ge u niet laat meeslepen door waardeloze, bedrieglijke theorieën, puur menselijke bedenksels, die de machten van de kosmos verheerlijken maar Christus bestrijden."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Maar nu moet ge dit alles vaarwel zeggen. Weg met de toorn, gramschap, kwaadaardigheid, laster en beschimping!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar nu moet ge dit alles vaarwel zeggen. Weg met de toorn, gramschap, kwaadaardigheid, laster en beschimping!"
+          }
+        ]
+      },
+      "id": "kolossenzen.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Juist daarom zend ik hem naar u toe, dat gij zoudt vernemen hoe het ons gaat en hij uw hart moge vertroosten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Juist daarom zend ik hem naar u toe, dat gij zoudt vernemen hoe het ons gaat en hij uw hart moge vertroosten."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Vanaf het ogenblik dat wij dit hebben gehoord, houden wij dan ook niet op voor u te bidden. Wij smeken God u alle wijsheid en geestelijk inzicht te schenken, zodat gij zijn wil volledig verstaat",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vanaf het ogenblik dat wij dit hebben gehoord, houden wij dan ook niet op voor u te bidden. Wij smeken God u alle wijsheid en geestelijk inzicht te schenken, zodat gij zijn wil volledig verstaat"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Want in Christus is de Godheid in heel haar volheid lijfelijk aanwezig,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want in Christus is de Godheid in heel haar volheid lijfelijk aanwezig,"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "En beliegt elkaar niet meer.&nbsp;Legt de oude mens met zijn gedragingen af,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En beliegt elkaar niet meer. Legt de oude mens met zijn gedragingen af,"
+          }
+        ]
+      },
+      "id": "kolossenzen.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Met hem zend ik Onésimus, onze trouwe en geliefde broeder, die een der uwen is. Zij zullen u op de hoogte brengen van al wat hier gebeurd is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hem zend ik Onésimus, onze trouwe en geliefde broeder, die een der uwen is. Zij zullen u op de hoogte brengen van al wat hier gebeurd is."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "en een leven leidt dat de Heer waardig is en Hem in alles behaagt. Moogt gij vruchten voortbrengen van actieve goedheid op allerlei gebied en tevens toenemen in de waarachtige kennis van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en een leven leidt dat de Heer waardig is en Hem in alles behaagt. Moogt gij vruchten voortbrengen van actieve goedheid op allerlei gebied en tevens toenemen in de waarachtige kennis van God."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "en in Hem hebt gij deel aan die volheid. Hij is het hoofd waaraan alle heerschappijen en machten onderworpen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en in Hem hebt gij deel aan die volheid. Hij is het hoofd waaraan alle heerschappijen en machten onderworpen zijn."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "bekleedt u met de nieuwe mens, die op weg is naar het ware inzicht, zich vernieuwend naar het beeld van zijn schepper.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bekleedt u met de nieuwe mens, die op weg is naar het ware inzicht, zich vernieuwend naar het beeld van zijn schepper."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "De groeten van Aristarchus, mijn medegevangene, en Marcus, de neef van Barnabas, over wie gij reeds aanwijzingen hebt gekregen; ontvangt hem goed, als hij bij u komt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De groeten van Aristarchus, mijn medegevangene, en Marcus, de neef van Barnabas, over wie gij reeds aanwijzingen hebt gekregen; ontvangt hem goed, als hij bij u komt."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Moge Hij u in zijn heerlijke kracht machtig sterken om alles uit te houden en alles te verdragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge Hij u in zijn heerlijke kracht machtig sterken om alles uit te houden en alles te verdragen."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "In Hem zijt gij ook besneden, niet in een fysieke zin, door een lichamelijke ingreep, maar met de Christus-besnijdenis:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Hem zijt gij ook besneden, niet in een fysieke zin, door een lichamelijke ingreep, maar met de Christus-besnijdenis:"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Dan is er geen sprake meer van heiden of Jood, besnedene of onbesnedene, barbaar en onbeschaafde, van slaaf of vrije mens. Daar is alleen Christus, alles in allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan is er geen sprake meer van heiden of Jood, besnedene of onbesnedene, barbaar en onbeschaafde, van slaaf of vrije mens. Daar is alleen Christus, alles in allen."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Eveneens groet u Jezus, ook Justus genaamd. Van de Joodse christenen zijn zij de enigen die met mij werken voor het koninkrijk van God; ze zijn voor mij dan ook een grote troost geweest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eveneens groet u Jezus, ook Justus genaamd. Van de Joodse christenen zijn zij de enigen die met mij werken voor het koninkrijk van God; ze zijn voor mij dan ook een grote troost geweest."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Zegt met blijdschap dank aan de Vader, die u in staat stelde te delen in de erfenis van de heiligen in het licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zegt met blijdschap dank aan de Vader, die u in staat stelde te delen in de erfenis van de heiligen in het licht."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "de doop. In de doop zijt gij met Hem begraven, maar ook met Hem verrezen, door uw geloof in de kracht van God die Hem uit de dood deed opstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de doop. In de doop zijt gij met Hem begraven, maar ook met Hem verrezen, door uw geloof in de kracht van God die Hem uit de dood deed opstaan."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Doet dat aan, als Gods heilige en geliefde uitverkorenen, tedere ontferming, goedheid, deemoed, zachtheid en geduld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Doet dat aan, als Gods heilige en geliefde uitverkorenen, tedere ontferming, goedheid, deemoed, zachtheid en geduld."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "U groet Épafras, uw stadgenoot, een dienstknecht van Christus Jezus, die steeds vurig voor u bidt, opdat gij moogt volharden in de volmaakte vervulling van al wat God wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U groet Épafras, uw stadgenoot, een dienstknecht van Christus Jezus, die steeds vurig voor u bidt, opdat gij moogt volharden in de volmaakte vervulling van al wat God wil."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Hij heeft ons ontrukt aan het domein van de duisternis en overgebracht naar het koninkrijk van zijn geliefde Zoon,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft ons ontrukt aan het domein van de duisternis en overgebracht naar het koninkrijk van zijn geliefde Zoon,"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Ook u die dood waart ten gevolge van uw zonden en uw morele onbehouwenheid heeft God weer levend gemaakt met Hem. Hij heeft ons al onze zonden vergeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook u die dood waart ten gevolge van uw zonden en uw morele onbehouwenheid heeft God weer levend gemaakt met Hem. Hij heeft ons al onze zonden vergeven."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Verdraagt elkander en vergeeft elkander, als de een tegen de ander een grief heeft. Zoals de Heer u vergeven heeft, zo moet ook gij vergeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verdraagt elkander en vergeeft elkander, als de een tegen de ander een grief heeft. Zoals de Heer u vergeven heeft, zo moet ook gij vergeven."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Ik kan van hem getuigen, dat hij zich veel moeite geeft voor u, en ook voor de gelovigen in Laodicéa en Hiërápolis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik kan van hem getuigen, dat hij zich veel moeite geeft voor u, en ook voor de gelovigen in Laodicéa en Hiërápolis."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "in wie onze bevrijding verzekerd is en onze zonden vergeven zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in wie onze bevrijding verzekerd is en onze zonden vergeven zijn."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Hij heeft de oorkonde met haar bezwarende bepalingen, die tegen ons getuigde, verscheurd. Hij heeft haar vernietigd en aan het kruis genageld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft de oorkonde met haar bezwarende bepalingen, die tegen ons getuigde, verscheurd. Hij heeft haar vernietigd en aan het kruis genageld."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Voegt bij dit alles de liefde als de band der volmaaktheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voegt bij dit alles de liefde als de band der volmaaktheid."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "U groet mijn vriend Lucas, de arts, en Demas.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U groet mijn vriend Lucas, de arts, en Demas."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Hij is het beeld van de onzichtbare God,<br />\r\nde eerstgeborene van heel de schepping.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is het beeld van de onzichtbare God,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde eerstgeborene van heel de schepping."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.15",
+      "title": "Christushymne",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Hij heeft de heerschappijen en de machten ontwapend en publiek ten toon gesteld. Hij heeft over hen getriomfeerd door het kruis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft de heerschappijen en de machten ontwapend en publiek ten toon gesteld. Hij heeft over hen getriomfeerd door het kruis."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "En laat de vrede van Christus heersen in uw hart; daartoe zijt gij immers geroepen als leden van &eacute;&eacute;n lichaam. En weest dankbaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En laat de vrede van Christus heersen in uw hart; daartoe zijt gij immers geroepen als leden van één lichaam. En weest dankbaar."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Groet de broeders te Laodicéa, en Nymfa en de gemeente die in haar huis samenkomt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groet de broeders te Laodicéa, en Nymfa en de gemeente die in haar huis samenkomt."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Want in Hem is alles geschapen,<br />\r\nin de hemelen en op de aarde,<br />\r\nhet zichtbare en het onzichtbare,<br />\r\ntronen en hoogheden,<br />\r\nheerschappijen en machten.<br />\r\nHet heelal is geschapen door Hem en voor Hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want in Hem is alles geschapen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nin de hemelen en op de aarde,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nhet zichtbare en het onzichtbare,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ntronen en hoogheden,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nheerschappijen en machten."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHet heelal is geschapen door Hem en voor Hem."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Duldt dus niet dat iemand aanmerkingen op u maakt in zake eten en drinken of het vieren van feestdagen, nieuwe maan of sabbat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Duldt dus niet dat iemand aanmerkingen op u maakt in zake eten en drinken of het vieren van feestdagen, nieuwe maan of sabbat."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.16",
+      "title": "Waarschuwingen tegen een valse ascese",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Het woord van Christus moge in volle rijkdom onder u wonen. Leert en vermaant elkander met alle wijsheid. Zingt voor God met een dankbaar hart psalmen, hymnen en liederen, ingegeven door de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Christus moge in volle rijkdom onder u wonen. Leert en vermaant elkander met alle wijsheid. Zingt voor God met een dankbaar hart psalmen, hymnen en liederen, ingegeven door de Geest."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "En wanneer deze brief bij u is voorgelezen, zorgt dan dat hij ook in de gemeente van Laodicéa wordt voorgelezen, en dat gij de brief uit Laodicéa te lezen krijgt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wanneer deze brief bij u is voorgelezen, zorgt dan dat hij ook in de gemeente van Laodicéa wordt voorgelezen, en dat gij de brief uit Laodicéa te lezen krijgt."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Hij bestaat v&oacute;&oacute;r alles<br />\r\nen alles bestaat in Hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij bestaat vóór alles"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen alles bestaat in Hem."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Dit alles is slechts een schaduw van de werkelijkheid die nog moest komen; de werkelijkheid zelf wordt gevonden in Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit alles is slechts een schaduw van de werkelijkheid die nog moest komen; de werkelijkheid zelf wordt gevonden in Christus."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "En al wat gij doet in woord of werk, doet alles in de naam van Jezus de Heer, God de Vader dankend door Hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En al wat gij doet in woord of werk, doet alles in de naam van Jezus de Heer, God de Vader dankend door Hem."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Zegt aan Archippus: “Denk eraan de taak die gij om de Heer op u genomen hebt, goed te vervullen.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zegt aan Archippus: “Denk eraan de taak die gij om de Heer op u genomen hebt, goed te vervullen.”"
+          }
+        ]
+      },
+      "id": "kolossenzen.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Hij is ook het hoofd van het lichaam dat de kerk is.<br />\r\nHij is de oorsprong,<br />\r\nde eerste die van de dood is opgestaan,<br />\r\nom in alles de eerste te zijn,<br />\r\nHij alleen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is ook het hoofd van het lichaam dat de kerk is."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij is de oorsprong,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde eerste die van de dood is opgestaan,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nom in alles de eerste te zijn,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij alleen."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Laat u niet de prijs ontnemen door mensen die voldoening vinden in zelfkastijding en engelenverering en het doorvorsen van hun visioenen, waarbij zij zich in hun ongeestelijke gezindheid van alles inbeelden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat u niet de prijs ontnemen door mensen die voldoening vinden in zelfkastijding en engelenverering en het doorvorsen van hun visioenen, waarbij zij zich in hun ongeestelijke gezindheid van alles inbeelden."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Vrouwen, weest uw man onderdanig, zoals het christenen betaamt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrouwen, weest uw man onderdanig, zoals het christenen betaamt."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.18",
+      "title": "Het christelijk gezin",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Eigenhandige groet van mij, Paulus. Gedenkt mijn boeien!<br />\r\nDe genade zij met u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eigenhandige groet van mij, Paulus. Gedenkt mijn boeien!"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nDe genade zij met u."
+          }
+        ]
+      },
+      "id": "kolossenzen.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Want in Hem heeft God willen wonen in heel zijn volheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want in Hem heeft God willen wonen in heel zijn volheid,"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Zo iemand houdt zich niet aan Christus, die het hoofd is van wie het hele lichaam, door gewrichten en banden gesteund en bijeengehouden, zijn goddelijke wasdom ontvangt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo iemand houdt zich niet aan Christus, die het hoofd is van wie het hele lichaam, door gewrichten en banden gesteund en bijeengehouden, zijn goddelijke wasdom ontvangt."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Mannen, hebt uw vrouw lief en weest niet humeurig tegen haar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mannen, hebt uw vrouw lief en weest niet humeurig tegen haar."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "om door Hem het heelal met zich te verzoenen<br />\r\nen vrede te stichten<br />\r\ndoor het bloed aan het kruis vergoten,<br />\r\nom alles in de hemelen<br />\r\nen op de aarde te verzoenen,<br />\r\ndoor Hem alleen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om door Hem het heelal met zich te verzoenen"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen vrede te stichten"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndoor het bloed aan het kruis vergoten,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nom alles in de hemelen"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen op de aarde te verzoenen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndoor Hem alleen."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Als gij door uw sterven met Christus bevrijd zijt van de machten van de kosmos, waarom laat gij u dan verordeningen opleggen, louter menselijke voorschriften en leringen, als zoudt gij nog in die wereld leven?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij door uw sterven met Christus bevrijd zijt van de machten van de kosmos, waarom laat gij u dan verordeningen opleggen, louter menselijke voorschriften en leringen, als zoudt gij nog in die wereld leven?"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Kinderen, gehoorzaamt uw ouders in alles, want dit is de Heer welgevallig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, gehoorzaamt uw ouders in alles, want dit is de Heer welgevallig."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Ook gij waart eertijds van God vervreemd en Hem vijandig gezind en uw daden waren slecht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook gij waart eertijds van God vervreemd en Hem vijandig gezind en uw daden waren slecht."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.21",
+      "title": "Ook de lezers delen in het heil",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Raak niet aan, proef niet, blijf eraf!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Raak niet aan, proef niet, blijf eraf!"
+          }
+        ]
+      },
+      "id": "kolossenzen.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Vaders, tergt uw kinderen niet, opdat zij de moed niet verliezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vaders, tergt uw kinderen niet, opdat zij de moed niet verliezen."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Maar thans heeft God u met zich verzoend in Christus’ sterfelijk lichaam, door zijn dood, want Hij wil dat gij als heilige mensen voor Hem zult verschijnen, zonder smet of blaam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar thans heeft God u met zich verzoend in Christus’ sterfelijk lichaam, door zijn dood, want Hij wil dat gij als heilige mensen voor Hem zult verschijnen, zonder smet of blaam."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "En dit alles betreft dingen die uit hun aard bestemd zijn om gebruikt te worden en te vergaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit alles betreft dingen die uit hun aard bestemd zijn om gebruikt te worden en te vergaan."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Slaven, gehoorzaamt uw aardse meesters in alles, niet als ogendienaars, uit zucht om te behagen, maar in eenvoud van hart, met ontzag voor de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaven, gehoorzaamt uw aardse meesters in alles, niet als ogendienaars, uit zucht om te behagen, maar in eenvoud van hart, met ontzag voor de Heer."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Maar dan moet gij ook vast en onwrikbaar blijven in het geloof en u niet laten afbrengen van de hoop die u in het evangelie is aangezegd. Dit is de boodschap die aan alle schepselen onder de hemel verkondigd is en waarvan ik, Paulus, de dienaar ben geworden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar dan moet gij ook vast en onwrikbaar blijven in het geloof en u niet laten afbrengen van de hoop die u in het evangelie is aangezegd. Dit is de boodschap die aan alle schepselen onder de hemel verkondigd is en waarvan ik, Paulus, de dienaar ben geworden."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Ofschoon zulk een geforceerde godsvrucht met haar zelfkastijding en lichamelijke hardheid voor wijsheid moet doorgaan, verdient zij even weinig waardering als zinnelijke bevrediging.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ofschoon zulk een geforceerde godsvrucht met haar zelfkastijding en lichamelijke hardheid voor wijsheid moet doorgaan, verdient zij even weinig waardering als zinnelijke bevrediging."
+          }
+        ]
+      },
+      "id": "kolossenzen.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Verricht uw werk welgemoed voor de Heer, niet voor de mensen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verricht uw werk welgemoed voor de Heer, niet voor de mensen,"
+          }
+        ]
+      },
+      "id": "kolossenzen.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Op het ogenblik verheug ik mij dat ik voor u mag lijden en in mijn lichaam aanvullen wat nog ontbreekt aan de verdrukkingen van de Christus, ten bate van zijn lichaam, dat is de kerk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op het ogenblik verheug ik mij dat ik voor u mag lijden en in mijn lichaam aanvullen wat nog ontbreekt aan de verdrukkingen van de Christus, ten bate van zijn lichaam, dat is de kerk."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.24",
+      "title": "Lijden en ambt van de apostel",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "in de overtuiging dat gij van de Heer als beloning het erfdeel zult ontvangen. De Heer die gij dient is Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in de overtuiging dat gij van de Heer als beloning het erfdeel zult ontvangen. De Heer die gij dient is Christus."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "Haar dienaar ben ik geworden krachtens het goddelijk ambt, dat mij met het oog op u is verleend, om namelijk het woord van God te brengen in heel zijn volheid:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haar dienaar ben ik geworden krachtens het goddelijk ambt, dat mij met het oog op u is verleend, om namelijk het woord van God te brengen in heel zijn volheid:"
+          }
+        ]
+      },
+      "id": "kolossenzen.1.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Wie onrecht doet, krijgt zijn onrecht terug; Hij kent geen gunstelingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie onrecht doet, krijgt zijn onrecht terug; Hij kent geen gunstelingen."
+          }
+        ]
+      },
+      "id": "kolossenzen.3.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "om het geheim te verkondigen dat verborgen was voor alle eeuwen en alle generaties, maar dat nu is geopenbaard aan zijn heiligen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om het geheim te verkondigen dat verborgen was voor alle eeuwen en alle generaties, maar dat nu is geopenbaard aan zijn heiligen."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "Hun heeft God bekend willen maken hoe machtig en hoe wonderbaar dit geheim is onder de heidenvolken. En het luidt: ‘Christus is in u’, en ook: ‘de hoop op een eeuwige heerlijkheid'.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun heeft God bekend willen maken hoe machtig en hoe wonderbaar dit geheim is onder de heidenvolken. En het luidt: ‘Christus is in u’, en ook: ‘de hoop op een eeuwige heerlijkheid'."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "text": "Hem verkondigen wij, wanneer wij allen zonder onderscheid vermanen en onderrichten met alle wijsheid die ons gegeven is, om ook allen zonder onderscheid in Christus tot volmaaktheid te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hem verkondigen wij, wanneer wij allen zonder onderscheid vermanen en onderrichten met alle wijsheid die ons gegeven is, om ook allen zonder onderscheid in Christus tot volmaaktheid te brengen."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 29,
+      "text": "Daarvoor span ik mij in, zwoegend met zijn kracht, die machtig in mij werkt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarvoor span ik mij in, zwoegend met zijn kracht, die machtig in mij werkt."
+          }
+        ]
+      },
+      "id": "kolossenzen.1.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "id": "habakuk",
+  "name": "Habakuk",
+  "chapters": 3,
+  "verseCount": 56,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Dit is de boodschap, waarmee de profeet Habakuk in een visioen werd belast.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is de boodschap, waarmee de profeet Habakuk in een visioen werd belast."
+          }
+        ]
+      },
+      "id": "habakuk.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Ik zal mijn wachtpost betrekken, ik ga op de wallen staan; ik wil uitkijken om te zien, wat Hij mij zeggen zal, het antwoord, dat ik te horen krijg op mijn bezwaren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal mijn wachtpost betrekken, ik ga op de wallen staan; ik wil uitkijken om te zien, wat Hij mij zeggen zal, het antwoord, dat ik te horen krijg op mijn bezwaren."
+          }
+        ]
+      },
+      "id": "habakuk.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Gebed van de profeet Habakuk. Op de wijze van de klaagliederen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gebed van de profeet Habakuk. Op de wijze van de klaagliederen."
+          }
+        ]
+      },
+      "id": "habakuk.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Hoe lang moet ik nog roepen, Jahwe, terwijl Gij maar niet luistert? Hoe lang moet ik nog: &#39;Geweld!&#39; tot u schreeuwen, terwijl Gij maar geen uitkomst brengt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe lang moet ik nog roepen, Jahwe, terwijl Gij maar niet luistert? Hoe lang moet ik nog: 'Geweld!' tot u schreeuwen, terwijl Gij maar geen uitkomst brengt?"
+          }
+        ]
+      },
+      "id": "habakuk.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Jahwe gaf mij ten antwoord: Schrijf het visioen op, zet het duidelijk op schrift, zodat men het vlot kan lezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe gaf mij ten antwoord: Schrijf het visioen op, zet het duidelijk op schrift, zodat men het vlot kan lezen."
+          }
+        ]
+      },
+      "id": "habakuk.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Jahwe, ik heb van uw roemruchte daden gehoord, vol ontzag heb ik uw werken vernomen. Doe die nu herleven in onze tijd, laat ze ons, in deze tijd, ervaren; wees in uw gramschap uw barmhartigheid indachtig!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, ik heb van uw roemruchte daden gehoord, vol ontzag heb ik uw werken vernomen. Doe die nu herleven in onze tijd, laat ze ons, in deze tijd, ervaren; wees in uw gramschap uw barmhartigheid indachtig!"
+          }
+        ]
+      },
+      "id": "habakuk.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Waarom laat Gij mij onrecht lijden en ziet Gij die ellende maar aan? Waarom sta ik tegenover geweld en verdrukking en waarom rijst er twist en moet men lijden onder tweedracht?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom laat Gij mij onrecht lijden en ziet Gij die ellende maar aan? Waarom sta ik tegenover geweld en verdrukking en waarom rijst er twist en moet men lijden onder tweedracht?"
+          }
+        ]
+      },
+      "id": "habakuk.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Want het visioen, al wacht het de vastgestelde tijd nog af, hijgt niettemin naar zijn vervulling: het vertelt geen leugen. Al blijft het ook uit, geef het wachten niet op, want komen doet het beslist en het komt niet te laat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want het visioen, al wacht het de vastgestelde tijd nog af, hijgt niettemin naar zijn vervulling: het vertelt geen leugen. Al blijft het ook uit, geef het wachten niet op, want komen doet het beslist en het komt niet te laat."
+          }
+        ]
+      },
+      "id": "habakuk.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "God komt aan uit Teman, de heilige komt van het Parangebergte. Zijn luister overstraalt de hemel, de aarde is vol van zijn glorie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God komt aan uit Teman, de heilige komt van het Parangebergte. Zijn luister overstraalt de hemel, de aarde is vol van zijn glorie."
+          }
+        ]
+      },
+      "id": "habakuk.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "De wet wordt erdoor ontzenuwd en de rechtspraak komt nooit meer aan bod; ja, de schurken brengen de rechtvaardigen in het nauw, omdat er alleen maar vervalste rechtspraak aan bod komt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wet wordt erdoor ontzenuwd en de rechtspraak komt nooit meer aan bod; ja, de schurken brengen de rechtvaardigen in het nauw, omdat er alleen maar vervalste rechtspraak aan bod komt."
+          }
+        ]
+      },
+      "id": "habakuk.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Wie in zijn hart niet deugt, kwijnt weg, de rechtvaardige echter blijft leven door zijn trouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie in zijn hart niet deugt, kwijnt weg, de rechtvaardige echter blijft leven door zijn trouw."
+          }
+        ]
+      },
+      "id": "habakuk.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Hij schittert als de zon; twee stralen gaan uit van zijn handen: daarin is zijn kracht verborgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij schittert als de zon; twee stralen gaan uit van zijn handen: daarin is zijn kracht verborgen."
+          }
+        ]
+      },
+      "id": "habakuk.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Kijkt naar de volken, ziet rond en staat met verbazing geslagen: nog in uw dagen zal iemand iets verrichten, dat ge niet zoudt geloven, als het u werd verteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kijkt naar de volken, ziet rond en staat met verbazing geslagen: nog in uw dagen zal iemand iets verrichten, dat ge niet zoudt geloven, als het u werd verteld."
+          }
+        ]
+      },
+      "id": "habakuk.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Hoezeer hem de wijn het hoofd op hol brengt, de trotse tiran zal zijn doel niet bereiken, hij die zijn keelgat open heeft staan als het dodenrijk en die als de dood zo onverzadigbaar is, hij die alle naties naar zich toehaalt en alle volken bij zich verzamelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoezeer hem de wijn het hoofd op hol brengt, de trotse tiran zal zijn doel niet bereiken, hij die zijn keelgat open heeft staan als het dodenrijk en die als de dood zo onverzadigbaar is, hij die alle naties naar zich toehaalt en alle volken bij zich verzamelt."
+          }
+        ]
+      },
+      "id": "habakuk.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Voor hem uit gaat de pest, de koorts volgt hem op de voet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor hem uit gaat de pest, de koorts volgt hem op de voet."
+          }
+        ]
+      },
+      "id": "habakuk.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Voorwaar, Ik ga de Chaldeeën in beweging brengen, dat onverbiddelijk, onstuimig volk, dat de wijde wereld doorkruist om andermans woonsteden te veroveren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, Ik ga de Chaldeeën in beweging brengen, dat onverbiddelijk, onstuimig volk, dat de wijde wereld doorkruist om andermans woonsteden te veroveren."
+          }
+        ]
+      },
+      "id": "habakuk.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Zij zullen immers samen tegen hem een schimplied aanheffen, een lied vol hatelijke spot. Wee degene, zo zal men zeggen, die andermans goed opstapelt - hoe lang nog? - en die te zware panden eist.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen immers samen tegen hem een schimplied aanheffen, een lied vol hatelijke spot. Wee degene, zo zal men zeggen, die andermans goed opstapelt - hoe lang nog? - en die te zware panden eist."
+          }
+        ]
+      },
+      "id": "habakuk.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Hij treedt op en de aarde trilt. Hij ziet rond en doet de volken sidderen. De aloude bergen worden vermorzeld, de eeuwige heuvelen gaan liggen, de wegen die Hij van oudsher bewandelt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij treedt op en de aarde trilt. Hij ziet rond en doet de volken sidderen. De aloude bergen worden vermorzeld, de eeuwige heuvelen gaan liggen, de wegen die Hij van oudsher bewandelt."
+          }
+        ]
+      },
+      "id": "habakuk.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Het is een schrikwekkend, een angstaanjagend volk; eigenmachtig bepaalt het zijn recht en zijn roem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is een schrikwekkend, een angstaanjagend volk; eigenmachtig bepaalt het zijn recht en zijn roem."
+          }
+        ]
+      },
+      "id": "habakuk.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Onverwacht zullen er immers schuldeisers voor u opdagen, zullen er afpersers voor u wakker worden en zult gij hun prooi zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onverwacht zullen er immers schuldeisers voor u opdagen, zullen er afpersers voor u wakker worden en zult gij hun prooi zijn."
+          }
+        ]
+      },
+      "id": "habakuk.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ik zie de tenten van Kusan in nood, de tentzeilen van Midjan klapperen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zie de tenten van Kusan in nood, de tentzeilen van Midjan klapperen."
+          }
+        ]
+      },
+      "id": "habakuk.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Zijn paarden zijn vlugger dan panters en driester dan wolven bij avond; zijn ruiters komen aangestormd, zijn ruiters komen van verre, zij vliegen aan als de gier die duikt naar zijn buit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn paarden zijn vlugger dan panters en driester dan wolven bij avond; zijn ruiters komen aangestormd, zijn ruiters komen van verre, zij vliegen aan als de gier die duikt naar zijn buit."
+          }
+        ]
+      },
+      "id": "habakuk.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Omdat gij die vele naties hebt uitgeplunderd, wordt gij door de rest van de volken uitgeplunderd, om het bloed van de mensen, en het geweld tegen het land en de stad en tegen al haar bewoners.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat gij die vele naties hebt uitgeplunderd, wordt gij door de rest van de volken uitgeplunderd, om het bloed van de mensen, en het geweld tegen het land en de stad en tegen al haar bewoners."
+          }
+        ]
+      },
+      "id": "habakuk.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Toornt Jahwe tegen de rivieren? Zijt Gij vergramd op de rivieren of woedend op de zee, dat Gij rijdt met uw paarden, met uw zegevierende wagens?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toornt Jahwe tegen de rivieren? Zijt Gij vergramd op de rivieren of woedend op de zee, dat Gij rijdt met uw paarden, met uw zegevierende wagens?"
+          }
+        ]
+      },
+      "id": "habakuk.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Het zal komen, dat volk, een en al geweld; zijn aanval schroeit als de wind uit het oosten, het jaagt gevangenen op als stuifzand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zal komen, dat volk, een en al geweld; zijn aanval schroeit als de wind uit het oosten, het jaagt gevangenen op als stuifzand."
+          }
+        ]
+      },
+      "id": "habakuk.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Wee degene die woekerwinst maakt ten bate van zijn huis, om zich een nest te bouwen zo hoog, dat hij daarmee denkt te ontkomen aan de hand van het onheil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee degene die woekerwinst maakt ten bate van zijn huis, om zich een nest te bouwen zo hoog, dat hij daarmee denkt te ontkomen aan de hand van het onheil."
+          }
+        ]
+      },
+      "id": "habakuk.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Gij haalt uw boog te voorschijn, uw woord wordt een regen van pijlen. Gij splijt de aarde, rivieren ontstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij haalt uw boog te voorschijn, uw woord wordt een regen van pijlen. Gij splijt de aarde, rivieren ontstaan."
+          }
+        ]
+      },
+      "id": "habakuk.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Met koningen steekt het de draak, met vorsten drijft het de spot; het lacht om iedere vesting: het werpt wat zand op een hoop en de stad wordt veroverd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met koningen steekt het de draak, met vorsten drijft het de spot; het lacht om iedere vesting: het werpt wat zand op een hoop en de stad wordt veroverd."
+          }
+        ]
+      },
+      "id": "habakuk.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Gij hebt alleen maar schande voor uw huis beraamd; door die vele volken uit te moorden hebt gij uzelf met schuld beladen:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt alleen maar schande voor uw huis beraamd; door die vele volken uit te moorden hebt gij uzelf met schuld beladen:"
+          }
+        ]
+      },
+      "id": "habakuk.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "De bergen zien u en beven, vlagen water trekken voorbij, de oceaan verheft zijn stem en de zon steekt haar armen omhoog.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De bergen zien u en beven, vlagen water trekken voorbij, de oceaan verheft zijn stem en de zon steekt haar armen omhoog."
+          }
+        ]
+      },
+      "id": "habakuk.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Dan trekt die wind verder en gaat weer voorbij. Maar schuldig is hij, die van zijn kracht een god heeft gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan trekt die wind verder en gaat weer voorbij. Maar schuldig is hij, die van zijn kracht een god heeft gemaakt."
+          }
+        ]
+      },
+      "id": "habakuk.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "de stenen schreeuwen het vanuit de muur en de balken vallen hun bij vanuit de gebinten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de stenen schreeuwen het vanuit de muur en de balken vallen hun bij vanuit de gebinten."
+          }
+        ]
+      },
+      "id": "habakuk.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "De maan verlaat haar verblijf niet. De zon en de maan, zij wijken voor de gloed van uw pijlen, voor het flitsen van uw bliksemende speer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De maan verlaat haar verblijf niet. De zon en de maan, zij wijken voor de gloed van uw pijlen, voor het flitsen van uw bliksemende speer."
+          }
+        ]
+      },
+      "id": "habakuk.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Zijt Gij niet vanouds Jahwe, zijt Gij niet mijn God, mijn heilige, de overwinnaar van de dood? Om het oordeel te voltrekken, Jahwe, hebt Gij dit volk aangewezen. Om te kastijden, Rots, hebt Gij het aangesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijt Gij niet vanouds Jahwe, zijt Gij niet mijn God, mijn heilige, de overwinnaar van de dood? Om het oordeel te voltrekken, Jahwe, hebt Gij dit volk aangewezen. Om te kastijden, Rots, hebt Gij het aangesteld."
+          }
+        ]
+      },
+      "id": "habakuk.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Wee degene die een stad wil bouwen met bloed en een vesting funderen op misdaad!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee degene die een stad wil bouwen met bloed en een vesting funderen op misdaad!"
+          }
+        ]
+      },
+      "id": "habakuk.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Grimmig schrijdt Gij over de aarde, toornig trekt gij de dorsslee over de volken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Grimmig schrijdt Gij over de aarde, toornig trekt gij de dorsslee over de volken."
+          }
+        ]
+      },
+      "id": "habakuk.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Gij wiens ogen te zuiver zijn om het kwaad aan te zien, Gij die het onrecht niet onbewogen kunt gadeslaan, hoe kunt Gij de verraders aanzien en zwijgen, als de schurk verslindt een man, rechtvaardiger dan hijzelf?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij wiens ogen te zuiver zijn om het kwaad aan te zien, Gij die het onrecht niet onbewogen kunt gadeslaan, hoe kunt Gij de verraders aanzien en zwijgen, als de schurk verslindt een man, rechtvaardiger dan hijzelf?"
+          }
+        ]
+      },
+      "id": "habakuk.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Is dit niet de wil van Jahwe van de legerscharen, dat de volken zich moe maken voor wat zal vergaan in het vuur, en dat de naties zich aftobben voor wat uit zal lopen op niets?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is dit niet de wil van Jahwe van de legerscharen, dat de volken zich moe maken voor wat zal vergaan in het vuur, en dat de naties zich aftobben voor wat uit zal lopen op niets?"
+          }
+        ]
+      },
+      "id": "habakuk.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Gij rukt uit om uw volk te bevrijden, om uw gezalfde te bevrijden. Gij verbrijzelt de nok van het goddeloos huis en tot op de rots legt Gij de fundamenten bloot.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij rukt uit om uw volk te bevrijden, om uw gezalfde te bevrijden. Gij verbrijzelt de nok van het goddeloos huis en tot op de rots legt Gij de fundamenten bloot."
+          }
+        ]
+      },
+      "id": "habakuk.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Gij behandelt de mensen als de vissen in de zee, als het wemelend gedierte dat geen meester heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij behandelt de mensen als de vissen in de zee, als het wemelend gedierte dat geen meester heeft."
+          }
+        ]
+      },
+      "id": "habakuk.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "De aarde immers zal worden vervuld met kennis van Jahwe's glorie, zoals de zee boordevol staat met water.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De aarde immers zal worden vervuld met kennis van Jahwe's glorie, zoals de zee boordevol staat met water."
+          }
+        ]
+      },
+      "id": "habakuk.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Met uw eigen pijlen doorboort Gij de aanvoerder van de krijgers, die aan komen stormen om mij te verpletteren, verrukt dat zij een weerloze arme in zijn schuilhoek kunnen verslinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met uw eigen pijlen doorboort Gij de aanvoerder van de krijgers, die aan komen stormen om mij te verpletteren, verrukt dat zij een weerloze arme in zijn schuilhoek kunnen verslinden."
+          }
+        ]
+      },
+      "id": "habakuk.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "De Chaldeeër slaat ze allen aan de haak, hij sleept ze mee in zijn net, hij brengt ze bijeen in zijn fuik. Daarom verheugt hij zich en jubelt hij het uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Chaldeeër slaat ze allen aan de haak, hij sleept ze mee in zijn net, hij brengt ze bijeen in zijn fuik. Daarom verheugt hij zich en jubelt hij het uit."
+          }
+        ]
+      },
+      "id": "habakuk.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Wee degene die zijn naasten laat drinken en bij die drank zijn vergif mengt, om hen dronken te maken en zo hun naaktheid te zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee degene die zijn naasten laat drinken en bij die drank zijn vergif mengt, om hen dronken te maken en zo hun naaktheid te zien."
+          }
+        ]
+      },
+      "id": "habakuk.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Gij rijdt met uw paarden over de zee, over de kolken van het machtige water.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij rijdt met uw paarden over de zee, over de kolken van het machtige water."
+          }
+        ]
+      },
+      "id": "habakuk.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Daarom brengt hij offers aan zijn net en brandt hij wierook voor zijn fuik: daaraan dankt hij zijn vette buit, zijn overvloedig maal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom brengt hij offers aan zijn net en brandt hij wierook voor zijn fuik: daaraan dankt hij zijn vette buit, zijn overvloedig maal."
+          }
+        ]
+      },
+      "id": "habakuk.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Gij hebt u aan schande verzadigd en niet aan eer: drink nu ook zelf en vertoon uw onbesnedenheid. De beker in Jahwe's rechterhand komt deze keer bij u, en schande valt op uw glorie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt u aan schande verzadigd en niet aan eer: drink nu ook zelf en vertoon uw onbesnedenheid. De beker in Jahwe's rechterhand komt deze keer bij u, en schande valt op uw glorie."
+          }
+        ]
+      },
+      "id": "habakuk.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Ik heb gehoord, een huivering ging door mijn leden, mijn lippen trilden, toen ik het vernam, verrotting tastte mijn gebeente aan, mijn voeten werden wankel onder mij. Toch wacht ik hem rustig af, de dag van ellende, die aan zal breken voor het volk dat ons onderdrukt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb gehoord, een huivering ging door mijn leden, mijn lippen trilden, toen ik het vernam, verrotting tastte mijn gebeente aan, mijn voeten werden wankel onder mij. Toch wacht ik hem rustig af, de dag van ellende, die aan zal breken voor het volk dat ons onderdrukt."
+          }
+        ]
+      },
+      "id": "habakuk.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Mag hij dan zijn net maar blijven ledigen? Mag hij ermee doorgaan de volken meedogenloos uit te moorden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mag hij dan zijn net maar blijven ledigen? Mag hij ermee doorgaan de volken meedogenloos uit te moorden?"
+          }
+        ]
+      },
+      "id": "habakuk.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Want onder het geweld, dat gij de Libanon hebt aangedaan, zult gij zelf bedolven worden; door de vernieling, die gij onder de dieren hebt aangericht, zult gij nu zelf getroffen worden: zo zal het u vergaan om het bloed van de mensen, om het geweld tegen het land en de stad en tegen al haar bewoners.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want onder het geweld, dat gij de Libanon hebt aangedaan, zult gij zelf bedolven worden; door de vernieling, die gij onder de dieren hebt aangericht, zult gij nu zelf getroffen worden: zo zal het u vergaan om het bloed van de mensen, om het geweld tegen het land en de stad en tegen al haar bewoners."
+          }
+        ]
+      },
+      "id": "habakuk.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "De vijgeboom bot niet uit, de wingerd draagt geen vrucht, de olijvenoogst is mislukt en de dorre akkers geven geen voedsel meer; de schapen zijn uit de kooien verdwenen en er staat geen rund meer op stal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vijgeboom bot niet uit, de wingerd draagt geen vrucht, de olijvenoogst is mislukt en de dorre akkers geven geen voedsel meer; de schapen zijn uit de kooien verdwenen en er staat geen rund meer op stal."
+          }
+        ]
+      },
+      "id": "habakuk.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Brengt een beeld wel zoveel baat, dat het de moeite van de beeldhouwer loont? Een metalen beeld, dat leugen leert, brengt het wel zoveel baat, dat de maker kan vertrouwen op zijn eigen werkstuk, hij, een maker van goden die stom zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Brengt een beeld wel zoveel baat, dat het de moeite van de beeldhouwer loont? Een metalen beeld, dat leugen leert, brengt het wel zoveel baat, dat de maker kan vertrouwen op zijn eigen werkstuk, hij, een maker van goden die stom zijn?"
+          }
+        ]
+      },
+      "id": "habakuk.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Ik echter, ik verheug mij in Jahwe, ik jubel om de God die mij redt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik echter, ik verheug mij in Jahwe, ik jubel om de God die mij redt."
+          }
+        ]
+      },
+      "id": "habakuk.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Wee hen die tegen een stuk hout zegt: 'Word wakker!' en tegen een stomme steen: 'Sta op!' Wordt daar iemand wijzer van? Zeker, het is met goud en zilver bekleed, maar leven zit er niet in.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee hen die tegen een stuk hout zegt: 'Word wakker!' en tegen een stomme steen: 'Sta op!' Wordt daar iemand wijzer van? Zeker, het is met goud en zilver bekleed, maar leven zit er niet in."
+          }
+        ]
+      },
+      "id": "habakuk.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Jahwe, de Heer, is mijn kracht, Hij maakt mijn voeten als de voeten van hinden en doet mij de hoogten betreden. Voor de koorleider: met snarenspel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, de Heer, is mijn kracht, Hij maakt mijn voeten als de voeten van hinden en doet mij de hoogten betreden. Voor de koorleider: met snarenspel."
+          }
+        ]
+      },
+      "id": "habakuk.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Jahwe echter woont in zijn heilige tempel: voor zijn aanschijn moet heel de aarde zwijgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe echter woont in zijn heilige tempel: voor zijn aanschijn moet heel de aarde zwijgen."
+          }
+        ]
+      },
+      "id": "habakuk.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

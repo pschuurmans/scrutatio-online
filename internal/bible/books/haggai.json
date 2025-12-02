@@ -1,0 +1,678 @@
+{
+  "id": "haggai",
+  "name": "Haggai",
+  "chapters": 2,
+  "verseCount": 38,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "In het tweede jaar van koning Darius, in de zesde maand, op de eerste dag van die maand, werd door de profeet Haggai het woord van Jahwe gericht tot Zerubbabel, de zoon van Sealtiël, landvoogd van Juda, en tot de hogepriester Jozua, de zoon van Jehosadak. Hij sprak:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het tweede jaar van koning Darius, in de zesde maand, op de eerste dag van die maand, werd door de profeet Haggai het woord van Jahwe gericht tot Zerubbabel, de zoon van Sealtiël, landvoogd van Juda, en tot de hogepriester Jozua, de zoon van Jehosadak. Hij sprak:"
+          }
+        ]
+      },
+      "id": "haggai.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "In de zevende maand, op de eenentwintigste dag, werd het woord van Jahwe aan de profeet Haggai toevertrouwd:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de zevende maand, op de eenentwintigste dag, werd het woord van Jahwe aan de profeet Haggai toevertrouwd:"
+          }
+        ]
+      },
+      "id": "haggai.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Zo spreekt Jahwe van de legerscharen: Dit volk denkt, dat de tijd nog niet is gekomen, de tijd om het huis van Jahwe te herbouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe van de legerscharen: Dit volk denkt, dat de tijd nog niet is gekomen, de tijd om het huis van Jahwe te herbouwen."
+          }
+        ]
+      },
+      "id": "haggai.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Zeg aan Zerubbabel, de zoon van Sealtiël, de landvoogd van Juda, en aan de hogepriester Jozua, de zoon van Jehosadak, en aan de rest van het volk het volgende:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeg aan Zerubbabel, de zoon van Sealtiël, de landvoogd van Juda, en aan de hogepriester Jozua, de zoon van Jehosadak, en aan de rest van het volk het volgende:"
+          }
+        ]
+      },
+      "id": "haggai.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Maar het woord van Jahwe, door de profeet Haggai gesproken, luidt aldus:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar het woord van Jahwe, door de profeet Haggai gesproken, luidt aldus:"
+          }
+        ]
+      },
+      "id": "haggai.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Is er onder u nog iemand overgebleven, die dit huis gezien heeft in zijn vroegere heerlijkheid? En wat ziet gij nu? Is er voor u nog iets aan te zien?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is er onder u nog iemand overgebleven, die dit huis gezien heeft in zijn vroegere heerlijkheid? En wat ziet gij nu? Is er voor u nog iets aan te zien?"
+          }
+        ]
+      },
+      "id": "haggai.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Is het voor u dan wel de tijd om zelf in uw goed betimmerde huizen te wonen, terwijl dit huis nog een ruïne is?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is het voor u dan wel de tijd om zelf in uw goed betimmerde huizen te wonen, terwijl dit huis nog een ruïne is?"
+          }
+        ]
+      },
+      "id": "haggai.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Niettemin, houd goede moed, Zerubbabel - zo luidt de godsspraak van Jahwe -; houd goede moed, gij hogepriester Jozua, zoon van Jehosadak; houdt goede moed, gij allen die het land bewoont - zo luidt de godsspraak van Jahwe. Gaat aan het werk! Ik ben met u! Zo luidt de godsspraak van Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niettemin, houd goede moed, Zerubbabel - zo luidt de godsspraak van Jahwe -; houd goede moed, gij hogepriester Jozua, zoon van Jehosadak; houdt goede moed, gij allen die het land bewoont - zo luidt de godsspraak van Jahwe. Gaat aan het werk! Ik ben met u! Zo luidt de godsspraak van Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "haggai.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Daarom - zo spreekt Jahwe van de legerscharen - moet gij eens nadenken over de weg waarop gij u bevindt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom - zo spreekt Jahwe van de legerscharen - moet gij eens nadenken over de weg waarop gij u bevindt."
+          }
+        ]
+      },
+      "id": "haggai.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Ik houd mij aan de belofte, die Ik u gedaan heb, toen gij uit Egypte zijt weggetrokken. Mijn geest blijft in uw midden: weest niet bevreesd!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik houd mij aan de belofte, die Ik u gedaan heb, toen gij uit Egypte zijt weggetrokken. Mijn geest blijft in uw midden: weest niet bevreesd!"
+          }
+        ]
+      },
+      "id": "haggai.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Gij hebt veel gezaaid, maar ge brengt weinig binnen;<br />\r\ngij eet, maar ge wordt niet verzadigd;<br />\r\ngij drinkt, maar ge wordt er niet vrolijk van;<br />\r\ngij kleedt u, maar ge wordt er niet warm van;<br />\r\nde loonarbeider krijgt zijn loon, maar in een buidel met een gat!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt veel gezaaid, maar ge brengt weinig binnen;"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ngij eet, maar ge wordt niet verzadigd;"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ngij drinkt, maar ge wordt er niet vrolijk van;"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ngij kleedt u, maar ge wordt er niet warm van;"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde loonarbeider krijgt zijn loon, maar in een buidel met een gat!"
+          }
+        ]
+      },
+      "id": "haggai.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Zo spreekt Jahwe van de legerscharen: Nog een korte tijd, een zeer korte tijd, en Ik breng de hemel en de aarde, de zee en het land in beroering;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe van de legerscharen: Nog een korte tijd, een zeer korte tijd, en Ik breng de hemel en de aarde, de zee en het land in beroering;"
+          }
+        ]
+      },
+      "id": "haggai.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zo spreekt Jahwe van de legerscharen: Gij moet nadenken over de weg waarop gij u bevindt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe van de legerscharen: Gij moet nadenken over de weg waarop gij u bevindt."
+          }
+        ]
+      },
+      "id": "haggai.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "alle volken breng Ik in beroering: dan komen alle volken met hun schatten hierheen en dan vervul Ik dit huis met heerlijkheid, zegt Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "alle volken breng Ik in beroering: dan komen alle volken met hun schatten hierheen en dan vervul Ik dit huis met heerlijkheid, zegt Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "haggai.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Gaat het bergland in, haalt daar hout en herbouwt het huis: dan zal Ik daarin mijn welbehagen hebben en er mijn heerlijkheid tonen, zegt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gaat het bergland in, haalt daar hout en herbouwt het huis: dan zal Ik daarin mijn welbehagen hebben en er mijn heerlijkheid tonen, zegt Jahwe."
+          }
+        ]
+      },
+      "id": "haggai.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Aan Mij behoort het zilver, aan Mij behoort het goud, zo luidt de godsspraak van Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan Mij behoort het zilver, aan Mij behoort het goud, zo luidt de godsspraak van Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "haggai.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Gij rekent op veel, maar neen, het is weinig. Wat gij binnenbrengt in uw schuur, Ik blaas het eruit. En waarom? - zo luidt de godsspraak van Jahwe van de legerscharen: Omdat mijn huis een ruïne is, terwijl ieder van u zich voor zijn eigen huis uitslooft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij rekent op veel, maar neen, het is weinig. Wat gij binnenbrengt in uw schuur, Ik blaas het eruit. En waarom? - zo luidt de godsspraak van Jahwe van de legerscharen: Omdat mijn huis een ruïne is, terwijl ieder van u zich voor zijn eigen huis uitslooft."
+          }
+        ]
+      },
+      "id": "haggai.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De heerlijkheid van dit tweede huis zal groter zijn dan die van het eerste, zegt Jahwe van de legerscharen. En dit is de plaats waar Ik vrede zal geven, zo luidt de godsspraak van Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De heerlijkheid van dit tweede huis zal groter zijn dan die van het eerste, zegt Jahwe van de legerscharen. En dit is de plaats waar Ik vrede zal geven, zo luidt de godsspraak van Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "haggai.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Daarom heeft u de hemel zijn dauw onthouden, de aarde haar gewas.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom heeft u de hemel zijn dauw onthouden, de aarde haar gewas."
+          }
+        ]
+      },
+      "id": "haggai.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Op de vierentwintigste dag van de negende maan in het tweede jaar van Darius werd het woord van Jahwe tot de profeet Haggai gericht:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de vierentwintigste dag van de negende maan in het tweede jaar van Darius werd het woord van Jahwe tot de profeet Haggai gericht:"
+          }
+        ]
+      },
+      "id": "haggai.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Ik heb droogte uitgeroepen over het land en over de bergen, over het koren, over de most en over de olie en over alles wat de aarde oplevert, over de mensen en over de dieren, over alles wat uw handen voortbrengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb droogte uitgeroepen over het land en over de bergen, over het koren, over de most en over de olie en over alles wat de aarde oplevert, over de mensen en over de dieren, over alles wat uw handen voortbrengen."
+          }
+        ]
+      },
+      "id": "haggai.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Dit zegt Jahwe van de legerscharen: Gij moet de priesters eens een uitspraak vragen over het volgende:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit zegt Jahwe van de legerscharen: Gij moet de priesters eens een uitspraak vragen over het volgende:"
+          }
+        ]
+      },
+      "id": "haggai.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Toen gaven Zerubbabel, de zoon van Sealtiël, en de hogepriester Jozua, de zoon van Jehosadak, en heel de rest van het volk gehoor aan de stem van Jahwe, hun God, en aan de woorden van Haggai, de profeet die Jahwe God hun had gezonden. En het volk werd met ontzag voor Jahwe vervuld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen gaven Zerubbabel, de zoon van Sealtiël, en de hogepriester Jozua, de zoon van Jehosadak, en heel de rest van het volk gehoor aan de stem van Jahwe, hun God, en aan de woorden van Haggai, de profeet die Jahwe God hun had gezonden. En het volk werd met ontzag voor Jahwe vervuld."
+          }
+        ]
+      },
+      "id": "haggai.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "'Wanneer iemand in de slip van zijn kleed heilig vlees meedraagt en met die slip brood, moes, wijn, olie of enig ander voedsel aanraakt, wordt het aangeraakte dan heilig?' De priesters gaven ten antwoord: 'Neen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Wanneer iemand in de slip van zijn kleed heilig vlees meedraagt en met die slip brood, moes, wijn, olie of enig ander voedsel aanraakt, wordt het aangeraakte dan heilig?' De priesters gaven ten antwoord: 'Neen.'"
+          }
+        ]
+      },
+      "id": "haggai.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "En Haggai, de bode van Jahwe, sprak in opdracht van Jahwe tot het volk: 'Ik ben met u, zo luidt de godsspraak van Jahwe.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Haggai, de bode van Jahwe, sprak in opdracht van Jahwe tot het volk: 'Ik ben met u, zo luidt de godsspraak van Jahwe.'"
+          }
+        ]
+      },
+      "id": "haggai.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Daarop zei Haggai: 'Wanneer iemand door het contact met een lijk verontreinigd is en een van al die dingen aanraakt, wordt het aangeraakte dan onrein?' De priesters gaven ten antwoord: 'Het wordt onrein.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zei Haggai: 'Wanneer iemand door het contact met een lijk verontreinigd is en een van al die dingen aanraakt, wordt het aangeraakte dan onrein?' De priesters gaven ten antwoord: 'Het wordt onrein.'"
+          }
+        ]
+      },
+      "id": "haggai.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Aldus wekte Jahwe de ijver op van Zerubbabel, de zoon van Sealtiël, de landvoogd van Juda, en ook de ijver van de hogepriester Jozua, de zoon van Jehosadak, en de ijver van heel de rest van het volk: zij begonnen het werk aan het huis van Jahwe van de legerscharen, hun God,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aldus wekte Jahwe de ijver op van Zerubbabel, de zoon van Sealtiël, de landvoogd van Juda, en ook de ijver van de hogepriester Jozua, de zoon van Jehosadak, en de ijver van heel de rest van het volk: zij begonnen het werk aan het huis van Jahwe van de legerscharen, hun God,"
+          }
+        ]
+      },
+      "id": "haggai.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Toen zei Haggai: 'Zo is het met dit volk, zo is het met deze natie in mijn ogen gesteld, luidt de godsspraak van Jahwe. Zo is het ook met al het werk van hun handen en met wat zij daar offeren: het wordt onrein.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zei Haggai: 'Zo is het met dit volk, zo is het met deze natie in mijn ogen gesteld, luidt de godsspraak van Jahwe. Zo is het ook met al het werk van hun handen en met wat zij daar offeren: het wordt onrein.'"
+          }
+        ]
+      },
+      "id": "haggai.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "op de vierentwintigste dag van de zesde maand van het tweede jaar van koning Darius.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "op de vierentwintigste dag van de zesde maand van het tweede jaar van koning Darius."
+          }
+        ]
+      },
+      "id": "haggai.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Ge moet er eens op letten, wat er in de toekomst gaat gebeuren! Vandaag zijn er van de tempel nog geen twee stenen op elkaar gelegd. Hoe is het nu met u gesteld?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge moet er eens op letten, wat er in de toekomst gaat gebeuren! Vandaag zijn er van de tempel nog geen twee stenen op elkaar gelegd. Hoe is het nu met u gesteld?"
+          }
+        ]
+      },
+      "id": "haggai.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Kwam men bij een korenhoop van twintig maten, dan waren het er maar tien; kwam men bij de wijnpers om vijftig vaten uit de kuip te scheppen, dan waren het er maar twintig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kwam men bij een korenhoop van twintig maten, dan waren het er maar tien; kwam men bij de wijnpers om vijftig vaten uit de kuip te scheppen, dan waren het er maar twintig."
+          }
+        ]
+      },
+      "id": "haggai.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Ik heb u geslagen met korenbrand en honingdauw, Ik heb al het werk van uw handen met hagel geslagen, maar gij hebt u niet tot Mij bekeerd, luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u geslagen met korenbrand en honingdauw, Ik heb al het werk van uw handen met hagel geslagen, maar gij hebt u niet tot Mij bekeerd, luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "haggai.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Ge moet er eens op letten, wat er na vandaag in de toekomst gaat gebeuren, vandaag, de vierentwintigste dag van de negende maand, de dag waarop de funderingen van de tempel van Jahwe gelegd zijn. Daar moet gij eens op letten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge moet er eens op letten, wat er na vandaag in de toekomst gaat gebeuren, vandaag, de vierentwintigste dag van de negende maand, de dag waarop de funderingen van de tempel van Jahwe gelegd zijn. Daar moet gij eens op letten!"
+          }
+        ]
+      },
+      "id": "haggai.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Is er nog wel koren in de schuur? Ook de wingerd, de vijgeboom, de granaatappelboom en de olijfboom hebben geen vrucht gedragen. Maar van deze dag af zal Ik zegen geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is er nog wel koren in de schuur? Ook de wingerd, de vijgeboom, de granaatappelboom en de olijfboom hebben geen vrucht gedragen. Maar van deze dag af zal Ik zegen geven."
+          }
+        ]
+      },
+      "id": "haggai.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Het woord van Jahwe werd op de vierentwintigste dag van die maand een tweede maal tot Haggai gericht:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe werd op de vierentwintigste dag van die maand een tweede maal tot Haggai gericht:"
+          }
+        ]
+      },
+      "id": "haggai.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Zeg tegen Zerubbabel, de landvoogd van Juda: Ik ga hemel en aarde in beroering brengen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeg tegen Zerubbabel, de landvoogd van Juda: Ik ga hemel en aarde in beroering brengen,"
+          }
+        ]
+      },
+      "id": "haggai.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "koningstronen omverwerpen, de machtige koninkrijken van de volkeren breken, de wagens omverwerpen, met degenen die erop rijden. De paarden zullen omkomen en de ruiters met hen. Zij zullen vallen door het zwaard van hun strijdmakkers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "koningstronen omverwerpen, de machtige koninkrijken van de volkeren breken, de wagens omverwerpen, met degenen die erop rijden. De paarden zullen omkomen en de ruiters met hen. Zij zullen vallen door het zwaard van hun strijdmakkers."
+          }
+        ]
+      },
+      "id": "haggai.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Op die dag - zo luidt de godsspraak van Jahwe van de legerscharen - zal Ik u, Zerubbabel, zoon van Sealtiël, mijn dienaar, nemen - zo luidt de godsspraak van Jahwe - en zal Ik u aandoen als mijn zegelring, want Ik heb u uitverkoren, zo luidt de godsspraak van Jahwe van de machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van Jahwe van de legerscharen - zal Ik u, Zerubbabel, zoon van Sealtiël, mijn dienaar, nemen - zo luidt de godsspraak van Jahwe - en zal Ik u aandoen als mijn zegelring, want Ik heb u uitverkoren, zo luidt de godsspraak van Jahwe van de machten."
+          }
+        ]
+      },
+      "id": "haggai.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

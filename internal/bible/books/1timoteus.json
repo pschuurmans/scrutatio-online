@@ -1,0 +1,1977 @@
+{
+  "id": "1timoteus",
+  "name": "1 Timoteüs",
+  "chapters": 6,
+  "verseCount": 113,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS, apostel van Christus Jezus krachtens de opdracht van God onze Heiland en van Christus Jezus onze hoop,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS, apostel van Christus Jezus krachtens de opdracht van God onze Heiland en van Christus Jezus onze hoop,"
+          }
+        ]
+      },
+      "id": "1timoteus.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Allereerst vraag ik u gebeden, smekingen, voorbeden en dankzeggingen te verrichten voor alle mensen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allereerst vraag ik u gebeden, smekingen, voorbeden en dankzeggingen te verrichten voor alle mensen,"
+          }
+        ]
+      },
+      "id": "1timoteus.2.1",
+      "title": "Hoe de gemeente behoort te bidden",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Dit woord is betrouwbaar: streeft iemand naar het leidersambt, dan begeert hij een voortreffelijke taak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit woord is betrouwbaar: streeft iemand naar het leidersambt, dan begeert hij een voortreffelijke taak."
+          }
+        ]
+      },
+      "id": "1timoteus.3.1",
+      "title": "Episkopen en diakens",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "De Geest zegt nadrukkelijk, dat in de laatste tijden sommigen zullen afvallen van het geloof, omdat zij gehoor geven aan dwaalgeesten en demonische leringen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Geest zegt nadrukkelijk, dat in de laatste tijden sommigen zullen afvallen van het geloof, omdat zij gehoor geven aan dwaalgeesten en demonische leringen,"
+          }
+        ]
+      },
+      "id": "1timoteus.4.1",
+      "title": "Timóteüs moet waken voor de zuiverheid van de leer",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Tegen een oudere man moogt gij niet uitvaren; spreek tot hem als was gij uw vader. Spoor jonge mannen aan als broeders,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tegen een oudere man moogt gij niet uitvaren; spreek tot hem als was gij uw vader. Spoor jonge mannen aan als broeders,"
+          }
+        ]
+      },
+      "id": "1timoteus.5.1",
+      "title": "De gelovigen in het algemeen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Zij die als slaven hun juk te dragen hebben, moeten hun meesters alle eer waardig achten; anders zal men kwaadspreken van onze God en van de christelijke leer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij die als slaven hun juk te dragen hebben, moeten hun meesters alle eer waardig achten; anders zal men kwaadspreken van onze God en van de christelijke leer."
+          }
+        ]
+      },
+      "id": "1timoteus.6.1",
+      "title": "De slaven",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "aan Tim&oacute;te&uuml;s, zijn wettig kind door het geloof.<br />\r\nGenade, barmhartigheid en vrede voor u vanwege God onze Vader en Christus Jezus onze Heer!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "aan Timóteüs, zijn wettig kind door het geloof."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nGenade, barmhartigheid en vrede voor u vanwege God onze Vader en Christus Jezus onze Heer!"
+          }
+        ]
+      },
+      "id": "1timoteus.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "voor koningen en alle hooggeplaatsten, opdat wij, ongestoord en rustig, een in alle opzichten godvruchtig en waardig leven kunnen leiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "voor koningen en alle hooggeplaatsten, opdat wij, ongestoord en rustig, een in alle opzichten godvruchtig en waardig leven kunnen leiden."
+          }
+        ]
+      },
+      "id": "1timoteus.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Een leider in de gemeente moet onberispelijk zijn, de man van &eacute;&eacute;n vrouw, matig, verstandig, beschaafd, gastvrij, bekwaam om te onderwijzen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een leider in de gemeente moet onberispelijk zijn, de man van één vrouw, matig, verstandig, beschaafd, gastvrij, bekwaam om te onderwijzen,"
+          }
+        ]
+      },
+      "id": "1timoteus.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "verleid door huichelachtige leugensprekers, wier geweten met een brandijzer is toegeschroeid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "verleid door huichelachtige leugensprekers, wier geweten met een brandijzer is toegeschroeid."
+          }
+        ]
+      },
+      "id": "1timoteus.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "bejaarde vrouwen als moeders, jonge vrouwen als zusters, in alle reinheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bejaarde vrouwen als moeders, jonge vrouwen als zusters, in alle reinheid."
+          }
+        ]
+      },
+      "id": "1timoteus.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Zij die gelovige meesters hebben, mogen hen niet minder achten omdat zij hun broeders zijn. Zij moeten hen integendeel des te trouwer dienen, omdat zij die van hun diensten profiteren, een zijn met hen in geloof en liefde. Zo moet gij leren en vermanen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij die gelovige meesters hebben, mogen hen niet minder achten omdat zij hun broeders zijn. Zij moeten hen integendeel des te trouwer dienen, omdat zij die van hun diensten profiteren, een zijn met hen in geloof en liefde. Zo moet gij leren en vermanen."
+          }
+        ]
+      },
+      "id": "1timoteus.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Bij mijn vertrek naar Macedoni&euml; heb ik u verzocht in &Eacute;feze te blijven; gij zoudt bepaalde mensen verbieden afwijkende leerstukken te verkondigen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bij mijn vertrek naar Macedonië heb ik u verzocht in Éfeze te blijven; gij zoudt bepaalde mensen verbieden afwijkende leerstukken te verkondigen"
+          }
+        ]
+      },
+      "id": "1timoteus.1.3",
+      "title": "Afwijzing dwaalleer; de wet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Dit is goed en welgevallig in het oog van God, onze heiland,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is goed en welgevallig in het oog van God, onze heiland,"
+          }
+        ]
+      },
+      "id": "1timoteus.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "niet aan de wijn verslaafd, niet opvliegend, maar inschikkelijk, niet strijdlustig, niet geldzuchtig,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "niet aan de wijn verslaafd, niet opvliegend, maar inschikkelijk, niet strijdlustig, niet geldzuchtig,"
+          }
+        ]
+      },
+      "id": "1timoteus.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Deze lieden verwerpen het huwelijk en het gebruik van bepaalde spijzen, ofschoon God ze heeft geschapen om met dankzegging te worden gebruikt door de gelovigen, die de waarheid erkend hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze lieden verwerpen het huwelijk en het gebruik van bepaalde spijzen, ofschoon God ze heeft geschapen om met dankzegging te worden gebruikt door de gelovigen, die de waarheid erkend hebben."
+          }
+        ]
+      },
+      "id": "1timoteus.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Houd de weduwen in ere die werkelijk weduwen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd de weduwen in ere die werkelijk weduwen zijn."
+          }
+        ]
+      },
+      "id": "1timoteus.5.3",
+      "title": "De weduwen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Wie een afwijkende leer verkondigt en zich niet houdt aan de gezonde beginselen van onze Heer Jezus Christus en de leer van onze godsdienst,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie een afwijkende leer verkondigt en zich niet houdt aan de gezonde beginselen van onze Heer Jezus Christus en de leer van onze godsdienst,"
+          }
+        ]
+      },
+      "id": "1timoteus.6.3",
+      "title": "Dwaalleer en geldzucht",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "en zich bezig te houden met eindeloze mythen en genealogieën, zaken die alleen maar leiden tot haarkloverijen en niets bijdragen tot het geloof waarop Gods leiding berust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zich bezig te houden met eindeloze mythen en genealogieën, zaken die alleen maar leiden tot haarkloverijen en niets bijdragen tot het geloof waarop Gods leiding berust."
+          }
+        ]
+      },
+      "id": "1timoteus.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "die wil dat alle mensen gered worden en tot de kennis van de waarheid komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die wil dat alle mensen gered worden en tot de kennis van de waarheid komen."
+          }
+        ]
+      },
+      "id": "1timoteus.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "iemand die zijn eigen huis goed bestuurt en met ernst en waardigheid gezag oefent over zijn kinderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "iemand die zijn eigen huis goed bestuurt en met ernst en waardigheid gezag oefent over zijn kinderen."
+          }
+        ]
+      },
+      "id": "1timoteus.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Want al wat God geschapen heeft is goed, en niets is verwerpelijk dat in dank wordt aanvaard:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want al wat God geschapen heeft is goed, en niets is verwerpelijk dat in dank wordt aanvaard:"
+          }
+        ]
+      },
+      "id": "1timoteus.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Heeft een weduwe kinderen of kleinkinderen, dan moeten die allereerst leren hun eigen familie piëteit te betonen en hun ouders het goede te vergelden dat zij van hen ontvingen, want dit is welgevallig aan God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft een weduwe kinderen of kleinkinderen, dan moeten die allereerst leren hun eigen familie piëteit te betonen en hun ouders het goede te vergelden dat zij van hen ontvingen, want dit is welgevallig aan God."
+          }
+        ]
+      },
+      "id": "1timoteus.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "is een verwaand mens, zonder werkelijke wetenschap maar met een ziekelijke belangstelling voor twistvragen en woordenstrijd. Hieruit kan niets anders voortkomen dan afgunst, onenigheid, gelaster, achterdocht",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "is een verwaand mens, zonder werkelijke wetenschap maar met een ziekelijke belangstelling voor twistvragen en woordenstrijd. Hieruit kan niets anders voortkomen dan afgunst, onenigheid, gelaster, achterdocht"
+          }
+        ]
+      },
+      "id": "1timoteus.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Het doel van het gebod is de liefde, die voortkomt uit een rein hart, een goed geweten en een ongeveinsd geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het doel van het gebod is de liefde, die voortkomt uit een rein hart, een goed geweten en een ongeveinsd geloof."
+          }
+        ]
+      },
+      "id": "1timoteus.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Want God is een, een is ook de middelaar tussen God en de mensen, de mens Christus Jezus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want God is een, een is ook de middelaar tussen God en de mensen, de mens Christus Jezus,"
+          }
+        ]
+      },
+      "id": "1timoteus.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Als iemand zijn eigen huisgezin niet weet te besturen, hoe zal hij dan zorg kunnen dragen voor de gemeente Gods?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand zijn eigen huisgezin niet weet te besturen, hoe zal hij dan zorg kunnen dragen voor de gemeente Gods?"
+          }
+        ]
+      },
+      "id": "1timoteus.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "het wordt geheiligd door het woord van God en het gebed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het wordt geheiligd door het woord van God en het gebed."
+          }
+        ]
+      },
+      "id": "1timoteus.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "De echte weduwe, die geheel alleen staat, heeft haar hoop op God gevestigd, en volhardt in smekingen en gebeden, dag en nacht;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De echte weduwe, die geheel alleen staat, heeft haar hoop op God gevestigd, en volhardt in smekingen en gebeden, dag en nacht;"
+          }
+        ]
+      },
+      "id": "1timoteus.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "en eindeloze discussies, het werk van mensen wier geest verward is en van de waarheid verstoken. Zij zien in de godsvrucht een bron van inkomsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en eindeloze discussies, het werk van mensen wier geest verward is en van de waarheid verstoken. Zij zien in de godsvrucht een bron van inkomsten."
+          }
+        ]
+      },
+      "id": "1timoteus.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Maar sommigen zijn afgeweken van deze weg en vervallen tot zinloos gepraat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar sommigen zijn afgeweken van deze weg en vervallen tot zinloos gepraat."
+          }
+        ]
+      },
+      "id": "1timoteus.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "die zichzelf gegeven heeft als losprijs voor allen: op de vastgestelde tijd legde Hij zijn getuigenis af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die zichzelf gegeven heeft als losprijs voor allen: op de vastgestelde tijd legde Hij zijn getuigenis af."
+          }
+        ]
+      },
+      "id": "1timoteus.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Hij mag geen pas bekeerde zijn, opdat hij niet verwaand wordt en hem het vonnis van de duivel treft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij mag geen pas bekeerde zijn, opdat hij niet verwaand wordt en hem het vonnis van de duivel treft."
+          }
+        ]
+      },
+      "id": "1timoteus.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Als gij de broeders deze gedachten voorhoudt, zult gij een goed dienaar van Christus Jezus zijn, gevormd door de beginselen van het geloof en de goede leer, waarvan gij een trouw aanhanger zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij de broeders deze gedachten voorhoudt, zult gij een goed dienaar van Christus Jezus zijn, gevormd door de beginselen van het geloof en de goede leer, waarvan gij een trouw aanhanger zijt."
+          }
+        ]
+      },
+      "id": "1timoteus.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "maar die in weelde en overdaad leeft, is levend dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar die in weelde en overdaad leeft, is levend dood."
+          }
+        ]
+      },
+      "id": "1timoteus.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Nu brengt de godsvrucht ongetwijfeld grote winst, maar alleen voor hem die tevreden is met wat hij heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu brengt de godsvrucht ongetwijfeld grote winst, maar alleen voor hem die tevreden is met wat hij heeft."
+          }
+        ]
+      },
+      "id": "1timoteus.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zij willen leraars zijn van de wet, maar begrijpen niet eens wat zij zeggen noch datgene waarover zij zulke stellige uitspraken ten beste geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij willen leraars zijn van de wet, maar begrijpen niet eens wat zij zeggen noch datgene waarover zij zulke stellige uitspraken ten beste geven."
+          }
+        ]
+      },
+      "id": "1timoteus.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "En ik ben daarvoor aangesteld als heraut en apostel - ik spreek de waarheid, ik lieg niet - om de volken te onderrichten in het ware geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik ben daarvoor aangesteld als heraut en apostel - ik spreek de waarheid, ik lieg niet - om de volken te onderrichten in het ware geloof."
+          }
+        ]
+      },
+      "id": "1timoteus.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Hij moet ook goed aangeschreven staan bij hen die niet tot de gemeente behoren; anders komt hij in opspraak en valt misschien in de strikken van de duivel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij moet ook goed aangeschreven staan bij hen die niet tot de gemeente behoren; anders komt hij in opspraak en valt misschien in de strikken van de duivel."
+          }
+        ]
+      },
+      "id": "1timoteus.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Houd u niet op met die goddeloze en zinneloze mythen. Oefen u in de vroomheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd u niet op met die goddeloze en zinneloze mythen. Oefen u in de vroomheid."
+          }
+        ]
+      },
+      "id": "1timoteus.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Ook dit moet gij hun met nadruk voorhouden, opdat zij zich onberispelijk gedragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook dit moet gij hun met nadruk voorhouden, opdat zij zich onberispelijk gedragen."
+          }
+        ]
+      },
+      "id": "1timoteus.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Want wij hebben in deze wereld niets meegebracht en kunnen er ook niets uit meenemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij hebben in deze wereld niets meegebracht en kunnen er ook niets uit meenemen."
+          }
+        ]
+      },
+      "id": "1timoteus.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "De wet is voortreffelijk, daarover zijn wij het eens, maar men moet haar op de juiste wijze hanteren",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wet is voortreffelijk, daarover zijn wij het eens, maar men moet haar op de juiste wijze hanteren"
+          }
+        ]
+      },
+      "id": "1timoteus.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Ik wil dus dat op elke plaats waar de gemeente samenkomt om te bidden, de mannen hun handen opheffen in een geest van godsvrucht, die haat en ruzie uitsluit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil dus dat op elke plaats waar de gemeente samenkomt om te bidden, de mannen hun handen opheffen in een geest van godsvrucht, die haat en ruzie uitsluit."
+          }
+        ]
+      },
+      "id": "1timoteus.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Evenzo moeten de diakens mannen van eer zijn, mannen van hun woord, niet aan de wijn verslaafd of belust op winstbejag,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Evenzo moeten de diakens mannen van eer zijn, mannen van hun woord, niet aan de wijn verslaafd of belust op winstbejag,"
+          }
+        ]
+      },
+      "id": "1timoteus.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "“Oefening van het lichaam heeft beperkte waarde, maar de voordelen van de godsvrucht zijn onbeperkt, want zij houdt beloften in zowel voor dit leven als het toekomstige.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "“Oefening van het lichaam heeft beperkte waarde, maar de voordelen van de godsvrucht zijn onbeperkt, want zij houdt beloften in zowel voor dit leven als het toekomstige.”"
+          }
+        ]
+      },
+      "id": "1timoteus.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Wie niet zorgt voor eigen familie en zelfs niet voor het eigen gezin, heeft het geloof verloochend en is erger dan een ongelovige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie niet zorgt voor eigen familie en zelfs niet voor het eigen gezin, heeft het geloof verloochend en is erger dan een ongelovige."
+          }
+        ]
+      },
+      "id": "1timoteus.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Als wij voedsel en kleding hebben, moet ons dat genoeg zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij voedsel en kleding hebben, moet ons dat genoeg zijn."
+          }
+        ]
+      },
+      "id": "1timoteus.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "en bedenken, dat zij er niet is voor de rechtvaardigen, maar voor de mensen die zich aan God noch gebod storen, voor weerspannigen en zondaars, voor verachters en bespotters van al wat heilig is, vadermoorders en moedermoorders, doodslagers,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en bedenken, dat zij er niet is voor de rechtvaardigen, maar voor de mensen die zich aan God noch gebod storen, voor weerspannigen en zondaars, voor verachters en bespotters van al wat heilig is, vadermoorders en moedermoorders, doodslagers,"
+          }
+        ]
+      },
+      "id": "1timoteus.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Eveneens dat de vrouwen daarbij op passende wijze gekleed zijn en zich liever sieren met bescheidenheid en ingetogenheid dan met ingewikkelde kapsels, met goud, parels of dure kleren;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eveneens dat de vrouwen daarbij op passende wijze gekleed zijn en zich liever sieren met bescheidenheid en ingetogenheid dan met ingewikkelde kapsels, met goud, parels of dure kleren;"
+          }
+        ]
+      },
+      "id": "1timoteus.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "trouw aan het geheim van het geloof met een zuiver geweten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "trouw aan het geheim van het geloof met een zuiver geweten."
+          }
+        ]
+      },
+      "id": "1timoteus.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Een waar woord, dat alle instemming verdient!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een waar woord, dat alle instemming verdient!"
+          }
+        ]
+      },
+      "id": "1timoteus.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Een vrouw kan als weduwe worden ingeschreven, als zij niet jonger is dan zestig jaar en slechts &eacute;&eacute;nmaal gehuwd is geweest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een vrouw kan als weduwe worden ingeschreven, als zij niet jonger is dan zestig jaar en slechts éénmaal gehuwd is geweest."
+          }
+        ]
+      },
+      "id": "1timoteus.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Zij die zich willen verrijken vallen in verzoeking en in de strik van allerlei dwaze en kwalijke begeerten, die een mens in verderf en ondergang storten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij die zich willen verrijken vallen in verzoeking en in de strik van allerlei dwaze en kwalijke begeerten, die een mens in verderf en ondergang storten."
+          }
+        ]
+      },
+      "id": "1timoteus.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "hoerenlopers, knapenschenders, ronselaars, leugenaars, meinedigen en al het andere dat strijdt met de gezonde leer,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoerenlopers, knapenschenders, ronselaars, leugenaars, meinedigen en al het andere dat strijdt met de gezonde leer,"
+          }
+        ]
+      },
+      "id": "1timoteus.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "voor haar die godvruchtig wil zijn blijven goede daden het fraaiste sieraad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "voor haar die godvruchtig wil zijn blijven goede daden het fraaiste sieraad."
+          }
+        ]
+      },
+      "id": "1timoteus.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Ook zij moeten eerst een onderzoek ondergaan; daarna kunnen zij, als er geen klachten zijn, hun dienst vervullen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook zij moeten eerst een onderzoek ondergaan; daarna kunnen zij, als er geen klachten zijn, hun dienst vervullen."
+          }
+        ]
+      },
+      "id": "1timoteus.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Dit is het doel van al ons zwoegen en strijden, want wij hebben onze hoop gesteld op de levende God, die een Heiland is voor alle mensen, inzonderheid voor de gelovigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is het doel van al ons zwoegen en strijden, want wij hebben onze hoop gesteld op de levende God, die een Heiland is voor alle mensen, inzonderheid voor de gelovigen."
+          }
+        ]
+      },
+      "id": "1timoteus.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Zij moet in de roep staan van goede werken, kinderen hebben grootgebracht, gastvrijheid bewezen, heiligen de voeten gewassen, verdrukten ondersteund, in een woord, zich aan allerlei goed werk hebben gewijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij moet in de roep staan van goede werken, kinderen hebben grootgebracht, gastvrijheid bewezen, heiligen de voeten gewassen, verdrukten ondersteund, in een woord, zich aan allerlei goed werk hebben gewijd."
+          }
+        ]
+      },
+      "id": "1timoteus.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Want de geldzucht is de wortel van alle kwaad. Door deze hartstocht zijn sommigen al van het geloof afgedwaald en hebben zich afgemarteld met kwellingen zonder tal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de geldzucht is de wortel van alle kwaad. Door deze hartstocht zijn sommigen al van het geloof afgedwaald en hebben zich afgemarteld met kwellingen zonder tal."
+          }
+        ]
+      },
+      "id": "1timoteus.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "die steunt op het roemrijk evangelie van de gelukzalige God, dat mij is toevertrouwd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die steunt op het roemrijk evangelie van de gelukzalige God, dat mij is toevertrouwd."
+          }
+        ]
+      },
+      "id": "1timoteus.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Zij moet rustig en met gepaste onderdanigheid profiteren van het onderricht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij moet rustig en met gepaste onderdanigheid profiteren van het onderricht."
+          }
+        ]
+      },
+      "id": "1timoteus.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Ook moeten hun vrouwen waardig zijn, geen kwaadspreeksters, matig en in alle opzichten betrouwbaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook moeten hun vrouwen waardig zijn, geen kwaadspreeksters, matig en in alle opzichten betrouwbaar."
+          }
+        ]
+      },
+      "id": "1timoteus.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Dit moet gij hun bijbrengen en hierin moet gij hen onderrichten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit moet gij hun bijbrengen en hierin moet gij hen onderrichten."
+          }
+        ]
+      },
+      "id": "1timoteus.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Jonge weduwen moet gij niet op de lijst plaatsen. Want hun zinnen trekken hen licht af van de dienst van Christus, dan willen zij opnieuw trouwen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jonge weduwen moet gij niet op de lijst plaatsen. Want hun zinnen trekken hen licht af van de dienst van Christus, dan willen zij opnieuw trouwen"
+          }
+        ]
+      },
+      "id": "1timoteus.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Gij echter, man Gods, moet dit alles mijden. Streef naar gerechtigheid, godsvrucht, geloof, liefde, volharding, zachtmoedigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij echter, man Gods, moet dit alles mijden. Streef naar gerechtigheid, godsvrucht, geloof, liefde, volharding, zachtmoedigheid."
+          }
+        ]
+      },
+      "id": "1timoteus.6.11",
+      "title": "Plechtige aansporing van Timóteüs",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Ik zeg dank aan Hem die mij sterkt, Christus onze Heer, dat Hij mij vertrouwen heeft geschonken door mij in zijn dienst te nemen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zeg dank aan Hem die mij sterkt, Christus onze Heer, dat Hij mij vertrouwen heeft geschonken door mij in zijn dienst te nemen,"
+          }
+        ]
+      },
+      "id": "1timoteus.1.12",
+      "title": "Gods barmhartige genade jegens Paulus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ik sta haar niet toe zelf onderricht te geven of de man te overheersen; zij moet rustig toehoren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik sta haar niet toe zelf onderricht te geven of de man te overheersen; zij moet rustig toehoren."
+          }
+        ]
+      },
+      "id": "1timoteus.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Diakens moeten mannen van &eacute;&eacute;n vrouw zijn, en hun kinderen en hun huisgezin goed weten te leiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Diakens moeten mannen van één vrouw zijn, en hun kinderen en hun huisgezin goed weten te leiden."
+          }
+        ]
+      },
+      "id": "1timoteus.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Niemand mag uw jeugd minachten. Wees een voorbeeld voor de gelovigen door woord en gedrag, in liefde, in geloof en in zuiverheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand mag uw jeugd minachten. Wees een voorbeeld voor de gelovigen door woord en gedrag, in liefde, in geloof en in zuiverheid."
+          }
+        ]
+      },
+      "id": "1timoteus.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "en halen zich de blaam op de hals dat zij hun eerste trouw gebroken hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en halen zich de blaam op de hals dat zij hun eerste trouw gebroken hebben."
+          }
+        ]
+      },
+      "id": "1timoteus.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Strijd de goede strijd van het geloof, grijp het eeuwige leven. Daartoe zijt gij geroepen, daartoe hebt gij de goede belijdenis afgelegd ten overstaan van vele getuigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Strijd de goede strijd van het geloof, grijp het eeuwige leven. Daartoe zijt gij geroepen, daartoe hebt gij de goede belijdenis afgelegd ten overstaan van vele getuigen."
+          }
+        ]
+      },
+      "id": "1timoteus.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "hoewel ik eertijds een godslasteraar was, een vervolger en geweldenaar. Maar mij is barmhartigheid bewezen, omdat ik, nog ongelovig, handelde in onwetendheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoewel ik eertijds een godslasteraar was, een vervolger en geweldenaar. Maar mij is barmhartigheid bewezen, omdat ik, nog ongelovig, handelde in onwetendheid."
+          }
+        ]
+      },
+      "id": "1timoteus.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Want Adam werd het eerst geschapen en daarna Eva.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Adam werd het eerst geschapen en daarna Eva."
+          }
+        ]
+      },
+      "id": "1timoteus.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Zij die hun dienst goed vervullen, verwerven zich een eervolle positie en het recht om vrijuit te spreken in zake het christelijk geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij die hun dienst goed vervullen, verwerven zich een eervolle positie en het recht om vrijuit te spreken in zake het christelijk geloof."
+          }
+        ]
+      },
+      "id": "1timoteus.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "In afwachting van mijn komst moet gij u toeleggen op de voorlezing, de vermaning en het onderricht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In afwachting van mijn komst moet gij u toeleggen op de voorlezing, de vermaning en het onderricht."
+          }
+        ]
+      },
+      "id": "1timoteus.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Bovendien maken zij er een gewoonte van overal binnen te lopen doordat zij niets om handen hebben; en dat niet alleen, zij praten zonder einde, bemoeien zich met alles en zeggen dingen die geen pas geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien maken zij er een gewoonte van overal binnen te lopen doordat zij niets om handen hebben; en dat niet alleen, zij praten zonder einde, bemoeien zich met alles en zeggen dingen die geen pas geven."
+          }
+        ]
+      },
+      "id": "1timoteus.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Ik beveel u voor het aanschijn van God die alles ten leven wekt, en van Christus Jezus die door Pontius Pilatus de goede belijdenis heeft afgelegd:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik beveel u voor het aanschijn van God die alles ten leven wekt, en van Christus Jezus die door Pontius Pilatus de goede belijdenis heeft afgelegd:"
+          }
+        ]
+      },
+      "id": "1timoteus.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "En ik werd in rijke overvloed de genade van onze Heer deelachtig en daarmee het geloof en de liefde die in Christus Jezus zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik werd in rijke overvloed de genade van onze Heer deelachtig en daarmee het geloof en de liefde die in Christus Jezus zijn."
+          }
+        ]
+      },
+      "id": "1timoteus.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "En Adam werd niet misleid, maar het was de vrouw die zich liet bedriegen en daardoor tot overtreding kwam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Adam werd niet misleid, maar het was de vrouw die zich liet bedriegen en daardoor tot overtreding kwam."
+          }
+        ]
+      },
+      "id": "1timoteus.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Ik schrijf u dit in de hoop vrij spoedig bij u te komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik schrijf u dit in de hoop vrij spoedig bij u te komen."
+          }
+        ]
+      },
+      "id": "1timoteus.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Verwaarloos de genadegave niet die in u is en die u krachtens een profetenwoord werd geschonken onder handopleggen van de gezamenlijke presbyters.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verwaarloos de genadegave niet die in u is en die u krachtens een profetenwoord werd geschonken onder handopleggen van de gezamenlijke presbyters."
+          }
+        ]
+      },
+      "id": "1timoteus.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Ik wil daarom dat jonge weduwen hertrouwen, kinderen krijgen, hun huishouden verzorgen en de tegenpartij geen enkele aanleiding geven kwaad van ons te spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil daarom dat jonge weduwen hertrouwen, kinderen krijgen, hun huishouden verzorgen en de tegenpartij geen enkele aanleiding geven kwaad van ons te spreken."
+          }
+        ]
+      },
+      "id": "1timoteus.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "bewaar dit gebod onbevlekt en ongerept tot de verschijning van onze Heer Jezus Christus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bewaar dit gebod onbevlekt en ongerept tot de verschijning van onze Heer Jezus Christus,"
+          }
+        ]
+      },
+      "id": "1timoteus.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Dit woord is betrouwbaar en volkomen geloofwaardig: “Christus Jezus is in de wereld gekomen om zondaars te redden.” En de eerste van hen ben ik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit woord is betrouwbaar en volkomen geloofwaardig: “Christus Jezus is in de wereld gekomen om zondaars te redden.” En de eerste van hen ben ik."
+          }
+        ]
+      },
+      "id": "1timoteus.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Maar zij zal gered worden door haar moederschap, als zij volhardt in geloof en liefde en heiligheid met bezonnenheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij zal gered worden door haar moederschap, als zij volhardt in geloof en liefde en heiligheid met bezonnenheid."
+          }
+        ]
+      },
+      "id": "1timoteus.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Mocht ik worden opgehouden, dan weet gij, hoe men zich behoort te gedragen in het huis Gods, dat is, de kerk van de levende God, pijler en grondslag van de waarheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mocht ik worden opgehouden, dan weet gij, hoe men zich behoort te gedragen in het huis Gods, dat is, de kerk van de levende God, pijler en grondslag van de waarheid."
+          }
+        ]
+      },
+      "id": "1timoteus.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Neem dit alles ter harte, ga er geheel in op, dan zullen uw vorderingen voor allen zichtbaar zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neem dit alles ter harte, ga er geheel in op, dan zullen uw vorderingen voor allen zichtbaar zijn."
+          }
+        ]
+      },
+      "id": "1timoteus.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Want sommigen zijn al van de goede weg afgeweken en de satan achterna gegaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want sommigen zijn al van de goede weg afgeweken en de satan achterna gegaan."
+          }
+        ]
+      },
+      "id": "1timoteus.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "die God ons te rechter tijd zal doen aanschouwen, Hij, de gelukzalige, de enige heerser, de grote koning en de opperste heer,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die God ons te rechter tijd zal doen aanschouwen, Hij, de gelukzalige, de enige heerser, de grote koning en de opperste heer,"
+          }
+        ]
+      },
+      "id": "1timoteus.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Daarom juist is mij barmhartigheid bewezen: Jezus Christus wilde aan mij als eerste heel zijn lankmoedigheid demonstreren, als een model voor allen die in de toekomst op Hem zouden vertrouwen en eeuwig leven winnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom juist is mij barmhartigheid bewezen: Jezus Christus wilde aan mij als eerste heel zijn lankmoedigheid demonstreren, als een model voor allen die in de toekomst op Hem zouden vertrouwen en eeuwig leven winnen."
+          }
+        ]
+      },
+      "id": "1timoteus.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "En groot is ongetwijfeld het geheim van onze godsdienst:<br />\r\nHij is geopenbaard in het vlees,<br />\r\ngerechtvaardigd in de Geest,<br />\r\nverschenen aan de engelen,<br />\r\nverkondigd onder de volken,<br />\r\ngeloofd in heel de wereld<br />\r\nen opgenomen in heerlijkheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En groot is ongetwijfeld het geheim van onze godsdienst:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHij is geopenbaard in het vlees,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ngerechtvaardigd in de Geest,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nverschenen aan de engelen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nverkondigd onder de volken,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ngeloofd in heel de wereld"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen opgenomen in heerlijkheid."
+          }
+        ]
+      },
+      "id": "1timoteus.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Blijf voortdurend zorg besteden aan uzelf en aan uw onderricht. Zodoende redt gij uzelf en hen die naar u luisteren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Blijf voortdurend zorg besteden aan uzelf en aan uw onderricht. Zodoende redt gij uzelf en hen die naar u luisteren."
+          }
+        ]
+      },
+      "id": "1timoteus.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Als een gelovige vrouw weduwen onder haar verwanten heeft, moet zij die bijstaan, opdat zij niet ten laste komen van de gemeente, dan kan deze de weduwen ondersteunen die helemaal alleen staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als een gelovige vrouw weduwen onder haar verwanten heeft, moet zij die bijstaan, opdat zij niet ten laste komen van de gemeente, dan kan deze de weduwen ondersteunen die helemaal alleen staan."
+          }
+        ]
+      },
+      "id": "1timoteus.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "die alleen onsterfelijkheid bezit en woont in ongenaakbaar licht. Geen mens heeft Hem gezien of is in staat Hem te zien. Hem zij eer en eeuwige macht! Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die alleen onsterfelijkheid bezit en woont in ongenaakbaar licht. Geen mens heeft Hem gezien of is in staat Hem te zien. Hem zij eer en eeuwige macht! Amen."
+          }
+        ]
+      },
+      "id": "1timoteus.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Aan de koning der eeuwen, aan de onvergankelijke, onzichtbare, enige God zij eer en roem in de eeuwen der eeuwen! Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan de koning der eeuwen, aan de onvergankelijke, onzichtbare, enige God zij eer en roem in de eeuwen der eeuwen! Amen."
+          }
+        ]
+      },
+      "id": "1timoteus.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "De presbyters die zich goede bestuurders tonen, verdienen dubbele eer, vooral zij die zich belasten met prediking en onderricht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De presbyters die zich goede bestuurders tonen, verdienen dubbele eer, vooral zij die zich belasten met prediking en onderricht."
+          }
+        ]
+      },
+      "id": "1timoteus.5.17",
+      "title": "De presbyters",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Vermaan de rijken van deze wereld dringend niet hoogmoedig te zijn en hun hoop niet te stellen op de ongewisse rijkdom, maar op God die ons alles rijkelijk te genieten geeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vermaan de rijken van deze wereld dringend niet hoogmoedig te zijn en hun hoop niet te stellen op de ongewisse rijkdom, maar op God die ons alles rijkelijk te genieten geeft."
+          }
+        ]
+      },
+      "id": "1timoteus.6.17",
+      "title": "Ware en valse rijkdom",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Deze opdracht vertrouw ik u toe, Timóteüs, mijn kind, overeenkomstig de profetieën die eertijds over u zijn uitgesproken. Strijd daardoor gesteund de goede strijd,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze opdracht vertrouw ik u toe, Timóteüs, mijn kind, overeenkomstig de profetieën die eertijds over u zijn uitgesproken. Strijd daardoor gesteund de goede strijd,"
+          }
+        ]
+      },
+      "id": "1timoteus.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "De Schrift zegt immers: Gij zult een dorsende os niet muilbanden, en: De arbeider is zijn loon waard.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Schrift zegt immers: Gij zult een dorsende os niet muilbanden, en: De arbeider is zijn loon waard."
+          }
+        ]
+      },
+      "id": "1timoteus.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Zeg hun dat zij wel doen, zich verrijken door goede daden, en vrijgevig zijn en milddadig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeg hun dat zij wel doen, zich verrijken door goede daden, en vrijgevig zijn en milddadig."
+          }
+        ]
+      },
+      "id": "1timoteus.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "gewapend met geloof en een goed geweten. Omdat sommigen dit hebben prijsgegeven, heeft hun geloof schipbreuk geleden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gewapend met geloof en een goed geweten. Omdat sommigen dit hebben prijsgegeven, heeft hun geloof schipbreuk geleden."
+          }
+        ]
+      },
+      "id": "1timoteus.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Aanvaard geen beschuldiging tegen een presbyter tenzij op het woord van twee of drie getuigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aanvaard geen beschuldiging tegen een presbyter tenzij op het woord van twee of drie getuigen."
+          }
+        ]
+      },
+      "id": "1timoteus.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Zo bezorgen zij zich een goede belegging voor de toekomst, om eenmaal het leven te verwerven dat waarlijk leven is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo bezorgen zij zich een goede belegging voor de toekomst, om eenmaal het leven te verwerven dat waarlijk leven is."
+          }
+        ]
+      },
+      "id": "1timoteus.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Tot hen behoren Hymenéüs en Alexander, die ik aan de satan heb overgeleverd, opdat zij het lasteren zouden afleren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot hen behoren Hymenéüs en Alexander, die ik aan de satan heb overgeleverd, opdat zij het lasteren zouden afleren."
+          }
+        ]
+      },
+      "id": "1timoteus.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Berisp openlijk wie zich misdragen, opdat de overigen worden afgeschrikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Berisp openlijk wie zich misdragen, opdat de overigen worden afgeschrikt."
+          }
+        ]
+      },
+      "id": "1timoteus.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "Tim&oacute;te&uuml;s, bewaar wat u is toevertrouwd, en keer u af van het profaan en leeg geredeneer en de opwerpingen van de zogenaamde gnosis;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Timóteüs, bewaar wat u is toevertrouwd, en keer u af van het profaan en leeg geredeneer en de opwerpingen van de zogenaamde gnosis;"
+          }
+        ]
+      },
+      "id": "1timoteus.6.20",
+      "title": "Laatste vermaning en groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Ik bezweer u voor God en voor Christus Jezus en zijn uitverkoren engelen: onderhoud deze regels zonder vooroordeel en zonder enige partijdigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bezweer u voor God en voor Christus Jezus en zijn uitverkoren engelen: onderhoud deze regels zonder vooroordeel en zonder enige partijdigheid."
+          }
+        ]
+      },
+      "id": "1timoteus.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "sommigen die haar verkondigen, zijn het spoor van het geloof reeds bijster geraakt.<br />\r\nDe genade zij met u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "sommigen die haar verkondigen, zijn het spoor van het geloof reeds bijster geraakt."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nDe genade zij met u allen."
+          }
+        ]
+      },
+      "id": "1timoteus.6.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Leg niemand overijld de handen op en maak u niet medeplichtig aan andermans zonden; houd u rein.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leg niemand overijld de handen op en maak u niet medeplichtig aan andermans zonden; houd u rein."
+          }
+        ]
+      },
+      "id": "1timoteus.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Drink niet langer uitsluitend water, gebruik wat wijn voor uw maag en met het oog op uw veelvuldige kwalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Drink niet langer uitsluitend water, gebruik wat wijn voor uw maag en met het oog op uw veelvuldige kwalen."
+          }
+        ]
+      },
+      "id": "1timoteus.5.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "Van sommige mensen zijn de zonden zo duidelijk, dat ze hen voorgaan naar het gerecht; bij anderen komen ze achteraan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van sommige mensen zijn de zonden zo duidelijk, dat ze hen voorgaan naar het gerecht; bij anderen komen ze achteraan."
+          }
+        ]
+      },
+      "id": "1timoteus.5.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Zo ook de goede daden: sommige zijn algemeen bekend, andere niet, maar deze kunnen evenmin verborgen blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo ook de goede daden: sommige zijn algemeen bekend, andere niet, maar deze kunnen evenmin verborgen blijven."
+          }
+        ]
+      },
+      "id": "1timoteus.5.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

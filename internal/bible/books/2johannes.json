@@ -1,0 +1,229 @@
+{
+  "id": "2johannes",
+  "name": "2 Johannes",
+  "chapters": 1,
+  "verseCount": 13,
+  "verses": [
+    {
+      "chapter": 0,
+      "verse": 1,
+      "text": "DE OUDSTE aan de uitverkoren Vrouwe en haar kinderen, die ik waarachtig liefheb en niet alleen ik, maar allen die de waarheid hebben erkend",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "DE OUDSTE aan de uitverkoren Vrouwe en haar kinderen, die ik waarachtig liefheb en niet alleen ik, maar allen die de waarheid hebben erkend"
+          }
+        ]
+      },
+      "id": "2johannes.0.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 2,
+      "text": "ter wille van de waarheid die in ons blijft en met ons zijn zal tot in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ter wille van de waarheid die in ons blijft en met ons zijn zal tot in eeuwigheid."
+          }
+        ]
+      },
+      "id": "2johannes.0.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 3,
+      "text": "Genade, barmhartigheid en vrede zal met ons zijn, vanwege God de Vader en Jezus Christus, de Zoon van de Vader, in waarheid en liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade, barmhartigheid en vrede zal met ons zijn, vanwege God de Vader en Jezus Christus, de Zoon van de Vader, in waarheid en liefde."
+          }
+        ]
+      },
+      "id": "2johannes.0.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 4,
+      "text": "Het heeft mij zeer verblijd, enige van uw kinderen te hebben ontmoet, die in waarheid leven volgens het gebod dat wij van de Vader hebben ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het heeft mij zeer verblijd, enige van uw kinderen te hebben ontmoet, die in waarheid leven volgens het gebod dat wij van de Vader hebben ontvangen."
+          }
+        ]
+      },
+      "id": "2johannes.0.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 5,
+      "text": "En nu bid ik u, Vrouwe, en het is geen nieuw gebod waarover ik u schrijf, maar het gebod dat wij van het begin af hebben gehad: laten wij elkaar liefhebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu bid ik u, Vrouwe, en het is geen nieuw gebod waarover ik u schrijf, maar het gebod dat wij van het begin af hebben gehad: laten wij elkaar liefhebben."
+          }
+        ]
+      },
+      "id": "2johannes.0.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 6,
+      "text": "En hierin bestaat de liefde, dat wij een leven leiden naar zijn geboden. En dit is het gebod, dat gij van het begin af hebt vernomen: dat gij leeft in de liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hierin bestaat de liefde, dat wij een leven leiden naar zijn geboden. En dit is het gebod, dat gij van het begin af hebt vernomen: dat gij leeft in de liefde."
+          }
+        ]
+      },
+      "id": "2johannes.0.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 7,
+      "text": "Want veel verleiders zijn tot de wereld uitgegaan; zij loochenen de komst van Jezus Christus in het vlees. Dat is het kenmerk van de verleider en de antichrist.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want veel verleiders zijn tot de wereld uitgegaan; zij loochenen de komst van Jezus Christus in het vlees. Dat is het kenmerk van de verleider en de antichrist."
+          }
+        ]
+      },
+      "id": "2johannes.0.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 8,
+      "text": "Neemt u in acht, anders zult gij, in plaats van het volle loon te ontvangen, de vruchten van onze arbeid verliezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neemt u in acht, anders zult gij, in plaats van het volle loon te ontvangen, de vruchten van onze arbeid verliezen."
+          }
+        ]
+      },
+      "id": "2johannes.0.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 9,
+      "text": "Alwie te ver wil gaan en niet blijft bij de leer van Christus, heeft God niet. Wie bij die leer blijft, hij heeft zowel de Vader als de Zoon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alwie te ver wil gaan en niet blijft bij de leer van Christus, heeft God niet. Wie bij die leer blijft, hij heeft zowel de Vader als de Zoon."
+          }
+        ]
+      },
+      "id": "2johannes.0.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 10,
+      "text": "Als iemand bij u komt en deze leer niet brengt, ontvangt hem niet in uw huis en heet hem niet welkom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand bij u komt en deze leer niet brengt, ontvangt hem niet in uw huis en heet hem niet welkom."
+          }
+        ]
+      },
+      "id": "2johannes.0.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 11,
+      "text": "Want wie hem welkom heet, deelt in zijn boze werken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wie hem welkom heet, deelt in zijn boze werken."
+          }
+        ]
+      },
+      "id": "2johannes.0.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 12,
+      "text": "Hoewel ik u nog veel te zeggen heb, doe ik het liever niet met pen en inkt. Ik hoop bij u te komen en mij mondeling met u te onderhouden; dan zal onze vreugde volkomen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoewel ik u nog veel te zeggen heb, doe ik het liever niet met pen en inkt. Ik hoop bij u te komen en mij mondeling met u te onderhouden; dan zal onze vreugde volkomen zijn."
+          }
+        ]
+      },
+      "id": "2johannes.0.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 13,
+      "text": "U groeten de kinderen van uw uitverkoren Zuster.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U groeten de kinderen van uw uitverkoren Zuster."
+          }
+        ]
+      },
+      "id": "2johannes.0.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

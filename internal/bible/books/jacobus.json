@@ -1,0 +1,1844 @@
+{
+  "id": "jacobus",
+  "name": "Jacobus",
+  "chapters": 5,
+  "verseCount": 108,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Jakobus, dienstknecht van God, en de Heer Jezus Christus, groet de twaalf stammen in de Verstrooiing.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jakobus, dienstknecht van God, en de Heer Jezus Christus, groet de twaalf stammen in de Verstrooiing."
+          }
+        ]
+      },
+      "id": "jacobus.1.1",
+      "title": "Schrijver, lezers, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Broeders, gij die gelooft in onze Heer Jezus Christus, de Heer der heerlijkheid, verbindt dit geloof toch niet met partijdigheid en vleierij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, gij die gelooft in onze Heer Jezus Christus, de Heer der heerlijkheid, verbindt dit geloof toch niet met partijdigheid en vleierij."
+          }
+        ]
+      },
+      "id": "jacobus.2.1",
+      "title": "Eerbied voor de armen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Broeders, laat niet zovelen onder u leraars zijn. Gij weet toch, dat wij er alleen maar strenger om geoordeeld zullen worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, laat niet zovelen onder u leraars zijn. Gij weet toch, dat wij er alleen maar strenger om geoordeeld zullen worden."
+          }
+        ]
+      },
+      "id": "jacobus.3.1",
+      "title": "De zonden van de tong",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Waar komen bij u die vechtpartijen en ruzies vandaan? Toch alleen van uw eigen hartstochten, die u niet met rust laten?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar komen bij u die vechtpartijen en ruzies vandaan? Toch alleen van uw eigen hartstochten, die u niet met rust laten?"
+          }
+        ]
+      },
+      "id": "jacobus.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "En nu gij die rijk zijt: weent en jammert om de rampen die over u komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu gij die rijk zijt: weent en jammert om de rampen die over u komen."
+          }
+        ]
+      },
+      "id": "jacobus.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Broeders, acht uzelf heel gelukkig, wanneer u allerlei beproevingen overkomen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, acht uzelf heel gelukkig, wanneer u allerlei beproevingen overkomen,"
+          }
+        ]
+      },
+      "id": "jacobus.1.2",
+      "title": "De waarde van de beproeving",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ik bedoel dit: veronderstel, er treedt in uw samenkomst een man binnen, keurig gekleed en met gouden ringen aan zijn vingers, en tegelijkertijd komt er ook een arme aan in schamele kleren;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bedoel dit: veronderstel, er treedt in uw samenkomst een man binnen, keurig gekleed en met gouden ringen aan zijn vingers, en tegelijkertijd komt er ook een arme aan in schamele kleren;"
+          }
+        ]
+      },
+      "id": "jacobus.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Want wij allen struikelen vele malen. Wie in zijn spreken nooit misdoet is een volmaakt mens, in staat zichzelf geheel in toom te houden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij allen struikelen vele malen. Wie in zijn spreken nooit misdoet is een volmaakt mens, in staat zichzelf geheel in toom te houden."
+          }
+        ]
+      },
+      "id": "jacobus.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Gij begeert dingen die gij niet kunt krijgen. Gij moordt en benijdt en kunt uw doel niet bereiken. Dan gaat gij vechten en strijden. Gij hebt niets, omdat gij niet bidt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij begeert dingen die gij niet kunt krijgen. Gij moordt en benijdt en kunt uw doel niet bereiken. Dan gaat gij vechten en strijden. Gij hebt niets, omdat gij niet bidt."
+          }
+        ]
+      },
+      "id": "jacobus.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Uw rijkdom is verrot, uw mooie kleren zijn door motten aangetast,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw rijkdom is verrot, uw mooie kleren zijn door motten aangetast,"
+          }
+        ]
+      },
+      "id": "jacobus.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "want gij weet dat de beproeving van uw geloof standvastigheid voortbrengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want gij weet dat de beproeving van uw geloof standvastigheid voortbrengt."
+          }
+        ]
+      },
+      "id": "jacobus.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "als gij nu opziet tegen de rijkgeklede man en hem een ereplaats aanbiedt, terwijl gij tegen de arme zegt: &#39;Blijf daar maar staan,&#39; of: &#39;Ga hier op de grond zitten, bij mijn voetbank&#39;,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als gij nu opziet tegen de rijkgeklede man en hem een ereplaats aanbiedt, terwijl gij tegen de arme zegt: 'Blijf daar maar staan,' of: 'Ga hier op de grond zitten, bij mijn voetbank',"
+          }
+        ]
+      },
+      "id": "jacobus.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Wij hoeven een paard slechts een toom in de mond te leggen om het hele dier te besturen en in de hand te hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hoeven een paard slechts een toom in de mond te leggen om het hele dier te besturen en in de hand te hebben."
+          }
+        ]
+      },
+      "id": "jacobus.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "En als gij bidt, krijgt ge het niet, omdat gij verkeerd bidt, met de bedoeling namelijk om wat ge krijgt uit te geven voor uw boze lusten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als gij bidt, krijgt ge het niet, omdat gij verkeerd bidt, met de bedoeling namelijk om wat ge krijgt uit te geven voor uw boze lusten."
+          }
+        ]
+      },
+      "id": "jacobus.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "uw goud en zilver is verroest. Die roest zal tegen u getuigen en als een vuur uw vlees verteren. Schatten hebt gij verzameld, terwijl het de laatste dagen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "uw goud en zilver is verroest. Die roest zal tegen u getuigen en als een vuur uw vlees verteren. Schatten hebt gij verzameld, terwijl het de laatste dagen zijn."
+          }
+        ]
+      },
+      "id": "jacobus.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "En de standvastigheid moet zich ten volle verwerkelijken, zodat gij volmaakt en onberispelijk zijt en in niets tekort schiet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de standvastigheid moet zich ten volle verwerkelijken, zodat gij volmaakt en onberispelijk zijt en in niets tekort schiet."
+          }
+        ]
+      },
+      "id": "jacobus.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "maakt ge u dan niet schuldig aan een kwaadaardig soort discriminatie?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maakt ge u dan niet schuldig aan een kwaadaardig soort discriminatie?"
+          }
+        ]
+      },
+      "id": "jacobus.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Of denkt aan een schip: hoe groot het ook is en al wordt het door hevige winden voortgedreven, toch wordt het door een heel klein roer gewend naar believen van de stuurman.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of denkt aan een schip: hoe groot het ook is en al wordt het door hevige winden voortgedreven, toch wordt het door een heel klein roer gewend naar believen van de stuurman."
+          }
+        ]
+      },
+      "id": "jacobus.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Trouwelozen, weet ge niet dat vriendschap met de wereld vijandschap met God betekent? Wie met de wereld bevriend wil zijn, maakt zich tot vijand van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trouwelozen, weet ge niet dat vriendschap met de wereld vijandschap met God betekent? Wie met de wereld bevriend wil zijn, maakt zich tot vijand van God."
+          }
+        ]
+      },
+      "id": "jacobus.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Hoort, het loon dat gij hebt onthouden aan de arbeiders die uw velden hebben gemaaid, roept luid, en de kreten van uw oogsters zijn doorgedrongen tot de oren van de Heer der heerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort, het loon dat gij hebt onthouden aan de arbeiders die uw velden hebben gemaaid, roept luid, en de kreten van uw oogsters zijn doorgedrongen tot de oren van de Heer der heerscharen."
+          }
+        ]
+      },
+      "id": "jacobus.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Schiet iemand van u tekort in wijsheid, dan moet hij haar vragen aan God, en zij zal hem gegeven worden, want God geeft aan allen zonder voorbehoud en zonder verwijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Schiet iemand van u tekort in wijsheid, dan moet hij haar vragen aan God, en zij zal hem gegeven worden, want God geeft aan allen zonder voorbehoud en zonder verwijt."
+          }
+        ]
+      },
+      "id": "jacobus.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Luistert, lieve broeders: God heeft de armen naar de wereld uitverkoren om rijk te zijn in het geloof en erfgenamen van het koninkrijk dat Hij beloofd heeft aan wie Hem liefhebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luistert, lieve broeders: God heeft de armen naar de wereld uitverkoren om rijk te zijn in het geloof en erfgenamen van het koninkrijk dat Hij beloofd heeft aan wie Hem liefhebben."
+          }
+        ]
+      },
+      "id": "jacobus.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Ook de tong is maar een klein deel van ons lichaam, toch voert zij een hoge toon. Bedenkt hoe weinig vuur er nodig is om een groot bos in brand te steken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de tong is maar een klein deel van ons lichaam, toch voert zij een hoge toon. Bedenkt hoe weinig vuur er nodig is om een groot bos in brand te steken."
+          }
+        ]
+      },
+      "id": "jacobus.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Of meent ge dat de Schrift zonder reden zegt: “De geest die Hij in ons deed wonen, begeert Hij met jaloersheid?”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of meent ge dat de Schrift zonder reden zegt: “De geest die Hij in ons deed wonen, begeert Hij met jaloersheid?”"
+          }
+        ]
+      },
+      "id": "jacobus.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Gij hebt op aarde gezwelgd en gebrast, gij hebt u vetgemest voor de dag van de slachting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt op aarde gezwelgd en gebrast, gij hebt u vetgemest voor de dag van de slachting."
+          }
+        ]
+      },
+      "id": "jacobus.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Maar hij moet wel bidden met vertrouwen, zonder te weifelen. Wie weifelt lijkt op de golven van de zee, die door de wind heen en weer geslingerd worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hij moet wel bidden met vertrouwen, zonder te weifelen. Wie weifelt lijkt op de golven van de zee, die door de wind heen en weer geslingerd worden."
+          }
+        ]
+      },
+      "id": "jacobus.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Maar gij hebt de arme veracht. Zijn het niet de rijken die u onderdrukken en u voor de rechtbank slepen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij hebt de arme veracht. Zijn het niet de rijken die u onderdrukken en u voor de rechtbank slepen?"
+          }
+        ]
+      },
+      "id": "jacobus.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Ook de tong is een vuur, een wereld van ongerechtigheid; onder onze ledematen is het de tong die het geheel kan bezoedelen en ons levensrad in vlam zetten, zelf in vlam gezet door de hel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de tong is een vuur, een wereld van ongerechtigheid; onder onze ledematen is het de tong die het geheel kan bezoedelen en ons levensrad in vlam zetten, zelf in vlam gezet door de hel."
+          }
+        ]
+      },
+      "id": "jacobus.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Des te rijker is dan ook de genade die Hij ons geeft, volgens het woord van de Schrift: God weerstaat de hovaardigen, maar aan de nederigen geeft Hij genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Des te rijker is dan ook de genade die Hij ons geeft, volgens het woord van de Schrift: God weerstaat de hovaardigen, maar aan de nederigen geeft Hij genade."
+          }
+        ]
+      },
+      "id": "jacobus.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Gij hebt de rechtvaardige gevonnist en vermoord; hij heeft geen verweer tegen u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt de rechtvaardige gevonnist en vermoord; hij heeft geen verweer tegen u."
+          }
+        ]
+      },
+      "id": "jacobus.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Zo iemand, innerlijk verdeeld als hij is en ongestadig in heel zijn gedrag,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo iemand, innerlijk verdeeld als hij is en ongestadig in heel zijn gedrag,"
+          }
+        ]
+      },
+      "id": "jacobus.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Zijn zij het niet die de schone naam lasteren welke over u is aangeroepen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn zij het niet die de schone naam lasteren welke over u is aangeroepen?"
+          }
+        ]
+      },
+      "id": "jacobus.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Wilde beesten, vogels, reptielen, vissen, elke diersoort wordt getemd of is al getemd door het menselijk geslacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wilde beesten, vogels, reptielen, vissen, elke diersoort wordt getemd of is al getemd door het menselijk geslacht."
+          }
+        ]
+      },
+      "id": "jacobus.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Onderwerpt u dus aan God. Biedt weerstand aan de duivel en hij zal voor u vluchten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderwerpt u dus aan God. Biedt weerstand aan de duivel en hij zal voor u vluchten."
+          }
+        ]
+      },
+      "id": "jacobus.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Hebt dus geduld, broeders, tot de komst van de Heer. De boer die uitziet naar de kostelijke vrucht van zijn land, kan alleen maar geduldig wachten, totdat de winter- en voorjaarsregens gevallen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hebt dus geduld, broeders, tot de komst van de Heer. De boer die uitziet naar de kostelijke vrucht van zijn land, kan alleen maar geduldig wachten, totdat de winter- en voorjaarsregens gevallen zijn."
+          }
+        ]
+      },
+      "id": "jacobus.5.7",
+      "title": "Geduld; de kracht van gebed; laatste vermaning",
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "moet niet menen dat hij iets van de Heer zal verkrijgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "moet niet menen dat hij iets van de Heer zal verkrijgen."
+          }
+        ]
+      },
+      "id": "jacobus.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Als gij evenwel de koninklijke wet vervult volgens het woord van de Schrift: Gij zult uw naaste liefhebben als uzelf, is alles in orde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij evenwel de koninklijke wet vervult volgens het woord van de Schrift: Gij zult uw naaste liefhebben als uzelf, is alles in orde."
+          }
+        ]
+      },
+      "id": "jacobus.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Maar de tong kan geen mens temmen: dat bandeloos euvel vol dodelijk venijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de tong kan geen mens temmen: dat bandeloos euvel vol dodelijk venijn."
+          }
+        ]
+      },
+      "id": "jacobus.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Nadert tot God en Hij zal tot u naderen. Reinigt uw handen, zondaars; gij, wankelmoedigen, zuivert uw hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nadert tot God en Hij zal tot u naderen. Reinigt uw handen, zondaars; gij, wankelmoedigen, zuivert uw hart."
+          }
+        ]
+      },
+      "id": "jacobus.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Gij moet ook geduldig zijn, en moedig, want de komst van de Heer is nabij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij moet ook geduldig zijn, en moedig, want de komst van de Heer is nabij."
+          }
+        ]
+      },
+      "id": "jacobus.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "De arme christen moet trots zijn op zijn hoge stand,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De arme christen moet trots zijn op zijn hoge stand,"
+          }
+        ]
+      },
+      "id": "jacobus.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Maar als gij partijdig handelt, doet gij zonde, en veroordeelt de wet u als overtreders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als gij partijdig handelt, doet gij zonde, en veroordeelt de wet u als overtreders."
+          }
+        ]
+      },
+      "id": "jacobus.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Met haar zegenen wij onze Heer en Vader, en met haar vervloeken wij de mensen, die naar Gods gelijkenis zijn geschapen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met haar zegenen wij onze Heer en Vader, en met haar vervloeken wij de mensen, die naar Gods gelijkenis zijn geschapen."
+          }
+        ]
+      },
+      "id": "jacobus.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Erkent uw ellende, treurt en weent. Laat uw lachen in rouw en uw vreugde in droefheid verkeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Erkent uw ellende, treurt en weent. Laat uw lachen in rouw en uw vreugde in droefheid verkeren."
+          }
+        ]
+      },
+      "id": "jacobus.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Broeders, klaagt elkaar niet aan; dan valt ge zelf onder het oordeel. Denkt eraan: de rechter staat al voor de deur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, klaagt elkaar niet aan; dan valt ge zelf onder het oordeel. Denkt eraan: de rechter staat al voor de deur."
+          }
+        ]
+      },
+      "id": "jacobus.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "en de rijke op zijn geringheid! Want de rijke zal vergaan als een bloem in het gras.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de rijke op zijn geringheid! Want de rijke zal vergaan als een bloem in het gras."
+          }
+        ]
+      },
+      "id": "jacobus.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Wie de hele wet onderhoudt maar op een punt struikelt, die staat schuldig ten opzichte van het geheel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie de hele wet onderhoudt maar op een punt struikelt, die staat schuldig ten opzichte van het geheel."
+          }
+        ]
+      },
+      "id": "jacobus.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Uit een en dezelfde mond komt zegen voort en vloek. Dit mag niet zo zijn, broeders!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit een en dezelfde mond komt zegen voort en vloek. Dit mag niet zo zijn, broeders!"
+          }
+        ]
+      },
+      "id": "jacobus.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Vernedert u voor de Heer en Hij zal u verheffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vernedert u voor de Heer en Hij zal u verheffen."
+          }
+        ]
+      },
+      "id": "jacobus.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Broeders, neemt een voorbeeld aan de lijdzaamheid en het geduld van de profeten, die gesproken hebben in de naam van de Heer;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, neemt een voorbeeld aan de lijdzaamheid en het geduld van de profeten, die gesproken hebben in de naam van de Heer;"
+          }
+        ]
+      },
+      "id": "jacobus.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "De zon komt op met haar verzengende hitte; zij doet het gras verdorren, de bloem valt af, en heel haar luister is verdwenen. Zo vergaat het ook de rijke: midden in zijn ondernemingen zal hij verwelken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De zon komt op met haar verzengende hitte; zij doet het gras verdorren, de bloem valt af, en heel haar luister is verdwenen. Zo vergaat het ook de rijke: midden in zijn ondernemingen zal hij verwelken."
+          }
+        ]
+      },
+      "id": "jacobus.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Want Hij die gezegd heeft: Gij zult geen overspel doen, heeft ook gezegd: Gij zult niet doodslaan. Wanneer gij dus geen echtbreuk pleegt maar wel doodslag begaat, zijt gij toch een overtreder van de wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij die gezegd heeft: Gij zult geen overspel doen, heeft ook gezegd: Gij zult niet doodslaan. Wanneer gij dus geen echtbreuk pleegt maar wel doodslag begaat, zijt gij toch een overtreder van de wet."
+          }
+        ]
+      },
+      "id": "jacobus.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Laat een bron soms uit dezelfde ader zoet en brak water opwellen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat een bron soms uit dezelfde ader zoet en brak water opwellen?"
+          }
+        ]
+      },
+      "id": "jacobus.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Broeders, spreekt geen kwaad van elkander. Wie van zijn broeder kwaadspreekt of hem veroordeelt, spreekt kwaad van de wet en veroordeelt de wet. En wie dit doet overtreedt de wet en werpt zich op als haar rechter.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, spreekt geen kwaad van elkander. Wie van zijn broeder kwaadspreekt of hem veroordeelt, spreekt kwaad van de wet en veroordeelt de wet. En wie dit doet overtreedt de wet en werpt zich op als haar rechter."
+          }
+        ]
+      },
+      "id": "jacobus.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "wij prijzen hen gelukkig, omdat ze hebben standgehouden. Ge hebt ook gehoord van de standvastigheid van Job en ge weet hoe de Heer hem in het eind behandeld heeft, want Hij is rijk aan barmhartigheid en ontferming.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wij prijzen hen gelukkig, omdat ze hebben standgehouden. Ge hebt ook gehoord van de standvastigheid van Job en ge weet hoe de Heer hem in het eind behandeld heeft, want Hij is rijk aan barmhartigheid en ontferming."
+          }
+        ]
+      },
+      "id": "jacobus.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Zalig de mens die standhoudt in de beproeving. Heeft hij de toets doorstaan, dan zal hij de zegekrans van het leven ontvangen, die God beloofd heeft aan wie Hem liefhebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zalig de mens die standhoudt in de beproeving. Heeft hij de toets doorstaan, dan zal hij de zegekrans van het leven ontvangen, die God beloofd heeft aan wie Hem liefhebben."
+          }
+        ]
+      },
+      "id": "jacobus.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Spreekt en handelt als mensen die door de wet der vrijheid geoordeeld zullen worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spreekt en handelt als mensen die door de wet der vrijheid geoordeeld zullen worden."
+          }
+        ]
+      },
+      "id": "jacobus.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Draagt een vijgenboom olijven of een wijnstok vijgen? Zo min als een zilte bron zoet water geeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Draagt een vijgenboom olijven of een wijnstok vijgen? Zo min als een zilte bron zoet water geeft."
+          }
+        ]
+      },
+      "id": "jacobus.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Er is maar een wetgever en rechter: Hij die de macht heeft te redden en in het verderf te storten. Maar gij, wie zijt gij, dat gij over uw naaste oordeelt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is maar een wetgever en rechter: Hij die de macht heeft te redden en in het verderf te storten. Maar gij, wie zijt gij, dat gij over uw naaste oordeelt?"
+          }
+        ]
+      },
+      "id": "jacobus.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Voor alles, broeders, legt geen eden af; zweert niet bij de hemel of bij de aarde of waarbij dan ook. Zegt eenvoudig ja of nee, dan zult gij niet onder Gods oordeel vallen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor alles, broeders, legt geen eden af; zweert niet bij de hemel of bij de aarde of waarbij dan ook. Zegt eenvoudig ja of nee, dan zult gij niet onder Gods oordeel vallen."
+          }
+        ]
+      },
+      "id": "jacobus.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Niemand mag zeggen, als hij bekoord wordt: Ik word door Gods toedoen bekoord. God brengt niemand in verzoeking, zo min als Hijzelf door het kwade kan worden bekoord.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand mag zeggen, als hij bekoord wordt: Ik word door Gods toedoen bekoord. God brengt niemand in verzoeking, zo min als Hijzelf door het kwade kan worden bekoord."
+          }
+        ]
+      },
+      "id": "jacobus.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Want onbarmhartig zal het oordeel zijn voor hem die geen barmhartigheid heeft bewezen, maar de barmhartigheid triomfeert over het oordeel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want onbarmhartig zal het oordeel zijn voor hem die geen barmhartigheid heeft bewezen, maar de barmhartigheid triomfeert over het oordeel."
+          }
+        ]
+      },
+      "id": "jacobus.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Als iemand onder u voor wijs en verstandig wil doorgaan, moet hij zulk een pretentie waarmaken door een voortreffelijke levenswandel, door daden van wijsheid en zachtmoedigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand onder u voor wijs en verstandig wil doorgaan, moet hij zulk een pretentie waarmaken door een voortreffelijke levenswandel, door daden van wijsheid en zachtmoedigheid."
+          }
+        ]
+      },
+      "id": "jacobus.3.13",
+      "title": "De ware wijsheid is vredelievend",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "En nu gij daar die zegt: &#39;Vandaag of morgen gaan wij naar die en die stad, wij zullen er een jaar doorbrengen en handel drijven en geld verdienen . . .,&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu gij daar die zegt: 'Vandaag of morgen gaan wij naar die en die stad, wij zullen er een jaar doorbrengen en handel drijven en geld verdienen . . .,'"
+          }
+        ]
+      },
+      "id": "jacobus.4.13",
+      "title": "De gevaren van de rijkdom: overmoed en hardvochtigheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Heeft iemand van u te lijden? Laat hij bidden. Is iemand welgemoed? Laat hij een loflied zingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft iemand van u te lijden? Laat hij bidden. Is iemand welgemoed? Laat hij een loflied zingen."
+          }
+        ]
+      },
+      "id": "jacobus.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Wordt iemand bekoord, dan is het altijd door het trekken en lokken van zijn eigen begeerte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wordt iemand bekoord, dan is het altijd door het trekken en lokken van zijn eigen begeerte."
+          }
+        ]
+      },
+      "id": "jacobus.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Broeders, wat baat het een mens te beweren dat hij geloof heeft, als hij geen daden kan laten zien? Kan zo&#39;n geloof hem soms redden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, wat baat het een mens te beweren dat hij geloof heeft, als hij geen daden kan laten zien? Kan zo'n geloof hem soms redden?"
+          }
+        ]
+      },
+      "id": "jacobus.2.14",
+      "title": "Geloof zonder daden is waardeloos",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Maar als ge in uw hart bittere naijver en eerzucht koestert, laat dan die grootspraak die in strijd is met de waarheid achterwege.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als ge in uw hart bittere naijver en eerzucht koestert, laat dan die grootspraak die in strijd is met de waarheid achterwege."
+          }
+        ]
+      },
+      "id": "jacobus.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "gij weet niet eens wat de dag van morgen zal brengen! Wat is uw leven? Een nevel die een ogenblik verschijnt om weldra te verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gij weet niet eens wat de dag van morgen zal brengen! Wat is uw leven? Een nevel die een ogenblik verschijnt om weldra te verdwijnen."
+          }
+        ]
+      },
+      "id": "jacobus.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Is iemand onder u ziek? Laat hij de presbyters van de gemeente roepen; zij moeten een gebed over hem uitspreken en hem met olie zalven in de naam des Heren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is iemand onder u ziek? Laat hij de presbyters van de gemeente roepen; zij moeten een gebed over hem uitspreken en hem met olie zalven in de naam des Heren."
+          }
+        ]
+      },
+      "id": "jacobus.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Daarna, als de begeerte bevrucht is, baart zij de zonde; en de zonde, eenmaal volgroeid, baart de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna, als de begeerte bevrucht is, baart zij de zonde; en de zonde, eenmaal volgroeid, baart de dood."
+          }
+        ]
+      },
+      "id": "jacobus.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Stel dat een broeder of zuster geen kleren heeft en niets om te eten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Stel dat een broeder of zuster geen kleren heeft en niets om te eten,"
+          }
+        ]
+      },
+      "id": "jacobus.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Die wijsheid komt niet van boven, ze is aards, ongeestelijk, ja duivels.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die wijsheid komt niet van boven, ze is aards, ongeestelijk, ja duivels."
+          }
+        ]
+      },
+      "id": "jacobus.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Gij zoudt moeten zeggen: &ldquo;Als de Heer het wil, zullen wij in leven zijn en dit of dat doen . . .&rdquo;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zoudt moeten zeggen: “Als de Heer het wil, zullen wij in leven zijn en dit of dat doen . . .”"
+          }
+        ]
+      },
+      "id": "jacobus.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "En het gelovige gebed zal de zieke redden en de Heer zal hem oprichten. En als hij zonden heeft begaan, zal het hem vergeven worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En het gelovige gebed zal de zieke redden en de Heer zal hem oprichten. En als hij zonden heeft begaan, zal het hem vergeven worden."
+          }
+        ]
+      },
+      "id": "jacobus.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Geliefde broeders, laat u niet misleiden:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geliefde broeders, laat u niet misleiden:"
+          }
+        ]
+      },
+      "id": "jacobus.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "en iemand van u zou zeggen: &#39;Geluk ermee! Houd u warm en eet maar goed,&#39; en hij zou niets doen om in hun stoffelijke nood te voorzien - wat heeft dat voor zin?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en iemand van u zou zeggen: 'Geluk ermee! Houd u warm en eet maar goed,' en hij zou niets doen om in hun stoffelijke nood te voorzien - wat heeft dat voor zin?"
+          }
+        ]
+      },
+      "id": "jacobus.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Want waar naijver en eerzucht heersen, daar treft men ook onrust aan en allerlei minderwaardige praktijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want waar naijver en eerzucht heersen, daar treft men ook onrust aan en allerlei minderwaardige praktijken."
+          }
+        ]
+      },
+      "id": "jacobus.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "In plaats daarvan bluft en snoeft ge vol overmoed; al die grootspraak is verkeerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In plaats daarvan bluft en snoeft ge vol overmoed; al die grootspraak is verkeerd."
+          }
+        ]
+      },
+      "id": "jacobus.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Belijdt daarom elkander uw zonden en bidt voor elkaar, opdat gij genezing moogt vinden. Het vurig gebed van een rechtvaardige vermag veel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Belijdt daarom elkander uw zonden en bidt voor elkaar, opdat gij genezing moogt vinden. Het vurig gebed van een rechtvaardige vermag veel."
+          }
+        ]
+      },
+      "id": "jacobus.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "elke goede gave, elk volmaakt geschenk daalt neer van boven, van de Vader der hemellichten, bij wie geen verandering is of verduistering door omwenteling.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "elke goede gave, elk volmaakt geschenk daalt neer van boven, van de Vader der hemellichten, bij wie geen verandering is of verduistering door omwenteling."
+          }
+        ]
+      },
+      "id": "jacobus.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Zo is ook het geloof, op zichzelf genomen, zonder zich in daden te uiten, dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo is ook het geloof, op zichzelf genomen, zonder zich in daden te uiten, dood."
+          }
+        ]
+      },
+      "id": "jacobus.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "De wijsheid van omhoog is voor alles rein, maar ook vredelievend, vriendelijk, altijd voor rede vatbaar, rijk aan barmhartigheid en vruchten van goede daden, onpartijdig en oprecht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wijsheid van omhoog is voor alles rein, maar ook vredelievend, vriendelijk, altijd voor rede vatbaar, rijk aan barmhartigheid en vruchten van goede daden, onpartijdig en oprecht."
+          }
+        ]
+      },
+      "id": "jacobus.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Wie goed zou kunnen doen maar het nalaat, doet zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie goed zou kunnen doen maar het nalaat, doet zonde."
+          }
+        ]
+      },
+      "id": "jacobus.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Elia was een mens van gelijke aard als wij. Hij bad met aandrang dat het niet zou regenen, en er viel geen regen op het land, drie jaar en zes maanden lang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Elia was een mens van gelijke aard als wij. Hij bad met aandrang dat het niet zou regenen, en er viel geen regen op het land, drie jaar en zes maanden lang."
+          }
+        ]
+      },
+      "id": "jacobus.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Uit vrije wil heeft Hij ons het leven geschonken door het woord der waarheid, zodat wij in zekere zin de eerstelingen onder zijn schepselen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit vrije wil heeft Hij ons het leven geschonken door het woord der waarheid, zodat wij in zekere zin de eerstelingen onder zijn schepselen zijn."
+          }
+        ]
+      },
+      "id": "jacobus.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Misschien zal iemand zeggen: &#39;Gij hebt de daad en ik heb het geloof.&#39; Dan antwoord ik: &#39;Bewijs me eerst dat ge geloof hebt, als ge geen daden kunt tonen; dan zal ik u uit mijn daden mijn geloof bewijzen.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Misschien zal iemand zeggen: 'Gij hebt de daad en ik heb het geloof.' Dan antwoord ik: 'Bewijs me eerst dat ge geloof hebt, als ge geen daden kunt tonen; dan zal ik u uit mijn daden mijn geloof bewijzen.'"
+          }
+        ]
+      },
+      "id": "jacobus.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Gerechtigheid is een vrucht van de vrede en slechts wie de vrede nastreven zullen haar oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gerechtigheid is een vrucht van de vrede en slechts wie de vrede nastreven zullen haar oogsten."
+          }
+        ]
+      },
+      "id": "jacobus.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Hij bad opnieuw, en de hemel gaf regen en het land bracht zijn vrucht voort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij bad opnieuw, en de hemel gaf regen en het land bracht zijn vrucht voort."
+          }
+        ]
+      },
+      "id": "jacobus.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Weet dit wel, geliefde broeders: ieder mens moet vlug zijn om te luisteren, maar langzaam om te spreken, langzaam ook om toornig te worden;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weet dit wel, geliefde broeders: ieder mens moet vlug zijn om te luisteren, maar langzaam om te spreken, langzaam ook om toornig te worden;"
+          }
+        ]
+      },
+      "id": "jacobus.1.19",
+      "title": "Gods woord horen en het volbrengen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Gij gelooft dat er slechts een God is? Uitstekend; ook de boze geesten geloven dat, en sidderen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij gelooft dat er slechts een God is? Uitstekend; ook de boze geesten geloven dat, en sidderen!"
+          }
+        ]
+      },
+      "id": "jacobus.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Broeders, als iemand onder u van de waarheid afdwaalt en een ander brengt hem tot inkeer,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, als iemand onder u van de waarheid afdwaalt en een ander brengt hem tot inkeer,"
+          }
+        ]
+      },
+      "id": "jacobus.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "want de toorn van een man leidt niet tot gerechtigheid voor God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want de toorn van een man leidt niet tot gerechtigheid voor God."
+          }
+        ]
+      },
+      "id": "jacobus.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Gij dwaas, wilt ge het bewijs dat het geloof zonder de daad waardeloos is?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij dwaas, wilt ge het bewijs dat het geloof zonder de daad waardeloos is?"
+          }
+        ]
+      },
+      "id": "jacobus.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "weet dan dat hij die een zondaar van zijn dwaalweg bekeert, zijn ziel zal redden van de dood en tal van zonden zal bedekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "weet dan dat hij die een zondaar van zijn dwaalweg bekeert, zijn ziel zal redden van de dood en tal van zonden zal bedekken."
+          }
+        ]
+      },
+      "id": "jacobus.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Verwijdert daarom elke smet, elk restant van slechtheid, en neemt met zachtmoedigheid het woord van God aan, dat in u werd geplant en de kracht bezit uw zielen te redden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verwijdert daarom elke smet, elk restant van slechtheid, en neemt met zachtmoedigheid het woord van God aan, dat in u werd geplant en de kracht bezit uw zielen te redden."
+          }
+        ]
+      },
+      "id": "jacobus.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Is onze vader Abraham niet gerechtvaardigd om zijn daden, omdat hij zijn zoon Isaak op het altaar ten offer bracht?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is onze vader Abraham niet gerechtvaardigd om zijn daden, omdat hij zijn zoon Isaak op het altaar ten offer bracht?"
+          }
+        ]
+      },
+      "id": "jacobus.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Weest uitvoerders van het woord, en niet alleen toehoorders; dan zoudt gij uzelf bedriegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest uitvoerders van het woord, en niet alleen toehoorders; dan zoudt gij uzelf bedriegen."
+          }
+        ]
+      },
+      "id": "jacobus.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Het is duidelijk dat zijn geloof zich in daden uitte en eerst door zijn daden volkomen werd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is duidelijk dat zijn geloof zich in daden uitte en eerst door zijn daden volkomen werd."
+          }
+        ]
+      },
+      "id": "jacobus.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Wie het woord hoort maar niet volbrengt, lijkt op iemand die het gelaat waarmee hij geboren is, in een spiegel beschouwt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie het woord hoort maar niet volbrengt, lijkt op iemand die het gelaat waarmee hij geboren is, in een spiegel beschouwt."
+          }
+        ]
+      },
+      "id": "jacobus.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Zo ging het woord van de Schrift in vervulling, dat luidt: Abraham geloofde God en het werd hem als gerechtigheid aangerekend; en hij werd Gods vriend genoemd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo ging het woord van de Schrift in vervulling, dat luidt: Abraham geloofde God en het werd hem als gerechtigheid aangerekend; en hij werd Gods vriend genoemd."
+          }
+        ]
+      },
+      "id": "jacobus.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Nauwelijks heeft hij zich bekeken, of hij gaat heen en is vergeten hoe hij er uitzag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nauwelijks heeft hij zich bekeken, of hij gaat heen en is vergeten hoe hij er uitzag."
+          }
+        ]
+      },
+      "id": "jacobus.1.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Het is duidelijk dat een mens wordt gerechtvaardigd door daden en niet alleen door geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is duidelijk dat een mens wordt gerechtvaardigd door daden en niet alleen door geloof."
+          }
+        ]
+      },
+      "id": "jacobus.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 25,
+      "text": "Maar wie zich verdiept in de volmaakte wet, de wet van de vrijheid, en daarbij blijft, niet als een vergeetachtig toehoorder, maar als een uitvoerder metterdaad, die zal zalig zijn door zijn doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wie zich verdiept in de volmaakte wet, de wet van de vrijheid, en daarbij blijft, niet als een vergeetachtig toehoorder, maar als een uitvoerder metterdaad, die zal zalig zijn door zijn doen."
+          }
+        ]
+      },
+      "id": "jacobus.1.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Ook de hoer Rachab werd gerechtvaardigd om haar daden, omdat zij de boden in haar huis opnam en langs een andere weg liet vertrekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de hoer Rachab werd gerechtvaardigd om haar daden, omdat zij de boden in haar huis opnam en langs een andere weg liet vertrekken."
+          }
+        ]
+      },
+      "id": "jacobus.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "text": "Als iemand meent vroom te zijn, terwijl hij zijn tong niet beteugelt en zijn hart misleidt, diens vroomheid is waardeloos.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand meent vroom te zijn, terwijl hij zijn tong niet beteugelt en zijn hart misleidt, diens vroomheid is waardeloos."
+          }
+        ]
+      },
+      "id": "jacobus.1.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Zoals het lichaam dood is zonder de ziel, zo is het geloof dood zonder de daad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals het lichaam dood is zonder de ziel, zo is het geloof dood zonder de daad."
+          }
+        ]
+      },
+      "id": "jacobus.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "text": "Zuivere en onbevlekte vroomheid in de ogen van onze God en Vader is dit: wezen en weduwen opzoeken in hun nood, en zichzelf vrijwaren voor de besmetting van de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zuivere en onbevlekte vroomheid in de ogen van onze God en Vader is dit: wezen en weduwen opzoeken in hun nood, en zichzelf vrijwaren voor de besmetting van de wereld."
+          }
+        ]
+      },
+      "id": "jacobus.1.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

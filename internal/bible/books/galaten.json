@@ -1,0 +1,2599 @@
+{
+  "id": "galaten",
+  "name": "Galaten",
+  "chapters": 6,
+  "verseCount": 149,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "IK, PAULUS, apostel, niet vanwege mensen noch door een mens, maar door Jezus Christus en God de Vader die Hem uit de dood heeft opgewekt,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "IK, PAULUS, apostel, niet vanwege mensen noch door een mens, maar door Jezus Christus en God de Vader die Hem uit de dood heeft opgewekt,"
+          }
+        ]
+      },
+      "id": "galaten.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Daarna, na verloop van veertien jaar, ben ik weer naar Jeruzalem gegaan, samen met Barnabas, en ik nam ook Titus mee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna, na verloop van veertien jaar, ben ik weer naar Jeruzalem gegaan, samen met Barnabas, en ik nam ook Titus mee."
+          }
+        ]
+      },
+      "id": "galaten.2.1",
+      "title": "Paulus' evangelie door Jeruzalem erkend",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "O domme Galaten, wie heeft jullie behekst? Jezus Christus was u toch openlijk en duidelijk verkondigd als gekruisigd!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "O domme Galaten, wie heeft jullie behekst? Jezus Christus was u toch openlijk en duidelijk verkondigd als gekruisigd!"
+          }
+        ]
+      },
+      "id": "galaten.3.1",
+      "title": "Het geloof, niet de wet schenkt de Geest",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ik bedoel dit: zolang de erfgenaam onmondig is, verschilt hij, hoewel heer van alles, in niets van een slaaf;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bedoel dit: zolang de erfgenaam onmondig is, verschilt hij, hoewel heer van alles, in niets van een slaaf;"
+          }
+        ]
+      },
+      "id": "galaten.4.1",
+      "title": "Het geloof maakt allen kinderen van God",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Voor die vrijheid heeft Christus ons vrijgemaakt. Houdt dus stand en laat u niet opnieuw het slavenjuk opleggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor die vrijheid heeft Christus ons vrijgemaakt. Houdt dus stand en laat u niet opnieuw het slavenjuk opleggen."
+          }
+        ]
+      },
+      "id": "galaten.5.1",
+      "title": "De christelijke vrijheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Broeders, als iemand op een misstap betrapt wordt, moet gij, geestelijke mensen, zo iemand in een geest van zachtmoedigheid oprichten; let tegelijk op jezelf, jij kunt ook in verzoeking komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, als iemand op een misstap betrapt wordt, moet gij, geestelijke mensen, zo iemand in een geest van zachtmoedigheid oprichten; let tegelijk op jezelf, jij kunt ook in verzoeking komen."
+          }
+        ]
+      },
+      "id": "galaten.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "en alle broeders die bij mij zijn, aan de gemeenten van Galatië:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en alle broeders die bij mij zijn, aan de gemeenten van Galatië:"
+          }
+        ]
+      },
+      "id": "galaten.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Ik ging op grond van een openbaring. En ik legde hun het evangelie voor dat ik aan de heidenvolken verkondig, hun, dat wil zeggen, de mannen van aanzien afzonderlijk; ik wilde er zeker van zijn dat ik niet voor niets had gewerkt of zou werken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ging op grond van een openbaring. En ik legde hun het evangelie voor dat ik aan de heidenvolken verkondig, hun, dat wil zeggen, de mannen van aanzien afzonderlijk; ik wilde er zeker van zijn dat ik niet voor niets had gewerkt of zou werken."
+          }
+        ]
+      },
+      "id": "galaten.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Dit wil ik alleen maar van u horen: hebt ge de Geest ontvangen door de wet te volbrengen of door gelovig te luisteren?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit wil ik alleen maar van u horen: hebt ge de Geest ontvangen door de wet te volbrengen of door gelovig te luisteren?"
+          }
+        ]
+      },
+      "id": "galaten.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "hij staat onder voogden en beheerders tot het tijdstip dat door zijn vader is bepaald.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hij staat onder voogden en beheerders tot het tijdstip dat door zijn vader is bepaald."
+          }
+        ]
+      },
+      "id": "galaten.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Let op mijn woorden. Ik, Paulus, zeg u: als ge u laat besnijden, zal Christus u niets baten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Let op mijn woorden. Ik, Paulus, zeg u: als ge u laat besnijden, zal Christus u niets baten."
+          }
+        ]
+      },
+      "id": "galaten.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Helpt elkaar zulke lasten te dragen; op die manier zult ge de wet van Christus vervullen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Helpt elkaar zulke lasten te dragen; op die manier zult ge de wet van Christus vervullen."
+          }
+        ]
+      },
+      "id": "galaten.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "genade voor u en vrede vanwege God de Vader en onze Heer Jezus Christus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "genade voor u en vrede vanwege God de Vader en onze Heer Jezus Christus,"
+          }
+        ]
+      },
+      "id": "galaten.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Maar zelfs mijn metgezel Titus, hoewel een Griek, werd niet gedwongen zich te laten besnijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zelfs mijn metgezel Titus, hoewel een Griek, werd niet gedwongen zich te laten besnijden."
+          }
+        ]
+      },
+      "id": "galaten.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Hoe kunt ge zo dom zijn! Ge zijt begonnen met de Geest, wilt ge nu eindigen met het vlees?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe kunt ge zo dom zijn! Ge zijt begonnen met de Geest, wilt ge nu eindigen met het vlees?"
+          }
+        ]
+      },
+      "id": "galaten.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Zo waren ook wij, zolang we onmondig waren, slaven, onderworpen aan de machten van de kosmos.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo waren ook wij, zolang we onmondig waren, slaven, onderworpen aan de machten van de kosmos."
+          }
+        ]
+      },
+      "id": "galaten.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Nogmaals verzeker ik ieder die zich laat besnijden, dat hij verplicht is de hele wet te onderhouden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nogmaals verzeker ik ieder die zich laat besnijden, dat hij verplicht is de hele wet te onderhouden."
+          }
+        ]
+      },
+      "id": "galaten.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Want wie meent iets te betekenen, terwijl hij niets is, bedriegt zichzelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wie meent iets te betekenen, terwijl hij niets is, bedriegt zichzelf."
+          }
+        ]
+      },
+      "id": "galaten.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "die zich heeft gegeven voor onze zonden om ons te ontrukken aan de tegenwoordige slechte wereld, volgens de wil van God en Vader,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die zich heeft gegeven voor onze zonden om ons te ontrukken aan de tegenwoordige slechte wereld, volgens de wil van God en Vader,"
+          }
+        ]
+      },
+      "id": "galaten.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Dit wegens de binnengedrongen valse broeders, die waren binnengeslopen om onze vrijheid te bespieden die wij hebben in Christus Jezus, met het doel ons in slavernij te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit wegens de binnengedrongen valse broeders, die waren binnengeslopen om onze vrijheid te bespieden die wij hebben in Christus Jezus, met het doel ons in slavernij te brengen."
+          }
+        ]
+      },
+      "id": "galaten.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Hebt ge zoveel meegemaakt voor niets? Dat kan ik niet aannemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hebt ge zoveel meegemaakt voor niets? Dat kan ik niet aannemen."
+          }
+        ]
+      },
+      "id": "galaten.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Maar toen de volheid van de tijd gekomen was, heeft God zijn Zoon gezonden, geboren uit een vrouw, geboren onder de wet,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar toen de volheid van de tijd gekomen was, heeft God zijn Zoon gezonden, geboren uit een vrouw, geboren onder de wet,"
+          }
+        ]
+      },
+      "id": "galaten.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Als ge uw heil in de wet zoekt, hebt gij met Christus gebroken, hebt gij de genade verbeurd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ge uw heil in de wet zoekt, hebt gij met Christus gebroken, hebt gij de genade verbeurd."
+          }
+        ]
+      },
+      "id": "galaten.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Laat ieder zijn eigen gedrag onderzoeken, dan zal hij zijn roem wel voor zich houden en niet uitspelen tegen zijn naaste;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat ieder zijn eigen gedrag onderzoeken, dan zal hij zijn roem wel voor zich houden en niet uitspelen tegen zijn naaste;"
+          }
+        ]
+      },
+      "id": "galaten.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "aan wie is de heerlijkheid in de eeuwen der eeuwen. Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "aan wie is de heerlijkheid in de eeuwen der eeuwen. Amen."
+          }
+        ]
+      },
+      "id": "galaten.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Maar wij zijn geen moment voor hun druk geweken, opdat de waarheid van het evangelie voor u behouden zou blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij zijn geen moment voor hun druk geweken, opdat de waarheid van het evangelie voor u behouden zou blijven."
+          }
+        ]
+      },
+      "id": "galaten.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Nogmaals: Hij die u de Geest verleent en onder u wonderen werkt, doet Hij dat omdat ge de wet onderhoudt of omdat ge luistert en gelooft?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nogmaals: Hij die u de Geest verleent en onder u wonderen werkt, doet Hij dat omdat ge de wet onderhoudt of omdat ge luistert en gelooft?"
+          }
+        ]
+      },
+      "id": "galaten.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "opdat Hij hen die onder de wet stonden zou bevrijden, opdat wij de rang van zonen zouden verkrijgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat Hij hen die onder de wet stonden zou bevrijden, opdat wij de rang van zonen zouden verkrijgen."
+          }
+        ]
+      },
+      "id": "galaten.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Want wij, wij verwachten door de Geest de verhoopte gerechtigheid van het geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij, wij verwachten door de Geest de verhoopte gerechtigheid van het geloof."
+          }
+        ]
+      },
+      "id": "galaten.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "want ieder heeft zijn eigen vracht te dragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want ieder heeft zijn eigen vracht te dragen."
+          }
+        ]
+      },
+      "id": "galaten.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Ik sta verbaasd dat gij zo spoedig afvalt van Hem die u riep tot de genade naar een ander evangelie;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik sta verbaasd dat gij zo spoedig afvalt van Hem die u riep tot de genade naar een ander evangelie;"
+          }
+        ]
+      },
+      "id": "galaten.1.6",
+      "title": "Er bestaat slechts één evangelie",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Maar alle mannen van importantie - hoe belangrijk zij precies waren interesseert mij niet, voor God telt menselijk aanzien niet - hoe dan ook, mij hebben de mannen van aanzien niets opgelegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar alle mannen van importantie - hoe belangrijk zij precies waren interesseert mij niet, voor God telt menselijk aanzien niet - hoe dan ook, mij hebben de mannen van aanzien niets opgelegd."
+          }
+        ]
+      },
+      "id": "galaten.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Zoals er geschreven staat: <em>Abraham heeft God geloofd en het werd hem als gerechtigheid aangerekend.</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals er geschreven staat: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Abraham heeft God geloofd en het werd hem als gerechtigheid aangerekend."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "galaten.3.6",
+      "title": "Het geloof, niet de wet geeft deel aan de ogen van Abraham",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "En het bewijs dat ge zonen zijt: Hij heeft de Geest van zijn Zoon in ons hart gezonden, die roept: Abba, Vader!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En het bewijs dat ge zonen zijt: Hij heeft de Geest van zijn Zoon in ons hart gezonden, die roept: Abba, Vader!"
+          }
+        ]
+      },
+      "id": "galaten.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Want in Christus Jezus heeft besnijdenis noch onbesnedenheid enig belang, maar alleen geloof zich uitend in liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want in Christus Jezus heeft besnijdenis noch onbesnedenheid enig belang, maar alleen geloof zich uitend in liefde."
+          }
+        ]
+      },
+      "id": "galaten.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Wie onderricht ontvangt in het woord van God, moet zijn leermeester laten delen in alle goeds dat hij bezit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie onderricht ontvangt in het woord van God, moet zijn leermeester laten delen in alle goeds dat hij bezit."
+          }
+        ]
+      },
+      "id": "galaten.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "maar er is geen ander, er zijn alleen maar lieden die u verontrusten en het evangelie van Christus willen perverteren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar er is geen ander, er zijn alleen maar lieden die u verontrusten en het evangelie van Christus willen perverteren."
+          }
+        ]
+      },
+      "id": "galaten.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "- Integendeel, daar zij hadden ingezien dat aan mij het evangelie voor de onbesnedenen was toevertrouwd, juist zoals aan Petrus dat voor de besnedenen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "- Integendeel, daar zij hadden ingezien dat aan mij het evangelie voor de onbesnedenen was toevertrouwd, juist zoals aan Petrus dat voor de besnedenen"
+          }
+        ]
+      },
+      "id": "galaten.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Ge ziet het: de mensen van geloof, dat zijn de kinderen van Abraham.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge ziet het: de mensen van geloof, dat zijn de kinderen van Abraham."
+          }
+        ]
+      },
+      "id": "galaten.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Je bent dus niet langer slaaf maar zoon; en als je zoon bent, dan ook erfgenaam, door toedoen van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Je bent dus niet langer slaaf maar zoon; en als je zoon bent, dan ook erfgenaam, door toedoen van God."
+          }
+        ]
+      },
+      "id": "galaten.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Ge waart zo goed op weg. Wie heeft u verhinderd de waarheid te blijven volgen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge waart zo goed op weg. Wie heeft u verhinderd de waarheid te blijven volgen?"
+          }
+        ]
+      },
+      "id": "galaten.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Maak u niets wijs: God laat niet met zich spotten. Wat een mens zaait zal hij ook oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maak u niets wijs: God laat niet met zich spotten. Wat een mens zaait zal hij ook oogsten."
+          }
+        ]
+      },
+      "id": "galaten.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Maar al zouden wijzelf of een engel uit de hemel een ander evangelie verkondigen dan wij u verkondigd hebben: hij zij vervloekt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar al zouden wijzelf of een engel uit de hemel een ander evangelie verkondigen dan wij u verkondigd hebben: hij zij vervloekt!"
+          }
+        ]
+      },
+      "id": "galaten.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "- want Hij die Petrus kracht had gegeven voor het apostelschap onder de besnedenen had mij kracht gegeven voor de heidenvolken -",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "- want Hij die Petrus kracht had gegeven voor het apostelschap onder de besnedenen had mij kracht gegeven voor de heidenvolken -"
+          }
+        ]
+      },
+      "id": "galaten.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "En daar de Schrift voorzag dat God de heidenvolken zou rechtvaardigen door het geloof, heeft zij aan Abraham bij voorbaat het evangelie verkondigd: In u zullen alle volken worden gezegend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daar de Schrift voorzag dat God de heidenvolken zou rechtvaardigen door het geloof, heeft zij aan Abraham bij voorbaat het evangelie verkondigd: In u zullen alle volken worden gezegend."
+          }
+        ]
+      },
+      "id": "galaten.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Indertijd, toen ge God niet kende, hebt ge goden gediend die niet werkelijk goden zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Indertijd, toen ge God niet kende, hebt ge goden gediend die niet werkelijk goden zijn."
+          }
+        ]
+      },
+      "id": "galaten.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Die ingeving kwam niet van Hem die u roept.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die ingeving kwam niet van Hem die u roept."
+          }
+        ]
+      },
+      "id": "galaten.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Wie zaait op de akker van zijn zelfzucht, zal verderf oogsten; wie zaait op de akker van de Geest, zal van de Geest eeuwig leven oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zaait op de akker van zijn zelfzucht, zal verderf oogsten; wie zaait op de akker van de Geest, zal van de Geest eeuwig leven oogsten."
+          }
+        ]
+      },
+      "id": "galaten.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Wat ik vroeger heb gezegd zeg ik nu opnieuw: als iemand u een ander evangelie verkondigt dan gij ontvangen hebt: hij zij vervloekt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ik vroeger heb gezegd zeg ik nu opnieuw: als iemand u een ander evangelie verkondigt dan gij ontvangen hebt: hij zij vervloekt!"
+          }
+        ]
+      },
+      "id": "galaten.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "en daar zij de mij gegeven genade hadden erkend, hebben zij, Jakobus en Kefas en Johannes, die voor steunpilaren golden, mij en Barnabas de hand der gemeenschap gereikt: wij zouden naar de heidenen gaan en zij naar de besnedenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en daar zij de mij gegeven genade hadden erkend, hebben zij, Jakobus en Kefas en Johannes, die voor steunpilaren golden, mij en Barnabas de hand der gemeenschap gereikt: wij zouden naar de heidenen gaan en zij naar de besnedenen."
+          }
+        ]
+      },
+      "id": "galaten.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "De mensen van geloof worden dus gezegend, samen met Abraham, de gelovige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De mensen van geloof worden dus gezegend, samen met Abraham, de gelovige."
+          }
+        ]
+      },
+      "id": "galaten.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Maar nu, nu ge God hebt leren kennen, of liever, door God zijt gekend, hoe kunt ge nu opnieuw keren tot die zwakke en armzalige krachten? Wilt ge weer van voren af aan hun slaven worden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar nu, nu ge God hebt leren kennen, of liever, door God zijt gekend, hoe kunt ge nu opnieuw keren tot die zwakke en armzalige krachten? Wilt ge weer van voren af aan hun slaven worden?"
+          }
+        ]
+      },
+      "id": "galaten.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Denk eraan: “Een weinig zuurdeeg maakt het hele deeg zuur.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denk eraan: “Een weinig zuurdeeg maakt het hele deeg zuur.”"
+          }
+        ]
+      },
+      "id": "galaten.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Laten we niet moede worden goed te doen; als we de moed niet verliezen, zullen we te zijner tijd de oogst binnenhalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we niet moede worden goed te doen; als we de moed niet verliezen, zullen we te zijner tijd de oogst binnenhalen."
+          }
+        ]
+      },
+      "id": "galaten.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Tracht ik nu de mensen te winnen of God? Zoek ik soms de gunst van de mensen? Als ik nog de gunst van mensen zocht, zou ik geen dienaar van Christus zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tracht ik nu de mensen te winnen of God? Zoek ik soms de gunst van de mensen? Als ik nog de gunst van mensen zocht, zou ik geen dienaar van Christus zijn."
+          }
+        ]
+      },
+      "id": "galaten.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Alleen moesten wij hun armen gedenken, wat ik dan ook juist van harte gedaan heb.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alleen moesten wij hun armen gedenken, wat ik dan ook juist van harte gedaan heb."
+          }
+        ]
+      },
+      "id": "galaten.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Maar de mensen van de wetswerken liggen onder een vloek. Er staat immers geschreven: <em>Vervloekt is ieder die zich niet metterdaad houdt aan alle voorschriften in het boek der wet</em>.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de mensen van de wetswerken liggen onder een vloek. Er staat immers geschreven: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Vervloekt is ieder die zich niet metterdaad houdt aan alle voorschriften in het boek der wet"
+              }
+            ]
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      "id": "galaten.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Ge houdt u aan bepaalde dagen en maanden, tijden en jaren...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge houdt u aan bepaalde dagen en maanden, tijden en jaren..."
+          }
+        ]
+      },
+      "id": "galaten.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Ik vertrouw op u in de Heer, dat gij er niet anders over zult denken. Maar hij die u in verwarring brengt zal zijn vonnis moeten dragen, wie hij ook is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vertrouw op u in de Heer, dat gij er niet anders over zult denken. Maar hij die u in verwarring brengt zal zijn vonnis moeten dragen, wie hij ook is."
+          }
+        ]
+      },
+      "id": "galaten.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Laten we dus, zolang we tijd hebben, goed doen aan allen, maar vooral aan onze geloofsgenoten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we dus, zolang we tijd hebben, goed doen aan allen, maar vooral aan onze geloofsgenoten."
+          }
+        ]
+      },
+      "id": "galaten.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Ik verzeker u, broeders; het evangelie dat door mij is verkondigd is geen produkt van mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik verzeker u, broeders; het evangelie dat door mij is verkondigd is geen produkt van mensen."
+          }
+        ]
+      },
+      "id": "galaten.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Maar toen Kefas in Antiochi&euml; gekomen was, heb ik hem in zijn gezicht weerstaan, want hij stond onder het oordeel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar toen Kefas in Antiochië gekomen was, heb ik hem in zijn gezicht weerstaan, want hij stond onder het oordeel."
+          }
+        ]
+      },
+      "id": "galaten.2.11",
+      "title": "Petrus en Paulus te Antiochië",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Trouwens, dat niemand door een wet bij God gerechtvaardigd wordt, is evident, want: Hij die door het geloof gerechtvaardigd is zal leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trouwens, dat niemand door een wet bij God gerechtvaardigd wordt, is evident, want: Hij die door het geloof gerechtvaardigd is zal leven."
+          }
+        ]
+      },
+      "id": "galaten.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Ik ben bang dat ik me vergeefs voor u heb afgetobd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ben bang dat ik me vergeefs voor u heb afgetobd."
+          }
+        ]
+      },
+      "id": "galaten.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Wat mij betreft, broeders, als ik nog de besnijdenis zou verkondigen, waarom word ik dan nog vervolgd? Dan was het immers afgelopen met de ergernis van het kruis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat mij betreft, broeders, als ik nog de besnijdenis zou verkondigen, waarom word ik dan nog vervolgd? Dan was het immers afgelopen met de ergernis van het kruis."
+          }
+        ]
+      },
+      "id": "galaten.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Zie met hoe grote letters ik u nu eigenhandig schrijf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie met hoe grote letters ik u nu eigenhandig schrijf."
+          }
+        ]
+      },
+      "id": "galaten.6.11",
+      "title": "Een eigenhandig geschreven postscriptum",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Want ook ik heb het niet van een mens ontvangen of geleerd, maar door een openbaring van Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ook ik heb het niet van een mens ontvangen of geleerd, maar door een openbaring van Jezus Christus."
+          }
+        ]
+      },
+      "id": "galaten.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Immers, voordat sommige mensen van Jakobus gekomen waren, at hij gewoon met de heidenen mee, maar toen zij gekomen waren, begon hij zich terug te trekken en afzijdig te houden uit vrees voor de mannen van de besnijdenis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Immers, voordat sommige mensen van Jakobus gekomen waren, at hij gewoon met de heidenen mee, maar toen zij gekomen waren, begon hij zich terug te trekken en afzijdig te houden uit vrees voor de mannen van de besnijdenis."
+          }
+        ]
+      },
+      "id": "galaten.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Welnu, de wet heeft niet met geloven te maken, maar: Hij die deze dingen doet zal daardoor tot het leven komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, de wet heeft niet met geloven te maken, maar: Hij die deze dingen doet zal daardoor tot het leven komen."
+          }
+        ]
+      },
+      "id": "galaten.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Wordt zoals ik, broeders, want ik ben aan u gelijk geworden; ik smeek er u om.<br />\r\nGij hebt mij niets tekortgedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wordt zoals ik, broeders, want ik ben aan u gelijk geworden; ik smeek er u om."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nGij hebt mij niets tekortgedaan."
+          }
+        ]
+      },
+      "id": "galaten.4.12",
+      "title": "Herinner u onze vroegere verhouding",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Zij moesten zich meteen maar ontmannen, die opruiers!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij moesten zich meteen maar ontmannen, die opruiers!"
+          }
+        ]
+      },
+      "id": "galaten.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Het zijn lieden die in de wereld een goed figuur willen slaan, die u de besnijdenis trachten op te dringen, alleen maar om niet vervolgd te worden om het kruis van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zijn lieden die in de wereld een goed figuur willen slaan, die u de besnijdenis trachten op te dringen, alleen maar om niet vervolgd te worden om het kruis van Christus."
+          }
+        ]
+      },
+      "id": "galaten.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Gij hebt toch gehoord hoe ik vroeger als Jood geleefd heb: hoe ik de kerk van God fel heb vervolgd en haar trachtte uit te roeien;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt toch gehoord hoe ik vroeger als Jood geleefd heb: hoe ik de kerk van God fel heb vervolgd en haar trachtte uit te roeien;"
+          }
+        ]
+      },
+      "id": "galaten.1.13",
+      "title": "Paulus' evangelie komt van God, niet van mensen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "En de overige Joden veinsden met hen mee, zodat zelfs Barnabas zich door hun veinzerij liet meeslepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de overige Joden veinsden met hen mee, zodat zelfs Barnabas zich door hun veinzerij liet meeslepen."
+          }
+        ]
+      },
+      "id": "galaten.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Christus heeft ons bevrijd van de vloek der wet door zelf voor ons een vloek te worden, want er staat geschreven: <em>Vervloekt al wie hangt aan het hout</em>, -",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Christus heeft ons bevrijd van de vloek der wet door zelf voor ons een vloek te worden, want er staat geschreven: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Vervloekt al wie hangt aan het hout"
+              }
+            ]
+          },
+          {
+            "text": ", -"
+          }
+        ]
+      },
+      "id": "galaten.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Gij weet toch: ziekte was de aanleiding dat ik u eertijds het evangelie verkondigd heb,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet toch: ziekte was de aanleiding dat ik u eertijds het evangelie verkondigd heb,"
+          }
+        ]
+      },
+      "id": "galaten.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Broeders, gij werd geroepen tot vrijheid. Alleen, misbruik de vrijheid niet als voorwendsel voor de zelfzucht. Integendeel, dient elkander door de liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, gij werd geroepen tot vrijheid. Alleen, misbruik de vrijheid niet als voorwendsel voor de zelfzucht. Integendeel, dient elkander door de liefde."
+          }
+        ]
+      },
+      "id": "galaten.5.13",
+      "title": "Vrijheid en liefde",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Want die mensen van de besnijdenis onderhouden zelf niet eens de wet, maar ze willen wel dat gij u laat besnijden, om zich daarop te kunnen beroemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want die mensen van de besnijdenis onderhouden zelf niet eens de wet, maar ze willen wel dat gij u laat besnijden, om zich daarop te kunnen beroemen."
+          }
+        ]
+      },
+      "id": "galaten.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "en hoe ver ik het bracht in de Joodse godsdienst, vele leeftijdgenoten onder mijn volk overtreffend in mijn grenzeloze ijver voor de overleveringen van mijn voorouders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en hoe ver ik het bracht in de Joodse godsdienst, vele leeftijdgenoten onder mijn volk overtreffend in mijn grenzeloze ijver voor de overleveringen van mijn voorouders."
+          }
+        ]
+      },
+      "id": "galaten.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Maar toen ik zag dat hun gedrag niet strookte met de waarheid van het evangelie, zei ik tegen Kefas waar allen bij waren: “Als jij, een geboren Jood, leeft als een heiden en niet als een Jood, hoe kun je dan de heidenen dwingen om te leven als Joden?”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar toen ik zag dat hun gedrag niet strookte met de waarheid van het evangelie, zei ik tegen Kefas waar allen bij waren: “Als jij, een geboren Jood, leeft als een heiden en niet als een Jood, hoe kun je dan de heidenen dwingen om te leven als Joden?”"
+          }
+        ]
+      },
+      "id": "galaten.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "opdat in Jezus Christus de zegen van Abraham zou komen over de heidenvolken, opdat wij de belofte van de Geest zouden ontvangen door middel van het geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "opdat in Jezus Christus de zegen van Abraham zou komen over de heidenvolken, opdat wij de belofte van de Geest zouden ontvangen door middel van het geloof."
+          }
+        ]
+      },
+      "id": "galaten.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "en hoewel mijn toestand een beproeving voor u was, hebt ge geen spoor van minachting of afkeer getoond. Integendeel, ge hebt me opgenomen als een bode van God, als Christus Jezus zelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en hoewel mijn toestand een beproeving voor u was, hebt ge geen spoor van minachting of afkeer getoond. Integendeel, ge hebt me opgenomen als een bode van God, als Christus Jezus zelf."
+          }
+        ]
+      },
+      "id": "galaten.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Want de hele wet is vervat in dit ene woord: Gij zult uw naaste liefhebben als uzelf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de hele wet is vervat in dit ene woord: Gij zult uw naaste liefhebben als uzelf."
+          }
+        ]
+      },
+      "id": "galaten.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Mij moge God ervoor bewaren op iets anders te roemen dan op het kruis van onze Heer Jezus Christus, waardoor de wereld voor mij gekruisigd is en ik voor de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mij moge God ervoor bewaren op iets anders te roemen dan op het kruis van onze Heer Jezus Christus, waardoor de wereld voor mij gekruisigd is en ik voor de wereld."
+          }
+        ]
+      },
+      "id": "galaten.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Maar toen Hij die mij vanaf mijn geboorte had uitgekozen en mij riep door zijn genade,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar toen Hij die mij vanaf mijn geboorte had uitgekozen en mij riep door zijn genade,"
+          }
+        ]
+      },
+      "id": "galaten.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Wij zelf zijn van geboorte Joden, geen zondaars uit de heidenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zelf zijn van geboorte Joden, geen zondaars uit de heidenen."
+          }
+        ]
+      },
+      "id": "galaten.2.15",
+      "title": "Het evangelie van Paulus",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Broeders, een voorbeeld uit het gewone leven: ook onder de mensen kan niemand een rechtsgeldig testament tenietdoen of wijzigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, een voorbeeld uit het gewone leven: ook onder de mensen kan niemand een rechtsgeldig testament tenietdoen of wijzigen."
+          }
+        ]
+      },
+      "id": "galaten.3.15",
+      "title": "Het geloof, niet de wet geeft het beloofde erfdeel",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Waar is uw zaligheid gebleven? Want het is een feit: als het mogelijk was geweest, hadt ge uw ogen uitgerukt om ze mij te geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar is uw zaligheid gebleven? Want het is een feit: als het mogelijk was geweest, hadt ge uw ogen uitgerukt om ze mij te geven."
+          }
+        ]
+      },
+      "id": "galaten.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Maar als ge elkaar blijft bijten en klauwen, vrees ik dat ge elkaar in het eind zult verslinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als ge elkaar blijft bijten en klauwen, vrees ik dat ge elkaar in het eind zult verslinden."
+          }
+        ]
+      },
+      "id": "galaten.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Het komt niet aan op besnijdenis of onbesnedenheid maar op de nieuwe schepping.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het komt niet aan op besnijdenis of onbesnedenheid maar op de nieuwe schepping."
+          }
+        ]
+      },
+      "id": "galaten.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "besloot zijn Zoon aan mij te openbaren, opdat ik Hem onder de heidenvolken zou verkondigen, toen ben ik aanstonds, zonder een mens te raadplegen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "besloot zijn Zoon aan mij te openbaren, opdat ik Hem onder de heidenvolken zou verkondigen, toen ben ik aanstonds, zonder een mens te raadplegen,"
+          }
+        ]
+      },
+      "id": "galaten.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Maar daar wij weten dat de mens niet gerechtvaardigd wordt door de werken van de wet, maar alleen door het geloof in Jezus Christus, zijn ook wij in Jezus Christus gaan geloven, om gerechtvaardigd te worden door het geloof in Christus en niet door de werken van de wet, want door de werken van de wet <em>zal geen mens gerechtvaardigd worden</em>.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar daar wij weten dat de mens niet gerechtvaardigd wordt door de werken van de wet, maar alleen door het geloof in Jezus Christus, zijn ook wij in Jezus Christus gaan geloven, om gerechtvaardigd te worden door het geloof in Christus en niet door de werken van de wet, want door de werken van de wet "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "zal geen mens gerechtvaardigd worden"
+              }
+            ]
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      "id": "galaten.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Nu zijn de beloften aan Abraham aangezegd en aan zijn nageslacht. (Het woord staat niet in het meervoud, maar in het enkelvoud: <em>en aan uw nageslacht</em> en dat nageslacht is Christus).",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu zijn de beloften aan Abraham aangezegd en aan zijn nageslacht. (Het woord staat niet in het meervoud, maar in het enkelvoud: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "en aan uw nageslacht"
+              }
+            ]
+          },
+          {
+            "text": " en dat nageslacht is Christus)."
+          }
+        ]
+      },
+      "id": "galaten.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "En nu ben ik uw vijand geworden omdat ik u de waarheid zei?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu ben ik uw vijand geworden omdat ik u de waarheid zei?"
+          }
+        ]
+      },
+      "id": "galaten.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Ik bedoel dit: leef naar de Geest, dan zult ge de begeerte van de zelfzucht niet volvoeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bedoel dit: leef naar de Geest, dan zult ge de begeerte van de zelfzucht niet volvoeren."
+          }
+        ]
+      },
+      "id": "galaten.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Vrede en barmhartigheid kome over allen die naar dit beginsel leven en over het Israël van God!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrede en barmhartigheid kome over allen die naar dit beginsel leven en over het Israël van God!"
+          }
+        ]
+      },
+      "id": "galaten.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "zonder naar Jeruzalem te gaan, naar hen die eerder apostel waren dan ik, vertrokken naar Arabië en vandaar weer teruggekeerd naar Damascus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zonder naar Jeruzalem te gaan, naar hen die eerder apostel waren dan ik, vertrokken naar Arabië en vandaar weer teruggekeerd naar Damascus."
+          }
+        ]
+      },
+      "id": "galaten.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Als wij nu door onze gerechtigheid te zoeken bij Christus ook zelf zondaars bleken te zijn, betekent dit dan dat Christus handlanger is van de zonde? Dat nooit!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij nu door onze gerechtigheid te zoeken bij Christus ook zelf zondaars bleken te zijn, betekent dit dan dat Christus handlanger is van de zonde? Dat nooit!"
+          }
+        ]
+      },
+      "id": "galaten.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "Ik bedoel dit: een door God bekrachtigde wilsbeschikking wordt niet ongedaan gemaakt door een wet die vierhonderddertig jaar later is gekomen, zodat de belofte zou komen te vervallen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bedoel dit: een door God bekrachtigde wilsbeschikking wordt niet ongedaan gemaakt door een wet die vierhonderddertig jaar later is gekomen, zodat de belofte zou komen te vervallen."
+          }
+        ]
+      },
+      "id": "galaten.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Zij dingen ijverig naar uw gunst, maar niet met zuivere bedoeling. Zij willen u van mij vervreemden opdat ge ijvert voor hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij dingen ijverig naar uw gunst, maar niet met zuivere bedoeling. Zij willen u van mij vervreemden opdat ge ijvert voor hen."
+          }
+        ]
+      },
+      "id": "galaten.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Want de zelfzucht begeert tegen de Geest en de Geest tegen de zelfzucht, want ze zijn elkaars tegenstanders, zodat ge niet doet wat ge zoudt willen doen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de zelfzucht begeert tegen de Geest en de Geest tegen de zelfzucht, want ze zijn elkaars tegenstanders, zodat ge niet doet wat ge zoudt willen doen."
+          }
+        ]
+      },
+      "id": "galaten.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Laat voortaan niemand het mij lastig maken, want ik draag de merktekens van Jezus in mijn lichaam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat voortaan niemand het mij lastig maken, want ik draag de merktekens van Jezus in mijn lichaam."
+          }
+        ]
+      },
+      "id": "galaten.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Pas drie jaar later ging ik naar Jeruzalem om met Kefas kennis te maken en ik ben maar veertien dagen bij hem gebleven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Pas drie jaar later ging ik naar Jeruzalem om met Kefas kennis te maken en ik ben maar veertien dagen bij hem gebleven."
+          }
+        ]
+      },
+      "id": "galaten.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Maar als ik weer opbouw wat ik heb afgebroken, maak ik mezelf tot overtreder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als ik weer opbouw wat ik heb afgebroken, maak ik mezelf tot overtreder."
+          }
+        ]
+      },
+      "id": "galaten.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Was immers de erfenis afhankelijk van de wet, dan niet van de belofte. Maar God heeft juist door een belofte Abraham zijn genade betoond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Was immers de erfenis afhankelijk van de wet, dan niet van de belofte. Maar God heeft juist door een belofte Abraham zijn genade betoond."
+          }
+        ]
+      },
+      "id": "galaten.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Het is mooi altijd met heilige ijver omringd te worden, maar dan ook altijd en niet enkel als ik bij u ben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is mooi altijd met heilige ijver omringd te worden, maar dan ook altijd en niet enkel als ik bij u ben."
+          }
+        ]
+      },
+      "id": "galaten.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Maar als ge u door de Geest laat leiden, staat ge niet onder de wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als ge u door de Geest laat leiden, staat ge niet onder de wet."
+          }
+        ]
+      },
+      "id": "galaten.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Broeders, de genade van onze Heer Jezus Christus zij met uw geest. Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, de genade van onze Heer Jezus Christus zij met uw geest. Amen."
+          }
+        ]
+      },
+      "id": "galaten.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Van de andere apostelen heb ik niemand gezien, behalve Jakobus, de broeder des Heren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van de andere apostelen heb ik niemand gezien, behalve Jakobus, de broeder des Heren."
+          }
+        ]
+      },
+      "id": "galaten.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Want door de wet ben ik gestorven voor de wet, om te leven voor God. Met Christus ben ik gekruisigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want door de wet ben ik gestorven voor de wet, om te leven voor God. Met Christus ben ik gekruisigd."
+          }
+        ]
+      },
+      "id": "galaten.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Waartoe dient dan de wet? Die is erbij gekomen met het oog op de overtredingen, tot aan de komst van het nageslacht, op wie de belofte betrekking heeft. Ze is uitgevaardigd door engelen door tussenkomst van een middelaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waartoe dient dan de wet? Die is erbij gekomen met het oog op de overtredingen, tot aan de komst van het nageslacht, op wie de belofte betrekking heeft. Ze is uitgevaardigd door engelen door tussenkomst van een middelaar."
+          }
+        ]
+      },
+      "id": "galaten.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Ach kinderen, ik moet opnieuw weeën om u doorstaan, totdat ge de gestalte van Christus hebt aangenomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ach kinderen, ik moet opnieuw weeën om u doorstaan, totdat ge de gestalte van Christus hebt aangenomen."
+          }
+        ]
+      },
+      "id": "galaten.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "De uitingen van zelfzucht zijn bekend, zoals ontucht, onreinheid, losbandigheid;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De uitingen van zelfzucht zijn bekend, zoals ontucht, onreinheid, losbandigheid;"
+          }
+        ]
+      },
+      "id": "galaten.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Wat ik u schrijf is de zuivere waarheid. God is mijn getuige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ik u schrijf is de zuivere waarheid. God is mijn getuige."
+          }
+        ]
+      },
+      "id": "galaten.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Ikzelf leef niet meer, Christus is het die leeft in mij. Voor zover ik nu leef in het vlees, leef ik in het geloof in de Zoon van God, die mij heeft liefgehad en zichzelf heeft overgeleverd voor mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ikzelf leef niet meer, Christus is het die leeft in mij. Voor zover ik nu leef in het vlees, leef ik in het geloof in de Zoon van God, die mij heeft liefgehad en zichzelf heeft overgeleverd voor mij."
+          }
+        ]
+      },
+      "id": "galaten.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Maar een middelaar vertegenwoordigt meer dan een persoon, God echter is &eacute;&eacute;n.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar een middelaar vertegenwoordigt meer dan een persoon, God echter is één."
+          }
+        ]
+      },
+      "id": "galaten.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Hoe graag zou ik op dit ogenblik bij u zijn en op een andere toon tot u spreken, want ik ben ten einde raad met u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe graag zou ik op dit ogenblik bij u zijn en op een andere toon tot u spreken, want ik ben ten einde raad met u."
+          }
+        ]
+      },
+      "id": "galaten.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "afgodendienst, toverij, vijandschap, twist, afgunst, uitbarstingen van woede, intriges, ruzies, partijschappen, jaloersheden;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "afgodendienst, toverij, vijandschap, twist, afgunst, uitbarstingen van woede, intriges, ruzies, partijschappen, jaloersheden;"
+          }
+        ]
+      },
+      "id": "galaten.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Daarna ging ik naar het gebied van Syrië en Cilicië;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna ging ik naar het gebied van Syrië en Cilicië;"
+          }
+        ]
+      },
+      "id": "galaten.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "Ik doe de genade van God niet teniet: als de wet ons kon rechtvaardigen, dan was Christus voor niets gestorven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik doe de genade van God niet teniet: als de wet ons kon rechtvaardigen, dan was Christus voor niets gestorven."
+          }
+        ]
+      },
+      "id": "galaten.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "Is de wet dan in strijd met de beloften? Geen sprake van! Was er een wet gegeven die het leven kon schenken, dan zou de gerechtigheid inderdaad voortvloeien uit de wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is de wet dan in strijd met de beloften? Geen sprake van! Was er een wet gegeven die het leven kon schenken, dan zou de gerechtigheid inderdaad voortvloeien uit de wet."
+          }
+        ]
+      },
+      "id": "galaten.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Zeg me, gij die zo graag onder de wet wilt, luistert ge wel naar de wet?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zeg me, gij die zo graag onder de wet wilt, luistert ge wel naar de wet?"
+          }
+        ]
+      },
+      "id": "galaten.4.21",
+      "title": "Een voorafbeelding van de christelijke vrijheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "drinkgelagen, orgieën en dergelijke. Ik waarschuw u zoals ik u al eerder gewaarschuwd heb: wie zich zo misdragen, zullen het koninkrijk van God niet erven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "drinkgelagen, orgieën en dergelijke. Ik waarschuw u zoals ik u al eerder gewaarschuwd heb: wie zich zo misdragen, zullen het koninkrijk van God niet erven."
+          }
+        ]
+      },
+      "id": "galaten.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "maar ik was persoonlijk onbekend bij de christengemeenten van Judea.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar ik was persoonlijk onbekend bij de christengemeenten van Judea."
+          }
+        ]
+      },
+      "id": "galaten.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "Maar de Schrift heeft alles opgesloten in de macht der zonde, zodat de belofte gegeven wordt aan hen die geloven, en wel op grond van het geloof in Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de Schrift heeft alles opgesloten in de macht der zonde, zodat de belofte gegeven wordt aan hen die geloven, en wel op grond van het geloof in Jezus Christus."
+          }
+        ]
+      },
+      "id": "galaten.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Er staat immers geschreven dat Abraham twee zonen kreeg, een van de slavin en een van de vrije vrouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er staat immers geschreven dat Abraham twee zonen kreeg, een van de slavin en een van de vrije vrouw."
+          }
+        ]
+      },
+      "id": "galaten.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "Maar de vrucht van de Geest is liefde, vreugde, vrede, geduld, vriendelijkheid, goedheid, trouw, zachtheid, ingetogenheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de vrucht van de Geest is liefde, vreugde, vrede, geduld, vriendelijkheid, goedheid, trouw, zachtheid, ingetogenheid."
+          }
+        ]
+      },
+      "id": "galaten.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Zij wisten alleen van horen zeggen: “Hij die ons vroeger vervolgde verkondigt nu het geloof dat hij vroeger wilde uitroeien.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij wisten alleen van horen zeggen: “Hij die ons vroeger vervolgde verkondigt nu het geloof dat hij vroeger wilde uitroeien.”"
+          }
+        ]
+      },
+      "id": "galaten.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Voordat het geloof kwam, stonden wij onder bewaking van de wet, opgesloten tot het geloof zou worden geopenbaard.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voordat het geloof kwam, stonden wij onder bewaking van de wet, opgesloten tot het geloof zou worden geopenbaard."
+          }
+        ]
+      },
+      "id": "galaten.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "Maar de zoon van de slavin werd geboren naar het vlees, die van de vrije vrouw uit kracht van de belofte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de zoon van de slavin werd geboren naar het vlees, die van de vrije vrouw uit kracht van de belofte."
+          }
+        ]
+      },
+      "id": "galaten.4.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Tegen zulke dingen bestaat geen wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tegen zulke dingen bestaat geen wet."
+          }
+        ]
+      },
+      "id": "galaten.5.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "En zij verheerlijkten God om mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zij verheerlijkten God om mij."
+          }
+        ]
+      },
+      "id": "galaten.1.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "De wet is dus voor ons een oppasser geweest tot de komst van Christus, opdat wij gerechtvaardigd zouden worden door het geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wet is dus voor ons een oppasser geweest tot de komst van Christus, opdat wij gerechtvaardigd zouden worden door het geloof."
+          }
+        ]
+      },
+      "id": "galaten.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Deze dingen zijn allegorisch bedoeld. De twee vrouwen zijn twee verbonden: het ene, dat van de berg Sina&iuml;, brengt slaven voort en dat is Hagar:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze dingen zijn allegorisch bedoeld. De twee vrouwen zijn twee verbonden: het ene, dat van de berg Sinaï, brengt slaven voort en dat is Hagar:"
+          }
+        ]
+      },
+      "id": "galaten.4.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "Zij die Christus Jezus toebehoren hebben het vlees gekruisigd met zijn hartstochten en begeerten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij die Christus Jezus toebehoren hebben het vlees gekruisigd met zijn hartstochten en begeerten."
+          }
+        ]
+      },
+      "id": "galaten.5.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Maar nu het geloof is gekomen, staan wij niet langer onder de oppasser.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar nu het geloof is gekomen, staan wij niet langer onder de oppasser."
+          }
+        ]
+      },
+      "id": "galaten.3.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "text": "(de Sina&iuml; nu is een berg in Arabi&euml;) zij beantwoordt aan het tegenwoordige Jeruzalem, dat met zijn kinderen in slavernij ligt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "(de Sinaï nu is een berg in Arabië) zij beantwoordt aan het tegenwoordige Jeruzalem, dat met zijn kinderen in slavernij ligt."
+          }
+        ]
+      },
+      "id": "galaten.4.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Daar wij leven door de Geest, willen we ook leven volgens de Geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar wij leven door de Geest, willen we ook leven volgens de Geest."
+          }
+        ]
+      },
+      "id": "galaten.5.25",
+      "title": "Allerlei suggesties",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "text": "Want gij zijt allen kinderen van God door het geloof in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want gij zijt allen kinderen van God door het geloof in Christus Jezus."
+          }
+        ]
+      },
+      "id": "galaten.3.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "text": "Maar het Jeruzalem van omhoog is vrij en dat is onze moeder.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar het Jeruzalem van omhoog is vrij en dat is onze moeder."
+          }
+        ]
+      },
+      "id": "galaten.4.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "Wij moeten niet verwaand zijn, elkaar niet voortdurend tarten en benijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij moeten niet verwaand zijn, elkaar niet voortdurend tarten en benijden."
+          }
+        ]
+      },
+      "id": "galaten.5.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 27,
+      "text": "Want gij allen die in Christus zijt gedoopt, zijt met Christus bekleed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want gij allen die in Christus zijt gedoopt, zijt met Christus bekleed."
+          }
+        ]
+      },
+      "id": "galaten.3.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "text": "Want er staat geschreven: Verheug u, onvruchtbare, gij die niet baart, breek los in gejuich, gij die geen weeën kent. Want de kinderen der eenzame zullen talrijker zijn dan de kinderen van haar die de man heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want er staat geschreven: Verheug u, onvruchtbare, gij die niet baart, breek los in gejuich, gij die geen weeën kent. Want de kinderen der eenzame zullen talrijker zijn dan de kinderen van haar die de man heeft."
+          }
+        ]
+      },
+      "id": "galaten.4.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 28,
+      "text": "Er is geen Jood of heiden meer, er is geen slaaf of vrije, er is geen man en vrouw: allen tezamen zijt gij een persoon in Christus Jezus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er is geen Jood of heiden meer, er is geen slaaf of vrije, er is geen man en vrouw: allen tezamen zijt gij een persoon in Christus Jezus."
+          }
+        ]
+      },
+      "id": "galaten.3.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "text": "Welnu, broeders, gij zijt evenals Isaak kinderen van belofte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, broeders, gij zijt evenals Isaak kinderen van belofte."
+          }
+        ]
+      },
+      "id": "galaten.4.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "text": "Maar als gij bij Christus hoort, dan zijt ge ook Abrahams &lsquo;nageslacht&rsquo;, erfgenamen krachtens de belofte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als gij bij Christus hoort, dan zijt ge ook Abrahams ‘nageslacht’, erfgenamen krachtens de belofte."
+          }
+        ]
+      },
+      "id": "galaten.3.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "text": "Maar zoals indertijd de geborene naar het vlees de naar de geest geborene vervolgde, zo gaat het ook nu.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zoals indertijd de geborene naar het vlees de naar de geest geborene vervolgde, zo gaat het ook nu."
+          }
+        ]
+      },
+      "id": "galaten.4.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "text": "Maar wat zegt de Schrift? Verjaag de slavin met haar zoon, want de zoon van de slavin hoort de erfenis niet te delen met de zoon van de vrijgeborene.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wat zegt de Schrift? Verjaag de slavin met haar zoon, want de zoon van de slavin hoort de erfenis niet te delen met de zoon van de vrijgeborene."
+          }
+        ]
+      },
+      "id": "galaten.4.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "text": "Broeders, wij zijn dus geen kinderen van een slavin, maar van de vrije vrouw.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, wij zijn dus geen kinderen van een slavin, maar van de vrije vrouw."
+          }
+        ]
+      },
+      "id": "galaten.4.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

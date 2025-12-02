@@ -1,0 +1,5329 @@
+{
+  "id": "hebreeen",
+  "name": "Hebreeën",
+  "chapters": 13,
+  "verseCount": 303,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Nadat God eertijds vele malen en op velerlei wijzen tot onze vaderen gesproken had door de profeten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nadat God eertijds vele malen en op velerlei wijzen tot onze vaderen gesproken had door de profeten,"
+          }
+        ]
+      },
+      "id": "hebreeen.1.1",
+      "title": "Aanhef",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Daarom moeten wij des te meer aandacht schenken aan wat ons verkondigd is, om niet uit de koers te raken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom moeten wij des te meer aandacht schenken aan wat ons verkondigd is, om niet uit de koers te raken."
+          }
+        ]
+      },
+      "id": "hebreeen.2.1",
+      "title": "Trouw aan het verkondigde heil",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Daarom, mijn broeders, gij die door een hemelse roeping geheiligd zijt, richt uw ogen op Jezus, de apostel en hogepriester van het geloof dat wij belijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, mijn broeders, gij die door een hemelse roeping geheiligd zijt, richt uw ogen op Jezus, de apostel en hogepriester van het geloof dat wij belijden."
+          }
+        ]
+      },
+      "id": "hebreeen.3.1",
+      "title": "Christus groter dan Mozes",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Daarom, zolang de goddelijke belofte van de rust nog geldt, moeten wij ervoor zorgen dat niemand van u zou menen dat het te laat is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, zolang de goddelijke belofte van de rust nog geldt, moeten wij ervoor zorgen dat niemand van u zou menen dat het te laat is."
+          }
+        ]
+      },
+      "id": "hebreeen.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Want elke hogepriester wordt genomen uit de mensen en aangesteld voor de mensen, om hen te vertegenwoordigen bij God en om gaven en offers op te dragen voor de zonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want elke hogepriester wordt genomen uit de mensen en aangesteld voor de mensen, om hen te vertegenwoordigen bij God en om gaven en offers op te dragen voor de zonden."
+          }
+        ]
+      },
+      "id": "hebreeen.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Laten we daarom niet meer terugkomen op de elementaire christelijke leer. We willen niet opnieuw het fundament leggen van geloof in God en van berouw over daden die ons de dood brachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we daarom niet meer terugkomen op de elementaire christelijke leer. We willen niet opnieuw het fundament leggen van geloof in God en van berouw over daden die ons de dood brachten."
+          }
+        ]
+      },
+      "id": "hebreeen.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Deze Melchisedek, koning van Salem, priester van God de Allerhoogste, kwam Abraham tegemoet, toen hij de koningen verslagen had, en hij zegende hem;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze Melchisedek, koning van Salem, priester van God de Allerhoogste, kwam Abraham tegemoet, toen hij de koningen verslagen had, en hij zegende hem;"
+          }
+        ]
+      },
+      "id": "hebreeen.7.1",
+      "title": "De volmaakte hogepriester",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "De kern van ons betoog is nu, dat wij zulk een hogepriester hebben. Gezeten ter rechterzijde van de troon der majesteit in de hemel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De kern van ons betoog is nu, dat wij zulk een hogepriester hebben. Gezeten ter rechterzijde van de troon der majesteit in de hemel,"
+          }
+        ]
+      },
+      "id": "hebreeen.8.1",
+      "title": "De hogepriester van een nieuw verbond",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Toch had ook het eerste verbond liturgische voorschriften en zijn eigen, aardse heiligdom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch had ook het eerste verbond liturgische voorschriften en zijn eigen, aardse heiligdom."
+          }
+        ]
+      },
+      "id": "hebreeen.9.1",
+      "title": "De volmaakte eredienst",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "De wet laat slechts een schaduw zien van de goede dingen die komen moesten, niet hun ware gedaante. Daarom kan zij onmogelijk door het jaarlijks opdragen van steeds weer dezelfde offers de deelnemers aan haar cultus tot volmaaktheid brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wet laat slechts een schaduw zien van de goede dingen die komen moesten, niet hun ware gedaante. Daarom kan zij onmogelijk door het jaarlijks opdragen van steeds weer dezelfde offers de deelnemers aan haar cultus tot volmaaktheid brengen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "En wat is het geloof? Het geloof is een vaste grond van wat wij hopen, het overtuigt ons van de werkelijkheid van onzichtbare dingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wat is het geloof? Het geloof is een vaste grond van wat wij hopen, het overtuigt ons van de werkelijkheid van onzichtbare dingen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.1",
+      "title": "Een zwerm geloofsgetuigen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Laten wij ons dan aansluiten bij die menigte getuigen van het geloof, en elke last en belemmering van de zonde van ons afschudden, om vastberaden de wedstrijd te lopen waarvoor we hebben ingeschreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij ons dan aansluiten bij die menigte getuigen van het geloof, en elke last en belemmering van de zonde van ons afschudden, om vastberaden de wedstrijd te lopen waarvoor we hebben ingeschreven."
+          }
+        ]
+      },
+      "id": "hebreeen.12.1",
+      "title": "Geloof eist trouw",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "De broederlijke liefde hoort bij de dingen die altijd moeten blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De broederlijke liefde hoort bij de dingen die altijd moeten blijven."
+          }
+        ]
+      },
+      "id": "hebreeen.13.1",
+      "title": "Laatste vermaningen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "heeft Hij nu, op het einde der tijden, tot ons gesproken door de Zoon, die Hij erfgenaam gemaakt heeft van al wat bestaat en door wie Hij het heelal heeft geschapen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heeft Hij nu, op het einde der tijden, tot ons gesproken door de Zoon, die Hij erfgenaam gemaakt heeft van al wat bestaat en door wie Hij het heelal heeft geschapen."
+          }
+        ]
+      },
+      "id": "hebreeen.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Want als het door engelen gesproken woord zulk een gezag had dat elke overtreding of ongehoorzaamheid naar rechtmatige vergelding ontving,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want als het door engelen gesproken woord zulk een gezag had dat elke overtreding of ongehoorzaamheid naar rechtmatige vergelding ontving,"
+          }
+        ]
+      },
+      "id": "hebreeen.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Hij was trouw aan God die Hem heeft aangesteld, zoals ook Mozes trouw was in heel zijn huis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij was trouw aan God die Hem heeft aangesteld, zoals ook Mozes trouw was in heel zijn huis."
+          }
+        ]
+      },
+      "id": "hebreeen.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Want ook wij hebben het goede nieuws gehoord, juist als zij. Maar het woord van de verkondiging dat zij hoorden heeft hun niet gebaat, omdat het niet gepaard ging met geloof bij de hoorders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ook wij hebben het goede nieuws gehoord, juist als zij. Maar het woord van de verkondiging dat zij hoorden heeft hun niet gebaat, omdat het niet gepaard ging met geloof bij de hoorders."
+          }
+        ]
+      },
+      "id": "hebreeen.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Hij is in staat onwetenden en dwalenden geduldig te verdragen, daar hij ook zelf aan zwakheid onderhevig is;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is in staat onwetenden en dwalenden geduldig te verdragen, daar hij ook zelf aan zwakheid onderhevig is;"
+          }
+        ]
+      },
+      "id": "hebreeen.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "We willen niet opnieuw spreken over reinigingsriten en handoplegging, over de opstanding der doden en het onherroepelijke oordeel. Laten we liever op weg gaan naar volwassenheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "We willen niet opnieuw spreken over reinigingsriten en handoplegging, over de opstanding der doden en het onherroepelijke oordeel. Laten we liever op weg gaan naar volwassenheid."
+          }
+        ]
+      },
+      "id": "hebreeen.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "en Abraham gaf hem van alles een tiende deel. De naam; van Melchis&eacute;dek betekent vooreerst `koning van gerechtigheid&#39;; vervolgens is hij koning van Salem, dat is, &#39;vredevorst&#39;.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en Abraham gaf hem van alles een tiende deel. De naam; van Melchisédek betekent vooreerst `koning van gerechtigheid'; vervolgens is hij koning van Salem, dat is, 'vredevorst'."
+          }
+        ]
+      },
+      "id": "hebreeen.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "bedient Hij het waarachtige heiligdom, de tent die is opgeslagen door de Heer en niet door een mens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bedient Hij het waarachtige heiligdom, de tent die is opgeslagen door de Heer en niet door een mens."
+          }
+        ]
+      },
+      "id": "hebreeen.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Er was een tabernakel, een tentheiligdom, ingericht, waarvan het voorste deel de kandelaar en de tafel met de toonbroden bevatte; dit noemde men het heilige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er was een tabernakel, een tentheiligdom, ingericht, waarvan het voorste deel de kandelaar en de tafel met de toonbroden bevatte; dit noemde men het heilige."
+          }
+        ]
+      },
+      "id": "hebreeen.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Anders had men die offerdienst wel gestaakt; men zou zich immers eens voor al gereinigd weten en bevrijd van schuldgevoel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Anders had men die offerdienst wel gestaakt; men zou zich immers eens voor al gereinigd weten en bevrijd van schuldgevoel."
+          }
+        ]
+      },
+      "id": "hebreeen.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Om hun geloof zijn de ouden met ere vermeld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om hun geloof zijn de ouden met ere vermeld."
+          }
+        ]
+      },
+      "id": "hebreeen.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "Zie naar Jezus, de aanvoerder en voltooier van ons geloof. In plaats van de vreugde die Hem toekwam, heeft Hij een kruis op zich genomen en de schande niet geteld: nu zit Hij aan de rechterzijde van Gods troon.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie naar Jezus, de aanvoerder en voltooier van ons geloof. In plaats van de vreugde die Hem toekwam, heeft Hij een kruis op zich genomen en de schande niet geteld: nu zit Hij aan de rechterzijde van Gods troon."
+          }
+        ]
+      },
+      "id": "hebreeen.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "En vergeet de gastvrijheid niet; door haar hebben sommigen zonder het te weten engelen onthaald.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En vergeet de gastvrijheid niet; door haar hebben sommigen zonder het te weten engelen onthaald."
+          }
+        ]
+      },
+      "id": "hebreeen.13.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Hij is de afstraling van Gods heerlijkheid en het evenbeeld van zijn wezen en Hij houdt alles in stand door zijn machtig woord. En na de reiniging der zonden te hebben voltrokken, heeft Hij zich neergezet ter rechterzijde van de majesteit in den hoge,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is de afstraling van Gods heerlijkheid en het evenbeeld van zijn wezen en Hij houdt alles in stand door zijn machtig woord. En na de reiniging der zonden te hebben voltrokken, heeft Hij zich neergezet ter rechterzijde van de majesteit in den hoge,"
+          }
+        ]
+      },
+      "id": "hebreeen.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "hoe zullen wij dan ontkomen, wanneer wij een zo groot heil verwaarlozen? Van dit heil is het eerst gesproken door de Heer zelf; zij die Hem hoorden hebben ons de boodschap getrouw doorgegeven,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoe zullen wij dan ontkomen, wanneer wij een zo groot heil verwaarlozen? Van dit heil is het eerst gesproken door de Heer zelf; zij die Hem hoorden hebben ons de boodschap getrouw doorgegeven,"
+          }
+        ]
+      },
+      "id": "hebreeen.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Hij is groter eer waardig gekeurd dan Mozes, voor zover namelijk de bouwer meer waard is dan het huis dat hij bouwt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is groter eer waardig gekeurd dan Mozes, voor zover namelijk de bouwer meer waard is dan het huis dat hij bouwt."
+          }
+        ]
+      },
+      "id": "hebreeen.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Wij die geloofd hebben, wij gaan die rust binnen, waarvan Hij gezegd heeft: <em>En Ik heb gezworen in mijn gramschap: Nooit zullen zij ingaan in mijn rust.</em> Toch was Gods werk al klaar vanaf de schepping van de wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij die geloofd hebben, wij gaan die rust binnen, waarvan Hij gezegd heeft: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "En Ik heb gezworen in mijn gramschap: Nooit zullen zij ingaan in mijn rust."
+              }
+            ]
+          },
+          {
+            "text": " Toch was Gods werk al klaar vanaf de schepping van de wereld."
+          }
+        ]
+      },
+      "id": "hebreeen.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "daarom moet hij, als hij offers voor de zonden opdraagt, evengoed aan zijn eigen zonden denken als aan die van het hele volk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "daarom moet hij, als hij offers voor de zonden opdraagt, evengoed aan zijn eigen zonden denken als aan die van het hele volk."
+          }
+        ]
+      },
+      "id": "hebreeen.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "En met Gods hulp zullen we haar bereiken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En met Gods hulp zullen we haar bereiken."
+          }
+        ]
+      },
+      "id": "hebreeen.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Hij heeft geen vader, geen moeder, geen stamboom; zijn leven heeft begin noch einde. Hij lijkt op de Zoon van God: hij blijft voor altijd priester.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft geen vader, geen moeder, geen stamboom; zijn leven heeft begin noch einde. Hij lijkt op de Zoon van God: hij blijft voor altijd priester."
+          }
+        ]
+      },
+      "id": "hebreeen.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Iedere hogepriester heeft tot taak gaven en offers op te dragen; daarom moet ook Deze iets hebben om te offeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Iedere hogepriester heeft tot taak gaven en offers op te dragen; daarom moet ook Deze iets hebben om te offeren."
+          }
+        ]
+      },
+      "id": "hebreeen.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Achter het tweede voorhangsel was een gedeelte dat het allerheiligste werd genoemd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Achter het tweede voorhangsel was een gedeelte dat het allerheiligste werd genoemd."
+          }
+        ]
+      },
+      "id": "hebreeen.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Maar deze offers moeten juist ieder jaar opnieuw de gedachte aan de zonden levendig houden;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar deze offers moeten juist ieder jaar opnieuw de gedachte aan de zonden levendig houden;"
+          }
+        ]
+      },
+      "id": "hebreeen.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Geloof doet ons zien, dat het heelal tot stand is gekomen door Gods woord, zodat het zichtbare ontstaan is uit het onzichtbare.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geloof doet ons zien, dat het heelal tot stand is gekomen door Gods woord, zodat het zichtbare ontstaan is uit het onzichtbare."
+          }
+        ]
+      },
+      "id": "hebreeen.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Denk aan Hem die zulk een tegenstand van zondaars te verduren had; dat zal u helpen om niet uit te vallen en de moed niet op te geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denk aan Hem die zulk een tegenstand van zondaars te verduren had; dat zal u helpen om niet uit te vallen en de moed niet op te geven."
+          }
+        ]
+      },
+      "id": "hebreeen.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Denkt aan hen die gevangen zijn als waart ge met hen in de gevangenis, en aan hen die mishandeld worden, want ook gij hebt een lichaam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denkt aan hen die gevangen zijn als waart ge met hen in de gevangenis, en aan hen die mishandeld worden, want ook gij hebt een lichaam."
+          }
+        ]
+      },
+      "id": "hebreeen.13.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "ver verheven boven de engelen, zoals Hij hen ook overtreft in de waardigheid die zijn deel is geworden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ver verheven boven de engelen, zoals Hij hen ook overtreft in de waardigheid die zijn deel is geworden."
+          }
+        ]
+      },
+      "id": "hebreeen.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "en God voegde er zijn getuigenis aan toe in de vorm van tekenen, wonderen en velerlei machtige daden en door de gaven van de heilige Geest uit te delen naar zijn welbehagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en God voegde er zijn getuigenis aan toe in de vorm van tekenen, wonderen en velerlei machtige daden en door de gaven van de heilige Geest uit te delen naar zijn welbehagen."
+          }
+        ]
+      },
+      "id": "hebreeen.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Ieder huis wordt door iemand gebouwd en de bouwheer van alles is God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ieder huis wordt door iemand gebouwd en de bouwheer van alles is God."
+          }
+        ]
+      },
+      "id": "hebreeen.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Dat volgt uit wat wij lezen over de zevende dag: En God rustte op de zevende dag van al zijn werk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat volgt uit wat wij lezen over de zevende dag: En God rustte op de zevende dag van al zijn werk."
+          }
+        ]
+      },
+      "id": "hebreeen.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "En niemand kan zich die waardigheid aanmatigen, men moet evenals Aäron door God geroepen worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En niemand kan zich die waardigheid aanmatigen, men moet evenals Aäron door God geroepen worden."
+          }
+        ]
+      },
+      "id": "hebreeen.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Want wanneer mensen eenmaal het licht hebben gezien en van de hemelse gave hebben geproefd en deelgenoot werden van de heilige Geest,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wanneer mensen eenmaal het licht hebben gezien en van de hemelse gave hebben geproefd en deelgenoot werden van de heilige Geest,"
+          }
+        ]
+      },
+      "id": "hebreeen.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Hoe groot moet hij wel zijn, dat Abraham, de aartsvader, hem een tiende gaf van het beste van de buit!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe groot moet hij wel zijn, dat Abraham, de aartsvader, hem een tiende gaf van het beste van de buit!"
+          }
+        ]
+      },
+      "id": "hebreeen.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Verbleef Hij op aarde, dan was Hij niet eens priester, daar er al priesters aanwezig zijn, die de door de wet voorgeschreven gaven offeren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verbleef Hij op aarde, dan was Hij niet eens priester, daar er al priesters aanwezig zijn, die de door de wet voorgeschreven gaven offeren,"
+          }
+        ]
+      },
+      "id": "hebreeen.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Daar stonden een gouden reukofferaltaar en de ark des verbonds, geheel met goud overtrokken, waarin zich bevonden een gouden vaas met het manna, de staf van Aäron die gebloeid had, en de tafelen van het verbond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar stonden een gouden reukofferaltaar en de ark des verbonds, geheel met goud overtrokken, waarin zich bevonden een gouden vaas met het manna, de staf van Aäron die gebloeid had, en de tafelen van het verbond."
+          }
+        ]
+      },
+      "id": "hebreeen.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "het is ook uitgesloten dat het bloed van stieren en bokken zonden zou wegnemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het is ook uitgesloten dat het bloed van stieren en bokken zonden zou wegnemen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Door het geloof was Abels offer zoveel beter dan dat van Ka&iuml;n; door het geloof ontving hij het getuigenis van zijn rechtvaardigheid, want God zelf aanvaardde zijn gaven; door het geloof blijft hij spreken, ook na zijn dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof was Abels offer zoveel beter dan dat van Kaïn; door het geloof ontving hij het getuigenis van zijn rechtvaardigheid, want God zelf aanvaardde zijn gaven; door het geloof blijft hij spreken, ook na zijn dood."
+          }
+        ]
+      },
+      "id": "hebreeen.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "Uw strijd tegen de zonde heeft u nog geen bloed gekost.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw strijd tegen de zonde heeft u nog geen bloed gekost."
+          }
+        ]
+      },
+      "id": "hebreeen.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Het huwelijk is iets kostbaars; laten we het allen in ere houden en de trouw respecteren. Gods oordeel zal komen over ontuchtigen en echtbrekers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het huwelijk is iets kostbaars; laten we het allen in ere houden en de trouw respecteren. Gods oordeel zal komen over ontuchtigen en echtbrekers."
+          }
+        ]
+      },
+      "id": "hebreeen.13.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Heeft God ooit tot een engel gezegd Gij zijt mijn zoon. Ik heb u heden verwekt? Of: ik zal een vader voor hem zijn en hij zal mijn zoon zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft God ooit tot een engel gezegd Gij zijt mijn zoon. Ik heb u heden verwekt? Of: ik zal een vader voor hem zijn en hij zal mijn zoon zijn?"
+          }
+        ]
+      },
+      "id": "hebreeen.1.5",
+      "title": "Christus boven de engelen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Het is zeker dat God niet aan engelen de heerschappij heeft gegeven over die wereld der toekomst, die ons eigenlijk onderwerp is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is zeker dat God niet aan engelen de heerschappij heeft gegeven over die wereld der toekomst, die ons eigenlijk onderwerp is."
+          }
+        ]
+      },
+      "id": "hebreeen.2.5",
+      "title": "Christus is middelaar, niet de engelen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Mozes was inderdaad getrouw in heel Gods huis, maar als dienaar, om te getuigen van de woorden die God zou spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mozes was inderdaad getrouw in heel Gods huis, maar als dienaar, om te getuigen van de woorden die God zou spreken."
+          }
+        ]
+      },
+      "id": "hebreeen.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "En hier lezen we: Nooit zullen zij ingaan in mijn rust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hier lezen we: Nooit zullen zij ingaan in mijn rust."
+          }
+        ]
+      },
+      "id": "hebreeen.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Ook Christus heeft zichzelf niet de eer van het hogepriesterschap toegekend; dat heeft God gedaan, die Hem zei: Gij zijt mijn zoon, Ik heb U heden verwekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook Christus heeft zichzelf niet de eer van het hogepriesterschap toegekend; dat heeft God gedaan, die Hem zei: Gij zijt mijn zoon, Ik heb U heden verwekt."
+          }
+        ]
+      },
+      "id": "hebreeen.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "wanneer zij de voortreffelijkheid van Gods woord en de krachten van de toekomstige wereld hebben ervaren",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wanneer zij de voortreffelijkheid van Gods woord en de krachten van de toekomstige wereld hebben ervaren"
+          }
+        ]
+      },
+      "id": "hebreeen.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "De nakomelingen van Levi die het priesterambt ontvangen, moeten volgens het voorschrift van de wet tienden heffen van het volk, dat wil zeggen, van hun eigen broeders, die toch ook van Abraham afstammen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De nakomelingen van Levi die het priesterambt ontvangen, moeten volgens het voorschrift van de wet tienden heffen van het volk, dat wil zeggen, van hun eigen broeders, die toch ook van Abraham afstammen."
+          }
+        ]
+      },
+      "id": "hebreeen.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "hoewel dezen dienst verrichten in een heiligdom dat slechts een kopie en een schaduw is van de hemelse werkelijkheid. Toen Mozes de tent ging vervaardigen, werd hem dan ook van Godswege gezegd: Zorg dat gij alles maakt volgens het model dat u op de berg is getoond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoewel dezen dienst verrichten in een heiligdom dat slechts een kopie en een schaduw is van de hemelse werkelijkheid. Toen Mozes de tent ging vervaardigen, werd hem dan ook van Godswege gezegd: Zorg dat gij alles maakt volgens het model dat u op de berg is getoond."
+          }
+        ]
+      },
+      "id": "hebreeen.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Boven de ark waren de kerubs der heerlijkheid, die het verzoendeksel overschaduwden. Wij kunnen hier nu niet verder op ingaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Boven de ark waren de kerubs der heerlijkheid, die het verzoendeksel overschaduwden. Wij kunnen hier nu niet verder op ingaan."
+          }
+        ]
+      },
+      "id": "hebreeen.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Daarom zegt Hij dan ook, als Hij in de wereld komt:<br />\r\n<em>Slachtoffers en gaven hebt Gij niet gewild,<br />\r\nmaar Gij hebt voor Mij een lichaam bereid.</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zegt Hij dan ook, als Hij in de wereld komt:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\n"
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Slachtoffers en gaven hebt Gij niet gewild,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nmaar Gij hebt voor Mij een lichaam bereid."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Door het geloof werd Henoch, zonder te sterven, naar een ander leven overgebracht; hij was er niet meer, want God had hem opgenomen. Want de Schrift getuigt dat hij, voor hij werd weggenomen, aan God had behaagd;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof werd Henoch, zonder te sterven, naar een ander leven overgebracht; hij was er niet meer, want God had hem opgenomen. Want de Schrift getuigt dat hij, voor hij werd weggenomen, aan God had behaagd;"
+          }
+        ]
+      },
+      "id": "hebreeen.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Zijt ge al het Schriftwoord vergeten dat u als kinderen aanspreekt en aanmoedigt: Kind, minacht de tucht van de Heer niet, laat u door zijn straf niet ontmoedigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijt ge al het Schriftwoord vergeten dat u als kinderen aanspreekt en aanmoedigt: Kind, minacht de tucht van de Heer niet, laat u door zijn straf niet ontmoedigen."
+          }
+        ]
+      },
+      "id": "hebreeen.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Leeft niet alleen voor geld, weest tevreden met wat ge hebt. God zelf heeft gezegd:&nbsp;<em>Ik laat u niet alleen, Ik zal u nooit in de steek laten.</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leeft niet alleen voor geld, weest tevreden met wat ge hebt. God zelf heeft gezegd: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Ik laat u niet alleen, Ik zal u nooit in de steek laten."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.13.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Wanneer Hij evenwel de eerstgeborene opnieuw de wereld binnenleidt, zegt Hij: Alle engelen Gods moeten Hem hulde brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer Hij evenwel de eerstgeborene opnieuw de wereld binnenleidt, zegt Hij: Alle engelen Gods moeten Hem hulde brengen."
+          }
+        ]
+      },
+      "id": "hebreeen.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Hier is de uitspraak van kracht die we lezen in de Schrift: Wat is de mens dat Gij hem gedenkt en het mensenkind dat Gij naar hem omziet?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier is de uitspraak van kracht die we lezen in de Schrift: Wat is de mens dat Gij hem gedenkt en het mensenkind dat Gij naar hem omziet?"
+          }
+        ]
+      },
+      "id": "hebreeen.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Christus echter is getrouw als zoon, aangesteld over het huis van God. En dat huis zijn wijzelf, als wij tenminste ons vertrouwen en de hoop die onze trots is ongeschokt bewaren tot het einde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Christus echter is getrouw als zoon, aangesteld over het huis van God. En dat huis zijn wijzelf, als wij tenminste ons vertrouwen en de hoop die onze trots is ongeschokt bewaren tot het einde."
+          }
+        ]
+      },
+      "id": "hebreeen.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Het staat dus vast dat er een rust is waarin mensen mogen binnengaan, maar zij die het eerst het goede nieuws hebben gehoord, zijn er niet binnengegaan, omdat zij weigerden te geloven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het staat dus vast dat er een rust is waarin mensen mogen binnengaan, maar zij die het eerst het goede nieuws hebben gehoord, zijn er niet binnengegaan, omdat zij weigerden te geloven."
+          }
+        ]
+      },
+      "id": "hebreeen.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "En elders zegt Hij: Gij zijt priester voor eeuwig, op de wijze van Melchisedek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En elders zegt Hij: Gij zijt priester voor eeuwig, op de wijze van Melchisedek."
+          }
+        ]
+      },
+      "id": "hebreeen.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "en na dit alles afvallen, kunnen zij onmogelijk weer tot bekering worden gebracht; want op hun manier hebben zij de Zoon van God opnieuw gekruisigd en aan bespotting prijsgegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en na dit alles afvallen, kunnen zij onmogelijk weer tot bekering worden gebracht; want op hun manier hebben zij de Zoon van God opnieuw gekruisigd en aan bespotting prijsgegeven."
+          }
+        ]
+      },
+      "id": "hebreeen.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Maar hij die niet tot hun geslacht behoorde, heeft tienden genomen van Abraham zelf en een zegen gegeven aan de drager van de beloften;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hij die niet tot hun geslacht behoorde, heeft tienden genomen van Abraham zelf en een zegen gegeven aan de drager van de beloften;"
+          }
+        ]
+      },
+      "id": "hebreeen.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "In feite echter is de bediening die Jezus is ten deel gevallen, veel verhevener, evenals het verbond waarvan Hij de middelaar is en de beloften waarop het berust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In feite echter is de bediening die Jezus is ten deel gevallen, veel verhevener, evenals het verbond waarvan Hij de middelaar is en de beloften waarop het berust."
+          }
+        ]
+      },
+      "id": "hebreeen.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "In het aldus ingerichte heiligdom gaan de priesters bij de uitoefening van de eredienst geregeld de eerste ruimte binnen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het aldus ingerichte heiligdom gaan de priesters bij de uitoefening van de eredienst geregeld de eerste ruimte binnen,"
+          }
+        ]
+      },
+      "id": "hebreeen.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "<em>Brandoffers en zoenoffers konden U niet behagen.</em>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Brandoffers en zoenoffers konden U niet behagen."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "en zonder het geloof is het onmogelijk aan God te behagen; wie bij God wil komen, moet geloven dat Hij bestaat en dat Hij beloont allen die Hem zoeken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zonder het geloof is het onmogelijk aan God te behagen; wie bij God wil komen, moet geloven dat Hij bestaat en dat Hij beloont allen die Hem zoeken."
+          }
+        ]
+      },
+      "id": "hebreeen.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Want de Heer tuchtigt hen die Hij liefheeft, Hij straft ieder die Hij als zijn kind erkent.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de Heer tuchtigt hen die Hij liefheeft, Hij straft ieder die Hij als zijn kind erkent."
+          }
+        ]
+      },
+      "id": "hebreeen.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Daarom kunnen wij met vertrouwen zeggen:<br />\r\n<em>De Heer is mijn helper,<br />\r\nik heb niets te vrezen.<br />\r\nWat kan een mens mij aandoen?</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom kunnen wij met vertrouwen zeggen:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\n"
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "De Heer is mijn helper,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nik heb niets te vrezen."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nWat kan een mens mij aandoen?"
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.13.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Terwijl Hij van de engelen zegt: Die zijn engelen tot stormwinden maakt en zijn dienaars tot laaiend vuur,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl Hij van de engelen zegt: Die zijn engelen tot stormwinden maakt en zijn dienaars tot laaiend vuur,"
+          }
+        ]
+      },
+      "id": "hebreeen.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Gij hebt hem een korte tijd beneden de engelen gesteld, Gij hebt hem met luister en eer gekroond,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt hem een korte tijd beneden de engelen gesteld, Gij hebt hem met luister en eer gekroond,"
+          }
+        ]
+      },
+      "id": "hebreeen.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Luistert dus naar wat de heilige Geest zegt: Heden, als gij zijn stem hoort,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luistert dus naar wat de heilige Geest zegt: Heden, als gij zijn stem hoort,"
+          }
+        ]
+      },
+      "id": "hebreeen.3.7",
+      "title": "Rust voor het volk van God",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Daarom stelt God na zoveel jaren opnieuw een heden vast met de woorden van David: Heden, als gij zijn stem hoort, weest dan niet halsstarrig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom stelt God na zoveel jaren opnieuw een heden vast met de woorden van David: Heden, als gij zijn stem hoort, weest dan niet halsstarrig."
+          }
+        ]
+      },
+      "id": "hebreeen.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "In de dagen van zijn sterfelijk leven heeft Hij onder luid geroep en geween gebeden en smekingen opgedragen aan God die Hem uit de dood kon redden. Om zijn vroomheid is Hij verhoord:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de dagen van zijn sterfelijk leven heeft Hij onder luid geroep en geween gebeden en smekingen opgedragen aan God die Hem uit de dood kon redden. Om zijn vroomheid is Hij verhoord:"
+          }
+        ]
+      },
+      "id": "hebreeen.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Wanneer de grond de telkens neervallende regen indrinkt en voor die hem bewerken bruikbaar gewas voortbrengt, deelt hij in de goddelijke zegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer de grond de telkens neervallende regen indrinkt en voor die hem bewerken bruikbaar gewas voortbrengt, deelt hij in de goddelijke zegen."
+          }
+        ]
+      },
+      "id": "hebreeen.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "en niemand kan ontkennen dat de mindere altijd gezegend wordt door de meerdere.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en niemand kan ontkennen dat de mindere altijd gezegend wordt door de meerdere."
+          }
+        ]
+      },
+      "id": "hebreeen.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Was dat eerste verbond zonder fout geweest, dan had men niet omgezien naar een tweede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Was dat eerste verbond zonder fout geweest, dan had men niet omgezien naar een tweede."
+          }
+        ]
+      },
+      "id": "hebreeen.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "maar de tweede wordt alleen door de hogepriesters betreden, slechts eenmaal in het jaar, en niet zonder het bloed dat hij opdraagt voor zichzelf en voor de tekortkomingen van het volk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar de tweede wordt alleen door de hogepriesters betreden, slechts eenmaal in het jaar, en niet zonder het bloed dat hij opdraagt voor zichzelf en voor de tekortkomingen van het volk."
+          }
+        ]
+      },
+      "id": "hebreeen.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "<em>Toen zei Ik: Hier ben Ik.<br />\r\nZoals er in de boekrol over Mij geschreven staat,<br />\r\nIk ben gekomen, o God,<br />\r\nom uw wil te doen.</em>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Toen zei Ik: Hier ben Ik."
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nZoals er in de boekrol over Mij geschreven staat,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nIk ben gekomen, o God,"
+              },
+              {
+                "tag": "br"
+              },
+              {
+                "text": "\r\nom uw wil te doen."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Door het geloof heeft Noach, na door God te zijn gewaarschuwd voor wat nog niet te zien was, met grote zorg de ark gebouwd, om zijn huisgezin te redden. Door zijn geloof heeft hij de wereld veroordeeld en zelf de gerechtigheid van het geloof verworven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft Noach, na door God te zijn gewaarschuwd voor wat nog niet te zien was, met grote zorg de ark gebouwd, om zijn huisgezin te redden. Door zijn geloof heeft hij de wereld veroordeeld en zelf de gerechtigheid van het geloof verworven."
+          }
+        ]
+      },
+      "id": "hebreeen.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Het lijden dient om u te verbeteren en op te voeden; God behandelt u als kinderen. Ieder kind wordt wel eens door zijn vader gestraft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het lijden dient om u te verbeteren en op te voeden; God behandelt u als kinderen. Ieder kind wordt wel eens door zijn vader gestraft."
+          }
+        ]
+      },
+      "id": "hebreeen.12.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Gedenkt uw leiders, die u het eerst het woord van God verkondigd hebben. Haalt u weer hun leven en de afloop van hun leven voor de geest; neemt een voorbeeld aan hun geloof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gedenkt uw leiders, die u het eerst het woord van God verkondigd hebben. Haalt u weer hun leven en de afloop van hun leven voor de geest; neemt een voorbeeld aan hun geloof."
+          }
+        ]
+      },
+      "id": "hebreeen.13.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "spreekt Hij over de Zoon aldus: Uw troon, o God, is voor altijd en eeuwig, en de scepter van het recht is de scepter van zijn koningschap.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "spreekt Hij over de Zoon aldus: Uw troon, o God, is voor altijd en eeuwig, en de scepter van het recht is de scepter van zijn koningschap."
+          }
+        ]
+      },
+      "id": "hebreeen.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Gij hebt alles aan hem onderworpen en aan zijn voeten gelegd. Dat God alle dingen aan de mens onderworpen heeft, betekent natuurlijk dat niets hiervan is uitgezonderd. In feite echter zien wij nog niet dat alle dingen aan Hem onderworpen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt alles aan hem onderworpen en aan zijn voeten gelegd. Dat God alle dingen aan de mens onderworpen heeft, betekent natuurlijk dat niets hiervan is uitgezonderd. In feite echter zien wij nog niet dat alle dingen aan Hem onderworpen zijn."
+          }
+        ]
+      },
+      "id": "hebreeen.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "weest dan niet halsstarrig, zoals eertijds bij het oproer, op de dag van de uitdaging in de woestijn",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "weest dan niet halsstarrig, zoals eertijds bij het oproer, op de dag van de uitdaging in de woestijn"
+          }
+        ]
+      },
+      "id": "hebreeen.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Als Jozua hen werkelijk in die rust had binnengeleid, zou God later niet meer over een andere dag gesproken hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als Jozua hen werkelijk in die rust had binnengeleid, zou God later niet meer over een andere dag gesproken hebben."
+          }
+        ]
+      },
+      "id": "hebreeen.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "hoewel Hij Gods Zoon was, heeft Hij in de school van het lijden gehoorzaamheid geleerd;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoewel Hij Gods Zoon was, heeft Hij in de school van het lijden gehoorzaamheid geleerd;"
+          }
+        ]
+      },
+      "id": "hebreeen.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Maar als hij distels en dorens voortbrengt, is het duidelijk dat hij niet deugt; de vervloeking is nabij en het einde is verbranding.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar als hij distels en dorens voortbrengt, is het duidelijk dat hij niet deugt; de vervloeking is nabij en het einde is verbranding."
+          }
+        ]
+      },
+      "id": "hebreeen.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Bovendien zijn het in het ene geval sterfelijke mensen die tienden krijgen, in het andere is het iemand van wie de Schrift getuigt dat hij leeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien zijn het in het ene geval sterfelijke mensen die tienden krijgen, in het andere is het iemand van wie de Schrift getuigt dat hij leeft."
+          }
+        ]
+      },
+      "id": "hebreeen.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Maar God laakt hun fouten met deze woorden: Er komen dagen, zegt de Heer, dat Ik met het huis van Israël en het huis van Juda een nieuw verbond zal sluiten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar God laakt hun fouten met deze woorden: Er komen dagen, zegt de Heer, dat Ik met het huis van Israël en het huis van Juda een nieuw verbond zal sluiten."
+          }
+        ]
+      },
+      "id": "hebreeen.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "De heilige Geest geeft hiermee te kennen, dat de toegang tot het heiligdom nog niet open staat zolang de eerste tabernakel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De heilige Geest geeft hiermee te kennen, dat de toegang tot het heiligdom nog niet open staat zolang de eerste tabernakel,"
+          }
+        ]
+      },
+      "id": "hebreeen.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Eerst zegt Hij: `Slachtoffers en gaven, brandoffers en zoenoffers hebt Gij niet gewild, die konden U niet behagen', hoewel de wet voorschrijft dat ze gebracht moeten worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eerst zegt Hij: `Slachtoffers en gaven, brandoffers en zoenoffers hebt Gij niet gewild, die konden U niet behagen', hoewel de wet voorschrijft dat ze gebracht moeten worden."
+          }
+        ]
+      },
+      "id": "hebreeen.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Door het geloof heeft Abraham gehoor gegeven aan de roepstem van God, en ging hij op weg naar een land dat bestemd was voor hem en zijn erfgenamen; hij vertrok zonder te weten waarheen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft Abraham gehoor gegeven aan de roepstem van God, en ging hij op weg naar een land dat bestemd was voor hem en zijn erfgenamen; hij vertrok zonder te weten waarheen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Tucht is het deel van allen; zou u elke kastijding bespaard blijven, dan waart gij bastaards, geen echte kinderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tucht is het deel van allen; zou u elke kastijding bespaard blijven, dan waart gij bastaards, geen echte kinderen."
+          }
+        ]
+      },
+      "id": "hebreeen.12.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "Jezus Christus is dezelfde gisteren, vandaag en tot in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jezus Christus is dezelfde gisteren, vandaag en tot in eeuwigheid."
+          }
+        ]
+      },
+      "id": "hebreeen.13.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Rechtvaardigheid hebt Gij liefgehad en onrecht gehaat; daarom, o God, heeft uw God U gezalfd met de olie der vreugde en U geplaatst boven uw gelijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rechtvaardigheid hebt Gij liefgehad en onrecht gehaat; daarom, o God, heeft uw God U gezalfd met de olie der vreugde en U geplaatst boven uw gelijken."
+          }
+        ]
+      },
+      "id": "hebreeen.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Maar wel zien wij hoe Jezus, die voor een korte tijd beneden de engelen was gesteld, nu met luister en eer gekroond is, omdat Hij de dood heeft verduurd. Door Gods genade kwam zijn sterven aan allen ten goede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wel zien wij hoe Jezus, die voor een korte tijd beneden de engelen was gesteld, nu met luister en eer gekroond is, omdat Hij de dood heeft verduurd. Door Gods genade kwam zijn sterven aan allen ten goede."
+          }
+        ]
+      },
+      "id": "hebreeen.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "waar uw vaderen Mij hebben uitgedaagd en op de proef gesteld, ofschoon zij mijn werk gezien hadden, veertig jaar lang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waar uw vaderen Mij hebben uitgedaagd en op de proef gesteld, ofschoon zij mijn werk gezien hadden, veertig jaar lang."
+          }
+        ]
+      },
+      "id": "hebreeen.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Hieruit volgt dat het volk van God nog een sabbatsrust te wachten staat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hieruit volgt dat het volk van God nog een sabbatsrust te wachten staat."
+          }
+        ]
+      },
+      "id": "hebreeen.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "en toen Hij het einde had bereikt, is Hij voor allen die Hem gehoorzamen oorzaak geworden van eeuwige heil,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en toen Hij het einde had bereikt, is Hij voor allen die Hem gehoorzamen oorzaak geworden van eeuwige heil,"
+          }
+        ]
+      },
+      "id": "hebreeen.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Maar ook al spreken wij zo streng: in uw geval, vrienden, zijn wij overtuigd van iets beters: gij zijt op weg naar het heil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ook al spreken wij zo streng: in uw geval, vrienden, zijn wij overtuigd van iets beters: gij zijt op weg naar het heil."
+          }
+        ]
+      },
+      "id": "hebreeen.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Men zou zelfs kunnen zeggen dat Levi, die het recht heeft tienden te heffen, zelf tienden heeft betaald in de persoon van Abraham:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men zou zelfs kunnen zeggen dat Levi, die het recht heeft tienden te heffen, zelf tienden heeft betaald in de persoon van Abraham:"
+          }
+        ]
+      },
+      "id": "hebreeen.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Het zal anders zijn dan het verbond dat Ik met hun vaderen sloot, toen Ik hen bij de hand vatte om ze uit Egypte te leiden, want zij hebben zich niet aan mijn verbond gehouden en Ik heb Mij niet meer om hen bekommerd, zegt de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zal anders zijn dan het verbond dat Ik met hun vaderen sloot, toen Ik hen bij de hand vatte om ze uit Egypte te leiden, want zij hebben zich niet aan mijn verbond gehouden en Ik heb Mij niet meer om hen bekommerd, zegt de Heer."
+          }
+        ]
+      },
+      "id": "hebreeen.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "die een zinnebeeld is van de tegenwoordige tijd, nog dienstdoet. Er worden daar immers gaven en offers gebracht, die de offeraar de inwendige volkomenheid niet kunnen geven;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die een zinnebeeld is van de tegenwoordige tijd, nog dienstdoet. Er worden daar immers gaven en offers gebracht, die de offeraar de inwendige volkomenheid niet kunnen geven;"
+          }
+        ]
+      },
+      "id": "hebreeen.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "En dan zegt Hij: `Hier ben Ik, Ik ben gekomen om uw wil te doen'. Hij schaft dus het eerste af om het tweede te laten gelden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dan zegt Hij: `Hier ben Ik, Ik ben gekomen om uw wil te doen'. Hij schaft dus het eerste af om het tweede te laten gelden."
+          }
+        ]
+      },
+      "id": "hebreeen.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Door het geloof heeft hij als vreemdeling vertoefd in het land dat hem beloofd was; hij woonde er in tenten, evenals Isaak en Jakob, die dezelfde belofte erfden;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft hij als vreemdeling vertoefd in het land dat hem beloofd was; hij woonde er in tenten, evenals Isaak en Jakob, die dezelfde belofte erfden;"
+          }
+        ]
+      },
+      "id": "hebreeen.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "We hadden trouwens in onze jeugd ontzag voor onze aardse vaders, als ze ons straften; dan moeten we ons des te gereder onderwerpen aan de Vader van de hemelse geesten, die ons doet leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "We hadden trouwens in onze jeugd ontzag voor onze aardse vaders, als ze ons straften; dan moeten we ons des te gereder onderwerpen aan de Vader van de hemelse geesten, die ons doet leven."
+          }
+        ]
+      },
+      "id": "hebreeen.12.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Laat u niet van de wijs brengen door allerlei vreemde theorieën. Wij steunen terecht op Gods genade, niet op spijzen; zij die het daarin zochten, hebben er geen baat bij gevonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat u niet van de wijs brengen door allerlei vreemde theorieën. Wij steunen terecht op Gods genade, niet op spijzen; zij die het daarin zochten, hebben er geen baat bij gevonden."
+          }
+        ]
+      },
+      "id": "hebreeen.13.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "En elders: In het begin, o Heer, hebt Gij de aarde gegrondvest en de hemel is het werk van uw handen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En elders: In het begin, o Heer, hebt Gij de aarde gegrondvest en de hemel is het werk van uw handen."
+          }
+        ]
+      },
+      "id": "hebreeen.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Het was passend dat God, einde en oorsprong van alles, wilde Hij vele kinderen de hemelse heerlijkheid binnenleiden, ook de aanvoerder die hen redt door lijden tot de voleinding bracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het was passend dat God, einde en oorsprong van alles, wilde Hij vele kinderen de hemelse heerlijkheid binnenleiden, ook de aanvoerder die hen redt door lijden tot de voleinding bracht."
+          }
+        ]
+      },
+      "id": "hebreeen.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Daarom werd Ik toornig op dat geslacht en Ik zei: Altijd door dwaalt hun hart, mijn wegen hebben zij niet willen kennen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom werd Ik toornig op dat geslacht en Ik zei: Altijd door dwaalt hun hart, mijn wegen hebben zij niet willen kennen."
+          }
+        ]
+      },
+      "id": "hebreeen.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "En wie Gods rust mag binnengaan rust uit van al zijn werk, zoals God uitrust van het zijne.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wie Gods rust mag binnengaan rust uit van al zijn werk, zoals God uitrust van het zijne."
+          }
+        ]
+      },
+      "id": "hebreeen.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "door God uitgeroepen tot hogepriester op de wijze van Melchisedek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "door God uitgeroepen tot hogepriester op de wijze van Melchisedek."
+          }
+        ]
+      },
+      "id": "hebreeen.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "God is rechtvaardig; Hij kan niet vergeten wat gij uit liefde voor zijn naam hebt gedaan, al de diensten die gij de heiligen hebt bewezen en nog bewijst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God is rechtvaardig; Hij kan niet vergeten wat gij uit liefde voor zijn naam hebt gedaan, al de diensten die gij de heiligen hebt bewezen en nog bewijst."
+          }
+        ]
+      },
+      "id": "hebreeen.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "want hij was nog in de lendenen van zijn voorvader, toen deze door Melchisedek begroet werd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want hij was nog in de lendenen van zijn voorvader, toen deze door Melchisedek begroet werd."
+          }
+        ]
+      },
+      "id": "hebreeen.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "En zo zal het verbond zijn dat Ik met het huis van Israël zal sluiten, zegt de Heer: Mijn wetten prent Ik in hun geest en Ik grif ze in hun hart: Ik zal hun God zijn en zij zullen mijn volk zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zo zal het verbond zijn dat Ik met het huis van Israël zal sluiten, zegt de Heer: Mijn wetten prent Ik in hun geest en Ik grif ze in hun hart: Ik zal hun God zijn en zij zullen mijn volk zijn."
+          }
+        ]
+      },
+      "id": "hebreeen.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "het betreft hier spijzen, dranken en allerlei reinigingsriten, in een woord uiterlijke voorschriften, die slechts van kracht blijven tot de tijd van het betere bestel is aangebroken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het betreft hier spijzen, dranken en allerlei reinigingsriten, in een woord uiterlijke voorschriften, die slechts van kracht blijven tot de tijd van het betere bestel is aangebroken."
+          }
+        ]
+      },
+      "id": "hebreeen.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Door die wil zijn wij geheiligd, eens voor al, door het offer van het lichaam van Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door die wil zijn wij geheiligd, eens voor al, door het offer van het lichaam van Jezus Christus."
+          }
+        ]
+      },
+      "id": "hebreeen.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "want hij zag uit naar de stad met fundamenten, waarvan God de ontwerper en bouwer is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want hij zag uit naar de stad met fundamenten, waarvan God de ontwerper en bouwer is."
+          }
+        ]
+      },
+      "id": "hebreeen.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Zij hebben ons opgevoed voor dit kort leven, volgens hun eigen ideeën; Hij voedt ons op voor ons welzijn, om ons deel te geven aan zijn eigen, eeuwige heiligheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben ons opgevoed voor dit kort leven, volgens hun eigen ideeën; Hij voedt ons op voor ons welzijn, om ons deel te geven aan zijn eigen, eeuwige heiligheid."
+          }
+        ]
+      },
+      "id": "hebreeen.12.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Wij hebben een altaar waarvan de priesters van de tabernakel niet mogen eten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben een altaar waarvan de priesters van de tabernakel niet mogen eten."
+          }
+        ]
+      },
+      "id": "hebreeen.13.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Zij zullen vergaan, Gij echter blijft. Zij zullen verslijten als kleren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen vergaan, Gij echter blijft. Zij zullen verslijten als kleren,"
+          }
+        ]
+      },
+      "id": "hebreeen.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Want Hij die heiligt en zij die geheiligd worden hebben een en dezelfde oorsprong; daarom schrikt Hij er ook niet voor terug hen zijn broeders te noemen, wanneer Hij zegt:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Hij die heiligt en zij die geheiligd worden hebben een en dezelfde oorsprong; daarom schrikt Hij er ook niet voor terug hen zijn broeders te noemen, wanneer Hij zegt:"
+          }
+        ]
+      },
+      "id": "hebreeen.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "En Ik heb gezworen in mijn gramschap: nooit zullen zij ingaan in mijn rust.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Ik heb gezworen in mijn gramschap: nooit zullen zij ingaan in mijn rust."
+          }
+        ]
+      },
+      "id": "hebreeen.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Laten we ons dus inspannen die rust binnen te gaan. Laat niemand ten val komen door het slechte voorbeeld van hun ongeloof na te volgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we ons dus inspannen die rust binnen te gaan. Laat niemand ten val komen door het slechte voorbeeld van hun ongeloof na te volgen."
+          }
+        ]
+      },
+      "id": "hebreeen.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Over dit onderwerp hebben wij veel te zeggen, dat moeilijk uit te leggen is, nu gij zo traag van begrip geworden zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Over dit onderwerp hebben wij veel te zeggen, dat moeilijk uit te leggen is, nu gij zo traag van begrip geworden zijt."
+          }
+        ]
+      },
+      "id": "hebreeen.5.11",
+      "title": "Volhardt in uw geloof",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Maar ik zou wensen dat ieder van u dezelfde vurige ijver blijft tonen, totdat uw hoop geheel in vervulling is gegaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik zou wensen dat ieder van u dezelfde vurige ijver blijft tonen, totdat uw hoop geheel in vervulling is gegaan."
+          }
+        ]
+      },
+      "id": "hebreeen.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Wanneer nu het levitische priesterschap - en op deze basis heeft het volk toch de wet ontvangen - het volmaakte had kunnen brengen, waarom was het dan nog nodig geweest om te spreken van een andere priester die zou komen, een priester `op de wijze van Melchis&eacute;dek&#39; en niet op de wijze van A&auml;ron?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer nu het levitische priesterschap - en op deze basis heeft het volk toch de wet ontvangen - het volmaakte had kunnen brengen, waarom was het dan nog nodig geweest om te spreken van een andere priester die zou komen, een priester `op de wijze van Melchisédek' en niet op de wijze van Aäron?"
+          }
+        ]
+      },
+      "id": "hebreeen.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Dan zal niemand meer zijn medeburger onderrichten noch zeggen tot zijn broeder: Ken uw Heer. Allen zullen ze Mij kennen, van de kleinste tot de grootste.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal niemand meer zijn medeburger onderrichten noch zeggen tot zijn broeder: Ken uw Heer. Allen zullen ze Mij kennen, van de kleinste tot de grootste."
+          }
+        ]
+      },
+      "id": "hebreeen.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Maar nu is Christus gekomen, de hogepriester van het waarachtige heil. De tent van zijn priesterschap is groter en volmaakter dan de vorige; ze is niet gemaakt door mensenhand, dat wil zeggen, ze behoort niet tot onze geschapen wereld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar nu is Christus gekomen, de hogepriester van het waarachtige heil. De tent van zijn priesterschap is groter en volmaakter dan de vorige; ze is niet gemaakt door mensenhand, dat wil zeggen, ze behoort niet tot onze geschapen wereld."
+          }
+        ]
+      },
+      "id": "hebreeen.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Verder, iedere priester verricht dagelijks staande de dienst en draagt telkens weer dezelfde offers op, die nooit de zonden kunnen wegnemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verder, iedere priester verricht dagelijks staande de dienst en draagt telkens weer dezelfde offers op, die nooit de zonden kunnen wegnemen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Door het geloof heeft ook Sara, ofschoon haar tijd al lang voorbij was, de kracht tot vruchtbaarheid ontvangen, want zij wist dat Hij die de belofte had gedaan, zijn woord zou houden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft ook Sara, ofschoon haar tijd al lang voorbij was, de kracht tot vruchtbaarheid ontvangen, want zij wist dat Hij die de belofte had gedaan, zijn woord zou houden."
+          }
+        ]
+      },
+      "id": "hebreeen.11.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Tucht is nooit prettig, op het moment zelf is er meer verdriet dan blijdschap; maar op de lange termijn levert ze voor degenen die zich door haar lieten vormen, de heilzame vrucht op van een heilig leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tucht is nooit prettig, op het moment zelf is er meer verdriet dan blijdschap; maar op de lange termijn levert ze voor degenen die zich door haar lieten vormen, de heilzame vrucht op van een heilig leven."
+          }
+        ]
+      },
+      "id": "hebreeen.12.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Zoals ge weet, verbrandt men buiten de legerplaats de lichamen van de dieren, waarvan het bloed door de hogepriester in het heiligdom wordt gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals ge weet, verbrandt men buiten de legerplaats de lichamen van de dieren, waarvan het bloed door de hogepriester in het heiligdom wordt gebracht."
+          }
+        ]
+      },
+      "id": "hebreeen.13.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Gij zult ze opvouwen als een mantel, gelijk een kledingstuk zullen zij verwisseld worden. Gij echter zijt dezelfde en uw jaren nemen geen einde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zult ze opvouwen als een mantel, gelijk een kledingstuk zullen zij verwisseld worden. Gij echter zijt dezelfde en uw jaren nemen geen einde."
+          }
+        ]
+      },
+      "id": "hebreeen.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ik zal uw naam verkondigen aan mijn broeders en uw lof zingen midden in de gemeente;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal uw naam verkondigen aan mijn broeders en uw lof zingen midden in de gemeente;"
+          }
+        ]
+      },
+      "id": "hebreeen.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Zorgt ervoor, broeders, dat onder u niemand zo'n slechte en trouweloze gezindheid heeft, die leidt tot afval van de levende God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zorgt ervoor, broeders, dat onder u niemand zo'n slechte en trouweloze gezindheid heeft, die leidt tot afval van de levende God."
+          }
+        ]
+      },
+      "id": "hebreeen.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Want het woord van God is levend en krachtig. Het is scherper dan een tweesnijdend zwaard en dringt door tot het raakpunt van ziel en geest, van gewrichten en merg. Het ontleedt de bedoelingen en gedachten van de mens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want het woord van God is levend en krachtig. Het is scherper dan een tweesnijdend zwaard en dringt door tot het raakpunt van ziel en geest, van gewrichten en merg. Het ontleedt de bedoelingen en gedachten van de mens."
+          }
+        ]
+      },
+      "id": "hebreeen.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Na zoveel tijd hadt gij reeds leermeesters moeten zijn, terwijl gij in werkelijkheid weer iemand nodig hebt om u te onderrichten in de eerste beginselen van de leer die God heeft geopenbaard. Het is zover gekomen dat gij melk nodig hebt in plaats van vaste spijs.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na zoveel tijd hadt gij reeds leermeesters moeten zijn, terwijl gij in werkelijkheid weer iemand nodig hebt om u te onderrichten in de eerste beginselen van de leer die God heeft geopenbaard. Het is zover gekomen dat gij melk nodig hebt in plaats van vaste spijs."
+          }
+        ]
+      },
+      "id": "hebreeen.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Ge moogt niet lui worden, maar moet een voorbeeld nemen aan hen die door geloof en geduld deel krijgen aan de beloften.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge moogt niet lui worden, maar moet een voorbeeld nemen aan hen die door geloof en geduld deel krijgen aan de beloften."
+          }
+        ]
+      },
+      "id": "hebreeen.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Want uit een verandering van priesterschap volgt onvermijdelijk een verandering van wet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want uit een verandering van priesterschap volgt onvermijdelijk een verandering van wet."
+          }
+        ]
+      },
+      "id": "hebreeen.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Want Ik zal hun ongerechtigheden vergeven en hun zonden niet langer gedenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Ik zal hun ongerechtigheden vergeven en hun zonden niet langer gedenken."
+          }
+        ]
+      },
+      "id": "hebreeen.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Het bloed van zijn offer is zijn eigen bloed, niet dat van bokken en kalveren. Zo is Hij het heiligdom binnengegaan, eens voor altijd, en Hij heeft een eeuwige verlossing verworven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het bloed van zijn offer is zijn eigen bloed, niet dat van bokken en kalveren. Zo is Hij het heiligdom binnengegaan, eens voor altijd, en Hij heeft een eeuwige verlossing verworven."
+          }
+        ]
+      },
+      "id": "hebreeen.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Hij daarentegen is voor altijd gezeten aan de rechterhand van God, na een enkel offer voor de zonden te hebben gebracht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij daarentegen is voor altijd gezeten aan de rechterhand van God, na een enkel offer voor de zonden te hebben gebracht,"
+          }
+        ]
+      },
+      "id": "hebreeen.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Daarom is dan ook aan een man, en nog wel in zijn hoge ouderdom, een nageslacht ontsproten, talrijk als de sterren aan de hemel, ontelbaar als de zandkorrels aan het strand van de zee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is dan ook aan een man, en nog wel in zijn hoge ouderdom, een nageslacht ontsproten, talrijk als de sterren aan de hemel, ontelbaar als de zandkorrels aan het strand van de zee."
+          }
+        ]
+      },
+      "id": "hebreeen.11.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "Daarom, heft op de slappe handen, strekt de wankele knieën,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, heft op de slappe handen, strekt de wankele knieën,"
+          }
+        ]
+      },
+      "id": "hebreeen.12.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Daarom heeft ook Jezus buiten de stadspoort geleden, om het volk te heiligen door zijn eigen bloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom heeft ook Jezus buiten de stadspoort geleden, om het volk te heiligen door zijn eigen bloed."
+          }
+        ]
+      },
+      "id": "hebreeen.13.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Heeft Hij ooit tot een van de engelen gezegd: Zet u aan mijn rechterhand, totdat Ik uw vijanden gemaakt heb tot een voetbank voor uw voeten?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft Hij ooit tot een van de engelen gezegd: Zet u aan mijn rechterhand, totdat Ik uw vijanden gemaakt heb tot een voetbank voor uw voeten?"
+          }
+        ]
+      },
+      "id": "hebreeen.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "en opnieuw: Ik zal Mij geheel op Hem verlaten; en nog eens: Hier ben ik met de kinderen die God mij gegeven heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en opnieuw: Ik zal Mij geheel op Hem verlaten; en nog eens: Hier ben ik met de kinderen die God mij gegeven heeft."
+          }
+        ]
+      },
+      "id": "hebreeen.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Spreekt elkaar moed in, elke dag, zolang dat `heden' duurt, zodat niemand zich door de zonde tot zulk een halsstarrigheid laat verleiden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spreekt elkaar moed in, elke dag, zolang dat `heden' duurt, zodat niemand zich door de zonde tot zulk een halsstarrigheid laat verleiden."
+          }
+        ]
+      },
+      "id": "hebreeen.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Geen schepsel is voor Hem verborgen, alles ligt open en bloot voor zijn ogen. Aan Hem hebben wij rekenschap af te leggen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geen schepsel is voor Hem verborgen, alles ligt open en bloot voor zijn ogen. Aan Hem hebben wij rekenschap af te leggen."
+          }
+        ]
+      },
+      "id": "hebreeen.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Wie van melk leeft is een zuigeling; die heeft nog geen weet van de rechte leer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie van melk leeft is een zuigeling; die heeft nog geen weet van de rechte leer."
+          }
+        ]
+      },
+      "id": "hebreeen.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Toen God aan Abraham zijn belofte deed, zwoer Hij bij zichzelf, daar Hij niemand boven zich had om bij te zweren:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen God aan Abraham zijn belofte deed, zwoer Hij bij zichzelf, daar Hij niemand boven zich had om bij te zweren:"
+          }
+        ]
+      },
+      "id": "hebreeen.6.13",
+      "title": "God is trouw aan zijn belofte",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Degene van wie hier sprake is, behoort tot een andere stam, waarvan nog nooit iemand met het altaar van doen had;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Degene van wie hier sprake is, behoort tot een andere stam, waarvan nog nooit iemand met het altaar van doen had;"
+          }
+        ]
+      },
+      "id": "hebreeen.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Door te spreken van een nieuw verbond heeft Hij het eerste voor verouderd verklaard, en alles wat oud en bejaard wordt, staat op het punt te verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door te spreken van een nieuw verbond heeft Hij het eerste voor verouderd verklaard, en alles wat oud en bejaard wordt, staat op het punt te verdwijnen."
+          }
+        ]
+      },
+      "id": "hebreeen.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Want als het bloed van bokken en stieren en de gesprenkelde as van een vaars de verontreinigden kan heiligen zodat zij wettelijk rein worden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want als het bloed van bokken en stieren en de gesprenkelde as van een vaars de verontreinigden kan heiligen zodat zij wettelijk rein worden,"
+          }
+        ]
+      },
+      "id": "hebreeen.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "nog slechts wachtend op het ogenblik dat zijn vijanden worden gemaakt tot een voetbank voor zijn voeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "nog slechts wachtend op het ogenblik dat zijn vijanden worden gemaakt tot een voetbank voor zijn voeten."
+          }
+        ]
+      },
+      "id": "hebreeen.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "In geloof zijn zij allen gestorven, zonder te hebben ontvangen wat hun beloofd was. Zij hebben het heil alleen uit de verte gezien en begroet. Zij hebben zichzelf vreemdelingen en passanten op aarde genoemd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In geloof zijn zij allen gestorven, zonder te hebben ontvangen wat hun beloofd was. Zij hebben het heil alleen uit de verte gezien en begroet. Zij hebben zichzelf vreemdelingen en passanten op aarde genoemd."
+          }
+        ]
+      },
+      "id": "hebreeen.11.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "laat uw voeten rechte wegen gaan; het kreupele lid mag niet ontwricht worden, maar moet genezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "laat uw voeten rechte wegen gaan; het kreupele lid mag niet ontwricht worden, maar moet genezen."
+          }
+        ]
+      },
+      "id": "hebreeen.12.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Laten wij ons dan bij hem voegen, buiten de legerplaats, en zijn versmading dragen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij ons dan bij hem voegen, buiten de legerplaats, en zijn versmading dragen,"
+          }
+        ]
+      },
+      "id": "hebreeen.13.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Wat zijn zij anders dan dienende geesten, uitgezonden ten behoeve van hen voor wie het heil is weggelegd?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat zijn zij anders dan dienende geesten, uitgezonden ten behoeve van hen voor wie het heil is weggelegd?"
+          }
+        ]
+      },
+      "id": "hebreeen.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "De kinderen van een familie hebben deel aan hetzelfde vlees en bloed; daarom heeft Hij ons bestaan willen delen, om door zijn dood de vorst van de dood, de duivel, te onttronen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De kinderen van een familie hebben deel aan hetzelfde vlees en bloed; daarom heeft Hij ons bestaan willen delen, om door zijn dood de vorst van de dood, de duivel, te onttronen,"
+          }
+        ]
+      },
+      "id": "hebreeen.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Want wij zijn Christus' deelgenoten geworden, mits we ons aanvankelijk vertrouwen ongeschokt bewaren tot het einde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij zijn Christus' deelgenoten geworden, mits we ons aanvankelijk vertrouwen ongeschokt bewaren tot het einde."
+          }
+        ]
+      },
+      "id": "hebreeen.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Nu wij een verheven hogepriester hebben, een die de hemelen is doorgegaan, Jezus, de Zoon van God, moeten wij vasthouden aan onze belijdenis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu wij een verheven hogepriester hebben, een die de hemelen is doorgegaan, Jezus, de Zoon van God, moeten wij vasthouden aan onze belijdenis."
+          }
+        ]
+      },
+      "id": "hebreeen.4.14",
+      "title": "De barmhartige hogepriester",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Maar volwassenen gebruiken vast voedsel, hun zinnen zijn door ervaring en oefening gescherpt om onderscheid te maken tussen goed en kwaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar volwassenen gebruiken vast voedsel, hun zinnen zijn door ervaring en oefening gescherpt om onderscheid te maken tussen goed en kwaad."
+          }
+        ]
+      },
+      "id": "hebreeen.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Ik beloof dat Ik u zal zegenen en uw nageslacht talrijk zal maken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik beloof dat Ik u zal zegenen en uw nageslacht talrijk zal maken."
+          }
+        ]
+      },
+      "id": "hebreeen.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "het is algemeen bekend dat onze Heer is voortgekomen uit Juda, een stam, die door Mozes in zijn bepalingen over de priesters helemaal niet is vermeld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het is algemeen bekend dat onze Heer is voortgekomen uit Juda, een stam, die door Mozes in zijn bepalingen over de priesters helemaal niet is vermeld."
+          }
+        ]
+      },
+      "id": "hebreeen.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "hoeveel groter is de kracht van Christus' bloed! Door de eeuwige Geest heeft Hij zichzelf aan God geofferd als een smetteloos offer, dat onze ziel zuivert van dode werken om de levende God te eren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoeveel groter is de kracht van Christus' bloed! Door de eeuwige Geest heeft Hij zichzelf aan God geofferd als een smetteloos offer, dat onze ziel zuivert van dode werken om de levende God te eren."
+          }
+        ]
+      },
+      "id": "hebreeen.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Want door een offer heeft Hij voor altijd hen die zich laten heiligen tot volmaaktheid gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want door een offer heeft Hij voor altijd hen die zich laten heiligen tot volmaaktheid gebracht."
+          }
+        ]
+      },
+      "id": "hebreeen.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "Wie zo spreken, geven duidelijk te kennen, dat zij op zoek zijn naar een vaderland.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zo spreken, geven duidelijk te kennen, dat zij op zoek zijn naar een vaderland."
+          }
+        ]
+      },
+      "id": "hebreeen.11.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Streeft naar vrede met alle mensen, en naar een heilig leven, want zonder dat zal niemand de Heer zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Streeft naar vrede met alle mensen, en naar een heilig leven, want zonder dat zal niemand de Heer zien."
+          }
+        ]
+      },
+      "id": "hebreeen.12.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "want wij hebben hier geen blijvende stad, maar zijn op zoek naar de stad van de toekomst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want wij hebben hier geen blijvende stad, maar zijn op zoek naar de stad van de toekomst."
+          }
+        ]
+      },
+      "id": "hebreeen.13.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "en te bevrijden hen die door de vrees voor de dood heel hun leven aan onvrijheid onderworpen waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en te bevrijden hen die door de vrees voor de dood heel hun leven aan onvrijheid onderworpen waren."
+          }
+        ]
+      },
+      "id": "hebreeen.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "De Schrift zegt: Heden, als gij zijn stem hoort, weest dan niet halsstarrig, zoals eertijds bij het oproer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Schrift zegt: Heden, als gij zijn stem hoort, weest dan niet halsstarrig, zoals eertijds bij het oproer."
+          }
+        ]
+      },
+      "id": "hebreeen.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Want wij hebben een hogepriester die in staat is mee te voelen met onze zwakheden; Hij werd zelf op allerlei manieren op de proef gesteld, precies zoals wij, afgezien dan van de zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij hebben een hogepriester die in staat is mee te voelen met onze zwakheden; Hij werd zelf op allerlei manieren op de proef gesteld, precies zoals wij, afgezien dan van de zonde."
+          }
+        ]
+      },
+      "id": "hebreeen.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Abraham heeft dan ook, na lang en geduldig wachten, gekregen wat hem beloofd was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Abraham heeft dan ook, na lang en geduldig wachten, gekregen wat hem beloofd was."
+          }
+        ]
+      },
+      "id": "hebreeen.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Dit wordt nog veel duidelijker, wanneer wij bedenken dat als evenbeeld van Melchis&eacute;dek een nieuwe priester opstaat,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit wordt nog veel duidelijker, wanneer wij bedenken dat als evenbeeld van Melchisédek een nieuwe priester opstaat,"
+          }
+        ]
+      },
+      "id": "hebreeen.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "En daarom is Hij middelaar van een nieuw verbond: er heeft een sterven plaatsgehad dat bevrijding brengt van de zonden die onder het eerste verbond zijn bedreven; nu kunnen zij die door God geroepen zijn het eeuwig erfdeel ontvangen dat hun is toegezegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daarom is Hij middelaar van een nieuw verbond: er heeft een sterven plaatsgehad dat bevrijding brengt van de zonden die onder het eerste verbond zijn bedreven; nu kunnen zij die door God geroepen zijn het eeuwig erfdeel ontvangen dat hun is toegezegd."
+          }
+        ]
+      },
+      "id": "hebreeen.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "We hebben hiervoor ook het getuigenis van de heilige Geest. Eerst zegt Hij:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "We hebben hiervoor ook het getuigenis van de heilige Geest. Eerst zegt Hij:"
+          }
+        ]
+      },
+      "id": "hebreeen.10.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "Hadden zij heimwee gehad naar het land van hun herkomst, dan hadden zij gemakkelijk kunnen terugkeren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hadden zij heimwee gehad naar het land van hun herkomst, dan hadden zij gemakkelijk kunnen terugkeren,"
+          }
+        ]
+      },
+      "id": "hebreeen.11.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Past op dat niemand van u de genade van God verspeelt. Laat geen bitter, schadelijk onkruid opkomen dat uw hele gemeente vergiftigt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Past op dat niemand van u de genade van God verspeelt. Laat geen bitter, schadelijk onkruid opkomen dat uw hele gemeente vergiftigt."
+          }
+        ]
+      },
+      "id": "hebreeen.12.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "En door Jezus willen wij God voortdurend een lofoffer brengen, de hulde namelijk van lippen die zijn naam prijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En door Jezus willen wij God voortdurend een lofoffer brengen, de hulde namelijk van lippen die zijn naam prijzen."
+          }
+        ]
+      },
+      "id": "hebreeen.13.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Want het zijn niet de engelen wier lot hij zich aantrekt, maar de nakomelingen van Abraham.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want het zijn niet de engelen wier lot hij zich aantrekt, maar de nakomelingen van Abraham."
+          }
+        ]
+      },
+      "id": "hebreeen.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Wie waren dat die zijn stem hoorden en rebelleerden? Allen die onder Mozes uit Egypte waren getrokken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie waren dat die zijn stem hoorden en rebelleerden? Allen die onder Mozes uit Egypte waren getrokken."
+          }
+        ]
+      },
+      "id": "hebreeen.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Laten wij daarom vrijmoedig naderen tot de troon van Gods genade, om barmhartigheid en genade te verkrijgen en tijdige hulp.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij daarom vrijmoedig naderen tot de troon van Gods genade, om barmhartigheid en genade te verkrijgen en tijdige hulp."
+          }
+        ]
+      },
+      "id": "hebreeen.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Mensen zweren bij een hogere macht, en de eed is voor hen de hoogste vorm van bevestiging, die alle tegenspraak moet uitsluiten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mensen zweren bij een hogere macht, en de eed is voor hen de hoogste vorm van bevestiging, die alle tegenspraak moet uitsluiten."
+          }
+        ]
+      },
+      "id": "hebreeen.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "die priester is geworden niet op grond van een wettelijk vereiste afstamming, maar uit kracht van een onvergankelijk leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die priester is geworden niet op grond van een wettelijk vereiste afstamming, maar uit kracht van een onvergankelijk leven."
+          }
+        ]
+      },
+      "id": "hebreeen.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Waar een testament is, moet de dood van de erflater worden aangetoond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar een testament is, moet de dood van de erflater worden aangetoond."
+          }
+        ]
+      },
+      "id": "hebreeen.9.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "Dit is het verbond dat Ik met hen zal sluiten na die dagen, zegt de Heer: Ik zal mijn wetten in hun hart leggen, Ik grif ze in hun geest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is het verbond dat Ik met hen zal sluiten na die dagen, zegt de Heer: Ik zal mijn wetten in hun hart leggen, Ik grif ze in hun geest."
+          }
+        ]
+      },
+      "id": "hebreeen.10.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "maar hun verlangen ging uit naar een beter vaderland, het hemelse. Daarom schaamt God zich niet hun God genoemd te worden, want Hij heeft voor hen een stad gebouwd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar hun verlangen ging uit naar een beter vaderland, het hemelse. Daarom schaamt God zich niet hun God genoemd te worden, want Hij heeft voor hen een stad gebouwd."
+          }
+        ]
+      },
+      "id": "hebreeen.11.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Laat er geen ontuchtige zijn of verachter van het heilige, zoals Esau, die voor &eacute;&eacute;n enkele maaltijd zijn geboorterecht verkocht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat er geen ontuchtige zijn of verachter van het heilige, zoals Esau, die voor één enkele maaltijd zijn geboorterecht verkocht."
+          }
+        ]
+      },
+      "id": "hebreeen.12.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "Vergeet ook nooit elkaar goed te doen en te helpen, want dat zijn de offers die God behagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vergeet ook nooit elkaar goed te doen en te helpen, want dat zijn de offers die God behagen."
+          }
+        ]
+      },
+      "id": "hebreeen.13.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Vandaar dat Hij in alles aan zijn broeders gelijk moest worden, om als een barmhartig en getrouw hogepriester hun belangen bij God te behartigen en de zonden van het volk uit te boeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vandaar dat Hij in alles aan zijn broeders gelijk moest worden, om als een barmhartig en getrouw hogepriester hun belangen bij God te behartigen en de zonden van het volk uit te boeten."
+          }
+        ]
+      },
+      "id": "hebreeen.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "En op wie was God toornig, veertig jaar lang? Op hen die gezondigd hadden, wier lijken lagen in de woestijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En op wie was God toornig, veertig jaar lang? Op hen die gezondigd hadden, wier lijken lagen in de woestijn."
+          }
+        ]
+      },
+      "id": "hebreeen.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "En zo heeft God met een eed voor zijn belofte willen instaan, om de erfgenamen van de belofte nog duidelijker te tonen hoe onwrikbaar vast zijn besluit was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zo heeft God met een eed voor zijn belofte willen instaan, om de erfgenamen van de belofte nog duidelijker te tonen hoe onwrikbaar vast zijn besluit was."
+          }
+        ]
+      },
+      "id": "hebreeen.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Want op Hem slaat het getuigenis: Gij zijt voor eeuwig priester op de wijze van Melchis&eacute;dek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want op Hem slaat het getuigenis: Gij zijt voor eeuwig priester op de wijze van Melchisédek."
+          }
+        ]
+      },
+      "id": "hebreeen.7.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Een testament is immers pas bindend na overlijden; zolang de erflater nog leeft, wordt het niet van kracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een testament is immers pas bindend na overlijden; zolang de erflater nog leeft, wordt het niet van kracht."
+          }
+        ]
+      },
+      "id": "hebreeen.9.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "En hieraan voegt Hij toe: Ik zal hun zonden en ongerechtigheden niet langer gedenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hieraan voegt Hij toe: Ik zal hun zonden en ongerechtigheden niet langer gedenken."
+          }
+        ]
+      },
+      "id": "hebreeen.10.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "Door het geloof heeft Abraham, toen hij op de proef gesteld werd, Isaak ten offer gebracht. Hij die de beloften had ontvangen, stond op het punt zijn enige zoon te offeren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft Abraham, toen hij op de proef gesteld werd, Isaak ten offer gebracht. Hij die de beloften had ontvangen, stond op het punt zijn enige zoon te offeren,"
+          }
+        ]
+      },
+      "id": "hebreeen.11.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "Gij weet dat hij later, toen hij toch de zegen wilde bemachtigen, werd afgewezen. Hij zag geen kans zijn vader tot andere gedachten te brengen, hoewel hij het onder luid geween probeerde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet dat hij later, toen hij toch de zegen wilde bemachtigen, werd afgewezen. Hij zag geen kans zijn vader tot andere gedachten te brengen, hoewel hij het onder luid geween probeerde."
+          }
+        ]
+      },
+      "id": "hebreeen.12.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "Gehoorzaamt uw leiders en voegt u naar hen; zij zijn dag en nacht in de weer voor het heil, want zij zijn zich bewust van hun verantwoordelijkheid. Zorgt ervoor dat zij hun taak met voldoening kunnen vervullen. Als zij steeds moeten zuchten en klagen, zou dat voor u niet voordelig zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gehoorzaamt uw leiders en voegt u naar hen; zij zijn dag en nacht in de weer voor het heil, want zij zijn zich bewust van hun verantwoordelijkheid. Zorgt ervoor dat zij hun taak met voldoening kunnen vervullen. Als zij steeds moeten zuchten en klagen, zou dat voor u niet voordelig zijn."
+          }
+        ]
+      },
+      "id": "hebreeen.13.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Omdat Hij zelf de proef van het lijden doorstaan heeft, kan Hij allen helpen die beproefd worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat Hij zelf de proef van het lijden doorstaan heeft, kan Hij allen helpen die beproefd worden."
+          }
+        ]
+      },
+      "id": "hebreeen.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "En aan wie anders heeft Hij onder ede de toegang tot zijn rustplaats ontzegd dan aan hen die weigerden te geloven?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En aan wie anders heeft Hij onder ede de toegang tot zijn rustplaats ontzegd dan aan hen die weigerden te geloven?"
+          }
+        ]
+      },
+      "id": "hebreeen.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "God heeft dus twee onherroepelijke daden gesteld die het Hem onmogelijk maken ons te bedriegen; en ons, vluchtelingen, sporen ze krachtig aan ons vast te klampen aan de hoop op het heil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God heeft dus twee onherroepelijke daden gesteld die het Hem onmogelijk maken ons te bedriegen; en ons, vluchtelingen, sporen ze krachtig aan ons vast te klampen aan de hoop op het heil."
+          }
+        ]
+      },
+      "id": "hebreeen.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Het bestaande voorschrift wordt als onmachtig en nutteloos afgeschaft",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het bestaande voorschrift wordt als onmachtig en nutteloos afgeschaft"
+          }
+        ]
+      },
+      "id": "hebreeen.7.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "Daarom is ook het eerste verbond niet ingewijd zonder bloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is ook het eerste verbond niet ingewijd zonder bloed."
+          }
+        ]
+      },
+      "id": "hebreeen.9.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "En waar deze vergeven zijn, is geen zoenoffer meer nodig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En waar deze vergeven zijn, is geen zoenoffer meer nodig."
+          }
+        ]
+      },
+      "id": "hebreeen.10.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "van wie hem gezegd was: Alleen zij die van Isaak afstammen, zullen gelden als uw nageslacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van wie hem gezegd was: Alleen zij die van Isaak afstammen, zullen gelden als uw nageslacht."
+          }
+        ]
+      },
+      "id": "hebreeen.11.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "Bedenkt waar gij staat: gij zijt niet genaderd tot een tastbare berg en een laaiend vuur, met duisternis, donderwolken en stormwind,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bedenkt waar gij staat: gij zijt niet genaderd tot een tastbare berg en een laaiend vuur, met duisternis, donderwolken en stormwind,"
+          }
+        ]
+      },
+      "id": "hebreeen.12.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "Bidt voor ons. Wij vertrouwen dat ons geweten zuiver is, daar we ons in alle opzichten goed trachten te gedragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt voor ons. Wij vertrouwen dat ons geweten zuiver is, daar we ons in alle opzichten goed trachten te gedragen."
+          }
+        ]
+      },
+      "id": "hebreeen.13.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Het is duidelijk dat ongeloof hen belet heeft zijn rust in te gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is duidelijk dat ongeloof hen belet heeft zijn rust in te gaan."
+          }
+        ]
+      },
+      "id": "hebreeen.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "De hoop is het veilige en vaste anker van onze ziel. Zij dringt door binnen het heiligdom,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hoop is het veilige en vaste anker van onze ziel. Zij dringt door binnen het heiligdom,"
+          }
+        ]
+      },
+      "id": "hebreeen.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "- de wet heeft trouwens in geen enkel opzicht het volmaakte gebracht - en een nieuwe en betere hoop wordt gewekt, die ons dichter bij God brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "- de wet heeft trouwens in geen enkel opzicht het volmaakte gebracht - en een nieuwe en betere hoop wordt gewekt, die ons dichter bij God brengt."
+          }
+        ]
+      },
+      "id": "hebreeen.7.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "text": "Nadat Mozes alle geboden van de wet voor het verzamelde volk had voorgelezen, nam hij het bloed van de kalveren en bokken en ook water, scharlaken wol en hysop, en besprenkelde het wetboek zelf en heel het volk,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nadat Mozes alle geboden van de wet voor het verzamelde volk had voorgelezen, nam hij het bloed van de kalveren en bokken en ook water, scharlaken wol en hysop, en besprenkelde het wetboek zelf en heel het volk,"
+          }
+        ]
+      },
+      "id": "hebreeen.9.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "text": "Broeders, door het bloed van Jezus hebben wij vrije toegang gekregen tot het heiligdom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, door het bloed van Jezus hebben wij vrije toegang gekregen tot het heiligdom."
+          }
+        ]
+      },
+      "id": "hebreeen.10.19",
+      "title": "Aansporing en waarschuwing",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Want hij was ervan overtuigd, dat God zelfs de macht heeft om doden ten leven te wekken; en uit de dood heeft hij, om zo te zeggen, zijn zoon ook teruggekregen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want hij was ervan overtuigd, dat God zelfs de macht heeft om doden ten leven te wekken; en uit de dood heeft hij, om zo te zeggen, zijn zoon ook teruggekregen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "waar de trompet klonk en de stem de woorden sprak, en die haar hoorden smeekten dat zij niet langer tot hen zou spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waar de trompet klonk en de stem de woorden sprak, en die haar hoorden smeekten dat zij niet langer tot hen zou spreken."
+          }
+        ]
+      },
+      "id": "hebreeen.12.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "text": "Ik vraag uw gebed vooral in de hoop, dat ik dan des te eerder aan u zal worden teruggegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vraag uw gebed vooral in de hoop, dat ik dan des te eerder aan u zal worden teruggegeven."
+          }
+        ]
+      },
+      "id": "hebreeen.13.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "waar Jezus voor ons als voorloper is binnengegaan, nu Hij voor eeuwig hogepriester is geworden op de wijze van Melchisedek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waar Jezus voor ons als voorloper is binnengegaan, nu Hij voor eeuwig hogepriester is geworden op de wijze van Melchisedek."
+          }
+        ]
+      },
+      "id": "hebreeen.6.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "En dit gaat gepaard met een plechtige eed. Er is geen eed gezworen, toen die anderen priester werden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit gaat gepaard met een plechtige eed. Er is geen eed gezworen, toen die anderen priester werden,"
+          }
+        ]
+      },
+      "id": "hebreeen.7.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "text": "terwijl hij zei: Dit is het bloed van de bond die God met u gesloten heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "terwijl hij zei: Dit is het bloed van de bond die God met u gesloten heeft."
+          }
+        ]
+      },
+      "id": "hebreeen.9.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "text": "In zijn eigen lichaam heeft Hij voor ons de nieuwe, levende weg gebaand, dwars door het voorhangsel heen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In zijn eigen lichaam heeft Hij voor ons de nieuwe, levende weg gebaand, dwars door het voorhangsel heen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "Door het geloof sprak Isaak over Jakob en Esau een zegen uit die ook op de toekomst betrekking had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof sprak Isaak over Jakob en Esau een zegen uit die ook op de toekomst betrekking had."
+          }
+        ]
+      },
+      "id": "hebreeen.11.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Want ze konden het bevel niet verdragen: Zelfs een dier dat de berg aanraakt, moet gestenigd worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ze konden het bevel niet verdragen: Zelfs een dier dat de berg aanraakt, moet gestenigd worden."
+          }
+        ]
+      },
+      "id": "hebreeen.12.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "text": "Moge de God van de vrede,<br />\r\ndie onze Heer Jezus, de grote herder der schapen,<br />\r\ndoor het bloed van een eeuwig verbond heeft teruggebracht uit de dood,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moge de God van de vrede,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndie onze Heer Jezus, de grote herder der schapen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\ndoor het bloed van een eeuwig verbond heeft teruggebracht uit de dood,"
+          }
+        ]
+      },
+      "id": "hebreeen.13.20",
+      "title": "Slot",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "text": "maar Hij is priester geworden met een eed die God Hem gezworen heeft, toen Hij sprak: De Heer heeft het gezworen en zal het niet herroepen: Gij zijt priester voor eeuwig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar Hij is priester geworden met een eed die God Hem gezworen heeft, toen Hij sprak: De Heer heeft het gezworen en zal het niet herroepen: Gij zijt priester voor eeuwig."
+          }
+        ]
+      },
+      "id": "hebreeen.7.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "text": "De tent en al het benodigde voor de eredienst besprenkelde hij eveneens met het bloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tent en al het benodigde voor de eredienst besprenkelde hij eveneens met het bloed."
+          }
+        ]
+      },
+      "id": "hebreeen.9.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "text": "We hebben nu `die grote priester die over het huis van God is aangesteld.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "We hebben nu `die grote priester die over het huis van God is aangesteld.'"
+          }
+        ]
+      },
+      "id": "hebreeen.10.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "text": "Door het geloof zegende Jakob op zijn sterfbed de beide zonen van Jozef, en leunend op de knop van zijn staf, aanbad hij God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof zegende Jakob op zijn sterfbed de beide zonen van Jozef, en leunend op de knop van zijn staf, aanbad hij God."
+          }
+        ]
+      },
+      "id": "hebreeen.11.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "En wat ze zagen was zo verschrikkelijk, dat Mozes uitriep: `Ik sidder van angst.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wat ze zagen was zo verschrikkelijk, dat Mozes uitriep: `Ik sidder van angst.'"
+          }
+        ]
+      },
+      "id": "hebreeen.12.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "text": "u bevestigen in alle goeds<br />\r\nom zijn wil te doen.<br />\r\nMoge Hij in ons uitwerken<br />\r\nwat Hem behaagt door Jezus Christus.<br />\r\nHem zij de heerlijkheid tot in eeuwen der eeuwen!<br />\r\nAmen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "u bevestigen in alle goeds"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nom zijn wil te doen."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nMoge Hij in ons uitwerken"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nwat Hem behaagt door Jezus Christus."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nHem zij de heerlijkheid tot in eeuwen der eeuwen!"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nAmen."
+          }
+        ]
+      },
+      "id": "hebreeen.13.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "text": "Hoeveel voortreffelijker moet dan het verbond zijn waarvoor Jezus borg staat!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoeveel voortreffelijker moet dan het verbond zijn waarvoor Jezus borg staat!"
+          }
+        ]
+      },
+      "id": "hebreeen.7.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "text": "Volgens de wet wordt nagenoeg alles met bloed gereinigd en zonder het vergieten van bloed is er geen vergeving.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Volgens de wet wordt nagenoeg alles met bloed gereinigd en zonder het vergieten van bloed is er geen vergeving."
+          }
+        ]
+      },
+      "id": "hebreeen.9.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "text": "Laten we dan dichterbij komen, maar met een oprecht hart en in de volle overtuiging van ons geloof, ons hart rein gesprenkeld van alle schuldbesef, ons lichaam gewassen met zuiver water,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we dan dichterbij komen, maar met een oprecht hart en in de volle overtuiging van ons geloof, ons hart rein gesprenkeld van alle schuldbesef, ons lichaam gewassen met zuiver water,"
+          }
+        ]
+      },
+      "id": "hebreeen.10.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 22,
+      "text": "Door het geloof heeft Jozef op het eind van zijn leven al gesproken over de uittocht van de Israëlieten uit Egypte, en bevolen dan zijn gebeente mee te nemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft Jozef op het eind van zijn leven al gesproken over de uittocht van de Israëlieten uit Egypte, en bevolen dan zijn gebeente mee te nemen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 22,
+      "text": "Neen, gij zijt genaderd tot de berg Sion en de stad van de levende God, het hemelse Jeruzalem en de duizendtallen engelen, de feestelijke",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, gij zijt genaderd tot de berg Sion en de stad van de levende God, het hemelse Jeruzalem en de duizendtallen engelen, de feestelijke"
+          }
+        ]
+      },
+      "id": "hebreeen.12.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "text": "Ik bid u, broeders, neemt mijn woord van aansporing goed op, want ik heb u maar kort geschreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik bid u, broeders, neemt mijn woord van aansporing goed op, want ik heb u maar kort geschreven."
+          }
+        ]
+      },
+      "id": "hebreeen.13.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "text": "Bovendien moesten die anderen met meerderen priester worden, omdat de dood hen belet in functie te blijven;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien moesten die anderen met meerderen priester worden, omdat de dood hen belet in functie te blijven;"
+          }
+        ]
+      },
+      "id": "hebreeen.7.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "text": "Als dus de kopie&euml;n van de hemelse dingen door zulke riten gereinigd moesten worden, dan vereist het hemelse origineel ongetwijfeld een voortreffelijker offer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als dus de kopieën van de hemelse dingen door zulke riten gereinigd moesten worden, dan vereist het hemelse origineel ongetwijfeld een voortreffelijker offer."
+          }
+        ]
+      },
+      "id": "hebreeen.9.23",
+      "title": "Het ene volmaakte offer",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "text": "Laten wij onwrikbaar vasthouden aan de belijdenis van onze hoop, want Hij die de beloften deed is betrouwbaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten wij onwrikbaar vasthouden aan de belijdenis van onze hoop, want Hij die de beloften deed is betrouwbaar."
+          }
+        ]
+      },
+      "id": "hebreeen.10.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "text": "Door het geloof hebben de ouders van Mozes hem terstond na zijn geboorte drie maanden lang verborgen gehouden, omdat zij zagen wat een mooi kind het was; zij waren niet bang voor de verordening van de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof hebben de ouders van Mozes hem terstond na zijn geboorte drie maanden lang verborgen gehouden, omdat zij zagen wat een mooi kind het was; zij waren niet bang voor de verordening van de koning."
+          }
+        ]
+      },
+      "id": "hebreeen.11.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 23,
+      "text": "en plechtige vergadering van de eerstgeborenen die in de hemel zijn ingeschreven, tot God, de rechter van allen, en de geesten der rechtvaardigen die de voleinding bereikt hebben,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en plechtige vergadering van de eerstgeborenen die in de hemel zijn ingeschreven, tot God, de rechter van allen, en de geesten der rechtvaardigen die de voleinding bereikt hebben,"
+          }
+        ]
+      },
+      "id": "hebreeen.12.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "text": "Weet dat onze broeder Tim&oacute;te&uuml;s in vrijheid is gesteld. Als hij tijdig komt, zal hij mij vergezellen als ik u bezoek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weet dat onze broeder Timóteüs in vrijheid is gesteld. Als hij tijdig komt, zal hij mij vergezellen als ik u bezoek."
+          }
+        ]
+      },
+      "id": "hebreeen.13.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "text": "maar zijn priesterschap is onvervreemdbaar, omdat Hij in eeuwigheid blijft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar zijn priesterschap is onvervreemdbaar, omdat Hij in eeuwigheid blijft."
+          }
+        ]
+      },
+      "id": "hebreeen.7.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "text": "Want Christus is niet het heiligdom binnengegaan dat, door mensenhanden gemaakt, slechts een symbool is van het waarachtige heiligdom; Hij is de hemel zelf binnengegaan om er nu, voor onze zaak, bij God present te zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Christus is niet het heiligdom binnengegaan dat, door mensenhanden gemaakt, slechts een symbool is van het waarachtige heiligdom; Hij is de hemel zelf binnengegaan om er nu, voor onze zaak, bij God present te zijn."
+          }
+        ]
+      },
+      "id": "hebreeen.9.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 24,
+      "text": "Laten we elkaar in het oog houden om met elkaar te wedijveren in liefde en daden van liefde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laten we elkaar in het oog houden om met elkaar te wedijveren in liefde en daden van liefde."
+          }
+        ]
+      },
+      "id": "hebreeen.10.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "text": "Door het geloof heeft Mozes zelf, toen hij groot geworden was, geweigerd door te gaan voor een zoon van Farao's dochter.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft Mozes zelf, toen hij groot geworden was, geweigerd door te gaan voor een zoon van Farao's dochter."
+          }
+        ]
+      },
+      "id": "hebreeen.11.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 24,
+      "text": "tot Jezus, de middelaar van een nieuw verbond, wiens vergoten bloed iets beters afroept dan het bloed van Abel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "tot Jezus, de middelaar van een nieuw verbond, wiens vergoten bloed iets beters afroept dan het bloed van Abel."
+          }
+        ]
+      },
+      "id": "hebreeen.12.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "text": "Groet al uw leiders en alle heiligen. De broeders uit Italië laten u groeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groet al uw leiders en alle heiligen. De broeders uit Italië laten u groeten."
+          }
+        ]
+      },
+      "id": "hebreeen.13.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "text": "Daarom is Hij ook in staat hen die door zijn tussenkomst God naderen voor altijd te redden, daar Hij altijd leeft om voor hen te pleiten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is Hij ook in staat hen die door zijn tussenkomst God naderen voor altijd te redden, daar Hij altijd leeft om voor hen te pleiten."
+          }
+        ]
+      },
+      "id": "hebreeen.7.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "text": "Ook hoeft Hij zich daar niet telkens opnieuw te offeren, terwijl de hogepriester jaar in jaar uit het allerheiligste binnengaat, met bloed dat niet het zijne is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook hoeft Hij zich daar niet telkens opnieuw te offeren, terwijl de hogepriester jaar in jaar uit het allerheiligste binnengaat, met bloed dat niet het zijne is."
+          }
+        ]
+      },
+      "id": "hebreeen.9.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "text": "Wij moeten niet wegblijven van onze bijeenkomsten, zoals sommigen gewoon zijn te doen; laten we elkaar moed inspreken, en dit te meer naarmate gij de grote dag dichterbij ziet komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij moeten niet wegblijven van onze bijeenkomsten, zoals sommigen gewoon zijn te doen; laten we elkaar moed inspreken, en dit te meer naarmate gij de grote dag dichterbij ziet komen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "text": "Hij wilde liever mishandeld worden met het volk van God dan voor een korte tijd profiteren van de zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij wilde liever mishandeld worden met het volk van God dan voor een korte tijd profiteren van de zonde."
+          }
+        ]
+      },
+      "id": "hebreeen.11.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 25,
+      "text": "Weigert niet naar zijn stem te luisteren! Zij die weigerden te luisteren naar de godsspraak die op aarde sprak, slaagden er niet in te ontsnappen; hoe zouden wij dan ontsnappen, als wij ons zouden afwenden van Hem die uit de hemel spreekt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weigert niet naar zijn stem te luisteren! Zij die weigerden te luisteren naar de godsspraak die op aarde sprak, slaagden er niet in te ontsnappen; hoe zouden wij dan ontsnappen, als wij ons zouden afwenden van Hem die uit de hemel spreekt?"
+          }
+        ]
+      },
+      "id": "hebreeen.12.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "text": "De genade zij met u allen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade zij met u allen!"
+          }
+        ]
+      },
+      "id": "hebreeen.13.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "text": "Zulk een hogepriester hadden wij ook nodig: een die heilig is, schuldeloos, onbesmet, afgescheiden van de zondaars, hoog verheven boven de hemelen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zulk een hogepriester hadden wij ook nodig: een die heilig is, schuldeloos, onbesmet, afgescheiden van de zondaars, hoog verheven boven de hemelen;"
+          }
+        ]
+      },
+      "id": "hebreeen.7.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "text": "Anders had Christus meerdere malen moeten lijden, vanaf het begin van de wereld; maar in feite is Hij slechts eenmaal verschenen, op het hoogtepunt van de geschiedenis, om door zijn offer de zonden te delgen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Anders had Christus meerdere malen moeten lijden, vanaf het begin van de wereld; maar in feite is Hij slechts eenmaal verschenen, op het hoogtepunt van de geschiedenis, om door zijn offer de zonden te delgen."
+          }
+        ]
+      },
+      "id": "hebreeen.9.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 26,
+      "text": "Want als wij, na de kennis van de waarheid ontvangen te hebben, moedwillig zondigen, blijft er geen offer voor de zonden meer over,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want als wij, na de kennis van de waarheid ontvangen te hebben, moedwillig zondigen, blijft er geen offer voor de zonden meer over,"
+          }
+        ]
+      },
+      "id": "hebreeen.10.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 26,
+      "text": "Voor hem was de smaad, Gods Gezalfde aangedaan, kostbaarder dan al de schatten van Egypte, want hij hield het oog gericht op de komende beloning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor hem was de smaad, Gods Gezalfde aangedaan, kostbaarder dan al de schatten van Egypte, want hij hield het oog gericht op de komende beloning."
+          }
+        ]
+      },
+      "id": "hebreeen.11.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 26,
+      "text": "Toen heeft zijn stem de aarde doen beven, nu geldt zijn belofte: <em>Nog &eacute;&eacute;nmaal zal Ik de aarde doen beven, en niet alleen de aarde, ook de hemel</em>.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen heeft zijn stem de aarde doen beven, nu geldt zijn belofte: "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Nog éénmaal zal Ik de aarde doen beven, en niet alleen de aarde, ook de hemel"
+              }
+            ]
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      "id": "hebreeen.12.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "text": "Hij hoeft ook niet, zoals de hogepriesters, elke dag opnieuw eerst voor zijn eigen zonden offers op te dragen en daarna voor die van het volk, want dit heeft Hij eens voor al gedaan, toen Hij zichzelf ten offer bracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij hoeft ook niet, zoals de hogepriesters, elke dag opnieuw eerst voor zijn eigen zonden offers op te dragen en daarna voor die van het volk, want dit heeft Hij eens voor al gedaan, toen Hij zichzelf ten offer bracht."
+          }
+        ]
+      },
+      "id": "hebreeen.7.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "text": "Het is het lot van de mens eenmaal te sterven, en daarna komt het oordeel;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is het lot van de mens eenmaal te sterven, en daarna komt het oordeel;"
+          }
+        ]
+      },
+      "id": "hebreeen.9.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "text": "maar alleen een schrikwekkend uitzicht op een oordeel en een begerig vuur, dat de vijanden van God wil verteren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar alleen een schrikwekkend uitzicht op een oordeel en een begerig vuur, dat de vijanden van God wil verteren."
+          }
+        ]
+      },
+      "id": "hebreeen.10.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 27,
+      "text": "Door het geloof verliet hij Egypte zonder de woede van de koning te duchten, want de onzichtbare koning had hij als het ware voortdurend voor ogen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof verliet hij Egypte zonder de woede van de koning te duchten, want de onzichtbare koning had hij als het ware voortdurend voor ogen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 27,
+      "text": "De uitdrukking <em>nog &eacute;&eacute;nmaal</em> - en dan niet meer - wijst op een verandering van de geschapen dingen die aan het wankelen worden gebracht; wat niet wankelt zal blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De uitdrukking "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "nog éénmaal"
+              }
+            ]
+          },
+          {
+            "text": " - en dan niet meer - wijst op een verandering van de geschapen dingen die aan het wankelen worden gebracht; wat niet wankelt zal blijven."
+          }
+        ]
+      },
+      "id": "hebreeen.12.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "text": "De wet stelt als hogepriester mensen aan, met zwakheid behept; maar de eed, die; uitgesproken is na de wetgeving, wijst de Zoon aan, die volmaakt is in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wet stelt als hogepriester mensen aan, met zwakheid behept; maar de eed, die; uitgesproken is na de wetgeving, wijst de Zoon aan, die volmaakt is in eeuwigheid."
+          }
+        ]
+      },
+      "id": "hebreeen.7.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "text": "zo is ook Christus eenmaal geofferd, omdat Hij de zonden van allen op zich had genomen; als Hij een tweede maal verschijnt, zal het zijn los van de zonde, om heil te brengen aan allen die naar Hem uitzien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zo is ook Christus eenmaal geofferd, omdat Hij de zonden van allen op zich had genomen; als Hij een tweede maal verschijnt, zal het zijn los van de zonde, om heil te brengen aan allen die naar Hem uitzien."
+          }
+        ]
+      },
+      "id": "hebreeen.9.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "text": "Wie zich niet stoort aan de wet van Mozes, wordt op het getuigenis van twee of drie personen zonder pardon ter dood gebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie zich niet stoort aan de wet van Mozes, wordt op het getuigenis van twee of drie personen zonder pardon ter dood gebracht."
+          }
+        ]
+      },
+      "id": "hebreeen.10.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "text": "Door het geloof heeft hij pesach gehouden en het bloed gesprenkeld, opdat de verderver de eerstgeborenen van Israël niet zou aanraken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof heeft hij pesach gehouden en het bloed gesprenkeld, opdat de verderver de eerstgeborenen van Israël niet zou aanraken."
+          }
+        ]
+      },
+      "id": "hebreeen.11.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 28,
+      "text": "Ons is een koninkrijk gegeven dat niet wankelt. Laten wij daarom God danken en Hem aanbidden zoals Hij het verlangt: met eerbied en ontzag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ons is een koninkrijk gegeven dat niet wankelt. Laten wij daarom God danken en Hem aanbidden zoals Hij het verlangt: met eerbied en ontzag."
+          }
+        ]
+      },
+      "id": "hebreeen.12.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "text": "Moet dan hij die de Zoon van God veracht, die het bloed van het verbond waardoor hij geheiligd is, profaneert, die de Geest van Gods genade durft honen, moet zo iemand niet veel strenger gestraft worden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moet dan hij die de Zoon van God veracht, die het bloed van het verbond waardoor hij geheiligd is, profaneert, die de Geest van Gods genade durft honen, moet zo iemand niet veel strenger gestraft worden?"
+          }
+        ]
+      },
+      "id": "hebreeen.10.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "text": "Door het geloof trokken zij door de Rode Zee als over droog land; toen de Egyptenaren het probeerden, verdronken ze.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof trokken zij door de Rode Zee als over droog land; toen de Egyptenaren het probeerden, verdronken ze."
+          }
+        ]
+      },
+      "id": "hebreeen.11.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 29,
+      "text": "Want onze God is een verterend vuur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want onze God is een verterend vuur."
+          }
+        ]
+      },
+      "id": "hebreeen.12.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "text": "We weten toch wie gezegd heeft: Mij komt het toe te straffen, Ik zal vergelden, en ook: De Heer zal rechtspreken over zijn volk?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "We weten toch wie gezegd heeft: Mij komt het toe te straffen, Ik zal vergelden, en ook: De Heer zal rechtspreken over zijn volk?"
+          }
+        ]
+      },
+      "id": "hebreeen.10.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "text": "Door het geloof zijn de muren van Jericho ingestort, nadat zij er op zeven achtereenvolgende dagen omheen getrokken waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof zijn de muren van Jericho ingestort, nadat zij er op zeven achtereenvolgende dagen omheen getrokken waren."
+          }
+        ]
+      },
+      "id": "hebreeen.11.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 31,
+      "text": "Het moet iets vreselijks zijn om in de handen van de levende God te vallen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het moet iets vreselijks zijn om in de handen van de levende God te vallen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "text": "Door het geloof is de hoer Rachab ontkomen aan het lot van de ongelovigen, omdat zij de spionnen vriendelijk had ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof is de hoer Rachab ontkomen aan het lot van de ongelovigen, omdat zij de spionnen vriendelijk had ontvangen."
+          }
+        ]
+      },
+      "id": "hebreeen.11.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "text": "Herinner u de dagen van vroeger, toen gij het licht hebt ontvangen en aanstonds een zware proef van lijden moest doorstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Herinner u de dagen van vroeger, toen gij het licht hebt ontvangen en aanstonds een zware proef van lijden moest doorstaan."
+          }
+        ]
+      },
+      "id": "hebreeen.10.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "text": "En wat nog meer? De tijd ontbreekt me om te verhalen van Gideon, Barak, Simson en Jefta, van David en Samuël en de profeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En wat nog meer? De tijd ontbreekt me om te verhalen van Gideon, Barak, Simson en Jefta, van David en Samuël en de profeten."
+          }
+        ]
+      },
+      "id": "hebreeen.11.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "text": "Sommigen van u werden openlijk gehoond en vervolgd, terwijl anderen hen trouw in hun nood hebben bijgestaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sommigen van u werden openlijk gehoond en vervolgd, terwijl anderen hen trouw in hun nood hebben bijgestaan."
+          }
+        ]
+      },
+      "id": "hebreeen.10.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "text": "Door het geloof hebben zij koninkrijken omvergeworpen, gerechtigheid uitgeoefend, de vervulling van beloften afgedwongen. Zij hebben leeuwen de muil gesloten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door het geloof hebben zij koninkrijken omvergeworpen, gerechtigheid uitgeoefend, de vervulling van beloften afgedwongen. Zij hebben leeuwen de muil gesloten,"
+          }
+        ]
+      },
+      "id": "hebreeen.11.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "text": "Want ge zijt solidair gebleven met hen die gearresteerd waren. Gij hebt zelfs blijmoedig verdragen, dat men uw bezittingen in beslag nam. Ge waart u immers bewust iets te bezitten dat meer waard is en nooit verloren gaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ge zijt solidair gebleven met hen die gearresteerd waren. Gij hebt zelfs blijmoedig verdragen, dat men uw bezittingen in beslag nam. Ge waart u immers bewust iets te bezitten dat meer waard is en nooit verloren gaat."
+          }
+        ]
+      },
+      "id": "hebreeen.10.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 34,
+      "text": "de gloed van vuur gedoofd, ze ontsnapten aan het scherp van het zwaard. Hun zwakheid werd kracht, ze werden machtig in de oorlog, en dreven vijandelijke legers op de vlucht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de gloed van vuur gedoofd, ze ontsnapten aan het scherp van het zwaard. Hun zwakheid werd kracht, ze werden machtig in de oorlog, en dreven vijandelijke legers op de vlucht."
+          }
+        ]
+      },
+      "id": "hebreeen.11.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "text": "Gooi dat vertrouwen nu niet overboord, het wordt zo rijk beloond!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gooi dat vertrouwen nu niet overboord, het wordt zo rijk beloond!"
+          }
+        ]
+      },
+      "id": "hebreeen.10.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 35,
+      "text": "Vrouwen kregen hun doden terug door opstanding uit de dood. Anderen werden ten dode gefolterd en wezen hun vrijlating af, om een betere opstanding te verwerven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrouwen kregen hun doden terug door opstanding uit de dood. Anderen werden ten dode gefolterd en wezen hun vrijlating af, om een betere opstanding te verwerven."
+          }
+        ]
+      },
+      "id": "hebreeen.11.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 36,
+      "text": "Wat ge nodig hebt is volharding, om Gods wil te doen en de belofte binnen te halen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ge nodig hebt is volharding, om Gods wil te doen en de belofte binnen te halen."
+          }
+        ]
+      },
+      "id": "hebreeen.10.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 36,
+      "text": "Weer anderen hadden spot en slagen te verduren, en boeien en opsluiting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weer anderen hadden spot en slagen te verduren, en boeien en opsluiting."
+          }
+        ]
+      },
+      "id": "hebreeen.11.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "text": "Want, zegt de Schrift, <em>nog een heel korte tijd,&nbsp;en Hij die komen moet, zal komen, zonder uitstel.</em>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want, zegt de Schrift, "
+          },
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "nog een heel korte tijd, en Hij die komen moet, zal komen, zonder uitstel."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.10.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 37,
+      "text": "Zij werden gestenigd, doormidden gezaagd, terechtgesteld met het zwaard. Zij zwierven rond in schapevachten en geitevellen, ten prooi aan ontbering, vervolging, mishandeling.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij werden gestenigd, doormidden gezaagd, terechtgesteld met het zwaard. Zij zwierven rond in schapevachten en geitevellen, ten prooi aan ontbering, vervolging, mishandeling."
+          }
+        ]
+      },
+      "id": "hebreeen.11.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 38,
+      "text": "<em>Mijn rechtvaardige zal door trouw geloof zijn leven redden, maar wie terugdeinst kan Mij niet behagen.</em>",
+      "textJson": {
+        "tag": "body",
+        "children": [
+          {
+            "tag": "em",
+            "children": [
+              {
+                "text": "Mijn rechtvaardige zal door trouw geloof zijn leven redden, maar wie terugdeinst kan Mij niet behagen."
+              }
+            ]
+          }
+        ]
+      },
+      "id": "hebreeen.10.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 38,
+      "text": "Zij waren te goed voor deze wereld. Ze vluchtten in woestijnen en op de bergen, ze verborgen zich in spelonken en holen in de grond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij waren te goed voor deze wereld. Ze vluchtten in woestijnen en op de bergen, ze verborgen zich in spelonken en holen in de grond."
+          }
+        ]
+      },
+      "id": "hebreeen.11.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "text": "Maar wij behoren niet tot hen die terugdeinzen en verloren gaan; wij hebben geloof, en winnen door geloof het leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij behoren niet tot hen die terugdeinzen en verloren gaan; wij hebben geloof, en winnen door geloof het leven."
+          }
+        ]
+      },
+      "id": "hebreeen.10.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 39,
+      "text": "Ook dezen hebben zich allen een naam verworven door hun geloof. Toch heeft geen van hen de belofte in vervulling zien gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook dezen hebben zich allen een naam verworven door hun geloof. Toch heeft geen van hen de belofte in vervulling zien gaan."
+          }
+        ]
+      },
+      "id": "hebreeen.11.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 40,
+      "text": "God had met ons iets beters voor en wilde niet, dat zij hun voleinding zouden bereiken zonder ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God had met ons iets beters voor en wilde niet, dat zij hun voleinding zouden bereiken zonder ons."
+          }
+        ]
+      },
+      "id": "hebreeen.11.40",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

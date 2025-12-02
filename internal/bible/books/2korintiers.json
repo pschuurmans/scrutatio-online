@@ -1,0 +1,4450 @@
+{
+  "id": "2korintiers",
+  "name": "2 Korintiërs",
+  "chapters": 13,
+  "verseCount": 256,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, en Tim&oacute;te&uuml;s, onze broeder, aan de kerk Gods in Korinte en aan alle heiligen in geheel Acha&iuml;a.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN PAULUS, door Gods wil apostel van Christus Jezus, en Timóteüs, onze broeder, aan de kerk Gods in Korinte en aan alle heiligen in geheel Achaïa."
+          }
+        ]
+      },
+      "id": "2korintiers.1.1",
+      "title": "Schrijver, lezer, groet",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Want een ding had ik mij voorgenomen: mijn eerstvolgend bezoek aan u mocht onder geen beding weer een bezoek in droefheid zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want een ding had ik mij voorgenomen: mijn eerstvolgend bezoek aan u mocht onder geen beding weer een bezoek in droefheid zijn."
+          }
+        ]
+      },
+      "id": "2korintiers.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Beginnen wij onszelf weer aan te prijzen? Hebben wij behoefte aan getuigschriften voor u of van u zoals anderen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beginnen wij onszelf weer aan te prijzen? Hebben wij behoefte aan getuigschriften voor u of van u zoals anderen?"
+          }
+        ]
+      },
+      "id": "2korintiers.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Daarom verliezen wij nooit de moed, nu wij door Gods ontferming met deze dienst zijn belast.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom verliezen wij nooit de moed, nu wij door Gods ontferming met deze dienst zijn belast."
+          }
+        ]
+      },
+      "id": "2korintiers.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Wij weten het immers: als de tent die onze aardse woning is, wordt neergehaald, heeft God voor ons een gebouw gereed in de hemel, een onvergankelijk, niet door mensenhand vervaardigd huis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij weten het immers: als de tent die onze aardse woning is, wordt neergehaald, heeft God voor ons een gebouw gereed in de hemel, een onvergankelijk, niet door mensenhand vervaardigd huis."
+          }
+        ]
+      },
+      "id": "2korintiers.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Als Gods medewerkers sporen wij u aan: zorg dat ge zijn genade niet tevergeefs ontvangt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als Gods medewerkers sporen wij u aan: zorg dat ge zijn genade niet tevergeefs ontvangt."
+          }
+        ]
+      },
+      "id": "2korintiers.6.1",
+      "title": "Werk en lijden van de apostel",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Geliefden, zulke beloften zijn ons gedaan; laten wij ons dan zuiveren van elke smet van vlees en geest, en vol ontzag voor God het werk van onze heiliging voltooien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geliefden, zulke beloften zijn ons gedaan; laten wij ons dan zuiveren van elke smet van vlees en geest, en vol ontzag voor God het werk van onze heiliging voltooien."
+          }
+        ]
+      },
+      "id": "2korintiers.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Broeders, wij willen u meedelen, welk een gunst God aan de kerken van Macedoni&euml; heeft bewezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Broeders, wij willen u meedelen, welk een gunst God aan de kerken van Macedonië heeft bewezen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.1",
+      "title": "De collecte voor Jeruzalem",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "U te schrijven over de hulpverlening aan de heiligen lijkt mij overbodig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U te schrijven over de hulpverlening aan de heiligen lijkt mij overbodig."
+          }
+        ]
+      },
+      "id": "2korintiers.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Ik, Paulus, volgens u zo schuchter dichtbij, zo moedig op afstand, ik doe een beroep op u bij de zachtmoedigheid en de mildheid van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, Paulus, volgens u zo schuchter dichtbij, zo moedig op afstand, ik doe een beroep op u bij de zachtmoedigheid en de mildheid van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.10.1",
+      "title": "Verweer tegen de beschuldiging van zwakheid",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "Als gij maar een weinig dwaasheid van mij zoudt willen verdragen! Maar dat wilt gij wel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij maar een weinig dwaasheid van mij zoudt willen verdragen! Maar dat wilt gij wel."
+          }
+        ]
+      },
+      "id": "2korintiers.11.1",
+      "title": "Paulus ziet zich gedwongen tot de dwaasheid van de eigenlof",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Moet er geroemd worden? Het dient wel nergens toe, maar dan kom ik nu tot visioenen van openbaringen van de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Moet er geroemd worden? Het dient wel nergens toe, maar dan kom ik nu tot visioenen van openbaringen van de Heer."
+          }
+        ]
+      },
+      "id": "2korintiers.12.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "Dit is de derde keer dat ik tot u kom. Op het woord van twee of drie getuigen krijgt iedere zaak haar beslag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is de derde keer dat ik tot u kom. Op het woord van twee of drie getuigen krijgt iedere zaak haar beslag."
+          }
+        ]
+      },
+      "id": "2korintiers.13.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Genade en vrede voor u vanwege God onze Vader en de Heer Jezus Christus!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Genade en vrede voor u vanwege God onze Vader en de Heer Jezus Christus!"
+          }
+        ]
+      },
+      "id": "2korintiers.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Als ik u leed doe, wie moet mij dan gelukkig maken? Wie anders dan de mensen die ik bedroefd heb gemaakt?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik u leed doe, wie moet mij dan gelukkig maken? Wie anders dan de mensen die ik bedroefd heb gemaakt?"
+          }
+        ]
+      },
+      "id": "2korintiers.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Gij zelf zijt onze aanbeveling, geschreven in ons hart, maar voor allen te zien en te lezen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zelf zijt onze aanbeveling, geschreven in ons hart, maar voor allen te zien en te lezen,"
+          }
+        ]
+      },
+      "id": "2korintiers.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Wij hebben heimelijkheid en schaamte afgelegd, wij gaan niet met sluwheid te werk, wij vervalsen Gods woord niet. De openlijke verkondiging van de waarheid is onze aanbeveling bij alle mensen die ons voor het aanschijn van God willen beoordelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben heimelijkheid en schaamte afgelegd, wij gaan niet met sluwheid te werk, wij vervalsen Gods woord niet. De openlijke verkondiging van de waarheid is onze aanbeveling bij alle mensen die ons voor het aanschijn van God willen beoordelen."
+          }
+        ]
+      },
+      "id": "2korintiers.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Zolang wij in dit lichaam zijn, zuchten wij dan ook, vol verlangen naar de beschutting van onze hemelse woning,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zolang wij in dit lichaam zijn, zuchten wij dan ook, vol verlangen naar de beschutting van onze hemelse woning,"
+          }
+        ]
+      },
+      "id": "2korintiers.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Hij zegt immers: Op de gunstige tijd heb Ik u verhoord, op de dag van het heil ben Ik u te hulp gekomen. Nu is er die gunstige tijd, vandaag is het de dag van het heil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zegt immers: Op de gunstige tijd heb Ik u verhoord, op de dag van het heil ben Ik u te hulp gekomen. Nu is er die gunstige tijd, vandaag is het de dag van het heil."
+          }
+        ]
+      },
+      "id": "2korintiers.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Gunt ons een ruime plaats in uw hart. Wij hebben niemand verongelijkt, niemand geruïneerd, niemand uitgebuit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gunt ons een ruime plaats in uw hart. Wij hebben niemand verongelijkt, niemand geruïneerd, niemand uitgebuit."
+          }
+        ]
+      },
+      "id": "2korintiers.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Door verdrukkingen zwaar beproefd verheugden zij zich bovenmate en hun bittere armoede werd overrijk in mildheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door verdrukkingen zwaar beproefd verheugden zij zich bovenmate en hun bittere armoede werd overrijk in mildheid."
+          }
+        ]
+      },
+      "id": "2korintiers.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Uw bereidwilligheid is mij bekend. Ik poch op u bij de Macedoniërs: “Achaïa staat al sinds verleden jaar gereed.” En uw ijver heeft de anderen aangestoken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw bereidwilligheid is mij bekend. Ik poch op u bij de Macedoniërs: “Achaïa staat al sinds verleden jaar gereed.” En uw ijver heeft de anderen aangestoken."
+          }
+        ]
+      },
+      "id": "2korintiers.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Ik moet u echter wel verzoeken: dwing mij niet mijn moed te tonen van dichtbij, met dat zelfvertrouwen waarmee ik van zins ben krachtdadig op te treden tegen de lieden die denken, dat wij handelen uit zelfzuchtige beweegredenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik moet u echter wel verzoeken: dwing mij niet mijn moed te tonen van dichtbij, met dat zelfvertrouwen waarmee ik van zins ben krachtdadig op te treden tegen de lieden die denken, dat wij handelen uit zelfzuchtige beweegredenen."
+          }
+        ]
+      },
+      "id": "2korintiers.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "Gij weet toch dat mijn naijver voor u de naijver van God zelf is. Met uw enige bruidegom Christus heb ik u verloofd om u als een ongerepte maagd tot Hem te voeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet toch dat mijn naijver voor u de naijver van God zelf is. Met uw enige bruidegom Christus heb ik u verloofd om u als een ongerepte maagd tot Hem te voeren."
+          }
+        ]
+      },
+      "id": "2korintiers.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "Ik ken een mens in Christus, die veertien jaar geleden, in het lichaam of buiten het lichaam, ik weet het niet, God weet het... die mens werd weggerukt naar de derde hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ken een mens in Christus, die veertien jaar geleden, in het lichaam of buiten het lichaam, ik weet het niet, God weet het... die mens werd weggerukt naar de derde hemel."
+          }
+        ]
+      },
+      "id": "2korintiers.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Hen die gezondigd hebben en ook alle anderen heb ik reeds gewaarschuwd bij mijn tweede bezoek en ik waarschuw ze nu opnieuw voor ik er ben: als ik weer kom, zal ik niemand sparen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hen die gezondigd hebben en ook alle anderen heb ik reeds gewaarschuwd bij mijn tweede bezoek en ik waarschuw ze nu opnieuw voor ik er ben: als ik weer kom, zal ik niemand sparen."
+          }
+        ]
+      },
+      "id": "2korintiers.13.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Gezegend is God, de Vader van onze Heer Jezus Christus, de Vader vol ontferming en de God van alle vertroosting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezegend is God, de Vader van onze Heer Jezus Christus, de Vader vol ontferming en de God van alle vertroosting."
+          }
+        ]
+      },
+      "id": "2korintiers.1.3",
+      "title": "Dankzegging",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Daarom had ik ook geschreven, om bij mijn komst, geen leed te hoeven ondervinden van u die mij juist gelukkig moest maken. Want ik ben er zeker van dat mijn geluk ook uw aller geluk is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom had ik ook geschreven, om bij mijn komst, geen leed te hoeven ondervinden van u die mij juist gelukkig moest maken. Want ik ben er zeker van dat mijn geluk ook uw aller geluk is."
+          }
+        ]
+      },
+      "id": "2korintiers.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "een open brief van Christus, met onze hulp opgesteld, niet met inkt geschreven maar met de Geest van de levende God, niet op stenen tafelen maar in de harten van levende mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "een open brief van Christus, met onze hulp opgesteld, niet met inkt geschreven maar met de Geest van de levende God, niet op stenen tafelen maar in de harten van levende mensen."
+          }
+        ]
+      },
+      "id": "2korintiers.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "En als er nog een sluier ligt over de boodschap die wij verkondigen, dan alleen voor hen die verloren gaan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als er nog een sluier ligt over de boodschap die wij verkondigen, dan alleen voor hen die verloren gaan,"
+          }
+        ]
+      },
+      "id": "2korintiers.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "daar wij, eenmaal hiermee bekleed, niet naakt zullen staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "daar wij, eenmaal hiermee bekleed, niet naakt zullen staan."
+          }
+        ]
+      },
+      "id": "2korintiers.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Wij geven niemand enige aanstoot, om ons ambt niet in opspraak te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij geven niemand enige aanstoot, om ons ambt niet in opspraak te brengen."
+          }
+        ]
+      },
+      "id": "2korintiers.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Ik zeg dit niet om anderen te veroordelen. Al eerder heb ik het gezegd: ik heb u in mijn hart gesloten, wij horen bij elkaar in leven en dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zeg dit niet om anderen te veroordelen. Al eerder heb ik het gezegd: ik heb u in mijn hart gesloten, wij horen bij elkaar in leven en dood."
+          }
+        ]
+      },
+      "id": "2korintiers.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Want zij hebben naar vermogen gegeven; ik moest eigenlijk zeggen, boven hun vermogen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want zij hebben naar vermogen gegeven; ik moest eigenlijk zeggen, boven hun vermogen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Als ik onze broeders stuur, is het alleen uit vrees dat onze lofrede op dit punt ongerechtvaardigd zou blijken. Ik wil dat gij inderdaad, zoals ik beweerd heb, gereed zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik onze broeders stuur, is het alleen uit vrees dat onze lofrede op dit punt ongerechtvaardigd zou blijken. Ik wil dat gij inderdaad, zoals ik beweerd heb, gereed zijt."
+          }
+        ]
+      },
+      "id": "2korintiers.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "Al zijn wij zwakke mensen, onze strijd is geen uiting van zwakheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al zijn wij zwakke mensen, onze strijd is geen uiting van zwakheid."
+          }
+        ]
+      },
+      "id": "2korintiers.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Maar soms vrees ik dat gij u laat verleiden, zoals eertijds Eva door de sluwe slang werd bedrogen, en dat uw gedachten afdwalen van de trouw aan Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar soms vrees ik dat gij u laat verleiden, zoals eertijds Eva door de sluwe slang werd bedrogen, en dat uw gedachten afdwalen van de trouw aan Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "Van die mens weet ik dat hij met het lichaam of zonder het lichaam, ik weet het niet, God weet het,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van die mens weet ik dat hij met het lichaam of zonder het lichaam, ik weet het niet, God weet het,"
+          }
+        ]
+      },
+      "id": "2korintiers.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Gij verlangt immers het bewijs dat Christus spreekt door mij? Welnu, Hij is niet zwak, Hij toont zijn kracht onder u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij verlangt immers het bewijs dat Christus spreekt door mij? Welnu, Hij is niet zwak, Hij toont zijn kracht onder u."
+          }
+        ]
+      },
+      "id": "2korintiers.13.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Hij troost ons in al onze tegenspoed, zodat wij in staat zijn anderen te troosten in al hun noden, dankzij de troost die wij van God ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij troost ons in al onze tegenspoed, zodat wij in staat zijn anderen te troosten in al hun noden, dankzij de troost die wij van God ontvangen."
+          }
+        ]
+      },
+      "id": "2korintiers.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Toen ik schreef, was het dan ook met een bedrukt en beklemd gemoed en onder veel tranen. Ik wilde u niet verdrietig maken, maar u een blijk geven van de innige liefde die ik u toedraag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik schreef, was het dan ook met een bedrukt en beklemd gemoed en onder veel tranen. Ik wilde u niet verdrietig maken, maar u een blijk geven van de innige liefde die ik u toedraag."
+          }
+        ]
+      },
+      "id": "2korintiers.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Zo groot is ons Godsvertrouwen, dankzij Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo groot is ons Godsvertrouwen, dankzij Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "voor de ongelovigen, wier geest door de god van deze wereld zozeer is verblind, dat zij de glans niet ontwaren van het evangelie van de heerlijkheid van Christus, die het beeld is van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "voor de ongelovigen, wier geest door de god van deze wereld zozeer is verblind, dat zij de glans niet ontwaren van het evangelie van de heerlijkheid van Christus, die het beeld is van God."
+          }
+        ]
+      },
+      "id": "2korintiers.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Wij die nog in deze tent wonen, zuchten en voelen ons bezwaard, omdat wij het nieuwe kleed zouden willen aantrekken zonder het oude af te leggen; dan zou dit sterfelijke meteen worden opgeslokt door onsterfelijk leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij die nog in deze tent wonen, zuchten en voelen ons bezwaard, omdat wij het nieuwe kleed zouden willen aantrekken zonder het oude af te leggen; dan zou dit sterfelijke meteen worden opgeslokt door onsterfelijk leven."
+          }
+        ]
+      },
+      "id": "2korintiers.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "In alle omstandigheden proberen wij ons te gedragen als dienaars van God door het standvastig verduren van ontberingen, nood en ellende:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In alle omstandigheden proberen wij ons te gedragen als dienaars van God door het standvastig verduren van ontberingen, nood en ellende:"
+          }
+        ]
+      },
+      "id": "2korintiers.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Hoe ongedwongen kan ik met u omgaan, wat ben ik trots op u! Dit vervult mij met troost en doet mij overvloeien van blijdschap bij al mijn wederwaardigheden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe ongedwongen kan ik met u omgaan, wat ben ik trots op u! Dit vervult mij met troost en doet mij overvloeien van blijdschap bij al mijn wederwaardigheden."
+          }
+        ]
+      },
+      "id": "2korintiers.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Uit eigen beweging en met grote aandrang smeekten zij ons om de gunst, deel te mogen nemen aan de ondersteuning van de heiligen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit eigen beweging en met grote aandrang smeekten zij ons om de gunst, deel te mogen nemen aan de ondersteuning van de heiligen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Anders zouden wij - om van u maar te zwijgen - als de Macedoniërs die met mij meekomen, zien dat gij nog niet klaar zijt, ons over deze onderneming moeten schamen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Anders zouden wij - om van u maar te zwijgen - als de Macedoniërs die met mij meekomen, zien dat gij nog niet klaar zijt, ons over deze onderneming moeten schamen."
+          }
+        ]
+      },
+      "id": "2korintiers.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "De wapens waarmee wij strijden zijn niet zwak, ze zijn geladen met Gods kracht, in staat elke sterkte te breken. Wij werpen redeneringen omver,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wapens waarmee wij strijden zijn niet zwak, ze zijn geladen met Gods kracht, in staat elke sterkte te breken. Wij werpen redeneringen omver,"
+          }
+        ]
+      },
+      "id": "2korintiers.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Als de eerste de beste een andere Jezus predikt dan wij gepredikt hebben, of u een andere geest of een ander evangelie brengt dan gij van ons hebt aanvaard, laat gij het u rustig aanleunen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als de eerste de beste een andere Jezus predikt dan wij gepredikt hebben, of u een andere geest of een ander evangelie brengt dan gij van ons hebt aanvaard, laat gij het u rustig aanleunen."
+          }
+        ]
+      },
+      "id": "2korintiers.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "dat hij werd weggerukt naar het paradijs en onzegbare woorden vernam, die geen mens mag uitspreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat hij werd weggerukt naar het paradijs en onzegbare woorden vernam, die geen mens mag uitspreken."
+          }
+        ]
+      },
+      "id": "2korintiers.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "Al werd Hij in zwakheid gekruisigd. Hij leeft thans door Gods kracht. En al zijn wij zwak zoals Hij het was, toch zult gij ervaren dat wij met Hem leven door Gods kracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al werd Hij in zwakheid gekruisigd. Hij leeft thans door Gods kracht. En al zijn wij zwak zoals Hij het was, toch zult gij ervaren dat wij met Hem leven door Gods kracht."
+          }
+        ]
+      },
+      "id": "2korintiers.13.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Want wij delen volop in het lijden van Christus; maar door Christus gewordt ons ook overvloedige vertroosting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij delen volop in het lijden van Christus; maar door Christus gewordt ons ook overvloedige vertroosting."
+          }
+        ]
+      },
+      "id": "2korintiers.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Als iemand leed veroorzaakt heeft, dan heeft hij niet mij beledigd, dan heeft hij tot op zekere hoogte - want ik wil niet overdrijven - u allen beledigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand leed veroorzaakt heeft, dan heeft hij niet mij beledigd, dan heeft hij tot op zekere hoogte - want ik wil niet overdrijven - u allen beledigd."
+          }
+        ]
+      },
+      "id": "2korintiers.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Nogmaals, dit betekent niet dat wij uit onszelf bekwaam zijn, zodat wij ons enige verdienste kunnen toeschrijven. Heel onze bekwaamheid komt van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nogmaals, dit betekent niet dat wij uit onszelf bekwaam zijn, zodat wij ons enige verdienste kunnen toeschrijven. Heel onze bekwaamheid komt van God."
+          }
+        ]
+      },
+      "id": "2korintiers.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Wij verkondigen immers niet onszelf, maar Christus Jezus, de Heer; onszelf beschouwen wij slechts als uw dienaars om Jezus’ wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij verkondigen immers niet onszelf, maar Christus Jezus, de Heer; onszelf beschouwen wij slechts als uw dienaars om Jezus’ wil."
+          }
+        ]
+      },
+      "id": "2korintiers.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "God zelf heeft ons hiervoor gereedgemaakt, toen Hij ons de Geest gaf als onderpand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God zelf heeft ons hiervoor gereedgemaakt, toen Hij ons de Geest gaf als onderpand."
+          }
+        ]
+      },
+      "id": "2korintiers.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "slagen, gevangenschap, oproer, oververmoeidheid, gebrek aan slaap, te weinig eten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slagen, gevangenschap, oproer, oververmoeidheid, gebrek aan slaap, te weinig eten."
+          }
+        ]
+      },
+      "id": "2korintiers.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Toen wij dan in Macedonië kwamen, hadden wij rust noch duur; narigheid overal, ruzies om ons heen, angsten in ons hart.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen wij dan in Macedonië kwamen, hadden wij rust noch duur; narigheid overal, ruzies om ons heen, angsten in ons hart."
+          }
+        ]
+      },
+      "id": "2korintiers.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Zij gaven meer dan wij durfden hopen; zij gaven zichzelf, in de eerste plaats aan de Heer, maar dan ook, door Gods wil, aan ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij gaven meer dan wij durfden hopen; zij gaven zichzelf, in de eerste plaats aan de Heer, maar dan ook, door Gods wil, aan ons."
+          }
+        ]
+      },
+      "id": "2korintiers.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Ik achtte het daarom nodig de broeders te vragen u tevoren te bezoeken en ervoor te zorgen, dat de milde gave die gij reeds eerder had toegezegd, tijdig wordt gereed gemaakt en klaar ligt. Maar dan moet gij ook rijkelijk geven, niet bekrompen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik achtte het daarom nodig de broeders te vragen u tevoren te bezoeken en ervoor te zorgen, dat de milde gave die gij reeds eerder had toegezegd, tijdig wordt gereed gemaakt en klaar ligt. Maar dan moet gij ook rijkelijk geven, niet bekrompen."
+          }
+        ]
+      },
+      "id": "2korintiers.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "elke verschansing door de hoogmoed opgeworpen tegen de kennis van God. Wij nemen elke gedachte gevangen om haar te onderwerpen aan Christus,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "elke verschansing door de hoogmoed opgeworpen tegen de kennis van God. Wij nemen elke gedachte gevangen om haar te onderwerpen aan Christus,"
+          }
+        ]
+      },
+      "id": "2korintiers.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Toch meen ik niet achter te staan bij die aartsapostelen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch meen ik niet achter te staan bij die aartsapostelen!"
+          }
+        ]
+      },
+      "id": "2korintiers.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "Op zo iemand wil ik roemen. Voor mijzelf wil ik alleen roemen op mijn zwakheden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op zo iemand wil ik roemen. Voor mijzelf wil ik alleen roemen op mijn zwakheden."
+          }
+        ]
+      },
+      "id": "2korintiers.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Onderzoekt en toetst uzelf: staat gij in het geloof? Gij kunt toch van uzelf getuigen dat Jezus Christus in u is? Zo niet, dan hebt gij de proef niet doorstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onderzoekt en toetst uzelf: staat gij in het geloof? Gij kunt toch van uzelf getuigen dat Jezus Christus in u is? Zo niet, dan hebt gij de proef niet doorstaan."
+          }
+        ]
+      },
+      "id": "2korintiers.13.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Worden wij verdrukt, het is voor uw troost en heil. Worden wij bemoedigd, het is om u moed en kracht te geven om standvastig hetzelfde lijden te verdragen als wij verdragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Worden wij verdrukt, het is voor uw troost en heil. Worden wij bemoedigd, het is om u moed en kracht te geven om standvastig hetzelfde lijden te verdragen als wij verdragen."
+          }
+        ]
+      },
+      "id": "2korintiers.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Met de berisping die gij hem in meerderheid hebt toegediend, is de bedoelde persoon voldoende gestraft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met de berisping die gij hem in meerderheid hebt toegediend, is de bedoelde persoon voldoende gestraft."
+          }
+        ]
+      },
+      "id": "2korintiers.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Hij is het die ons bekwaam heeft gemaakt dienaars te zijn van een nieuw verbond, niet van de letter maar van de Geest. Want de letter doodt, maar de Geest maakt levend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is het die ons bekwaam heeft gemaakt dienaars te zijn van een nieuw verbond, niet van de letter maar van de Geest. Want de letter doodt, maar de Geest maakt levend."
+          }
+        ]
+      },
+      "id": "2korintiers.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Dezelfde God die gezegd heeft: “Licht moet schijnen uit het duister,” is als een licht in onze harten opgegaan, om de kennis te doen stralen van zijn heerlijkheid, die ligt over het gelaat van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dezelfde God die gezegd heeft: “Licht moet schijnen uit het duister,” is als een licht in onze harten opgegaan, om de kennis te doen stralen van zijn heerlijkheid, die ligt over het gelaat van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Daarom houden wij altijd goede moed. Wij zijn ons bewust dat wij, zolang wij thuis zijn in het lichaam, ver zijn van de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom houden wij altijd goede moed. Wij zijn ons bewust dat wij, zolang wij thuis zijn in het lichaam, ver zijn van de Heer."
+          }
+        ]
+      },
+      "id": "2korintiers.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Onze aanbeveling is: zuiverheid, inzicht, geduld, goedheid, en geest van heiligheid en ongeveinsde liefde,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze aanbeveling is: zuiverheid, inzicht, geduld, goedheid, en geest van heiligheid en ongeveinsde liefde,"
+          }
+        ]
+      },
+      "id": "2korintiers.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Maar God die de neerslachtigen opbeurt, heeft ook ons getroost door de komst van Titus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar God die de neerslachtigen opbeurt, heeft ook ons getroost door de komst van Titus."
+          }
+        ]
+      },
+      "id": "2korintiers.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Hierdoor bemoedigd hebben wij er bij Titus op aangedrongen, ook dit liefdewerk, waarmee hij al eerder begonnen was, bij u tot een goed einde te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierdoor bemoedigd hebben wij er bij Titus op aangedrongen, ook dit liefdewerk, waarmee hij al eerder begonnen was, bij u tot een goed einde te brengen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Bedenkt: wie karig zaait, zal karig oogsten; wie overvloedig zaait, zal overvloedig oogsten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bedenkt: wie karig zaait, zal karig oogsten; wie overvloedig zaait, zal overvloedig oogsten."
+          }
+        ]
+      },
+      "id": "2korintiers.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "en wij staan klaar om elke ongehoorzaamheid te straffen, zodra uw gehoorzaamheid volmaakt is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en wij staan klaar om elke ongehoorzaamheid te straffen, zodra uw gehoorzaamheid volmaakt is."
+          }
+        ]
+      },
+      "id": "2korintiers.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Al ben ik dan onbedreven in het spreken, kennis der waarheid heb ik genoeg, zoals ik u allen op allerlei wijzen heb getoond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al ben ik dan onbedreven in het spreken, kennis der waarheid heb ik genoeg, zoals ik u allen op allerlei wijzen heb getoond."
+          }
+        ]
+      },
+      "id": "2korintiers.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Zou ik werkelijk willen roemen, dan was ik geen dwaas; ik zou immers de waarheid zeggen. Maar daar zie ik van af; ik wil niet dat iemand mij meer toeschrijft dan wat hij van mij kan zien of horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zou ik werkelijk willen roemen, dan was ik geen dwaas; ik zou immers de waarheid zeggen. Maar daar zie ik van af; ik wil niet dat iemand mij meer toeschrijft dan wat hij van mij kan zien of horen."
+          }
+        ]
+      },
+      "id": "2korintiers.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Ik hoop dat gij zult inzien dat wij de proef hebben doorstaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik hoop dat gij zult inzien dat wij de proef hebben doorstaan."
+          }
+        ]
+      },
+      "id": "2korintiers.13.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Onze hoop voor u staat vast: wij weten dat gij, delend in onze smarten, ook zult delen in onze vertroosting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onze hoop voor u staat vast: wij weten dat gij, delend in onze smarten, ook zult delen in onze vertroosting."
+          }
+        ]
+      },
+      "id": "2korintiers.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Nu moet ge hem vergiffenis schenken en bemoedigen; anders wordt hij nog door al te grote droefheid overmand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu moet ge hem vergiffenis schenken en bemoedigen; anders wordt hij nog door al te grote droefheid overmand."
+          }
+        ]
+      },
+      "id": "2korintiers.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Welnu, de dienst van de dood, waarvan de oorkonde met letters op stenen gegrift stond, ging reeds met zulk een heerlijkheid gepaard, dat de Israëlieten niet konden opzien naar het gelaat van Mozes wegens de luister die ervan uitstraalde; en toch zou deze weldra weer verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, de dienst van de dood, waarvan de oorkonde met letters op stenen gegrift stond, ging reeds met zulk een heerlijkheid gepaard, dat de Israëlieten niet konden opzien naar het gelaat van Mozes wegens de luister die ervan uitstraalde; en toch zou deze weldra weer verdwijnen."
+          }
+        ]
+      },
+      "id": "2korintiers.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Maar wij dragen deze schat in aarden potten; duidelijk blijkt dat die overgrote kracht van God komt en niet van ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij dragen deze schat in aarden potten; duidelijk blijkt dat die overgrote kracht van God komt en niet van ons."
+          }
+        ]
+      },
+      "id": "2korintiers.4.7",
+      "title": "Vertrouwen bij alle wederwaardigheden",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Wij leven in geloof, wij zien Hem niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij leven in geloof, wij zien Hem niet."
+          }
+        ]
+      },
+      "id": "2korintiers.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "het woord van de waarheid, de kracht van God zelf. Wij strijden en verweren ons met geestelijke wapens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "het woord van de waarheid, de kracht van God zelf. Wij strijden en verweren ons met geestelijke wapens."
+          }
+        ]
+      },
+      "id": "2korintiers.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Natuurlijk niet alleen door zijn komst, maar vooral door de troost die hijzelf van u had ondervonden. Hij vertelde ons van uw vurig verlangen, uw verdriet en uw ijver voor mij. Mijn vreugde werd er nog groter door.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Natuurlijk niet alleen door zijn komst, maar vooral door de troost die hijzelf van u had ondervonden. Hij vertelde ons van uw vurig verlangen, uw verdriet en uw ijver voor mij. Mijn vreugde werd er nog groter door."
+          }
+        ]
+      },
+      "id": "2korintiers.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Welnu, gij munt reeds in zoveel opzichten uit, in geloof, welsprekendheid, kennis, in ijver op alle gebied, in uw liefde voor ons; laat dan ook dit liefdewerk uitmuntend slagen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, gij munt reeds in zoveel opzichten uit, in geloof, welsprekendheid, kennis, in ijver op alle gebied, in uw liefde voor ons; laat dan ook dit liefdewerk uitmuntend slagen!"
+          }
+        ]
+      },
+      "id": "2korintiers.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Laat ieder wat hij in zijn hart besloten heeft, ten uitvoer brengen, zonder pijn en zonder dwang, want God houdt van een blijmoedige gever.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat ieder wat hij in zijn hart besloten heeft, ten uitvoer brengen, zonder pijn en zonder dwang, want God houdt van een blijmoedige gever."
+          }
+        ]
+      },
+      "id": "2korintiers.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "Wat volgt spreekt eigenlijk vanzelf. Is iemand ervan overtuigd dat hij aan Christus toebehoort? Bij enig nadenken zal hij moeten erkennen dat wij ook aan Christus toebehoren, evengoed als hij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat volgt spreekt eigenlijk vanzelf. Is iemand ervan overtuigd dat hij aan Christus toebehoort? Bij enig nadenken zal hij moeten erkennen dat wij ook aan Christus toebehoren, evengoed als hij."
+          }
+        ]
+      },
+      "id": "2korintiers.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Of heb ik er verkeerd aan gedaan, dat ik om u te verheffen mijzelf vernederde? Was het een zonde u het evangelie van God om niet te verkondigen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Of heb ik er verkeerd aan gedaan, dat ik om u te verheffen mijzelf vernederde? Was het een zonde u het evangelie van God om niet te verkondigen?"
+          }
+        ]
+      },
+      "id": "2korintiers.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 7,
+      "text": "Ook is er - want anders zouden de buitengewone openbaringen mij verwaand kunnen maken - ook is er een doren in mijn vlees gestoken, als een bode van de satan die mij moet afranselen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook is er - want anders zouden de buitengewone openbaringen mij verwaand kunnen maken - ook is er een doren in mijn vlees gestoken, als een bode van de satan die mij moet afranselen."
+          }
+        ]
+      },
+      "id": "2korintiers.12.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Wij bidden God dat gij geen kwaad doet, niet om te bewijzen dat wij succes hebben, maar om te bereiken dat gij het goede doet; dan mogen wij wel mislukken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij bidden God dat gij geen kwaad doet, niet om te bewijzen dat wij succes hebben, maar om te bereiken dat gij het goede doet; dan mogen wij wel mislukken."
+          }
+        ]
+      },
+      "id": "2korintiers.13.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Gij moet namelijk weten, broeders, dat ons hier in Asia ernstige moeilijkheden overkomen zijn. Het was meer dan we konden dragen, een al te zware last, zodat we zelfs wanhoopten aan ons leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij moet namelijk weten, broeders, dat ons hier in Asia ernstige moeilijkheden overkomen zijn. Het was meer dan we konden dragen, een al te zware last, zodat we zelfs wanhoopten aan ons leven."
+          }
+        ]
+      },
+      "id": "2korintiers.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Ik verzoek u dus: neemt het besluit hem liefde te betonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik verzoek u dus: neemt het besluit hem liefde te betonen."
+          }
+        ]
+      },
+      "id": "2korintiers.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Hoeveel te heerlijker moet dan de dienst van de Geest zijn!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoeveel te heerlijker moet dan de dienst van de Geest zijn!"
+          }
+        ]
+      },
+      "id": "2korintiers.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Wij worden aan alle kanten bestookt, maar raken toch niet klem; wij zien geen uitweg meer, maar wij zijn nooit ten einde raad;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij worden aan alle kanten bestookt, maar raken toch niet klem; wij zien geen uitweg meer, maar wij zijn nooit ten einde raad;"
+          }
+        ]
+      },
+      "id": "2korintiers.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Maar wij houden moed en zouden liever uit dit lichaam verhuizen om onze intrek te nemen bij de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij houden moed en zouden liever uit dit lichaam verhuizen om onze intrek te nemen bij de Heer."
+          }
+        ]
+      },
+      "id": "2korintiers.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Eer en smaad, lof en laster zijn ons deel; wij zijn de bedriegers die de waarheid spreken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Eer en smaad, lof en laster zijn ons deel; wij zijn de bedriegers die de waarheid spreken,"
+          }
+        ]
+      },
+      "id": "2korintiers.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Ja, al heb ik u ook met mijn brief verdriet gedaan, ik heb er geen spijt van. En al had ik er spijt van, toen ik merkte, dat die brief aan u, al was het maar even, pijn gedaan heeft,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, al heb ik u ook met mijn brief verdriet gedaan, ik heb er geen spijt van. En al had ik er spijt van, toen ik merkte, dat die brief aan u, al was het maar even, pijn gedaan heeft,"
+          }
+        ]
+      },
+      "id": "2korintiers.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Ik zeg dit niet bij wijze van bevel, maar ik wil de echtheid van uw liefde toetsen aan de toewijding van anderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zeg dit niet bij wijze van bevel, maar ik wil de echtheid van uw liefde toetsen aan de toewijding van anderen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "En God heeft de macht u met alle gaven te overstelpen, zodat gij altijd in alle opzichten van al het nodige voorzien, nog ruimschoots overhoudt voor elk goed werk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En God heeft de macht u met alle gaven te overstelpen, zodat gij altijd in alle opzichten van al het nodige voorzien, nog ruimschoots overhoudt voor elk goed werk."
+          }
+        ]
+      },
+      "id": "2korintiers.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "Ja, als ik me wat te veel laat voorstaan op de autoriteit die de Heer ons gegeven heeft - overigens niet om af te breken maar om op te bouwen - ik zal mijn roemen waar maken!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, als ik me wat te veel laat voorstaan op de autoriteit die de Heer ons gegeven heeft - overigens niet om af te breken maar om op te bouwen - ik zal mijn roemen waar maken!"
+          }
+        ]
+      },
+      "id": "2korintiers.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Andere gemeenten heb ik gebrandschat en van hen ondersteuning aangenomen, om u van dienst te kunnen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Andere gemeenten heb ik gebrandschat en van hen ondersteuning aangenomen, om u van dienst te kunnen zijn."
+          }
+        ]
+      },
+      "id": "2korintiers.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "text": "Tot driemaal toe heb ik de Heer aangeroepen, dat hij van mij zou weggaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot driemaal toe heb ik de Heer aangeroepen, dat hij van mij zou weggaan."
+          }
+        ]
+      },
+      "id": "2korintiers.12.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "Want tegen de waarheid vermogen wij niets, die kunnen wij slechts steunen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want tegen de waarheid vermogen wij niets, die kunnen wij slechts steunen."
+          }
+        ]
+      },
+      "id": "2korintiers.13.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Werkelijk, wij beschouwden ons reeds als ten dode opgeschreven. Wij moesten leren niet op onszelf te vertrouwen, maar alleen op God, die de doden ten leven wekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Werkelijk, wij beschouwden ons reeds als ten dode opgeschreven. Wij moesten leren niet op onszelf te vertrouwen, maar alleen op God, die de doden ten leven wekt."
+          }
+        ]
+      },
+      "id": "2korintiers.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Het doel van mijn schrijven was ook u op de proef te stellen en te zien of gij in alles gehoorzaam zijt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het doel van mijn schrijven was ook u op de proef te stellen en te zien of gij in alles gehoorzaam zijt."
+          }
+        ]
+      },
+      "id": "2korintiers.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "En als het ambt dat in dienst stond van de veroordeling eervol was, hoeveel te meer dan het ambt dat de vrijspraak verkondigt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als het ambt dat in dienst stond van de veroordeling eervol was, hoeveel te meer dan het ambt dat de vrijspraak verkondigt."
+          }
+        ]
+      },
+      "id": "2korintiers.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "wij worden opgejaagd maar niet in de steek gelaten; wij worden neergeveld maar gaan er niet aan dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wij worden opgejaagd maar niet in de steek gelaten; wij worden neergeveld maar gaan er niet aan dood."
+          }
+        ]
+      },
+      "id": "2korintiers.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Daarom is onze enige eerzucht, hetzij thuis hetzij in den vreemde, Hem te behagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is onze enige eerzucht, hetzij thuis hetzij in den vreemde, Hem te behagen."
+          }
+        ]
+      },
+      "id": "2korintiers.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "de onbekenden die iedereen kent; wij sterven maar blijven leven, wij worden getuchtigd maar niet terechtgesteld;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de onbekenden die iedereen kent; wij sterven maar blijven leven, wij worden getuchtigd maar niet terechtgesteld;"
+          }
+        ]
+      },
+      "id": "2korintiers.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "dan nu toch niet meer. Integendeel, ik ben blij, niet om uw droefheid, maar om het berouw dat op uw droefheid gevolgd is. Uw verdriet was God welgevallig. Wij hebben u dus in geen enkel opzicht benadeeld!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dan nu toch niet meer. Integendeel, ik ben blij, niet om uw droefheid, maar om het berouw dat op uw droefheid gevolgd is. Uw verdriet was God welgevallig. Wij hebben u dus in geen enkel opzicht benadeeld!"
+          }
+        ]
+      },
+      "id": "2korintiers.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Want de liefdedaad van onze Heer Jezus Christus hoef ik u niet in herinnering te brengen: hoe Hij om uwentwil arm is geworden, terwijl Hij rijk was, opdat gij rijk zoudt worden door zijn armoede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de liefdedaad van onze Heer Jezus Christus hoef ik u niet in herinnering te brengen: hoe Hij om uwentwil arm is geworden, terwijl Hij rijk was, opdat gij rijk zoudt worden door zijn armoede."
+          }
+        ]
+      },
+      "id": "2korintiers.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Zo staat er ook geschreven: Hij heeft overvloedig gegeven aan de armen, zijn milddadigheid zal immer blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo staat er ook geschreven: Hij heeft overvloedig gegeven aan de armen, zijn milddadigheid zal immer blijven."
+          }
+        ]
+      },
+      "id": "2korintiers.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Ik wil niet de schijn op mij laden dat ik u per brief tracht te intimideren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik wil niet de schijn op mij laden dat ik u per brief tracht te intimideren."
+          }
+        ]
+      },
+      "id": "2korintiers.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "En toen ik bij u was en gebrek kreeg, ben ik niemand lastiggevallen. De broeders die uit Macedoni&euml; kwamen hebben in al mijn behoeften voorzien. In elk opzicht heb ik mij ervoor gewacht u tot last te zijn. En dat zal ook zo blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En toen ik bij u was en gebrek kreeg, ben ik niemand lastiggevallen. De broeders die uit Macedonië kwamen hebben in al mijn behoeften voorzien. In elk opzicht heb ik mij ervoor gewacht u tot last te zijn. En dat zal ook zo blijven."
+          }
+        ]
+      },
+      "id": "2korintiers.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "text": "Maar Hij antwoordde mij: “Je hebt genoeg aan mijn genade. Kracht wordt juist in zwakheid volkomen.” Dus zal ik het liefst van alles roemen op mijn zwakheden. Dan zal de kracht van Christus in mij wonen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Hij antwoordde mij: “Je hebt genoeg aan mijn genade. Kracht wordt juist in zwakheid volkomen.” Dus zal ik het liefst van alles roemen op mijn zwakheden. Dan zal de kracht van Christus in mij wonen."
+          }
+        ]
+      },
+      "id": "2korintiers.12.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Wij willen gaarne zwak zijn, als gij sterk zijt. Onze enige wens is dat alles goed gaat met u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij willen gaarne zwak zijn, als gij sterk zijt. Onze enige wens is dat alles goed gaat met u."
+          }
+        ]
+      },
+      "id": "2korintiers.13.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Hij is het die ons gered heeft uit dat dodelijk gevaar. En Hij op wie onze hoop gevestigd is, zal ons ook in de toekomst redden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is het die ons gered heeft uit dat dodelijk gevaar. En Hij op wie onze hoop gevestigd is, zal ons ook in de toekomst redden,"
+          }
+        ]
+      },
+      "id": "2korintiers.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Als gij hem vergiffenis schenkt, doe ik het ook. Voor zover ik persoonlijk iets te vergeven had, is het al gebeurd om uwentwil, voor het aanschijn van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij hem vergiffenis schenkt, doe ik het ook. Voor zover ik persoonlijk iets te vergeven had, is het al gebeurd om uwentwil, voor het aanschijn van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Wat eens heerlijkheid scheen, is eigenlijk geen heerlijkheid, vergeleken bij deze allesovertreffende heerlijkheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat eens heerlijkheid scheen, is eigenlijk geen heerlijkheid, vergeleken bij deze allesovertreffende heerlijkheid."
+          }
+        ]
+      },
+      "id": "2korintiers.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Altijd dragen wij het sterven van Jezus in ons lichaam mee, want ook het leven van Jezus moet in ons lichaam openbaar worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Altijd dragen wij het sterven van Jezus in ons lichaam mee, want ook het leven van Jezus moet in ons lichaam openbaar worden."
+          }
+        ]
+      },
+      "id": "2korintiers.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Want allen moeten wij voor Christus’ rechterstoel verschijnen, opdat ieder het loon ontvangt voor wat hij in dit leven heeft gedaan, goed of kwaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want allen moeten wij voor Christus’ rechterstoel verschijnen, opdat ieder het loon ontvangt voor wat hij in dit leven heeft gedaan, goed of kwaad."
+          }
+        ]
+      },
+      "id": "2korintiers.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "wij treuren, maar zijn altijd blij; wij zijn berooid en maken velen rijk, haveloos en de wereld is van ons.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wij treuren, maar zijn altijd blij; wij zijn berooid en maken velen rijk, haveloos en de wereld is van ons."
+          }
+        ]
+      },
+      "id": "2korintiers.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Want God welgevallige droefheid leidt tot heilzaam berouw, dat men nooit berouwt, maar de droefheid van de wereld brengt de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want God welgevallige droefheid leidt tot heilzaam berouw, dat men nooit berouwt, maar de droefheid van de wereld brengt de dood."
+          }
+        ]
+      },
+      "id": "2korintiers.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Toch geef ik u in deze een raad, die u van pas kan komen. Het vorig jaar zijt gij al begonnen met het plan en de uitvoering ervan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toch geef ik u in deze een raad, die u van pas kan komen. Het vorig jaar zijt gij al begonnen met het plan en de uitvoering ervan."
+          }
+        ]
+      },
+      "id": "2korintiers.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Hij die de zaaier zaad verschaft en voedsel om te eten, zal ook u zaaigoed verschaffen en het vermenigvuldigen en de oogst van uw milddadigheid doen gedijen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die de zaaier zaad verschaft en voedsel om te eten, zal ook u zaaigoed verschaffen en het vermenigvuldigen en de oogst van uw milddadigheid doen gedijen."
+          }
+        ]
+      },
+      "id": "2korintiers.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "“Want zijn brieven,” zegt men, “zijn streng en bars, maar zijn persoonlijk optreden maakt geen indruk en hij is een armzalig spreker.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "“Want zijn brieven,” zegt men, “zijn streng en bars, maar zijn persoonlijk optreden maakt geen indruk en hij is een armzalig spreker.”"
+          }
+        ]
+      },
+      "id": "2korintiers.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Zo zeker als de waarheid van Christus in mij is: ik zal mij die roem niet laten ontnemen in heel het land van Achaïa.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zeker als de waarheid van Christus in mij is: ik zal mij die roem niet laten ontnemen in heel het land van Achaïa."
+          }
+        ]
+      },
+      "id": "2korintiers.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "text": "Daarom lijd ik om Christus’ wil gaarne zwakheid, smaad, nood, vervolging en benauwdheid. Want als ik zwak ben, dan ben ik sterk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom lijd ik om Christus’ wil gaarne zwakheid, smaad, nood, vervolging en benauwdheid. Want als ik zwak ben, dan ben ik sterk."
+          }
+        ]
+      },
+      "id": "2korintiers.12.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Daarom schrijf ik u dit alles, terwijl ik nog afwezig ben. Dan hoef ik, eenmaal bij u, niet met gestrengheid op te treden krachtens de volmacht die de Heer mij heeft gegeven niet om af te breken, maar om op te bouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom schrijf ik u dit alles, terwijl ik nog afwezig ben. Dan hoef ik, eenmaal bij u, niet met gestrengheid op te treden krachtens de volmacht die de Heer mij heeft gegeven niet om af te breken, maar om op te bouwen."
+          }
+        ]
+      },
+      "id": "2korintiers.13.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "mede dankzij de hulp van uw voorbede. Dan zullen om ons velen Hem danken voor de gunst die zovelen voor ons hebben verkregen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "mede dankzij de hulp van uw voorbede. Dan zullen om ons velen Hem danken voor de gunst die zovelen voor ons hebben verkregen."
+          }
+        ]
+      },
+      "id": "2korintiers.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Wij moeten de satan geen kans geven ons de baas te worden; wij kennen zijn streken maar al te goed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij moeten de satan geen kans geven ons de baas te worden; wij kennen zijn streken maar al te goed."
+          }
+        ]
+      },
+      "id": "2korintiers.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Als het vergankelijke zich met glorie openbaarde, hoeveel te meer zal dit gelden van het blijvende.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het vergankelijke zich met glorie openbaarde, hoeveel te meer zal dit gelden van het blijvende."
+          }
+        ]
+      },
+      "id": "2korintiers.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Voortdurend wordt ons leven aan de dood uitgeleverd om Jezus’ wil, opdat ook het leven van Jezus zich zou openbaren in ons sterfelijk bestaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voortdurend wordt ons leven aan de dood uitgeleverd om Jezus’ wil, opdat ook het leven van Jezus zich zou openbaren in ons sterfelijk bestaan."
+          }
+        ]
+      },
+      "id": "2korintiers.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Met deze vreze des Heren voor ogen trachten wij de mensen te winnen. Voor God zijn wij een open boek, en ook, naar ik hoop, voor u, als gij ons eerlijk wilt beoordelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met deze vreze des Heren voor ogen trachten wij de mensen te winnen. Voor God zijn wij een open boek, en ook, naar ik hoop, voor u, als gij ons eerlijk wilt beoordelen."
+          }
+        ]
+      },
+      "id": "2korintiers.5.11",
+      "title": "Apostolaat in dienst van de verzoening",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Wij spreken ronduit met u, Korinti&euml;rs, ons hart staat wijd voor u open.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij spreken ronduit met u, Korintiërs, ons hart staat wijd voor u open."
+          }
+        ]
+      },
+      "id": "2korintiers.6.11",
+      "title": "Paulus en de Korintiërs, Titus' bemiddeling",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Ziet eens wat die droefheid naar Gods hart bij u heeft uitgewerkt: wat een bezorgdheid, maar ook wat voor verontschuldigingen, verontwaardiging zelfs en ontzag en vurig verlangen en gloeiende ijver en bestraffing. Op allerlei manieren hebt gij bewezen in deze zaak zuiver te staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ziet eens wat die droefheid naar Gods hart bij u heeft uitgewerkt: wat een bezorgdheid, maar ook wat voor verontschuldigingen, verontwaardiging zelfs en ontzag en vurig verlangen en gloeiende ijver en bestraffing. Op allerlei manieren hebt gij bewezen in deze zaak zuiver te staan."
+          }
+        ]
+      },
+      "id": "2korintiers.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Voltooit nu uw werk en laat het resultaat beantwoorden aan uw edelmoedigheid, naar de middelen waarover gij beschikt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voltooit nu uw werk en laat het resultaat beantwoorden aan uw edelmoedigheid, naar de middelen waarover gij beschikt."
+          }
+        ]
+      },
+      "id": "2korintiers.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Zo wordt gij in ieder opzicht verrijkt en kunt gij alle soort vrijgevigheid beoefenen. En deze is op haar beurt, door onze bemiddeling, oorzaak van dankbetuiging aan God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo wordt gij in ieder opzicht verrijkt en kunt gij alle soort vrijgevigheid beoefenen. En deze is op haar beurt, door onze bemiddeling, oorzaak van dankbetuiging aan God."
+          }
+        ]
+      },
+      "id": "2korintiers.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "Mensen die zo praten mogen dit bedenken: als wij bij u zijn zullen onze daden volledig overeenstemmen met de woorden die wij schreven toen we ver van u waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mensen die zo praten mogen dit bedenken: als wij bij u zijn zullen onze daden volledig overeenstemmen met de woorden die wij schreven toen we ver van u waren."
+          }
+        ]
+      },
+      "id": "2korintiers.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Waarom? Omdat ik u niet liefheb? God weet wel beter.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom? Omdat ik u niet liefheb? God weet wel beter."
+          }
+        ]
+      },
+      "id": "2korintiers.11.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "text": "Ik heb mij aangesteld als een dwaas, Gij hebt er mij toe gedwongen. Gij hadt mij moeten prijzen! Al ben ik dan niets waard, in geen enkel opzicht ben ik achtergebleven bij die aartsapostelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb mij aangesteld als een dwaas, Gij hebt er mij toe gedwongen. Gij hadt mij moeten prijzen! Al ben ik dan niets waard, in geen enkel opzicht ben ik achtergebleven bij die aartsapostelen."
+          }
+        ]
+      },
+      "id": "2korintiers.12.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "En nu, broeders, vaarwel! Laat alles weer goed komen, neemt mijn vermaning ter harte,<br />\r\nweest eensgezind,<br />\r\nbewaart de vrede,<br />\r\nen de God van liefde en vrede zal met u zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu, broeders, vaarwel! Laat alles weer goed komen, neemt mijn vermaning ter harte,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nweest eensgezind,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nbewaart de vrede,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen de God van liefde en vrede zal met u zijn."
+          }
+        ]
+      },
+      "id": "2korintiers.13.11",
+      "title": "Slot en zegen",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Een ding geeft ons moed: het getuigenis van ons geweten, dat wij ons in het algemeen, en heel bijzonder met betrekking tot u, gedragen hebben niet volgens de wijsheid van de wereld, maar met die eenvoud en oprechtheid die een gave zijn van Gods genade.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een ding geeft ons moed: het getuigenis van ons geweten, dat wij ons in het algemeen, en heel bijzonder met betrekking tot u, gedragen hebben niet volgens de wijsheid van de wereld, maar met die eenvoud en oprechtheid die een gave zijn van Gods genade."
+          }
+        ]
+      },
+      "id": "2korintiers.1.12",
+      "title": "Waarom het beloofde bezoek achterwege bleef",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ik ging dus naar Troas om het evangelie van Christus te verkondigen en de kansen voor het werk des Heren waren gunstig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ging dus naar Troas om het evangelie van Christus te verkondigen en de kansen voor het werk des Heren waren gunstig."
+          }
+        ]
+      },
+      "id": "2korintiers.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Toegerust met zulk een hoop, treden wij met grote vrijmoedigheid op,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toegerust met zulk een hoop, treden wij met grote vrijmoedigheid op,"
+          }
+        ]
+      },
+      "id": "2korintiers.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Zo verricht de dood zijn werk in ons en het leven in u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo verricht de dood zijn werk in ons en het leven in u."
+          }
+        ]
+      },
+      "id": "2korintiers.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Wij gaan ons niet opnieuw bij u aanprijzen, wij willen u alleen de kans geven onze eer hoog te houden en hen van antwoord te dienen die hun roem zoeken in de schijn en niet in het wezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij gaan ons niet opnieuw bij u aanprijzen, wij willen u alleen de kans geven onze eer hoog te houden en hen van antwoord te dienen die hun roem zoeken in de schijn en niet in het wezen."
+          }
+        ]
+      },
+      "id": "2korintiers.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Het is niet onze schuld dat gij u beklemd voelt; zelf zijt gij niet ruimhartig genoeg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is niet onze schuld dat gij u beklemd voelt; zelf zijt gij niet ruimhartig genoeg."
+          }
+        ]
+      },
+      "id": "2korintiers.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "Als ik u geschreven heb, was het dus niet zozeer om hem die het onrecht had begaan of om hem die het onrecht had geleden; veeleer was het mijn bedoeling, dat uw ijver voor ons duidelijk bij u aan de dag zou treden voor het aanschijn van God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik u geschreven heb, was het dus niet zozeer om hem die het onrecht had begaan of om hem die het onrecht had geleden; veeleer was het mijn bedoeling, dat uw ijver voor ons duidelijk bij u aan de dag zou treden voor het aanschijn van God."
+          }
+        ]
+      },
+      "id": "2korintiers.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Liefdadigheid naar vermogen is welkom, er wordt niet verwacht dat iemand geeft wat hij niet heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Liefdadigheid naar vermogen is welkom, er wordt niet verwacht dat iemand geeft wat hij niet heeft."
+          }
+        ]
+      },
+      "id": "2korintiers.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Zulk een spontane dienst voorziet niet alleen in de noden van de heiligen, hij wordt ook een overvloedige bron van dankzegging aan God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zulk een spontane dienst voorziet niet alleen in de noden van de heiligen, hij wordt ook een overvloedige bron van dankzegging aan God."
+          }
+        ]
+      },
+      "id": "2korintiers.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "Het is waar, wij hebben niet de euvele moed onszelf op een lijn te stellen of ook maar te vergelijken met bepaalde lieden die zichzelf aanprijzen. Wij willen ons liever onze eigen maat aanleggen en ons houden aan ons eigen richtsnoer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is waar, wij hebben niet de euvele moed onszelf op een lijn te stellen of ook maar te vergelijken met bepaalde lieden die zichzelf aanprijzen. Wij willen ons liever onze eigen maat aanleggen en ons houden aan ons eigen richtsnoer."
+          }
+        ]
+      },
+      "id": "2korintiers.10.12",
+      "title": "Verweer tegen de beschuldiging van eerzucht",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "En ik zal dit volhouden om elke kans te ontnemen aan hen die elke kans willen aangrijpen om zich op een lijn te stellen met ons in dat zo begeerde apostelschap.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik zal dit volhouden om elke kans te ontnemen aan hen die elke kans willen aangrijpen om zich op een lijn te stellen met ons in dat zo begeerde apostelschap."
+          }
+        ]
+      },
+      "id": "2korintiers.11.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "text": "De waarmerken van de apostel hebben zich onder u vertoond in alles wat ik heb verduurd en door wondertekenen en machtige daden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De waarmerken van de apostel hebben zich onder u vertoond in alles wat ik heb verduurd en door wondertekenen en machtige daden."
+          }
+        ]
+      },
+      "id": "2korintiers.12.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Groet elkander met de heilige kus.<br />\r\nU groeten al de heiligen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groet elkander met de heilige kus."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nU groeten al de heiligen."
+          }
+        ]
+      },
+      "id": "2korintiers.13.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Wij schrijven u in onze brieven niet iets anders dan wat er staat en wat gij ook best verstaat! Ik hoop alleen dat gij eens helemaal begrijpt",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij schrijven u in onze brieven niet iets anders dan wat er staat en wat gij ook best verstaat! Ik hoop alleen dat gij eens helemaal begrijpt"
+          }
+        ]
+      },
+      "id": "2korintiers.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Maar mijn geest kwam niet tot rust, omdat ik er mijn broeder Titus niet aantrof. Daarom nam ik afscheid van hen en vertrok naar Macedonië",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar mijn geest kwam niet tot rust, omdat ik er mijn broeder Titus niet aantrof. Daarom nam ik afscheid van hen en vertrok naar Macedonië"
+          }
+        ]
+      },
+      "id": "2korintiers.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "geheel anders dan Mozes, die zijn gelaat met een sluier bedekte, want de Israëlieten mochten het verdwijnen van de vergankelijke glans niet bemerken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "geheel anders dan Mozes, die zijn gelaat met een sluier bedekte, want de Israëlieten mochten het verdwijnen van de vergankelijke glans niet bemerken."
+          }
+        ]
+      },
+      "id": "2korintiers.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Maar wij bezitten die geest van geloof waarvan de Schrift zegt: Ik heb geloofd, daarom heb ik gesproken. Ook wij geloven en daarom spreken wij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wij bezitten die geest van geloof waarvan de Schrift zegt: Ik heb geloofd, daarom heb ik gesproken. Ook wij geloven en daarom spreken wij."
+          }
+        ]
+      },
+      "id": "2korintiers.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Zijn wij ooit van zinnen geweest, dan was het voor God; zijn wij verstandig, dan is het voor u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn wij ooit van zinnen geweest, dan was het voor God; zijn wij verstandig, dan is het voor u."
+          }
+        ]
+      },
+      "id": "2korintiers.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Ik mag u toch als kinderen aanspreken? Laten wij dan gelijk oversteken, zet ook gij uw hart open voor ons...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik mag u toch als kinderen aanspreken? Laten wij dan gelijk oversteken, zet ook gij uw hart open voor ons..."
+          }
+        ]
+      },
+      "id": "2korintiers.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Dat is gebeurd en daarom zijn wij getroost. Bij die troost kwam de nog veel groter vreugde om de vreugde van Titus; gij hebt hem helemaal gerustgesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat is gebeurd en daarom zijn wij getroost. Bij die troost kwam de nog veel groter vreugde om de vreugde van Titus; gij hebt hem helemaal gerustgesteld."
+          }
+        ]
+      },
+      "id": "2korintiers.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Het is niet de bedoeling dat gij door anderen te ondersteunen uzelf in verlegenheid brengt. Er moet een zeker evenwicht tot stand komen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is niet de bedoeling dat gij door anderen te ondersteunen uzelf in verlegenheid brengt. Er moet een zeker evenwicht tot stand komen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Door dit bewijs van hulpvaardigheid zullen zij God gaan verheerlijken om uw gehoorzame belijdenis van het evangelie van Christus en uw gulle gemeenschap met hen en alle anderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door dit bewijs van hulpvaardigheid zullen zij God gaan verheerlijken om uw gehoorzame belijdenis van het evangelie van Christus en uw gulle gemeenschap met hen en alle anderen."
+          }
+        ]
+      },
+      "id": "2korintiers.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Dan zullen wij ons niet overmatig beroemen, maar binnen de perken blijven van het gebied dat God voor ons heeft afgepaald; en ook gij valt daarbinnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen wij ons niet overmatig beroemen, maar binnen de perken blijven van het gebied dat God voor ons heeft afgepaald; en ook gij valt daarbinnen."
+          }
+        ]
+      },
+      "id": "2korintiers.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "text": "Schijnapostelen zijn het, oneerlijke werkers, die paraderen als afgezanten van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Schijnapostelen zijn het, oneerlijke werkers, die paraderen als afgezanten van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.11.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "text": "Waarin zijt gij achtergesteld bij de andere gemeenten? Alleen dit: ik heb niet op uw kosten willen leven. Vergeef me dit onrecht maar!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarin zijt gij achtergesteld bij de andere gemeenten? Alleen dit: ik heb niet op uw kosten willen leven. Vergeef me dit onrecht maar!"
+          }
+        ]
+      },
+      "id": "2korintiers.12.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "De genade van de Heer Jezus Christus,<br />\r\nde liefde van God<br />\r\nen de gemeenschap van de heilige Geest<br />\r\nzij met u allen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De genade van de Heer Jezus Christus,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde liefde van God"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen de gemeenschap van de heilige Geest"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nzij met u allen."
+          }
+        ]
+      },
+      "id": "2korintiers.13.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "wat ge nu nog maar half begrijpt: dat gij evenveel reden hebt om trots te zijn op ons als wij op u, wanneer de dag van onze Heer Jezus komt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wat ge nu nog maar half begrijpt: dat gij evenveel reden hebt om trots te zijn op ons als wij op u, wanneer de dag van onze Heer Jezus komt."
+          }
+        ]
+      },
+      "id": "2korintiers.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "God zij gedankt, die ons te allen tijde in Christus&#39; triomftocht meevoert en allerwegen door ons de kennis van zijn naam als een welriekende geur verspreidt!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God zij gedankt, die ons te allen tijde in Christus' triomftocht meevoert en allerwegen door ons de kennis van zijn naam als een welriekende geur verspreidt!"
+          }
+        ]
+      },
+      "id": "2korintiers.2.14",
+      "title": "De dienst van het nieuwe verbond",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "En hun denken raakte verstard. Ja, tot op de huidige dag is diezelfde sluier gebleven, als zij lezen in de boeken van het Oude Testament. Hij wordt niet weggenomen, want alleen Christus doet hem verdwijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hun denken raakte verstard. Ja, tot op de huidige dag is diezelfde sluier gebleven, als zij lezen in de boeken van het Oude Testament. Hij wordt niet weggenomen, want alleen Christus doet hem verdwijnen."
+          }
+        ]
+      },
+      "id": "2korintiers.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Want wij weten, dat Hij die de Heer Jezus van de doden heeft opgewekt, ook ons evenals Jezus ten leven zal wekken, om ons tot zich te voeren, samen met u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want wij weten, dat Hij die de Heer Jezus van de doden heeft opgewekt, ook ons evenals Jezus ten leven zal wekken, om ons tot zich te voeren, samen met u."
+          }
+        ]
+      },
+      "id": "2korintiers.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "De liefde van Christus laat ons geen rust, sinds wij hebben ingezien, dat Een is gestorven voor allen. Maar dan zijn allen gestorven!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De liefde van Christus laat ons geen rust, sinds wij hebben ingezien, dat Een is gestorven voor allen. Maar dan zijn allen gestorven!"
+          }
+        ]
+      },
+      "id": "2korintiers.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Vormt geen ongelijk span met de ongelovigen. Wat heeft heiligheid te maken met slechtheid? Wat heeft het licht uit te staan met de duisternis?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vormt geen ongelijk span met de ongelovigen. Wat heeft heiligheid te maken met slechtheid? Wat heeft het licht uit te staan met de duisternis?"
+          }
+        ]
+      },
+      "id": "2korintiers.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Ik had me bij hem een beetje op u laten voorstaan en ik ben niet bedrogen uitgekomen! Zoals alles wat wij u gezegd hebben op waarheid berustte, zo is ook ons roemen over u bij Titus waarheid gebleken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik had me bij hem een beetje op u laten voorstaan en ik ben niet bedrogen uitgekomen! Zoals alles wat wij u gezegd hebben op waarheid berustte, zo is ook ons roemen over u bij Titus waarheid gebleken."
+          }
+        ]
+      },
+      "id": "2korintiers.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Voor het ogenblik vult uw overvloed hun gebrek aan, een ander maal zal hun overvloed uw gebrek verhelpen. Zo ontstaat het evenwicht",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor het ogenblik vult uw overvloed hun gebrek aan, een ander maal zal hun overvloed uw gebrek verhelpen. Zo ontstaat het evenwicht"
+          }
+        ]
+      },
+      "id": "2korintiers.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Bovendien zullen zij God voor u bidden, wel genegen als zij u zijn om de overvloedige genade die Hij u bewezen heeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien zullen zij God voor u bidden, wel genegen als zij u zijn om de overvloedige genade die Hij u bewezen heeft."
+          }
+        ]
+      },
+      "id": "2korintiers.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "text": "Niemand kan beweren dat wij onze grenzen overschrijden en dat ons gebied niet zo ver zou reiken. Ook bij u zijn wij immers de eersten geweest met de heilsprediking van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand kan beweren dat wij onze grenzen overschrijden en dat ons gebied niet zo ver zou reiken. Ook bij u zijn wij immers de eersten geweest met de heilsprediking van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.10.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "text": "En geen wonder: de satan zelf vermomt zich als een engel van het licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En geen wonder: de satan zelf vermomt zich als een engel van het licht."
+          }
+        ]
+      },
+      "id": "2korintiers.11.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 14,
+      "text": "Nu sta ik klaar om voor de derde keer naar u toe te komen, en ik zal u niet tot last zijn. Het gaat mij niet om uw geld maar om uzelf: ouders moeten zorgen voor hun kinderen, niet de kinderen voor hun ouders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu sta ik klaar om voor de derde keer naar u toe te komen, en ik zal u niet tot last zijn. Het gaat mij niet om uw geld maar om uzelf: ouders moeten zorgen voor hun kinderen, niet de kinderen voor hun ouders."
+          }
+        ]
+      },
+      "id": "2korintiers.12.14",
+      "title": "Voorbereiding van het bezoek en laatste discussies met de gemeente",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Hierop vertrouwend had ik, met de bedoeling u tweemaal te verblijden, mij voorgenomen eerst uw gemeente te bezoeken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierop vertrouwend had ik, met de bedoeling u tweemaal te verblijden, mij voorgenomen eerst uw gemeente te bezoeken,"
+          }
+        ]
+      },
+      "id": "2korintiers.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Ja, voor God zijn wij een reukwerk van Christus, zowel onder hen die gered worden als onder hen die verloren gaan,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, voor God zijn wij een reukwerk van Christus, zowel onder hen die gered worden als onder hen die verloren gaan,"
+          }
+        ]
+      },
+      "id": "2korintiers.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Tot heden toe ligt een sluier over hun geest, telkens wanneer Mozes wordt voorgelezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot heden toe ligt een sluier over hun geest, telkens wanneer Mozes wordt voorgelezen."
+          }
+        ]
+      },
+      "id": "2korintiers.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Want alles gebeurt voor u: de genade moet zich in velen vermenigvuldigen, zodat steeds meer mensen dank brengen aan God, tot eer van zijn naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want alles gebeurt voor u: de genade moet zich in velen vermenigvuldigen, zodat steeds meer mensen dank brengen aan God, tot eer van zijn naam."
+          }
+        ]
+      },
+      "id": "2korintiers.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "En Hij is voor allen gestorven, opdat zij die leven niet meer voor zichzelf zouden leven, maar voor Hem die ter wille van hen is gestorven en verrezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Hij is voor allen gestorven, opdat zij die leven niet meer voor zichzelf zouden leven, maar voor Hem die ter wille van hen is gestorven en verrezen."
+          }
+        ]
+      },
+      "id": "2korintiers.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Is er overeenstemming mogelijk tussen Christus en Belial? Wat heeft de gelovige gemeen met de ongelovige?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Is er overeenstemming mogelijk tussen Christus en Belial? Wat heeft de gelovige gemeen met de ongelovige?"
+          }
+        ]
+      },
+      "id": "2korintiers.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Met warme genegenheid blijft hij aan u allen denken, aan uw gehoorzaamheid en aan de grote eerbied waarmee gij hem hebt ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met warme genegenheid blijft hij aan u allen denken, aan uw gehoorzaamheid en aan de grote eerbied waarmee gij hem hebt ontvangen."
+          }
+        ]
+      },
+      "id": "2korintiers.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "waarvan de Schrift spreekt: Hij die veel had verzameld, had niet te veel, en hij die weinig had verzameld, kwam toch niet te kort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarvan de Schrift spreekt: Hij die veel had verzameld, had niet te veel, en hij die weinig had verzameld, kwam toch niet te kort."
+          }
+        ]
+      },
+      "id": "2korintiers.8.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "God zij gedankt voor zijn onuitsprekelijke gave!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God zij gedankt voor zijn onuitsprekelijke gave!"
+          }
+        ]
+      },
+      "id": "2korintiers.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "text": "Wij pochen niet op de arbeid door anderen verricht op een terrein dat ons niet is toegemeten. Maar ik hoop wel dat de groei van uw geloof ons zal toestaan de omvang van het ons toegewezen gebied te vergroten",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij pochen niet op de arbeid door anderen verricht op een terrein dat ons niet is toegemeten. Maar ik hoop wel dat de groei van uw geloof ons zal toestaan de omvang van het ons toegewezen gebied te vergroten"
+          }
+        ]
+      },
+      "id": "2korintiers.10.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 15,
+      "text": "Het is dus niets bijzonders als zijn dienaars zich voordoen als dienaars van heiligheid. Maar hun einde zal beantwoorden aan hun daden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is dus niets bijzonders als zijn dienaars zich voordoen als dienaars van heiligheid. Maar hun einde zal beantwoorden aan hun daden."
+          }
+        ]
+      },
+      "id": "2korintiers.11.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "text": "Wat mij betreft, gaarne wil ik voor u alles uitgeven wat ik heb en mezelf erbij. Krijg ik voor mijn gulle liefde zo'n zuinige wederliefde?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat mij betreft, gaarne wil ik voor u alles uitgeven wat ik heb en mezelf erbij. Krijg ik voor mijn gulle liefde zo'n zuinige wederliefde?"
+          }
+        ]
+      },
+      "id": "2korintiers.12.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "van u door te reizen naar Macedonië en van Macedonië weer bij u terug te komen, om dan door u te worden uitgerust voor de reis naar Judea.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "van u door te reizen naar Macedonië en van Macedonië weer bij u terug te komen, om dan door u te worden uitgerust voor de reis naar Judea."
+          }
+        ]
+      },
+      "id": "2korintiers.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "voor dezen een dodelijke walm, voor genen een levenwekkend aroom. Wie is bekwaam voor zulk een taak?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "voor dezen een dodelijke walm, voor genen een levenwekkend aroom. Wie is bekwaam voor zulk een taak?"
+          }
+        ]
+      },
+      "id": "2korintiers.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Maar telkens als iemand zich bekeert tot de Heer, wordt de sluier verwijderd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar telkens als iemand zich bekeert tot de Heer, wordt de sluier verwijderd."
+          }
+        ]
+      },
+      "id": "2korintiers.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "Neen, wij geven de moed niet op. Al gaan wij ook ten onder naar de uitwendige mens, ons innerlijk leven vernieuwt zich van dag tot dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, wij geven de moed niet op. Al gaan wij ook ten onder naar de uitwendige mens, ons innerlijk leven vernieuwt zich van dag tot dag."
+          }
+        ]
+      },
+      "id": "2korintiers.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Daarom beoordelen wij voortaan niemand meer naar de oude maatstaven. En al hebben wij Christus ooit op zulke wijze beoordeeld, dan nu toch niet meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom beoordelen wij voortaan niemand meer naar de oude maatstaven. En al hebben wij Christus ooit op zulke wijze beoordeeld, dan nu toch niet meer."
+          }
+        ]
+      },
+      "id": "2korintiers.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Kan de tempel van God een verbond aangaan met de afgoden? Maar de tempel van de levende God, dat zijn wij. God heeft het zelf gezegd:<br />\r\nIk zal onder hen wonen en met hen omgaan.<br />\r\nIk zal hun God zijn en zij zullen mijn volk zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kan de tempel van God een verbond aangaan met de afgoden? Maar de tempel van de levende God, dat zijn wij. God heeft het zelf gezegd:"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nIk zal onder hen wonen en met hen omgaan."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nIk zal hun God zijn en zij zullen mijn volk zijn."
+          }
+        ]
+      },
+      "id": "2korintiers.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "En ik ben blij, dat ik volkomen op u kan vertrouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ik ben blij, dat ik volkomen op u kan vertrouwen."
+          }
+        ]
+      },
+      "id": "2korintiers.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Ik dank God dat Hij Titus met dezelfde toewijding voor u heeft bezield!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik dank God dat Hij Titus met dezelfde toewijding voor u heeft bezield!"
+          }
+        ]
+      },
+      "id": "2korintiers.8.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 16,
+      "text": "en het evangelie te verkondigen in nog verder gelegen streken, in plaats van te bogen op resultaten, door anderen bereikt op hun terrein.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en het evangelie te verkondigen in nog verder gelegen streken, in plaats van te bogen op resultaten, door anderen bereikt op hun terrein."
+          }
+        ]
+      },
+      "id": "2korintiers.10.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "text": "Nogmaals, laat niemand mij beschouwen als een dwaas. Doet gij het toch, dan moet gij mij ook het voorrecht van de nar gunnen en mij toestaan een weinig te roemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nogmaals, laat niemand mij beschouwen als een dwaas. Doet gij het toch, dan moet gij mij ook het voorrecht van de nar gunnen en mij toestaan een weinig te roemen."
+          }
+        ]
+      },
+      "id": "2korintiers.11.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "text": "Goed, zegt gij, hij is ons niet persoonlijk tot last geweest, maar, sluw als hij is, heeft hij ons met slinkse middelen beetgenomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Goed, zegt gij, hij is ons niet persoonlijk tot last geweest, maar, sluw als hij is, heeft hij ons met slinkse middelen beetgenomen."
+          }
+        ]
+      },
+      "id": "2korintiers.12.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "En nu vindt gij, dat dat besluit niet ernstig gemeend was en dat ik mijn plannen naar believen verander, zodat mijn ‘ja’ tegelijkertijd ‘neen’ is?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En nu vindt gij, dat dat besluit niet ernstig gemeend was en dat ik mijn plannen naar believen verander, zodat mijn ‘ja’ tegelijkertijd ‘neen’ is?"
+          }
+        ]
+      },
+      "id": "2korintiers.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "Wij zijn tenminste niet als zovelen, die handel drijven met Gods woord; wij verkondigen het met zuivere bedoelingen, op gezag van God, voor het aanschijn van God, in vereniging met Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zijn tenminste niet als zovelen, die handel drijven met Gods woord; wij verkondigen het met zuivere bedoelingen, op gezag van God, voor het aanschijn van God, in vereniging met Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "De Heer nu is de Geest, en waar de Geest des Heren is, daar is vrijheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer nu is de Geest, en waar de Geest des Heren is, daar is vrijheid."
+          }
+        ]
+      },
+      "id": "2korintiers.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "De lichte kwelling van een ogenblik bezorgt ons een alles overtreffende, altijddurende volheid van glorie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De lichte kwelling van een ogenblik bezorgt ons een alles overtreffende, altijddurende volheid van glorie."
+          }
+        ]
+      },
+      "id": "2korintiers.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Zo is dus wie in Christus is, een nieuwe schepping: het oude is voorbij, het nieuwe is al gekomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo is dus wie in Christus is, een nieuwe schepping: het oude is voorbij, het nieuwe is al gekomen."
+          }
+        ]
+      },
+      "id": "2korintiers.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Daarom, gaat weg en verlaat hen,<br />\r\nhoudt u ver van hen, zegt de Heer,<br />\r\nraakt niets aan wat onrein is.<br />\r\nDan zal Ik u genadig aannemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, gaat weg en verlaat hen,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nhoudt u ver van hen, zegt de Heer,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nraakt niets aan wat onrein is."
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nDan zal Ik u genadig aannemen."
+          }
+        ]
+      },
+      "id": "2korintiers.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Mijn verzoek viel bij hem in goede aarde en in zijn grote ijver is hij spontaan naar u vertrokken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn verzoek viel bij hem in goede aarde en in zijn grote ijver is hij spontaan naar u vertrokken."
+          }
+        ]
+      },
+      "id": "2korintiers.8.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "text": "Als iemand wil roemen, moet hij roemen op de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand wil roemen, moet hij roemen op de Heer."
+          }
+        ]
+      },
+      "id": "2korintiers.10.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "text": "Wat ik op dit stuk ga zeggen, is in dwaasheid gezegd, niet volgens de geest des Heren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat ik op dit stuk ga zeggen, is in dwaasheid gezegd, niet volgens de geest des Heren."
+          }
+        ]
+      },
+      "id": "2korintiers.11.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "text": "Heb ik u dan uitgebuit door middel van mijn afgezanten?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heb ik u dan uitgebuit door middel van mijn afgezanten?"
+          }
+        ]
+      },
+      "id": "2korintiers.12.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "God staat er borg voor: het woord dat wij tot u spreken, is niet tegelijk ja en neen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God staat er borg voor: het woord dat wij tot u spreken, is niet tegelijk ja en neen."
+          }
+        ]
+      },
+      "id": "2korintiers.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "Ons allen is het gegeven met onverhuld gelaat de glorie van de Heer te aanschouwen en herschapen te worden tot steeds heerlijker gelijkenis met Hem; zo werkt de Heer die Geest is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ons allen is het gegeven met onverhuld gelaat de glorie van de Heer te aanschouwen en herschapen te worden tot steeds heerlijker gelijkenis met Hem; zo werkt de Heer die Geest is."
+          }
+        ]
+      },
+      "id": "2korintiers.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Wij houden het oog gericht niet op het zichtbare maar op het onzichtbare; wat wij zien gaat voorbij, de onzichtbare dingen duren eeuwig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij houden het oog gericht niet op het zichtbare maar op het onzichtbare; wat wij zien gaat voorbij, de onzichtbare dingen duren eeuwig."
+          }
+        ]
+      },
+      "id": "2korintiers.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "En dit alles komt van God. Hij heeft ons door Christus met zich verzoend en ons (apostelen) de dienst van die verzoening toevertrouwd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En dit alles komt van God. Hij heeft ons door Christus met zich verzoend en ons (apostelen) de dienst van die verzoening toevertrouwd."
+          }
+        ]
+      },
+      "id": "2korintiers.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Ik zal voor u een vader zijn<br />\r\nen gij zult voor Mij<br />\r\nzonen en dochters zijn, zegt de Heer,<br />\r\nde Albeheerser.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal voor u een vader zijn"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nen gij zult voor Mij"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nzonen en dochters zijn, zegt de Heer,"
+          },
+          {
+            "tag": "br"
+          },
+          {
+            "text": "\r\nde Albeheerser."
+          }
+        ]
+      },
+      "id": "2korintiers.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "text": "Met hem zenden wij de broeder die in alle gemeenten om zijn arbeid voor het evangelie wordt geprezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met hem zenden wij de broeder die in alle gemeenten om zijn arbeid voor het evangelie wordt geprezen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "text": "Niet hij die zichzelf aanprijst, heeft de proef doorstaan, maar hij die geprezen wordt door de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet hij die zichzelf aanprijst, heeft de proef doorstaan, maar hij die geprezen wordt door de Heer."
+          }
+        ]
+      },
+      "id": "2korintiers.10.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "text": "Als zovelen zich laten voorstaan op wereldse voorrechten, mag ik het ook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als zovelen zich laten voorstaan op wereldse voorrechten, mag ik het ook."
+          }
+        ]
+      },
+      "id": "2korintiers.11.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "text": "Het is waar, ik heb Titus gevraagd te gaan en die andere broeder met hem meegestuurd. Heeft Titus zich soms op uw kosten bevoordeeld? Hebben wij niet allen in dezelfde geest gehandeld en dezelfde koers gevolgd?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is waar, ik heb Titus gevraagd te gaan en die andere broeder met hem meegestuurd. Heeft Titus zich soms op uw kosten bevoordeeld? Hebben wij niet allen in dezelfde geest gehandeld en dezelfde koers gevolgd?"
+          }
+        ]
+      },
+      "id": "2korintiers.12.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "De Zoon Gods, Christus Jezus, die door ons onder u is verkondigd, door mij en Silv&aacute;nus en Tim&oacute;te&uuml;s, Hij was niet &lsquo;Ja en Neen&rsquo;; in Hem was slechts &lsquo;Ja&rsquo;.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Zoon Gods, Christus Jezus, die door ons onder u is verkondigd, door mij en Silvánus en Timóteüs, Hij was niet ‘Ja en Neen’; in Hem was slechts ‘Ja’."
+          }
+        ]
+      },
+      "id": "2korintiers.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Ja, God was het die in Christus de wereld met zich verzoende: Hij telde de fouten van de mensen niet en ons gaf Hij de boodschap van de verzoening mee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, God was het die in Christus de wereld met zich verzoende: Hij telde de fouten van de mensen niet en ons gaf Hij de boodschap van de verzoening mee."
+          }
+        ]
+      },
+      "id": "2korintiers.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "text": "Hij is bovendien door de kerken aangewezen als onze reisgezel bij dit liefdewerk, dat wij op ons hebben genomen ter ere van de Heer en als bewijs van onze goede wil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is bovendien door de kerken aangewezen als onze reisgezel bij dit liefdewerk, dat wij op ons hebben genomen ter ere van de Heer en als bewijs van onze goede wil."
+          }
+        ]
+      },
+      "id": "2korintiers.8.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "text": "Gij die zo verstandig zijt duldt gaarne de dwaasheid van anderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij die zo verstandig zijt duldt gaarne de dwaasheid van anderen."
+          }
+        ]
+      },
+      "id": "2korintiers.11.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 19,
+      "text": "Gij hebt natuurlijk al lang de indruk, dat wij bezig zijn onszelf bij u te verdedigen. Maar wij spreken voor het aanschijn van God en in vereniging met Christus. En alles, dierbare vrienden, is ook bedoeld voor uw bestwil.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt natuurlijk al lang de indruk, dat wij bezig zijn onszelf bij u te verdedigen. Maar wij spreken voor het aanschijn van God en in vereniging met Christus. En alles, dierbare vrienden, is ook bedoeld voor uw bestwil."
+          }
+        ]
+      },
+      "id": "2korintiers.12.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Want alle beloften van God zijn in Hem waar gemaakt. Daarom spreken wij door Hem ook ons &lsquo;Amen, Ja, zo is het&rsquo;, God ter ere.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want alle beloften van God zijn in Hem waar gemaakt. Daarom spreken wij door Hem ook ons ‘Amen, Ja, zo is het’, God ter ere."
+          }
+        ]
+      },
+      "id": "2korintiers.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Wij zijn dus gezanten van Christus, God roept u op door ons woord. Wij smeken u in Christus’ naam: laat u met God verzoenen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zijn dus gezanten van Christus, God roept u op door ons woord. Wij smeken u in Christus’ naam: laat u met God verzoenen!"
+          }
+        ]
+      },
+      "id": "2korintiers.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "text": "Wij hopen hierdoor elke verdachtmaking die bij het beheer van zulke aanzienlijke bedragen zou kunnen ontstaan, te voorkomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hopen hierdoor elke verdachtmaking die bij het beheer van zulke aanzienlijke bedragen zou kunnen ontstaan, te voorkomen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "text": "Gij verdraagt het immers, dat men u tiranniseert, dat men u uitzuigt en uitbuit, dat men u hooghartig behandelt en in het gezicht slaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij verdraagt het immers, dat men u tiranniseert, dat men u uitzuigt en uitbuit, dat men u hooghartig behandelt en in het gezicht slaat."
+          }
+        ]
+      },
+      "id": "2korintiers.11.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "text": "Want ik vrees dat ik u bij mijn komst misschien niet zo zal aantreffen als ik u zou wensen aan te treffen, en dat gij in mij een ander aantreft dan gij zoudt wensen. Ik vrees voor twist, naijver, opvliegendheid, ruzie, laster, achterklap, verwaandheid, wanordelijkheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ik vrees dat ik u bij mijn komst misschien niet zo zal aantreffen als ik u zou wensen aan te treffen, en dat gij in mij een ander aantreft dan gij zoudt wensen. Ik vrees voor twist, naijver, opvliegendheid, ruzie, laster, achterklap, verwaandheid, wanordelijkheid."
+          }
+        ]
+      },
+      "id": "2korintiers.12.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "En God zelf is het die ons samen met u in Christus bevestigt en die ons heeft gezalfd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En God zelf is het die ons samen met u in Christus bevestigt en die ons heeft gezalfd."
+          }
+        ]
+      },
+      "id": "2korintiers.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Hem die geen zonde heeft gekend, heeft God voor ons tot zonde gemaakt, opdat wij door Hem Gods eigen heiligheid zouden worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hem die geen zonde heeft gekend, heeft God voor ons tot zonde gemaakt, opdat wij door Hem Gods eigen heiligheid zouden worden."
+          }
+        ]
+      },
+      "id": "2korintiers.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "text": "Wij dienen immers bedacht te zijn op wat betamelijk is, niet alleen voor God maar ook voor de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij dienen immers bedacht te zijn op wat betamelijk is, niet alleen voor God maar ook voor de mensen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "text": "Tot mijn schande moet ik bekennen: wij zijn hiervoor te zwak geweest. Maar als anderen het durven - nu komt de dwaasheid aan het woord - waag ik het ook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Tot mijn schande moet ik bekennen: wij zijn hiervoor te zwak geweest. Maar als anderen het durven - nu komt de dwaasheid aan het woord - waag ik het ook."
+          }
+        ]
+      },
+      "id": "2korintiers.11.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 21,
+      "text": "Ik vrees dat mijn God mij opnieuw zal vernederen als ik bij u ben, en dat ik zal moeten treuren om velen die al lang in zonde leven en nog steeds geen berouw tonen over de onzedelijkheid, hoererij en losbandigheid die zij bedreven hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vrees dat mijn God mij opnieuw zal vernederen als ik bij u ben, en dat ik zal moeten treuren om velen die al lang in zonde leven en nog steeds geen berouw tonen over de onzedelijkheid, hoererij en losbandigheid die zij bedreven hebben."
+          }
+        ]
+      },
+      "id": "2korintiers.12.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Hij is het die op ons zijn zegel heeft gedrukt en ons de Geest als onderpand heeft gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij is het die op ons zijn zegel heeft gedrukt en ons de Geest als onderpand heeft gegeven."
+          }
+        ]
+      },
+      "id": "2korintiers.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "text": "In hun gezelschap zenden wij nog een van onze broeders, wiens beproefde ijver ons menigmaal en in allerlei omstandigheden is gebleken; nu is zijn ijver groter dan ooit, zo vast vertrouwt hij op u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hun gezelschap zenden wij nog een van onze broeders, wiens beproefde ijver ons menigmaal en in allerlei omstandigheden is gebleken; nu is zijn ijver groter dan ooit, zo vast vertrouwt hij op u."
+          }
+        ]
+      },
+      "id": "2korintiers.8.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 22,
+      "text": "Zijn zij Hebreeën? Ik ook. Zijn zij Israëlieten? Ik ook. Zijn zij kinderen van Abraham? Ik ook.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn zij Hebreeën? Ik ook. Zijn zij Israëlieten? Ik ook. Zijn zij kinderen van Abraham? Ik ook."
+          }
+        ]
+      },
+      "id": "2korintiers.11.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 23,
+      "text": "Ik roep God aan als mijn getuige: alleen om u te sparen ben ik niet naar Korinte gekomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik roep God aan als mijn getuige: alleen om u te sparen ben ik niet naar Korinte gekomen."
+          }
+        ]
+      },
+      "id": "2korintiers.1.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "text": "Wat Titus betreft, hij is mijn medestander en medewerker onder u. En onze andere broeders: zij zijn gezanten van de gemeenten en de roem van Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat Titus betreft, hij is mijn medestander en medewerker onder u. En onze andere broeders: zij zijn gezanten van de gemeenten en de roem van Christus."
+          }
+        ]
+      },
+      "id": "2korintiers.8.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "text": "Zijn zij dienaren van Christus? Het lijkt waanzin, ik nog meer! Ik heb harder gezwoegd, ik heb langer gevangen gezeten, ik had veel meer slagen te verduren en doodsgevaren zonder tal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn zij dienaren van Christus? Het lijkt waanzin, ik nog meer! Ik heb harder gezwoegd, ik heb langer gevangen gezeten, ik had veel meer slagen te verduren en doodsgevaren zonder tal."
+          }
+        ]
+      },
+      "id": "2korintiers.11.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "text": "Niet alsof wij heer en meester zijn van uw geloof; in het geloof staat gij vast genoeg. Wij willen slechts bijdragen tot uw vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet alsof wij heer en meester zijn van uw geloof; in het geloof staat gij vast genoeg. Wij willen slechts bijdragen tot uw vreugde."
+          }
+        ]
+      },
+      "id": "2korintiers.1.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "text": "Bewijst hun dus uw liefde, rechtvaardigt onze trots op u, zodat de andere christengemeenten ervan horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bewijst hun dus uw liefde, rechtvaardigt onze trots op u, zodat de andere christengemeenten ervan horen."
+          }
+        ]
+      },
+      "id": "2korintiers.8.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "text": "Vijfmaal kreeg ik van de Joden de veertig-min-&eacute;&eacute;n.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vijfmaal kreeg ik van de Joden de veertig-min-één."
+          }
+        ]
+      },
+      "id": "2korintiers.11.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "text": "Driemaal ben ik met stokken geslagen, eenmaal gestenigd. Driemaal heb ik schipbreuk geleden, eens een heel etmaal doorgebracht in volle zee.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Driemaal ben ik met stokken geslagen, eenmaal gestenigd. Driemaal heb ik schipbreuk geleden, eens een heel etmaal doorgebracht in volle zee."
+          }
+        ]
+      },
+      "id": "2korintiers.11.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 26,
+      "text": "Altijd op reis, gevaren van rivieren en gevaren van rovers, gevaren van de kant van mijn eigen volk en van de heidenen, gevaren in steden en in de woestijn, gevaren op zee, gevaren te midden van valse broeders,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Altijd op reis, gevaren van rivieren en gevaren van rovers, gevaren van de kant van mijn eigen volk en van de heidenen, gevaren in steden en in de woestijn, gevaren op zee, gevaren te midden van valse broeders,"
+          }
+        ]
+      },
+      "id": "2korintiers.11.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 27,
+      "text": "met zwoegen en tobben, veel slapeloze nachten, honger en dorst, vaak zonder eten, in koude en naaktheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "met zwoegen en tobben, veel slapeloze nachten, honger en dorst, vaak zonder eten, in koude en naaktheid."
+          }
+        ]
+      },
+      "id": "2korintiers.11.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "text": "En afgezien van al het overige: dag in dag uit drukt mij de zorg voor al de gemeenten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En afgezien van al het overige: dag in dag uit drukt mij de zorg voor al de gemeenten."
+          }
+        ]
+      },
+      "id": "2korintiers.11.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "text": "Niemand is zwak of ik ben het ook. Niemand komt ten val of het grijpt me in de ziel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand is zwak of ik ben het ook. Niemand komt ten val of het grijpt me in de ziel."
+          }
+        ]
+      },
+      "id": "2korintiers.11.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "text": "Als er toch geroemd moet worden, zal ik roemen op mijn zwakheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als er toch geroemd moet worden, zal ik roemen op mijn zwakheid."
+          }
+        ]
+      },
+      "id": "2korintiers.11.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "text": "God, de Vader van onze Heer Jezus gezegend is Hij in eeuwigheid! weet dat ik niet lieg.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God, de Vader van onze Heer Jezus gezegend is Hij in eeuwigheid! weet dat ik niet lieg."
+          }
+        ]
+      },
+      "id": "2korintiers.11.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "text": "Toen ik in Damascus was, liet de stadhouder van koning Aretas de stad bewaken om mij te vangen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ik in Damascus was, liet de stadhouder van koning Aretas de stad bewaken om mij te vangen;"
+          }
+        ]
+      },
+      "id": "2korintiers.11.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "text": "en om aan zijn greep te ontsnappen moest ik in een mand worden neergelaten door een venster in de stadsmuur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en om aan zijn greep te ontsnappen moest ik in een mand worden neergelaten door een venster in de stadsmuur."
+          }
+        ]
+      },
+      "id": "2korintiers.11.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

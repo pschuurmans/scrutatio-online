@@ -1,0 +1,3629 @@
+{
+  "id": "baruch",
+  "name": "Baruch",
+  "chapters": 6,
+  "verseCount": 213,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Dit is het boek van Baruch, zoon van Neria, zoon van Machseja, zoon van Sidkia, zoon van Chasadja, zoon van Chilkia. Hij schreef het in Babel",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is het boek van Baruch, zoon van Neria, zoon van Machseja, zoon van Sidkia, zoon van Chasadja, zoon van Chilkia. Hij schreef het in Babel"
+          }
+        ]
+      },
+      "id": "baruch.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Daarom voerde de Heer tegen ons de bedreiging uit die Hij had aangekondigd, tegen ons, tegen de vorsten die Israël regeerden, tegen de koningen en edelen, tegen heel Israël en Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom voerde de Heer tegen ons de bedreiging uit die Hij had aangekondigd, tegen ons, tegen de vorsten die Israël regeerden, tegen de koningen en edelen, tegen heel Israël en Juda."
+          }
+        ]
+      },
+      "id": "baruch.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Almachtige Heer, God van Israël, in mijn nood en in mijn ellende roep ik tot U.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Almachtige Heer, God van Israël, in mijn nood en in mijn ellende roep ik tot U."
+          }
+        ]
+      },
+      "id": "baruch.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Ze is het boek van Gods geboden, ze is de wet die eeuwig duurt. Die haar onderhouden, verwerven het leven; die haar niet opvolgen, vinden de dood.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze is het boek van Gods geboden, ze is de wet die eeuwig duurt. Die haar onderhouden, verwerven het leven; die haar niet opvolgen, vinden de dood."
+          }
+        ]
+      },
+      "id": "baruch.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Jeruzalem, leg af uw kleed van ellende en rouw; bekleed u met Gods stralende schoonheid, voor altijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jeruzalem, leg af uw kleed van ellende en rouw; bekleed u met Gods stralende schoonheid, voor altijd."
+          }
+        ]
+      },
+      "id": "baruch.5.1",
+      "title": "Brief van Jeremia. Afschrift van de brief waarin Jeremia op Gods bevel de ballingen waarschuwde, die door de Koning van de Babyloniërs gevangen naar Babel werden vervoerd.",
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Om de zonden tegen God bedreven wordt gij door Nebukadnessar, de koning der Babyloni&euml;rs, gevangen naar Babel gevoerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Om de zonden tegen God bedreven wordt gij door Nebukadnessar, de koning der Babyloniërs, gevangen naar Babel gevoerd."
+          }
+        ]
+      },
+      "id": "baruch.6.1",
+      "title": "Brief van Jeremia. Afschrift van de brief waarin Jeremia op Gods bevel de ballingen waarschuwde, die door de Koning van de Babyloniërs gevangen naar Babel werden vervoerd.",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "in het vijfde jaar, de zevende van de maand, toen Jeruzalem al door de Chaldeeën veroverd en in brand gestoken was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in het vijfde jaar, de zevende van de maand, toen Jeruzalem al door de Chaldeeën veroverd en in brand gestoken was."
+          }
+        ]
+      },
+      "id": "baruch.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Nergens ter wereld heeft Hij zoiets gedaan als in Jeruzalem:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nergens ter wereld heeft Hij zoiets gedaan als in Jeruzalem:"
+          }
+        ]
+      },
+      "id": "baruch.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Verhoor ons, Heer, ontferm U over ons, want wij hebben tegen U gezondigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verhoor ons, Heer, ontferm U over ons, want wij hebben tegen U gezondigd."
+          }
+        ]
+      },
+      "id": "baruch.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Bekeer u, Jakob, en houd eraan vast, ga op naar de glans van haar licht!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bekeer u, Jakob, en houd eraan vast, ga op naar de glans van haar licht!"
+          }
+        ]
+      },
+      "id": "baruch.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Sla de mantel van Gods gerechtigheid om, zet op uw hoofd de roemrijke kroon van de Eeuwige.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sla de mantel van Gods gerechtigheid om, zet op uw hoofd de roemrijke kroon van de Eeuwige."
+          }
+        ]
+      },
+      "id": "baruch.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Jaren en jaren zult ge daar blijven, zeven geslachten lang. Dan breng Ik u behouden terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jaren en jaren zult ge daar blijven, zeven geslachten lang. Dan breng Ik u behouden terug."
+          }
+        ]
+      },
+      "id": "baruch.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Hij las het voor aan Jekonja, zoon van Jojakim, de koning van Juda, en aan allen die kwamen luisteren:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij las het voor aan Jekonja, zoon van Jojakim, de koning van Juda, en aan allen die kwamen luisteren:"
+          }
+        ]
+      },
+      "id": "baruch.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "iedereen at het vlees van zijn eigen kinderen, zoals in de wet van Mozes voorspeld was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "iedereen at het vlees van zijn eigen kinderen, zoals in de wet van Mozes voorspeld was."
+          }
+        ]
+      },
+      "id": "baruch.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Gij zetelt eeuwig, maar wij gaan steeds meer te gronde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zetelt eeuwig, maar wij gaan steeds meer te gronde."
+          }
+        ]
+      },
+      "id": "baruch.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Geef uw trots niet aan anderen prijs, laat uw voorrecht niet aan vreemden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef uw trots niet aan anderen prijs, laat uw voorrecht niet aan vreemden."
+          }
+        ]
+      },
+      "id": "baruch.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Want God wil dat uw heerlijkheid schittert overal onder de hemel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want God wil dat uw heerlijkheid schittert overal onder de hemel."
+          }
+        ]
+      },
+      "id": "baruch.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Zilveren, gouden en houten goden zult ge in Babel zien ronddragen en door de volken vol ontzag zien vereren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zilveren, gouden en houten goden zult ge in Babel zien ronddragen en door de volken vol ontzag zien vereren."
+          }
+        ]
+      },
+      "id": "baruch.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "de edelen, de prinsen, de oudsten en alle anderen, jong en oud, die in Babel woonden aan de oevers van de Sud.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de edelen, de prinsen, de oudsten en alle anderen, jong en oud, die in Babel woonden aan de oevers van de Sud."
+          }
+        ]
+      },
+      "id": "baruch.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Hij leverde hen over aan de willekeur van alle koninkrijken in de omgeving; een mikpunt van spot, een schrikbeeld maakte Hij hen bij alle volken, waaronder de Heer hen verstrooid had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij leverde hen over aan de willekeur van alle koninkrijken in de omgeving; een mikpunt van spot, een schrikbeeld maakte Hij hen bij alle volken, waaronder de Heer hen verstrooid had."
+          }
+        ]
+      },
+      "id": "baruch.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Almachtige Heer, God van Israël, luister naar het gebed van de Israëlieten in de greep van de dood, de zonen van hen die tegen U zondigden: zij hebben niet geluisterd naar de Heer hun God, daarom overkwamen ons deze rampen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Almachtige Heer, God van Israël, luister naar het gebed van de Israëlieten in de greep van de dood, de zonen van hen die tegen U zondigden: zij hebben niet geluisterd naar de Heer hun God, daarom overkwamen ons deze rampen."
+          }
+        ]
+      },
+      "id": "baruch.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Gelukkig zijn wij, Israël: ons is geopenbaard wat God behaagt!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gelukkig zijn wij, Israël: ons is geopenbaard wat God behaagt!'"
+          }
+        ]
+      },
+      "id": "baruch.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Voor eeuwig noemt God u: `Vrede-door-gerechtigheid, heil-door-godsvrucht.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor eeuwig noemt God u: `Vrede-door-gerechtigheid, heil-door-godsvrucht.'"
+          }
+        ]
+      },
+      "id": "baruch.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Pas op en wordt niet als zij: heb geen ontzag voor die goden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Pas op en wordt niet als zij: heb geen ontzag voor die goden."
+          }
+        ]
+      },
+      "id": "baruch.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Zij weenden, ze vastten en baden tot de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij weenden, ze vastten en baden tot de Heer."
+          }
+        ]
+      },
+      "id": "baruch.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Dienaren waren wij in plaats van heersers. Inderdaad, wij hebben gezondigd tegen de Heer onze God en niet naar Hem geluisterd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dienaren waren wij in plaats van heersers. Inderdaad, wij hebben gezondigd tegen de Heer onze God en niet naar Hem geluisterd."
+          }
+        ]
+      },
+      "id": "baruch.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Vergeet de misstappen van onze vaderen, denk alleen aan uw macht en uw naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vergeet de misstappen van onze vaderen, denk alleen aan uw macht en uw naam."
+          }
+        ]
+      },
+      "id": "baruch.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Houd moed, mijn volk dat de naam Israël draagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd moed, mijn volk dat de naam Israël draagt."
+          }
+        ]
+      },
+      "id": "baruch.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Jeruzalem, kijk van boven op de berg naar het oosten en zie uw kinderen van alle kanten samenkomen op het woord van de heilige God, verheugd dat Hij weer aan hen denkt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jeruzalem, kijk van boven op de berg naar het oosten en zie uw kinderen van alle kanten samenkomen op het woord van de heilige God, verheugd dat Hij weer aan hen denkt."
+          }
+        ]
+      },
+      "id": "baruch.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Als gij de menigte ziet, die deze goden aanbidt en hen in een stoet begeleidt, denkt dan bij uzelf: `U alleen, Heer, moet men aanbidden!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als gij de menigte ziet, die deze goden aanbidt en hen in een stoet begeleidt, denkt dan bij uzelf: `U alleen, Heer, moet men aanbidden!'"
+          }
+        ]
+      },
+      "id": "baruch.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Ook brachten ze geld bijeen, ieder naar vermogen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook brachten ze geld bijeen, ieder naar vermogen,"
+          }
+        ]
+      },
+      "id": "baruch.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "De Heer onze God is rechtvaardig, maar wij en onze voorvaderen staan nu vol schaamte voor Hem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer onze God is rechtvaardig, maar wij en onze voorvaderen staan nu vol schaamte voor Hem."
+          }
+        ]
+      },
+      "id": "baruch.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Gij zijt toch de Heer onze God, U willen wij prijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt toch de Heer onze God, U willen wij prijzen."
+          }
+        ]
+      },
+      "id": "baruch.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Gij werd aan de heidenen verkocht, maar ge zijt niet verloren. Omdat ge Gods toorn had opgewekt, zijt ge aan uw vijanden uitgeleverd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij werd aan de heidenen verkocht, maar ge zijt niet verloren. Omdat ge Gods toorn had opgewekt, zijt ge aan uw vijanden uitgeleverd."
+          }
+        ]
+      },
+      "id": "baruch.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Te voet gingen zij van u heen, weggesleept door de vijand, maar eervol brengt God hen terug, als op een koningstroon gedragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Te voet gingen zij van u heen, weggesleept door de vijand, maar eervol brengt God hen terug, als op een koningstroon gedragen."
+          }
+        ]
+      },
+      "id": "baruch.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Want mijn engel is bij u en zal u rekenschap vragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want mijn engel is bij u en zal u rekenschap vragen."
+          }
+        ]
+      },
+      "id": "baruch.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "en stuurden dat naar Jeruzalem voor de priester Jojakim, zoon van Chilkia, zoon van Salom, voor de overige priesters en voor alle mensen die nog in Jeruzalem waren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en stuurden dat naar Jeruzalem voor de priester Jojakim, zoon van Chilkia, zoon van Salom, voor de overige priesters en voor alle mensen die nog in Jeruzalem waren."
+          }
+        ]
+      },
+      "id": "baruch.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Al de rampen waarmee Hij ons bedreigde, zijn over ons gekomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al de rampen waarmee Hij ons bedreigde, zijn over ons gekomen."
+          }
+        ]
+      },
+      "id": "baruch.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Gij hebt de vrees voor U in ons hart gelegd, opdat wij U zouden aanroepen. Daarom prijzen wij U in onze ballingschap en keren ons van ganser harte af van de misstappen door onze voorvaderen tegen U begaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt de vrees voor U in ons hart gelegd, opdat wij U zouden aanroepen. Daarom prijzen wij U in onze ballingschap en keren ons van ganser harte af van de misstappen door onze voorvaderen tegen U begaan."
+          }
+        ]
+      },
+      "id": "baruch.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Ge hebt uw schepper geërgerd door niet aan Hem, maar aan demonen te offeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge hebt uw schepper geërgerd door niet aan Hem, maar aan demonen te offeren."
+          }
+        ]
+      },
+      "id": "baruch.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Hij heeft bevel gegeven: &#39;alle bergen en heuvels te slechten en de dalen te vullen, zodat het hele land vlak wordt en Isra&euml;l zegepralend en veilig kan optrekken&#39;.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft bevel gegeven: 'alle bergen en heuvels te slechten en de dalen te vullen, zodat het hele land vlak wordt en Israël zegepralend en veilig kan optrekken'."
+          }
+        ]
+      },
+      "id": "baruch.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "De tong van die goden is door een timmerman gepolijst, hun lichaam met zilver en goud overtrokken. Het zijn geen goden, ze kunnen niet spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tong van die goden is door een timmerman gepolijst, hun lichaam met zilver en goud overtrokken. Het zijn geen goden, ze kunnen niet spreken."
+          }
+        ]
+      },
+      "id": "baruch.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Baruch had de geroofde tempelschatten reeds in ontvangst genomen en zou ze de tiende Siwan terugbrengen naar Juda. Het was het zilverwerk dat Sidkia, zoon van Josia, de koning van Juda, had laten maken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Baruch had de geroofde tempelschatten reeds in ontvangst genomen en zou ze de tiende Siwan terugbrengen naar Juda. Het was het zilverwerk dat Sidkia, zoon van Josia, de koning van Juda, had laten maken,"
+          }
+        ]
+      },
+      "id": "baruch.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Wij hebben niet gebeden tot Hem en van onze eigen weg niet willen afwijken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben niet gebeden tot Hem en van onze eigen weg niet willen afwijken."
+          }
+        ]
+      },
+      "id": "baruch.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Als wij heden ballingen zijn in de verstrooiing, een mikpunt van spot, een vloek, een verwensing, dan komt dat door misstappen van onze voorvaderen die de Heer onze God hebben verlaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als wij heden ballingen zijn in de verstrooiing, een mikpunt van spot, een vloek, een verwensing, dan komt dat door misstappen van onze voorvaderen die de Heer onze God hebben verlaten."
+          }
+        ]
+      },
+      "id": "baruch.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "De eeuwige God die u voedsel gaf, zijt ge vergeten. Jeruzalem dat u heeft grootgebracht, hebt ge bedroefd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De eeuwige God die u voedsel gaf, zijt ge vergeten. Jeruzalem dat u heeft grootgebracht, hebt ge bedroefd."
+          }
+        ]
+      },
+      "id": "baruch.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Ook de bossen en alle geurige bomen geven Israël schaduw, op zijn bevel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de bossen en alle geurige bomen geven Israël schaduw, op zijn bevel."
+          }
+        ]
+      },
+      "id": "baruch.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Men smeedt gouden kronen voor die goden als waren het pronkzieke meisjes.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men smeedt gouden kronen voor die goden als waren het pronkzieke meisjes."
+          }
+        ]
+      },
+      "id": "baruch.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "nadat koning Nebukadnessar van Babel Jekonja met de edelen, de ambachtslieden, de soldaten en de burgers van het land uit Jeruzalem naar Babel had weggevoerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "nadat koning Nebukadnessar van Babel Jekonja met de edelen, de ambachtslieden, de soldaten en de burgers van het land uit Jeruzalem naar Babel had weggevoerd."
+          }
+        ]
+      },
+      "id": "baruch.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Maar Hij stond klaar met zijn rampen en liet die over ons komen. De Heer is rechtvaardig in al wat Hij met ons heeft gedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Hij stond klaar met zijn rampen en liet die over ons komen. De Heer is rechtvaardig in al wat Hij met ons heeft gedaan."
+          }
+        ]
+      },
+      "id": "baruch.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Hoor, Isra&euml;l, de wet van het leven, luister toch goed en kom tot inzicht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoor, Israël, de wet van het leven, luister toch goed en kom tot inzicht."
+          }
+        ]
+      },
+      "id": "baruch.3.9",
+      "title": "De wijsheid, privilege van Israël",
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Het zag Gods toorn over u komen en zei: `Luistert, buren van Sion: een groot leed zond God over mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het zag Gods toorn over u komen en zei: `Luistert, buren van Sion: een groot leed zond God over mij."
+          }
+        ]
+      },
+      "id": "baruch.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Hijzelf vergezelt, barmhartig en genadig, het jubelend Isra&euml;l met de glans van zijn licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hijzelf vergezelt, barmhartig en genadig, het jubelend Israël met de glans van zijn licht."
+          }
+        ]
+      },
+      "id": "baruch.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Soms nemen de priesters goud en zilver van hun goden voor eigen gebruik of als geschenk voor de meisjes in de bordelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Soms nemen de priesters goud en zilver van hun goden voor eigen gebruik of als geschenk voor de meisjes in de bordelen."
+          }
+        ]
+      },
+      "id": "baruch.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Ze schreven hun: Hierbij sturen wij u geld; brengt daarvoor brandoffers, zondeoffers, reukoffers en meeloffers op het altaar van de Heer onze God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze schreven hun: Hierbij sturen wij u geld; brengt daarvoor brandoffers, zondeoffers, reukoffers en meeloffers op het altaar van de Heer onze God."
+          }
+        ]
+      },
+      "id": "baruch.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Wij luisterden niet naar Hem en leefden niet volgens zijn voorschriften.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij luisterden niet naar Hem en leefden niet volgens zijn voorschriften."
+          }
+        ]
+      },
+      "id": "baruch.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Waarom, leeft gij in een vijandig land en wordt gij oud in den vreemde, Israël?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom, leeft gij in een vijandig land en wordt gij oud in den vreemde, Israël?"
+          }
+        ]
+      },
+      "id": "baruch.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Want ik zag hoe de eeuwige God mijn kinderen gevangen liet wegvoeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ik zag hoe de eeuwige God mijn kinderen gevangen liet wegvoeren."
+          }
+        ]
+      },
+      "id": "baruch.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Die zilveren, gouden en houten goden tooit men als mensen; maar dat maakt hen niet bestand tegen de roest en de wormen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die zilveren, gouden en houten goden tooit men als mensen; maar dat maakt hen niet bestand tegen de roest en de wormen."
+          }
+        ]
+      },
+      "id": "baruch.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Bidt voor koning Nebukadnessar van Babel en voor zijn zoon Baltassar, dat zij zo lang mogen leven als de hemel boven de aarde staat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt voor koning Nebukadnessar van Babel en voor zijn zoon Baltassar, dat zij zo lang mogen leven als de hemel boven de aarde staat."
+          }
+        ]
+      },
+      "id": "baruch.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Heer, God van Israël, Gij hebt uw volk met sterke hand uit Egypte geleid, onder tekenen en wonderen, met grote macht, met opgestoken arm, en daardoor uw grote naam verworven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heer, God van Israël, Gij hebt uw volk met sterke hand uit Egypte geleid, onder tekenen en wonderen, met grote macht, met opgestoken arm, en daardoor uw grote naam verworven."
+          }
+        ]
+      },
+      "id": "baruch.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Waarom zijt ge onrein als de doden, als de bewoners der onderwereld?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom zijt ge onrein als de doden, als de bewoners der onderwereld?"
+          }
+        ]
+      },
+      "id": "baruch.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Met vreugde had ik hen grootgebracht, in tranen en droefheid zag ik hen gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met vreugde had ik hen grootgebracht, in tranen en droefheid zag ik hen gaan."
+          }
+        ]
+      },
+      "id": "baruch.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "En ondanks hun purperen gewaden moet men het stof van de tempel dat er vingerdik opligt, nog van hun gezicht afwassen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ondanks hun purperen gewaden moet men het stof van de tempel dat er vingerdik opligt, nog van hun gezicht afwassen."
+          }
+        ]
+      },
+      "id": "baruch.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Bidt tot de Heer dat Hij ons kracht en inzicht verleent, dat wij mogen leven onder de bescherming van koning Nebukadnessar van Babel en van zijn zoon Baltassar, dat wij hen lang mogen dienen en hun gunsten mogen verwerven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt tot de Heer dat Hij ons kracht en inzicht verleent, dat wij mogen leven onder de bescherming van koning Nebukadnessar van Babel en van zijn zoon Baltassar, dat wij hen lang mogen dienen en hun gunsten mogen verwerven."
+          }
+        ]
+      },
+      "id": "baruch.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Wij hebben gezondigd, goddeloos zijn wij geweest, Heer onze God, al uw voorschriften hebben wij overtreden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben gezondigd, goddeloos zijn wij geweest, Heer onze God, al uw voorschriften hebben wij overtreden."
+          }
+        ]
+      },
+      "id": "baruch.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Ge hebt de bron der wijsheid verlaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ge hebt de bron der wijsheid verlaten."
+          }
+        ]
+      },
+      "id": "baruch.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Laat niemand spotten met mij, een weduwe, door iedereen verlaten, eenzaam om de zonden van mijn kinderen. Zij keerden zich af van Gods gebod,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat niemand spotten met mij, een weduwe, door iedereen verlaten, eenzaam om de zonden van mijn kinderen. Zij keerden zich af van Gods gebod,"
+          }
+        ]
+      },
+      "id": "baruch.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "De een houdt een scepter als de provinciaal gouverneur, maar iemand die tegen hem misdoet, kan hij niet uit de weg ruimen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De een houdt een scepter als de provinciaal gouverneur, maar iemand die tegen hem misdoet, kan hij niet uit de weg ruimen."
+          }
+        ]
+      },
+      "id": "baruch.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Bidt ook voor ons tot de Heer onze God, want wij hebben tegen Hem gezondigd en tot op heden heeft Hij zijn grimmige toorn niet van ons afgewend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bidt ook voor ons tot de Heer onze God, want wij hebben tegen Hem gezondigd en tot op heden heeft Hij zijn grimmige toorn niet van ons afgewend."
+          }
+        ]
+      },
+      "id": "baruch.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Maar wend uw toorn van ons af, wij zijn toch al met zo weinigen overgebleven bij de volken waaronder Gij ons hebt verstrooid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar wend uw toorn van ons af, wij zijn toch al met zo weinigen overgebleven bij de volken waaronder Gij ons hebt verstrooid."
+          }
+        ]
+      },
+      "id": "baruch.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Waart gij op Gods weg gebleven, dan hadt ge voor altijd vrede gekend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waart gij op Gods weg gebleven, dan hadt ge voor altijd vrede gekend."
+          }
+        ]
+      },
+      "id": "baruch.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "bekommerden zich niet om zijn wetten, volgden Gods voorschriften niet op en hielden zich niet aan zijn leer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bekommerden zich niet om zijn wetten, volgden Gods voorschriften niet op en hielden zich niet aan zijn leer."
+          }
+        ]
+      },
+      "id": "baruch.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "De ander heeft een zwaard of een strijdbijl in de hand, maar hij vermag niets tegen oorlog of dieven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De ander heeft een zwaard of een strijdbijl in de hand, maar hij vermag niets tegen oorlog of dieven."
+          }
+        ]
+      },
+      "id": "baruch.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Leest in de tempel het boek voor dat wij u toezonden, wanneer gij op feesten en hoogdagen daar uw schuld belijdt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leest in de tempel het boek voor dat wij u toezonden, wanneer gij op feesten en hoogdagen daar uw schuld belijdt."
+          }
+        ]
+      },
+      "id": "baruch.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Heer, verhoor ons bidden en smeken, verlos ons om uwentwil en verleen ons de gunsten te verwerven van hen die ons hebben verbannen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heer, verhoor ons bidden en smeken, verlos ons om uwentwil en verleen ons de gunsten te verwerven van hen die ons hebben verbannen."
+          }
+        ]
+      },
+      "id": "baruch.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Waar verstand is, kracht en inzicht, daar vindt ge leven en lengte van dagen, licht voor de ogen en vrede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar verstand is, kracht en inzicht, daar vindt ge leven en lengte van dagen, licht voor de ogen en vrede."
+          }
+        ]
+      },
+      "id": "baruch.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Weest welkom, buren van Sion, maar denkt aan mijn kinderen, gevangenen weggevoerd door de eeuwige God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weest welkom, buren van Sion, maar denkt aan mijn kinderen, gevangenen weggevoerd door de eeuwige God."
+          }
+        ]
+      },
+      "id": "baruch.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Zo blijkt duidelijk dat het geen goden zijn: vreest hen dus niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo blijkt duidelijk dat het geen goden zijn: vreest hen dus niet."
+          }
+        ]
+      },
+      "id": "baruch.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Zegt dan: De Heer onze God is rechtvaardig, maar wij, Judeeërs en burgers van Jeruzalem,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zegt dan: De Heer onze God is rechtvaardig, maar wij, Judeeërs en burgers van Jeruzalem,"
+          }
+        ]
+      },
+      "id": "baruch.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Dan zal de hele aarde weten dat Gij, Heer, onze God zijt; Israël en zijn nakomelingen dragen immers uw naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal de hele aarde weten dat Gij, Heer, onze God zijt; Israël en zijn nakomelingen dragen immers uw naam."
+          }
+        ]
+      },
+      "id": "baruch.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Wie is er die haar verblijfplaats vindt, wie dringt haar schatkamers binnen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is er die haar verblijfplaats vindt, wie dringt haar schatkamers binnen?"
+          }
+        ]
+      },
+      "id": "baruch.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Hij stuurde een ver volk op hen af, onbeschaamd, met een onverstaanbare taal, zonder eerbied voor oude mensen, zonder medelijden met kinderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij stuurde een ver volk op hen af, onbeschaamd, met een onverstaanbare taal, zonder eerbied voor oude mensen, zonder medelijden met kinderen."
+          }
+        ]
+      },
+      "id": "baruch.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Hun goden zijn nutteloos, een gebroken aarden pot. Opgesteld in de tempel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun goden zijn nutteloos, een gebroken aarden pot. Opgesteld in de tempel,"
+          }
+        ]
+      },
+      "id": "baruch.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "onze koningen en edelen, onze priesters en profeten en onze voorvaderen staan nu vol schaamte voor Hem:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "onze koningen en edelen, onze priesters en profeten en onze voorvaderen staan nu vol schaamte voor Hem:"
+          }
+        ]
+      },
+      "id": "baruch.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Heer, zie vanuit uw heilige woning op ons neer; luister naar ons",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heer, zie vanuit uw heilige woning op ons neer; luister naar ons"
+          }
+        ]
+      },
+      "id": "baruch.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "text": "Waar zijn de heersers der volken, die zelfs de dieren bedwongen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waar zijn de heersers der volken, die zelfs de dieren bedwongen"
+          }
+        ]
+      },
+      "id": "baruch.3.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "De geliefde zonen van de weduwe werden weggesleept, de eenzame werd van haar dochters beroofd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De geliefde zonen van de weduwe werden weggesleept, de eenzame werd van haar dochters beroofd."
+          }
+        ]
+      },
+      "id": "baruch.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "raken hun ogen vol stof van de voeten der bezoekers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "raken hun ogen vol stof van de voeten der bezoekers."
+          }
+        ]
+      },
+      "id": "baruch.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "wij hebben gezondigd tegen de Heer onze God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wij hebben gezondigd tegen de Heer onze God."
+          }
+        ]
+      },
+      "id": "baruch.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "en open uw ogen; want niet de doden in de onderwereld eren de Heer of prijzen zijn rechtvaardigheid; hen is het leven ontnomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en open uw ogen; want niet de doden in de onderwereld eren de Heer of prijzen zijn rechtvaardigheid; hen is het leven ontnomen."
+          }
+        ]
+      },
+      "id": "baruch.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 17,
+      "text": "en met de vogels speelden? Waar zijn de bezitters van schatten van zilver en goud, hun vertrouwen, waar zijn de onmetelijke rijken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en met de vogels speelden? Waar zijn de bezitters van schatten van zilver en goud, hun vertrouwen, waar zijn de onmetelijke rijken,"
+          }
+        ]
+      },
+      "id": "baruch.3.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Hoe zou ik u kunnen helpen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe zou ik u kunnen helpen?"
+          }
+        ]
+      },
+      "id": "baruch.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "text": "Zoals de gevangenispoorten dichtgaan achter de man die wegens een misdaad tegen de koning ter dood is veroordeeld, zo versperren de priesters de tempelpoorten met stangen en balken, uit vrees dat dieven de godenbeelden plunderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals de gevangenispoorten dichtgaan achter de man die wegens een misdaad tegen de koning ter dood is veroordeeld, zo versperren de priesters de tempelpoorten met stangen en balken, uit vrees dat dieven de godenbeelden plunderen."
+          }
+        ]
+      },
+      "id": "baruch.6.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Ongehoorzaam waren wij; wij hebben niet naar Hem geluisterd en niet geleefd volgens zijn voorschriften.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ongehoorzaam waren wij; wij hebben niet naar Hem geluisterd en niet geleefd volgens zijn voorschriften."
+          }
+        ]
+      },
+      "id": "baruch.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "Maar mensen, vol droefheid, vernederd en zwak, met gebroken ogen en een hongerend hart, die eren U, Heer, en prijzen uw rechtvaardigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar mensen, vol droefheid, vernederd en zwak, met gebroken ogen en een hongerend hart, die eren U, Heer, en prijzen uw rechtvaardigheid."
+          }
+        ]
+      },
+      "id": "baruch.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "text": "alleen uit op smeden van zilver, wier werk geen sporen nalaat?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "alleen uit op smeden van zilver, wier werk geen sporen nalaat?"
+          }
+        ]
+      },
+      "id": "baruch.3.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "text": "Hij die de rampen over u bracht, zal u ook van uw vijand verlossen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die de rampen over u bracht, zal u ook van uw vijand verlossen."
+          }
+        ]
+      },
+      "id": "baruch.4.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "text": "Ze branden voor die goden meer lampen dan voor zichzelf, hoewel die er niet &eacute;&eacute;n kunnen zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze branden voor die goden meer lampen dan voor zichzelf, hoewel die er niet één kunnen zien."
+          }
+        ]
+      },
+      "id": "baruch.6.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Vanaf de tijd dat de Heer onze God onze voorouders uit Egypte leidde tot vandaag toe waren wij Hem ongehoorzaam; in onze lichtzinnigheid hebben wij niet naar Hem geluisterd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vanaf de tijd dat de Heer onze God onze voorouders uit Egypte leidde tot vandaag toe waren wij Hem ongehoorzaam; in onze lichtzinnigheid hebben wij niet naar Hem geluisterd."
+          }
+        ]
+      },
+      "id": "baruch.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Niet om de verdiensten van onze voorvaderen of onze koningen durven wij tot u bidden, Heer onze God,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niet om de verdiensten van onze voorvaderen of onze koningen durven wij tot u bidden, Heer onze God,"
+          }
+        ]
+      },
+      "id": "baruch.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 19,
+      "text": "Zij zijn allen verdwenen, afgedaald in de onderwereld, anderen nemen hun plaatsen in.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn allen verdwenen, afgedaald in de onderwereld, anderen nemen hun plaatsen in."
+          }
+        ]
+      },
+      "id": "baruch.3.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "text": "Kinderen, gaat heen, gaat maar heen, ik blijf achter, alleen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, gaat heen, gaat maar heen, ik blijf achter, alleen."
+          }
+        ]
+      },
+      "id": "baruch.4.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "text": "Het vergaat die goden als de balken van hun tempel: van binnen helemaal uitgehold, zegt men, zonder dat ze iets merken van de wormen die hen en hun kleren opvreten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het vergaat die goden als de balken van hun tempel: van binnen helemaal uitgehold, zegt men, zonder dat ze iets merken van de wormen die hen en hun kleren opvreten."
+          }
+        ]
+      },
+      "id": "baruch.6.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "Zo hebben ons tot op heden de rampen en de vervloekingen getroffen, die de Heer zijn dienaar Mozes bij de uittocht van onze voorouders uit Egypte naar het land van melk en honing liet afkondigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo hebben ons tot op heden de rampen en de vervloekingen getroffen, die de Heer zijn dienaar Mozes bij de uittocht van onze voorouders uit Egypte naar het land van melk en honing liet afkondigen."
+          }
+        ]
+      },
+      "id": "baruch.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "want terecht hebt Gij uw grimmige toorn over ons laten komen, zoals Gij door uw dienaren, de profeten, voorzegd had:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want terecht hebt Gij uw grimmige toorn over ons laten komen, zoals Gij door uw dienaren, de profeten, voorzegd had:"
+          }
+        ]
+      },
+      "id": "baruch.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "text": "Jongeren kwamen de aarde bevolken, ook hen bleef de weg maar kennis verborgen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jongeren kwamen de aarde bevolken, ook hen bleef de weg maar kennis verborgen,"
+          }
+        ]
+      },
+      "id": "baruch.3.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "text": "Ik heb het kleed van de vrede verwisseld voor het kleed van boete en gebed. Ik blijf roepen tot de eeuwige God, zolang als ik leef.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb het kleed van de vrede verwisseld voor het kleed van boete en gebed. Ik blijf roepen tot de eeuwige God, zolang als ik leef."
+          }
+        ]
+      },
+      "id": "baruch.4.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "text": "Hun gezicht ziet zwart van rook in de tempel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun gezicht ziet zwart van rook in de tempel."
+          }
+        ]
+      },
+      "id": "baruch.6.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Wij hebben niet geluisterd naar de woorden van de profeten die de Heer onze God ons zond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben niet geluisterd naar de woorden van de profeten die de Heer onze God ons zond."
+          }
+        ]
+      },
+      "id": "baruch.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "`Dit zegt de Heer: Buig uw nek en onderwerp u aan de koning van Babel; dan zult ge blijven wonen in het land dat Ik uw voorvaderen gaf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "`Dit zegt de Heer: Buig uw nek en onderwerp u aan de koning van Babel; dan zult ge blijven wonen in het land dat Ik uw voorvaderen gaf."
+          }
+        ]
+      },
+      "id": "baruch.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "text": "ze begrepen totaal niets van haar wegen. Hun zonen dwaalden nog verder af.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ze begrepen totaal niets van haar wegen. Hun zonen dwaalden nog verder af."
+          }
+        ]
+      },
+      "id": "baruch.3.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "text": "Houdt moed, kinderen, roept tot God: Hij zal u van de vijand bevrijden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houdt moed, kinderen, roept tot God: Hij zal u van de vijand bevrijden."
+          }
+        ]
+      },
+      "id": "baruch.4.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 21,
+      "text": "Rondom hun lichaam en hoofd fladderen vleermuizen, zwaluwen en andere vogels; zelfs katten gaan erop zitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rondom hun lichaam en hoofd fladderen vleermuizen, zwaluwen en andere vogels; zelfs katten gaan erop zitten."
+          }
+        ]
+      },
+      "id": "baruch.6.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Wij gingen hardnekkig onze eigen weg, dienden andere goden en deden wat de Heer onze God mishaagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij gingen hardnekkig onze eigen weg, dienden andere goden en deden wat de Heer onze God mishaagt."
+          }
+        ]
+      },
+      "id": "baruch.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Maar luistert gij niet en onderwerpt ge u niet aan de koning van Babel,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar luistert gij niet en onderwerpt ge u niet aan de koning van Babel,"
+          }
+        ]
+      },
+      "id": "baruch.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "text": "In Kanaän is niets van de wijsheid te horen en in Teman is er niets van te zien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In Kanaän is niets van de wijsheid te horen en in Teman is er niets van te zien."
+          }
+        ]
+      },
+      "id": "baruch.3.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "text": "Ik verwacht uw redding van de eeuwige God; de Heilige zal mij verblijden: weldra ontfermt zich over u uw redder, de eeuwige God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik verwacht uw redding van de eeuwige God; de Heilige zal mij verblijden: weldra ontfermt zich over u uw redder, de eeuwige God."
+          }
+        ]
+      },
+      "id": "baruch.4.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 22,
+      "text": "Zo weet gij dat het geen goden zijn: vreest hen dus niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo weet gij dat het geen goden zijn: vreest hen dus niet."
+          }
+        ]
+      },
+      "id": "baruch.6.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "dan zal Ik in de steden van Juda en in de straten van Jeruzalem de kreten van blijdschap en vreugde, het zingen voor bruidegom en bruid doen verstommen. Het hele land wordt een woestenij zonder bewoners.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dan zal Ik in de steden van Juda en in de straten van Jeruzalem de kreten van blijdschap en vreugde, het zingen voor bruidegom en bruid doen verstommen. Het hele land wordt een woestenij zonder bewoners.'"
+          }
+        ]
+      },
+      "id": "baruch.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "text": "Zelfs de zonen van Hagar, die overal kennis vergaren, de kooplui van Merran en Teman, spreuken dichters, zoekend naar kennis, ontdekten niet de weg naar de wijsheid en weten niets van haar wegen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs de zonen van Hagar, die overal kennis vergaren, de kooplui van Merran en Teman, spreuken dichters, zoekend naar kennis, ontdekten niet de weg naar de wijsheid en weten niets van haar wegen."
+          }
+        ]
+      },
+      "id": "baruch.3.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "text": "In tranen en droefheid zag ik u heengaan, maar tot mijn vreugde en blijdschap brengt God u voorgoed bij mij terug.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In tranen en droefheid zag ik u heengaan, maar tot mijn vreugde en blijdschap brengt God u voorgoed bij mij terug."
+          }
+        ]
+      },
+      "id": "baruch.4.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 23,
+      "text": "Als men het goud niet oppoetst waarmee zij versierd zijn, gaan ze niet blinken. Toen zij gegoten werden, beseften ze dat niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als men het goud niet oppoetst waarmee zij versierd zijn, gaan ze niet blinken. Toen zij gegoten werden, beseften ze dat niet."
+          }
+        ]
+      },
+      "id": "baruch.6.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "text": "Wij hebben niet geluisterd en ons niet onderworpen aan de koning van Babel. Daarom hebt Gij de bedreigingen van uw dienaren, de profeten, in vervulling doen gaan: Het gebeente van onze koningen en onze voorvaderen werd uit de graven gehaald.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben niet geluisterd en ons niet onderworpen aan de koning van Babel. Daarom hebt Gij de bedreigingen van uw dienaren, de profeten, in vervulling doen gaan: Het gebeente van onze koningen en onze voorvaderen werd uit de graven gehaald."
+          }
+        ]
+      },
+      "id": "baruch.2.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "text": "Israël, hoe groot is het domein van uw God, hoe uitgestrekt het gebied van zijn macht!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Israël, hoe groot is het domein van uw God, hoe uitgestrekt het gebied van zijn macht!"
+          }
+        ]
+      },
+      "id": "baruch.3.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "text": "Sions buren hebben uw ballingschap gezien, nu gaan ze uw redding aanschouwen, uw roem en uw luister, geschonken door de eeuwige God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sions buren hebben uw ballingschap gezien, nu gaan ze uw redding aanschouwen, uw roem en uw luister, geschonken door de eeuwige God."
+          }
+        ]
+      },
+      "id": "baruch.4.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "text": "Men kan ze kopen voor iedere prijs; het zijn maar levenloze dingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men kan ze kopen voor iedere prijs; het zijn maar levenloze dingen."
+          }
+        ]
+      },
+      "id": "baruch.6.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "text": "Het lag overal verspreid, overdag in de hitte, 's nachts in de kou. Velen kwamen om door grote rampen, door honger, oorlog en pest.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het lag overal verspreid, overdag in de hitte, 's nachts in de kou. Velen kwamen om door grote rampen, door honger, oorlog en pest."
+          }
+        ]
+      },
+      "id": "baruch.2.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "text": "Groot is het en zonder einde, hoog is het en onmetelijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Groot is het en zonder einde, hoog is het en onmetelijk."
+          }
+        ]
+      },
+      "id": "baruch.3.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "text": "Kinderen, verdraagt geduldig Gods toorn die u heeft getroffen. Ge zult weldra de ondergang zien van uw vervolgers en uw voet op hun nek zetten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kinderen, verdraagt geduldig Gods toorn die u heeft getroffen. Ge zult weldra de ondergang zien van uw vervolgers en uw voet op hun nek zetten."
+          }
+        ]
+      },
+      "id": "baruch.4.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "text": "Omdat zij geen voeten hebben, moet men ze dragen; zo laten ze ieder hun onmacht zien. Vallen ze op de grond, hun vereerders moeten ze vol schaamte oprichten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Omdat zij geen voeten hebben, moet men ze dragen; zo laten ze ieder hun onmacht zien. Vallen ze op de grond, hun vereerders moeten ze vol schaamte oprichten."
+          }
+        ]
+      },
+      "id": "baruch.6.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "text": "Het huis dat uw naam draagt, hebt Gij gemaakt tot wat het nu is, en dat alles om de slechtheid van Israël en Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het huis dat uw naam draagt, hebt Gij gemaakt tot wat het nu is, en dat alles om de slechtheid van Israël en Juda."
+          }
+        ]
+      },
+      "id": "baruch.2.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "text": "Daar werden de reuzen geboren, die befaamde mannen uit de voortijd, groot van gestalte, bedreven in de strijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar werden de reuzen geboren, die befaamde mannen uit de voortijd, groot van gestalte, bedreven in de strijd."
+          }
+        ]
+      },
+      "id": "baruch.3.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "text": "Mijn geliefde kinderen moesten ongebaande wegen gaan, weggevoerd als een kudde, buitgemaakt door de vijand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn geliefde kinderen moesten ongebaande wegen gaan, weggevoerd als een kudde, buitgemaakt door de vijand."
+          }
+        ]
+      },
+      "id": "baruch.4.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "text": "Staan ze eenmaal op hun plaats, dan kunnen ze zich niet verroeren; zijn ze scheef weggezakt, dan kunnen ze niet rechtkomen. Geschenken moeten hun worden voorgezet, als aan de doden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Staan ze eenmaal op hun plaats, dan kunnen ze zich niet verroeren; zijn ze scheef weggezakt, dan kunnen ze niet rechtkomen. Geschenken moeten hun worden voorgezet, als aan de doden."
+          }
+        ]
+      },
+      "id": "baruch.6.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "text": "Heer onze God, laat nu voor ons uw genade en uw grote barmhartigheid gelden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heer onze God, laat nu voor ons uw genade en uw grote barmhartigheid gelden."
+          }
+        ]
+      },
+      "id": "baruch.2.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 27,
+      "text": "Maar hen heeft God niet verkozen, de weg naar kennis hun niet gewezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar hen heeft God niet verkozen, de weg naar kennis hun niet gewezen."
+          }
+        ]
+      },
+      "id": "baruch.3.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "text": "Houdt moed, kinderen, en roept tot God; Die u dit aandeed, zal weer aan u denken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houdt moed, kinderen, en roept tot God; Die u dit aandeed, zal weer aan u denken."
+          }
+        ]
+      },
+      "id": "baruch.4.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "text": "De priesters verkopen die offers of gebruiken ze zelf. Hun vrouwen leggen er stukken van in de pekel, maar geven niets aan armen of misdeelden. Zij raken die offers aan in hun maandstonden of kort na de bevalling.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De priesters verkopen die offers of gebruiken ze zelf. Hun vrouwen leggen er stukken van in de pekel, maar geven niets aan armen of misdeelden. Zij raken die offers aan in hun maandstonden of kort na de bevalling."
+          }
+        ]
+      },
+      "id": "baruch.6.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "text": "Dat hebt Gij immers uw dienaar Mozes laten zeggen in de wet die hij op uw bevel voor de Israëlieten op schrift heeft gesteld:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat hebt Gij immers uw dienaar Mozes laten zeggen in de wet die hij op uw bevel voor de Israëlieten op schrift heeft gesteld:"
+          }
+        ]
+      },
+      "id": "baruch.2.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 28,
+      "text": "Allen kwamen zij om door tekort aan inzicht en onverstand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Allen kwamen zij om door tekort aan inzicht en onverstand."
+          }
+        ]
+      },
+      "id": "baruch.3.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "text": "Weleer was uw enige gedachte God te verlaten. Zoekt Hem nu met al uw krachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weleer was uw enige gedachte God te verlaten. Zoekt Hem nu met al uw krachten."
+          }
+        ]
+      },
+      "id": "baruch.4.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 28,
+      "text": "Zo weet gij dat het geen goden zijn: vreest hen dus niet!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo weet gij dat het geen goden zijn: vreest hen dus niet!"
+          }
+        ]
+      },
+      "id": "baruch.6.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "text": "`Als gij niet naar Mij luistert, wordt die grote, talrijke menigte zeer klein onder de volken waar Ik hen verspreid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "`Als gij niet naar Mij luistert, wordt die grote, talrijke menigte zeer klein onder de volken waar Ik hen verspreid."
+          }
+        ]
+      },
+      "id": "baruch.2.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "text": "Wie is ten hemel gevaren om daar de wijsheid te halen, wie heeft haar van boven de wolken naar hier beneden gebracht?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is ten hemel gevaren om daar de wijsheid te halen, wie heeft haar van boven de wolken naar hier beneden gebracht?"
+          }
+        ]
+      },
+      "id": "baruch.3.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "text": "Want Die u deze rampen zond, zal u ook bevrijden en met eeuwige blijdschap vervullen.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want Die u deze rampen zond, zal u ook bevrijden en met eeuwige blijdschap vervullen.'"
+          }
+        ]
+      },
+      "id": "baruch.4.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "text": "Waarom zou men hen goden noemen? Vrouwen zetten die zilveren, gouden en houten goden spijzen voor.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom zou men hen goden noemen? Vrouwen zetten die zilveren, gouden en houten goden spijzen voor."
+          }
+        ]
+      },
+      "id": "baruch.6.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "text": "Ik weet dat dit hardnekkige volk niet naar Mij zal luisteren. Maar in de ballingschap zullen zij tot bezinning komen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik weet dat dit hardnekkige volk niet naar Mij zal luisteren. Maar in de ballingschap zullen zij tot bezinning komen"
+          }
+        ]
+      },
+      "id": "baruch.2.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 30,
+      "text": "Wie is de zee overgestoken om haar daar te ontdekken? Wie kon haar kopen met goud?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie is de zee overgestoken om haar daar te ontdekken? Wie kon haar kopen met goud?"
+          }
+        ]
+      },
+      "id": "baruch.3.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "text": "Houd moed, Jeruzalem; Die u een naam gaf, zal u troosten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Houd moed, Jeruzalem; Die u een naam gaf, zal u troosten."
+          }
+        ]
+      },
+      "id": "baruch.4.30",
+      "title": null,
+      "paragraph": "y",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 30,
+      "text": "In hun tempels zitten de priesters, hun kleren gescheurd, hoofd- en baardharen afgeschoren, het hoofd onbedekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hun tempels zitten de priesters, hun kleren gescheurd, hoofd- en baardharen afgeschoren, het hoofd onbedekt."
+          }
+        ]
+      },
+      "id": "baruch.6.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "text": "en erkennen dat Ik de Heer hun God ben. Ik zal hun een ander hart geven en oren die horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en erkennen dat Ik de Heer hun God ben. Ik zal hun een ander hart geven en oren die horen."
+          }
+        ]
+      },
+      "id": "baruch.2.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 31,
+      "text": "Niemand is met haar wegen bekend, niemand vertrouwd met haar paden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand is met haar wegen bekend, niemand vertrouwd met haar paden."
+          }
+        ]
+      },
+      "id": "baruch.3.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "text": "Wee die u mishandelden en blij waren met uw val!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee die u mishandelden en blij waren met uw val!"
+          }
+        ]
+      },
+      "id": "baruch.4.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 31,
+      "text": "Ze maken misbaar voor hun goden, zoals men bij een dodenmaal doet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze maken misbaar voor hun goden, zoals men bij een dodenmaal doet."
+          }
+        ]
+      },
+      "id": "baruch.6.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "text": "Dan zullen ze Mij in het land van hun ballingschap prijzen en mijn naam eren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen ze Mij in het land van hun ballingschap prijzen en mijn naam eren."
+          }
+        ]
+      },
+      "id": "baruch.2.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 32,
+      "text": "Alleen de alwetende kent haar, zijn inzicht heeft haar ontdekt. Voor eeuwig heeft Hij de aarde geschapen en ze met dieren bevolkt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alleen de alwetende kent haar, zijn inzicht heeft haar ontdekt. Voor eeuwig heeft Hij de aarde geschapen en ze met dieren bevolkt."
+          }
+        ]
+      },
+      "id": "baruch.3.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "text": "Wee de steden waar uw kinderen slaven waren. wee de stad die uw zonen gevangen hield.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee de steden waar uw kinderen slaven waren. wee de stad die uw zonen gevangen hield."
+          }
+        ]
+      },
+      "id": "baruch.4.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 32,
+      "text": "Hun gewaden nemen de priesters mee om hun vrouwen en kinderen te kleden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun gewaden nemen de priesters mee om hun vrouwen en kinderen te kleden."
+          }
+        ]
+      },
+      "id": "baruch.6.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "text": "Zij zullen zich van hun hardnekkigheid en hun zonden bekeren, beseffend wat hun voorvaderen tegen de Heer hebben misdaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zullen zich van hun hardnekkigheid en hun zonden bekeren, beseffend wat hun voorvaderen tegen de Heer hebben misdaan."
+          }
+        ]
+      },
+      "id": "baruch.2.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 33,
+      "text": "Het licht gaat op weg, wanneer Hij het uitzendt, het gehoorzaamt Hem bevend als Hij het terugroept.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het licht gaat op weg, wanneer Hij het uitzendt, het gehoorzaamt Hem bevend als Hij het terugroept."
+          }
+        ]
+      },
+      "id": "baruch.3.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 33,
+      "text": "Al was ze blij om uw ondergang en verheugd over uw val, ze zal treuren over haar eigen verwoesting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al was ze blij om uw ondergang en verheugd over uw val, ze zal treuren over haar eigen verwoesting."
+          }
+        ]
+      },
+      "id": "baruch.4.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 33,
+      "text": "Behandelt men hen goed of slecht, ze kunnen het niet vergelden. Koningen kunnen ze niet aanstellen of afzetten,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Behandelt men hen goed of slecht, ze kunnen het niet vergelden. Koningen kunnen ze niet aanstellen of afzetten,"
+          }
+        ]
+      },
+      "id": "baruch.6.33",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "text": "Dan breng Ik hen terug naar het land dat Ik aan hun voorvaderen, aan Abraham, Isaak en Jakob, onder ede beloofd heb, zij zullen er weer heersen. Ik maak hen talrijk, nooit meer verminder Ik hun aantal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan breng Ik hen terug naar het land dat Ik aan hun voorvaderen, aan Abraham, Isaak en Jakob, onder ede beloofd heb, zij zullen er weer heersen. Ik maak hen talrijk, nooit meer verminder Ik hun aantal."
+          }
+        ]
+      },
+      "id": "baruch.2.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 34,
+      "text": "Alle sterren stralen verheugd, elk vanaf zijn eigen plaats.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle sterren stralen verheugd, elk vanaf zijn eigen plaats."
+          }
+        ]
+      },
+      "id": "baruch.3.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 34,
+      "text": "Ik maak een eind aan de uitgelatenheid van haar talrijke bevolking, haar trots zal omslaan in droefheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik maak een eind aan de uitgelatenheid van haar talrijke bevolking, haar trots zal omslaan in droefheid."
+          }
+        ]
+      },
+      "id": "baruch.4.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 34,
+      "text": "geen rijkdom of geld schenken. Houdt iemand zijn gelofte niet, zij kunnen hem niet ter verantwoording roepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "geen rijkdom of geld schenken. Houdt iemand zijn gelofte niet, zij kunnen hem niet ter verantwoording roepen."
+          }
+        ]
+      },
+      "id": "baruch.6.34",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 35,
+      "text": "Ik sluit met hen een eeuwig verbond: Ik zal hun God zijn en zij mijn volk. Nooit meer verdrijf Ik mijn volk Isra&euml;l uit het land dat Ik hun gaf.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik sluit met hen een eeuwig verbond: Ik zal hun God zijn en zij mijn volk. Nooit meer verdrijf Ik mijn volk Israël uit het land dat Ik hun gaf.'"
+          }
+        ]
+      },
+      "id": "baruch.2.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 35,
+      "text": "Hij roept en ze zeggen: `Hier zijn wij!' Vol vreugde stralen ze voor Hem die hen schiep.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij roept en ze zeggen: `Hier zijn wij!' Vol vreugde stralen ze voor Hem die hen schiep."
+          }
+        ]
+      },
+      "id": "baruch.3.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 35,
+      "text": "Want de eeuwige God stort vuur over haar uit gedurende lange tijd; demonen zullen er wonen gedurende lange tijd.\r\n<div class=\"poezie\">&nbsp;</div>",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want de eeuwige God stort vuur over haar uit gedurende lange tijd; demonen zullen er wonen gedurende lange tijd.\r\n"
+          }
+        ]
+      },
+      "id": "baruch.4.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 35,
+      "text": "Ze redden geen mens van de dood en bevrijden geen zwakke uit de macht van de sterke.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze redden geen mens van de dood en bevrijden geen zwakke uit de macht van de sterke."
+          }
+        ]
+      },
+      "id": "baruch.6.35",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 36,
+      "text": "Dit is onze God; niemand anders kan zich met Hem meten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is onze God; niemand anders kan zich met Hem meten."
+          }
+        ]
+      },
+      "id": "baruch.3.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 36,
+      "text": "Kijk naar het oosten, Jeruzalem, naar de vreugde die God u brengt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kijk naar het oosten, Jeruzalem, naar de vreugde die God u brengt."
+          }
+        ]
+      },
+      "id": "baruch.4.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 36,
+      "text": "Een blinde kunnen zij niet ziende maken en iemand in nood niet helpen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een blinde kunnen zij niet ziende maken en iemand in nood niet helpen."
+          }
+        ]
+      },
+      "id": "baruch.6.36",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 37,
+      "text": "Alle wegen naar kennis komen van Hem; Hij heeft ze zijn dienaar Jakob gewezen, Isra&euml;l, die Hij liefhad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle wegen naar kennis komen van Hem; Hij heeft ze zijn dienaar Jakob gewezen, Israël, die Hij liefhad."
+          }
+        ]
+      },
+      "id": "baruch.3.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 37,
+      "text": "Daar zijn de zonen die u verlieten; van oost en west komen zij weer bijeen, op het woord van de heilige God, jubelend over zijn heerlijke redding.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar zijn de zonen die u verlieten; van oost en west komen zij weer bijeen, op het woord van de heilige God, jubelend over zijn heerlijke redding."
+          }
+        ]
+      },
+      "id": "baruch.4.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 37,
+      "text": "Ze hebben geen medelijden met weduwen, voor wezen zorgen zij niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze hebben geen medelijden met weduwen, voor wezen zorgen zij niet."
+          }
+        ]
+      },
+      "id": "baruch.6.37",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 38,
+      "text": "Daarom is ze op aarde verschenen en leefde onder de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom is ze op aarde verschenen en leefde onder de mensen."
+          }
+        ]
+      },
+      "id": "baruch.3.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 38,
+      "text": "Ze zijn gevoelloos als stenen uit de bergen, die houten goden, beslagen met goud en zilver. Hun vereerders komen bedrogen uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze zijn gevoelloos als stenen uit de bergen, die houten goden, beslagen met goud en zilver. Hun vereerders komen bedrogen uit."
+          }
+        ]
+      },
+      "id": "baruch.6.38",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 39,
+      "text": "Hoe kan men dan denken of zeggen dat het goden zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe kan men dan denken of zeggen dat het goden zijn?"
+          }
+        ]
+      },
+      "id": "baruch.6.39",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 40,
+      "text": "Bovendien onteren de Chaldeeën zelf hun goden. Als zij een stomme zien zonder spraak, halen zij Bel erbij in de hoop dat hij hem geneest, alsof Bel hen zou kunnen horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Bovendien onteren de Chaldeeën zelf hun goden. Als zij een stomme zien zonder spraak, halen zij Bel erbij in de hoop dat hij hem geneest, alsof Bel hen zou kunnen horen."
+          }
+        ]
+      },
+      "id": "baruch.6.40",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 41,
+      "text": "Geen betoog brengt hen ertoe die goden te verlaten; zo dom zijn ze.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geen betoog brengt hen ertoe die goden te verlaten; zo dom zijn ze."
+          }
+        ]
+      },
+      "id": "baruch.6.41",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 42,
+      "text": "Met strikken in het haar zitten de vrouwen langs de weg zemelen te branden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met strikken in het haar zitten de vrouwen langs de weg zemelen te branden."
+          }
+        ]
+      },
+      "id": "baruch.6.42",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 43,
+      "text": "Heeft een van hen, door een voorbijganger meegenomen, gemeenschap met hem gehad dan spot zij met de anderen, die nog niet zover zijn en hun strik nog dragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heeft een van hen, door een voorbijganger meegenomen, gemeenschap met hem gehad dan spot zij met de anderen, die nog niet zover zijn en hun strik nog dragen."
+          }
+        ]
+      },
+      "id": "baruch.6.43",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 44,
+      "text": "Alles wat er bij hen gebeurt, is bedrog. Waarom dan denken of zeggen dat het goden zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alles wat er bij hen gebeurt, is bedrog. Waarom dan denken of zeggen dat het goden zijn?"
+          }
+        ]
+      },
+      "id": "baruch.6.44",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 45,
+      "text": "Door timmerlieden en goudsmeden zijn ze gemaakt, precies zoals die het wilden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door timmerlieden en goudsmeden zijn ze gemaakt, precies zoals die het wilden."
+          }
+        ]
+      },
+      "id": "baruch.6.45",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 46,
+      "text": "De makers zelf worden niet oud. Hoe kunnen het dan goden zijn, wat ze maken?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De makers zelf worden niet oud. Hoe kunnen het dan goden zijn, wat ze maken?"
+          }
+        ]
+      },
+      "id": "baruch.6.46",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 47,
+      "text": "Alleen ontgoocheling en smaad laten ze achter voor hun nazaten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alleen ontgoocheling en smaad laten ze achter voor hun nazaten."
+          }
+        ]
+      },
+      "id": "baruch.6.47",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 48,
+      "text": "Worden die goden door oorlogen of rampen bedreigd, dan overleggen de priesters met elkaar, waar zich met hen te verbergen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Worden die goden door oorlogen of rampen bedreigd, dan overleggen de priesters met elkaar, waar zich met hen te verbergen."
+          }
+        ]
+      },
+      "id": "baruch.6.48",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 49,
+      "text": "Waarom zien men dan niet in, dat zij die zich niet uit oorlogen of rampen kunnen redden, geen goden zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Waarom zien men dan niet in, dat zij die zich niet uit oorlogen of rampen kunnen redden, geen goden zijn?"
+          }
+        ]
+      },
+      "id": "baruch.6.49",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 50,
+      "text": "Men moet tenslotte erkennen, dat die houten goden met goud en zilver beslagen, geen goden zijn. Het moet alle volken en koningen duidelijk zijn, dat ze geen goden zijn, maar mensenwerk, zonder enige goddelijke kracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men moet tenslotte erkennen, dat die houten goden met goud en zilver beslagen, geen goden zijn. Het moet alle volken en koningen duidelijk zijn, dat ze geen goden zijn, maar mensenwerk, zonder enige goddelijke kracht."
+          }
+        ]
+      },
+      "id": "baruch.6.50",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 51,
+      "text": "Wie moet nog meer bewijzen hebben dat het geen goden zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie moet nog meer bewijzen hebben dat het geen goden zijn?"
+          }
+        ]
+      },
+      "id": "baruch.6.51",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 52,
+      "text": "Zij stellen geen koning aan over het land, zij geven de mensen geen regen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij stellen geen koning aan over het land, zij geven de mensen geen regen;"
+          }
+        ]
+      },
+      "id": "baruch.6.52",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 53,
+      "text": "zij verschaffen geen recht en weren het onrecht niet; zij zijn machteloos, kraaien tussen hemel en aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zij verschaffen geen recht en weren het onrecht niet; zij zijn machteloos, kraaien tussen hemel en aarde."
+          }
+        ]
+      },
+      "id": "baruch.6.53",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 54,
+      "text": "Slaat de bliksem in de tempel van die houten goden, met goud en zilver beslagen, dan kunnen de priesters vluchtend zich redden, zijzelf gaan, met de balken, in vlammen op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Slaat de bliksem in de tempel van die houten goden, met goud en zilver beslagen, dan kunnen de priesters vluchtend zich redden, zijzelf gaan, met de balken, in vlammen op."
+          }
+        ]
+      },
+      "id": "baruch.6.54",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 55,
+      "text": "Het is hun onmogelijk zich te verzetten tegen een koning of tegen een vijand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is hun onmogelijk zich te verzetten tegen een koning of tegen een vijand."
+          }
+        ]
+      },
+      "id": "baruch.6.55",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 56,
+      "text": "Hoe kan men dan veronderstellen dat het goden zijn?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe kan men dan veronderstellen dat het goden zijn?"
+          }
+        ]
+      },
+      "id": "baruch.6.56",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 57,
+      "text": "Die goden van hout, met goud en zilver beslagen, kunnen niets tegen dieven en rovers. Als die hen in handen krijgen, halen ze er het goud, het zilver en de kleren af en gaan er ongestraft mee vandoor.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die goden van hout, met goud en zilver beslagen, kunnen niets tegen dieven en rovers. Als die hen in handen krijgen, halen ze er het goud, het zilver en de kleren af en gaan er ongestraft mee vandoor."
+          }
+        ]
+      },
+      "id": "baruch.6.57",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 58,
+      "text": "Een koning kan zijn macht laten gelden, huisraad is nuttig voor de eigenaar, een huisdeur beschermt het huisraad, maar die goden zijn waardeloos. Een houten zuil in een paleis is meer waard dan zij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een koning kan zijn macht laten gelden, huisraad is nuttig voor de eigenaar, een huisdeur beschermt het huisraad, maar die goden zijn waardeloos. Een houten zuil in een paleis is meer waard dan zij."
+          }
+        ]
+      },
+      "id": "baruch.6.58",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 59,
+      "text": "Zon, maan en sterren geven licht en zijn zo nuttig en dienstbaar;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zon, maan en sterren geven licht en zijn zo nuttig en dienstbaar;"
+          }
+        ]
+      },
+      "id": "baruch.6.59",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 60,
+      "text": "zo ook de flitsende bliksem, mooi om te zien, en de wind die waait over iedere streek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zo ook de flitsende bliksem, mooi om te zien, en de wind die waait over iedere streek."
+          }
+        ]
+      },
+      "id": "baruch.6.60",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 61,
+      "text": "Als God de wolken beveelt over de hele aarde te trekken, voeren zij zijn bevel uit. Het vuur dat van boven komt om de bossen op de bergen in as te leggen, doet wat het is opgedragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als God de wolken beveelt over de hele aarde te trekken, voeren zij zijn bevel uit. Het vuur dat van boven komt om de bossen op de bergen in as te leggen, doet wat het is opgedragen."
+          }
+        ]
+      },
+      "id": "baruch.6.61",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 62,
+      "text": "Met niets van dit alles kunnen die goden zich meten in schoonheid of macht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met niets van dit alles kunnen die goden zich meten in schoonheid of macht."
+          }
+        ]
+      },
+      "id": "baruch.6.62",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 63,
+      "text": "Wie denkt of zegt dan nog dat het goden zijn? Ze zijn niet in staat recht te doen of weldaden te bewijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wie denkt of zegt dan nog dat het goden zijn? Ze zijn niet in staat recht te doen of weldaden te bewijzen."
+          }
+        ]
+      },
+      "id": "baruch.6.63",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 64,
+      "text": "Weet dus dat ze geen goden zijn en vreest hen niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Weet dus dat ze geen goden zijn en vreest hen niet."
+          }
+        ]
+      },
+      "id": "baruch.6.64",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 65,
+      "text": "Ze kunnen een koning niet vervloeken of zegenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze kunnen een koning niet vervloeken of zegenen."
+          }
+        ]
+      },
+      "id": "baruch.6.65",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 66,
+      "text": "Ze geven de volken geen tekenen aan de hemel, schitteren niet als de zon, geven geen licht als de maan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze geven de volken geen tekenen aan de hemel, schitteren niet als de zon, geven geen licht als de maan."
+          }
+        ]
+      },
+      "id": "baruch.6.66",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 67,
+      "text": "De wilde dieren zijn er beter aan toe. Die kunnen tenminste in een schuilplaats vluchten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De wilde dieren zijn er beter aan toe. Die kunnen tenminste in een schuilplaats vluchten."
+          }
+        ]
+      },
+      "id": "baruch.6.67",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 68,
+      "text": "Uit alles blijkt ons dat het geen goden zijn. Vreest hen dus niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit alles blijkt ons dat het geen goden zijn. Vreest hen dus niet."
+          }
+        ]
+      },
+      "id": "baruch.6.68",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 69,
+      "text": "Die goden van hout, met goud en zilver beslagen, beschermen niets; het zijn slechts vogelverschrikkers in een komkommerveld,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die goden van hout, met goud en zilver beslagen, beschermen niets; het zijn slechts vogelverschrikkers in een komkommerveld,"
+          }
+        ]
+      },
+      "id": "baruch.6.69",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 70,
+      "text": "doornstruiken in een tuin, waar de vogels op neerstrijken. Doden in een donker graf, zijn die goden van hout, met goud en zilver beslagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "doornstruiken in een tuin, waar de vogels op neerstrijken. Doden in een donker graf, zijn die goden van hout, met goud en zilver beslagen."
+          }
+        ]
+      },
+      "id": "baruch.6.70",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 71,
+      "text": "Aan het purper en het linnen dat om hen hangt te rotten kunt ge zien, dat het geen goden zijn. Tenslotte worden zijzelf door de wormen opgevreten, een schande voor het land.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan het purper en het linnen dat om hen hangt te rotten kunt ge zien, dat het geen goden zijn. Tenslotte worden zijzelf door de wormen opgevreten, een schande voor het land."
+          }
+        ]
+      },
+      "id": "baruch.6.71",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 72,
+      "text": "Een rechtvaardige die geen afgoden vereert, is er dus beter aan toe: hij ontkomt aan de schande.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een rechtvaardige die geen afgoden vereert, is er dus beter aan toe: hij ontkomt aan de schande."
+          }
+        ]
+      },
+      "id": "baruch.6.72",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

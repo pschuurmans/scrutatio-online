@@ -1,0 +1,1793 @@
+{
+  "id": "micha",
+  "name": "Micha",
+  "chapters": 7,
+  "verseCount": 105,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het woord van Jahwe, dat gericht is tot Micha van Moreset, gedurende de tijd dat Jotam, Achaz en Hizkia regeerden over Juda. Het visioen, dat hij gezien heeft over Samaria en Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het woord van Jahwe, dat gericht is tot Micha van Moreset, gedurende de tijd dat Jotam, Achaz en Hizkia regeerden over Juda. Het visioen, dat hij gezien heeft over Samaria en Jeruzalem."
+          }
+        ]
+      },
+      "id": "micha.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Wee over hen die onrecht beramen en in hun bed boze daden bedenken om die bij het eerste morgenlicht te bedrijven, machtig als hun handen zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee over hen die onrecht beramen en in hun bed boze daden bedenken om die bij het eerste morgenlicht te bedrijven, machtig als hun handen zijn."
+          }
+        ]
+      },
+      "id": "micha.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Toen sprak ik: Luistert dan toch, hoofden van Jakob, leiders van het huis Israël! Gij dient toch immers het recht te kennen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen sprak ik: Luistert dan toch, hoofden van Jakob, leiders van het huis Israël! Gij dient toch immers het recht te kennen!"
+          }
+        ]
+      },
+      "id": "micha.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Op het eind van de dagen zal het gebeuren, dat de berg van het huis van Jahwe vast zal staan als de eerste der bergen, verheven boven de heuvels en de volken stromen naar hem toe,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op het eind van de dagen zal het gebeuren, dat de berg van het huis van Jahwe vast zal staan als de eerste der bergen, verheven boven de heuvels en de volken stromen naar hem toe,"
+          }
+        ]
+      },
+      "id": "micha.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Gij echter, Betlehem in Efrata, al zijt gij klein onder Juda's geslachten, toch zal er, zeg Ik, iemand uit u komen die over Israël gaat heersen. In het verre verleden ligt zijn oorsprong, in lang vervlogen dagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij echter, Betlehem in Efrata, al zijt gij klein onder Juda's geslachten, toch zal er, zeg Ik, iemand uit u komen die over Israël gaat heersen. In het verre verleden ligt zijn oorsprong, in lang vervlogen dagen."
+          }
+        ]
+      },
+      "id": "micha.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Hoort dan wat Jahwe zegt.' Sta op, begin een rechtsgeding ten overstaan van de bergen! Laat de heuvels uw stem vernemen!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort dan wat Jahwe zegt.' Sta op, begin een rechtsgeding ten overstaan van de bergen! Laat de heuvels uw stem vernemen!'"
+          }
+        ]
+      },
+      "id": "micha.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Wee mij! Want het is met mij zoals wanneer de oogst voorbij is, de nalezing van de wijnoogst gedaan is: er blijft geen druif meer om te eten, zelfs geen vroege vijg voor mijn keel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee mij! Want het is met mij zoals wanneer de oogst voorbij is, de nalezing van de wijnoogst gedaan is: er blijft geen druif meer om te eten, zelfs geen vroege vijg voor mijn keel."
+          }
+        ]
+      },
+      "id": "micha.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Luistert, alle volken! Let op, gij aarde en al uw bewoners! Laat de Heer Jahwe tegen u getuigen, de Heer in zijn heilige tempel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luistert, alle volken! Let op, gij aarde en al uw bewoners! Laat de Heer Jahwe tegen u getuigen, de Heer in zijn heilige tempel."
+          }
+        ]
+      },
+      "id": "micha.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "Begeren zij akkers, dan roven zij die, begeren zij huizen, dan nemen zij die! Zij leggen beslag op de man en zijn huis, op de bezitter en op zijn bezit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Begeren zij akkers, dan roven zij die, begeren zij huizen, dan nemen zij die! Zij leggen beslag op de man en zijn huis, op de bezitter en op zijn bezit."
+          }
+        ]
+      },
+      "id": "micha.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Maar zij haten het goede en hebben het kwade lief. Zij stropen hun eigen mensen de huid af en halen hun het vlees van de botten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zij haten het goede en hebben het kwade lief. Zij stropen hun eigen mensen de huid af en halen hun het vlees van de botten."
+          }
+        ]
+      },
+      "id": "micha.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "de vele naties gaan op weg en zeggen: 'Komt, laat ons opgaan naar de berg van Jahwe, naar het huis van Jakobs God: dan zal Hij ons zijn wegen wijzen en wij zullen zijn paden bewandelen. Ja, in Sion ontspringt de wet, in Jeruzalem het woord van Jahwe.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de vele naties gaan op weg en zeggen: 'Komt, laat ons opgaan naar de berg van Jahwe, naar het huis van Jakobs God: dan zal Hij ons zijn wegen wijzen en wij zullen zijn paden bewandelen. Ja, in Sion ontspringt de wet, in Jeruzalem het woord van Jahwe.'"
+          }
+        ]
+      },
+      "id": "micha.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Daarom zal Hij hen niet langer overlaten aan hun lot dan tot de tijd dat zij die baren zal haar kind gebaard heeft. Dan komt de rest van zijn broeders weer samen met de zonen van Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zal Hij hen niet langer overlaten aan hun lot dan tot de tijd dat zij die baren zal haar kind gebaard heeft. Dan komt de rest van zijn broeders weer samen met de zonen van Israël."
+          }
+        ]
+      },
+      "id": "micha.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Aanhoort, gij bergen, het rechtsgeding van Jahwe, en gij ook, onwrikbaren, fundamenten der aarde: Jahwe heeft een rechtsgeding met zijn volk; Hij wil afrekenen met Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aanhoort, gij bergen, het rechtsgeding van Jahwe, en gij ook, onwrikbaren, fundamenten der aarde: Jahwe heeft een rechtsgeding met zijn volk; Hij wil afrekenen met Israël."
+          }
+        ]
+      },
+      "id": "micha.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "De vrome is uit het land verdwenen, een rechtschapen man is er niet meer te vinden; allen loeren op bloed en maken jacht op hun broeders.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vrome is uit het land verdwenen, een rechtschapen man is er niet meer te vinden; allen loeren op bloed en maken jacht op hun broeders."
+          }
+        ]
+      },
+      "id": "micha.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Daar komt Jahwe uit zijn woning. Hij daalt neer en treedt op de toppen der aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daar komt Jahwe uit zijn woning. Hij daalt neer en treedt op de toppen der aarde."
+          }
+        ]
+      },
+      "id": "micha.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Daarom, zo spreekt Jahwe, ga Ik tegen dat soort lieden nu eens een boze daad bedenken, iets dat gij niet van uw nek kunt schudden, en rechtop gaan zult gij niet meer; het wordt beslist een kwade tijd!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, zo spreekt Jahwe, ga Ik tegen dat soort lieden nu eens een boze daad bedenken, iets dat gij niet van uw nek kunt schudden, en rechtop gaan zult gij niet meer; het wordt beslist een kwade tijd!"
+          }
+        ]
+      },
+      "id": "micha.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Zij verslinden het vlees van mijn volk. Zij villen hen, zij breken hun botten, zij snijden hen in stukken, als vlees dat de pot in moet, als lappen voor de braadpan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij verslinden het vlees van mijn volk. Zij villen hen, zij breken hun botten, zij snijden hen in stukken, als vlees dat de pot in moet, als lappen voor de braadpan."
+          }
+        ]
+      },
+      "id": "micha.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Hij zal recht doen tussen de vele volken en machtige naties tuchtigen, al wonen zij nog zo ver. Dan smeden zij hun zwaarden om tot ploegscharen en hun speerpunten tot snoeimessen; geen volk heft het zwaard meer tegen een ander en de oorlog leren zij niet meer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal recht doen tussen de vele volken en machtige naties tuchtigen, al wonen zij nog zo ver. Dan smeden zij hun zwaarden om tot ploegscharen en hun speerpunten tot snoeimessen; geen volk heft het zwaard meer tegen een ander en de oorlog leren zij niet meer."
+          }
+        ]
+      },
+      "id": "micha.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Dan neemt Hij de macht in handen en weidt Hij hen door de kracht van Jahwe, de verheven naam van Jahwe, zijn God. In veiligheid zullen zij wonen, omdat Hij zijn macht zal doen reiken tot aan de uiteinden der aarde;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan neemt Hij de macht in handen en weidt Hij hen door de kracht van Jahwe, de verheven naam van Jahwe, zijn God. In veiligheid zullen zij wonen, omdat Hij zijn macht zal doen reiken tot aan de uiteinden der aarde;"
+          }
+        ]
+      },
+      "id": "micha.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "'Mijn volk, wat heb Ik u aangedaan en waarmee ben Ik u lastig gevallen? Antwoord Mij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Mijn volk, wat heb Ik u aangedaan en waarmee ben Ik u lastig gevallen? Antwoord Mij."
+          }
+        ]
+      },
+      "id": "micha.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Hun handen zijn een boosaardig vangnet; de vorst stelt eisen om zijn plicht te doen; om recht te spreken laat zich de rechter betalen; de machthebber zegt wat zijn hebzucht hem ingeeft. Alles wordt verdraaid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun handen zijn een boosaardig vangnet; de vorst stelt eisen om zijn plicht te doen; om recht te spreken laat zich de rechter betalen; de machthebber zegt wat zijn hebzucht hem ingeeft. Alles wordt verdraaid."
+          }
+        ]
+      },
+      "id": "micha.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "Onder zijn voeten smelten de bergen, splijten de dalen vaneen, zij smelten als was voor het vuur, zij splijten als water dat gutst langs een bergwand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Onder zijn voeten smelten de bergen, splijten de dalen vaneen, zij smelten als was voor het vuur, zij splijten als water dat gutst langs een bergwand."
+          }
+        ]
+      },
+      "id": "micha.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Op die dag zal men een spotlied op u aanheffen en zal er een droevige klaagzang klinken: 'Wij zijn te gronde gericht, totaal te gronde gericht! Het erfdeel van mijn volk geeft Hij aan vreemden! Ach, Hij ontrukt het mij! Aan de goddelozen deelt Hij onze akkers uit!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zal men een spotlied op u aanheffen en zal er een droevige klaagzang klinken: 'Wij zijn te gronde gericht, totaal te gronde gericht! Het erfdeel van mijn volk geeft Hij aan vreemden! Ach, Hij ontrukt het mij! Aan de goddelozen deelt Hij onze akkers uit!'"
+          }
+        ]
+      },
+      "id": "micha.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Als zij tot Jahwe roepen, dan geeft Hij hun geen antwoord, maar Hij verbergt zijn gelaat voor hen, omdat hun daden slecht zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als zij tot Jahwe roepen, dan geeft Hij hun geen antwoord, maar Hij verbergt zijn gelaat voor hen, omdat hun daden slecht zijn."
+          }
+        ]
+      },
+      "id": "micha.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Een ieder zal onder zijn wingerd zitten of onder zijn vijgeboom, door niemand opgeschrikt. Want de mond van Jahwe heeft gesproken, van Jahwe van de legerscharen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een ieder zal onder zijn wingerd zitten of onder zijn vijgeboom, door niemand opgeschrikt. Want de mond van Jahwe heeft gesproken, van Jahwe van de legerscharen."
+          }
+        ]
+      },
+      "id": "micha.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Hij zal de man van de vrede zijn. Als Assur ons land dan binnenvalt en onze paleizen betreedt, stellen wij zeven herders tegenover hem en acht vorsten uit het volk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal de man van de vrede zijn. Als Assur ons land dan binnenvalt en onze paleizen betreedt, stellen wij zeven herders tegenover hem en acht vorsten uit het volk."
+          }
+        ]
+      },
+      "id": "micha.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Ik heb u toch uit Egypte geleid en u uit het slavenhuis verlost; Ik heb Mozes voor u uit laten gaan en Aäron en Mirjam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u toch uit Egypte geleid en u uit het slavenhuis verlost; Ik heb Mozes voor u uit laten gaan en Aäron en Mirjam."
+          }
+        ]
+      },
+      "id": "micha.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "De goede onder hen is nog een distel, de rechtschapene is erger dan een dorenhaag. De dag, door uw wachters aangekondigd, de dag van uw straf is gekomen. Nu begint voor hen de ontzetting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De goede onder hen is nog een distel, de rechtschapene is erger dan een dorenhaag. De dag, door uw wachters aangekondigd, de dag van uw straf is gekomen. Nu begint voor hen de ontzetting."
+          }
+        ]
+      },
+      "id": "micha.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Dit alles om de misdaad van Jakob, om de zonden van het huis Israël. Wat is die misdaad van Jakob? Is het niet Samaria? Wat is de offerhoogte van Juda? Is het Jeruzalem niet?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit alles om de misdaad van Jakob, om de zonden van het huis Israël. Wat is die misdaad van Jakob? Is het niet Samaria? Wat is de offerhoogte van Juda? Is het Jeruzalem niet?"
+          }
+        ]
+      },
+      "id": "micha.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Dan zult gij niemand meer hebben die u een erfdeel toewijst in de gemeente van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zult gij niemand meer hebben die u een erfdeel toewijst in de gemeente van Jahwe."
+          }
+        ]
+      },
+      "id": "micha.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Zo spreekt Jahwe tegen de profeten, die mijn volk misleiden: Wanneer ze met hun tanden iets te bijten krijgen, verkondigen zij vrede. Maar degene die hun niets in de mond steekt, hem verklaren zij de oorlog.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe tegen de profeten, die mijn volk misleiden: Wanneer ze met hun tanden iets te bijten krijgen, verkondigen zij vrede. Maar degene die hun niets in de mond steekt, hem verklaren zij de oorlog."
+          }
+        ]
+      },
+      "id": "micha.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Laat de andere volken hun wegen gaan, elk volk in de naam van zijn God, wij gaan onze weg in de naam van Jahwe, onze God in tijd en eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat de andere volken hun wegen gaan, elk volk in de naam van zijn God, wij gaan onze weg in de naam van Jahwe, onze God in tijd en eeuwigheid."
+          }
+        ]
+      },
+      "id": "micha.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Die zullen Assur weiden met het zwaard en het land van Nimrod met de blanke sabel. Hij zal ons van Assur bevrijden, als die ons land binnenvalt en ons gebied betreedt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die zullen Assur weiden met het zwaard en het land van Nimrod met de blanke sabel. Hij zal ons van Assur bevrijden, als die ons land binnenvalt en ons gebied betreedt."
+          }
+        ]
+      },
+      "id": "micha.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "Denk toch eens terug, mijn volk, aan het plan van Balak, de koning van Moab; en denk aan het antwoord, dat Bileam de zoon van Beor, hem gaf; en denk aan wat van Sittim tot Gilgal gebeurd is. Dan zult gij Jahwe's weldaden beseffen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denk toch eens terug, mijn volk, aan het plan van Balak, de koning van Moab; en denk aan het antwoord, dat Bileam de zoon van Beor, hem gaf; en denk aan wat van Sittim tot Gilgal gebeurd is. Dan zult gij Jahwe's weldaden beseffen.'"
+          }
+        ]
+      },
+      "id": "micha.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Vertrouw uw buurman niet, verlaat u niet op een vriend en bewaak de poort van uw mond voor de vrouw, die rust in uw armen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vertrouw uw buurman niet, verlaat u niet op een vriend en bewaak de poort van uw mond voor de vrouw, die rust in uw armen."
+          }
+        ]
+      },
+      "id": "micha.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "'Van Samaria maak Ik een puinhoop op het veld, als was er een wijngaard aangelegd; zijn steden gooi Ik in het dal, zijn fundamenten leg Ik bloot.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Van Samaria maak Ik een puinhoop op het veld, als was er een wijngaard aangelegd; zijn steden gooi Ik in het dal, zijn fundamenten leg Ik bloot."
+          }
+        ]
+      },
+      "id": "micha.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "'Houd op met profeteren!' zeggen de profeten: 'zulke dingen mag men niet profeteren! Geen schande zal ons treffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Houd op met profeteren!' zeggen de profeten: 'zulke dingen mag men niet profeteren! Geen schande zal ons treffen."
+          }
+        ]
+      },
+      "id": "micha.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Daarom zal het nacht voor u zijn, zonder visioen, duisternis, zonder orakel; de zon zal voor die profeten ondergaan, de dag in duisternis verkeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zal het nacht voor u zijn, zonder visioen, duisternis, zonder orakel; de zon zal voor die profeten ondergaan, de dag in duisternis verkeren."
+          }
+        ]
+      },
+      "id": "micha.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Op die dag - zo luidt de godsspraak van Jahwe - wil Ik verzamelen wat kreupel is, bijeenbrengen wat uiteen is gejaagd en degenen aan wie Ik leed heb gedaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van Jahwe - wil Ik verzamelen wat kreupel is, bijeenbrengen wat uiteen is gejaagd en degenen aan wie Ik leed heb gedaan."
+          }
+        ]
+      },
+      "id": "micha.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Dan zal de rest van Jakob in de kring van de vele volken als dauw zijn die van Jahwe komt, als regen op het groene gras, dat van mensen niets te verwachten heeft en op mensenkinderen niet moet hopen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal de rest van Jakob in de kring van de vele volken als dauw zijn die van Jahwe komt, als regen op het groene gras, dat van mensen niets te verwachten heeft en op mensenkinderen niet moet hopen."
+          }
+        ]
+      },
+      "id": "micha.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "'Waarmee zal ik voor Jahwe treden, mij buigen voor God in den hoge? Zal ik voor Hem treden met brandoffers, met eenjarige kalveren?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Waarmee zal ik voor Jahwe treden, mij buigen voor God in den hoge? Zal ik voor Hem treden met brandoffers, met eenjarige kalveren?"
+          }
+        ]
+      },
+      "id": "micha.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Ja, de zoon verslijt zijn vader voor een dwaas, de dochter verzet zich tegen haar moeder, de schoondochter tegen haar schoonmoeder; iemands huisgenoten zijn zijn vijanden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, de zoon verslijt zijn vader voor een dwaas, de dochter verzet zich tegen haar moeder, de schoondochter tegen haar schoonmoeder; iemands huisgenoten zijn zijn vijanden."
+          }
+        ]
+      },
+      "id": "micha.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Al zijn godenbeelden worden stukgeslagen en al zijn hoerenloon in het vuur verbrand; al zijn afgoden sla Ik tot puin want het heeft die bijeengebracht met hoerenloon, en hoerenloon zullen ze weer worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al zijn godenbeelden worden stukgeslagen en al zijn hoerenloon in het vuur verbrand; al zijn afgoden sla Ik tot puin want het heeft die bijeengebracht met hoerenloon, en hoerenloon zullen ze weer worden.'"
+          }
+        ]
+      },
+      "id": "micha.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Zou het huis Jakob dan vervloekt zijn? Is de adem van Jahwe dan zo kort? Is dat zijn manier van doen? Weet gij dan niet, dat mijn woorden geluk brengen aan wie de wegen van de rechtvaardige gaat?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zou het huis Jakob dan vervloekt zijn? Is de adem van Jahwe dan zo kort? Is dat zijn manier van doen? Weet gij dan niet, dat mijn woorden geluk brengen aan wie de wegen van de rechtvaardige gaat?'"
+          }
+        ]
+      },
+      "id": "micha.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Dan zullen de zieners beschaamd staan, de waarzeggers te schande worden; zij zullen allen hun mond verbergen, omdat het antwoord van God niet meer komt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen de zieners beschaamd staan, de waarzeggers te schande worden; zij zullen allen hun mond verbergen, omdat het antwoord van God niet meer komt."
+          }
+        ]
+      },
+      "id": "micha.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Van dat kreupele maak Ik dan een rest, van dat afgejakkerde een machtig volk. Jahwe zal hen regeren op de berg Sion van nu af tot in eeuwigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van dat kreupele maak Ik dan een rest, van dat afgejakkerde een machtig volk. Jahwe zal hen regeren op de berg Sion van nu af tot in eeuwigheid."
+          }
+        ]
+      },
+      "id": "micha.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Dan zal de rest van Jakob onder de naties, in de kring van de vele volken, zijn als een leeuw onder de dieren van het woud, als een jonge leeuw tussen de schapen en geiten: waar hij komt, daar vertrapt hij, daar verscheurt hij, er is geen redden aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zal de rest van Jakob onder de naties, in de kring van de vele volken, zijn als een leeuw onder de dieren van het woud, als een jonge leeuw tussen de schapen en geiten: waar hij komt, daar vertrapt hij, daar verscheurt hij, er is geen redden aan."
+          }
+        ]
+      },
+      "id": "micha.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Zal Jahwe behagen vinden in duizenden rammen, in tienduizenden beken olie? Moet ik voor mijn misdaden mijn eerstgeborene offeren, mijn kind voor de zonden die ik begaan heb?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zal Jahwe behagen vinden in duizenden rammen, in tienduizenden beken olie? Moet ik voor mijn misdaden mijn eerstgeborene offeren, mijn kind voor de zonden die ik begaan heb?'"
+          }
+        ]
+      },
+      "id": "micha.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Ik daarentegen blijf wakend uitzien naar Jahwe, blijf hopen op de God die mij zal redden: mijn God zal mij verhoren!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik daarentegen blijf wakend uitzien naar Jahwe, blijf hopen op de God die mij zal redden: mijn God zal mij verhoren!"
+          }
+        ]
+      },
+      "id": "micha.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Laat mij daarom weeklagen en jammeren, barrevoets lopen en naakt, laat mij huilen als de jakhals, en kermen als de oehoe,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat mij daarom weeklagen en jammeren, barrevoets lopen en naakt, laat mij huilen als de jakhals, en kermen als de oehoe,"
+          }
+        ]
+      },
+      "id": "micha.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Gisteren nog is mijn volk als een vijand opgestaan. Niets vermoedende voorbijgangers die uit de strijd terugkeren berooft gij van hun bovenkleed en laat hun niets dan hun hemd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gisteren nog is mijn volk als een vijand opgestaan. Niets vermoedende voorbijgangers die uit de strijd terugkeren berooft gij van hun bovenkleed en laat hun niets dan hun hemd."
+          }
+        ]
+      },
+      "id": "micha.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "Ik echter ben vervuld van kracht, van de geest van Jahwe, van gerechtigheid en van moed, om Jakob zijn misdrijf onder ogen te brengen en Isra&euml;l zijn zonde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik echter ben vervuld van kracht, van de geest van Jahwe, van gerechtigheid en van moed, om Jakob zijn misdrijf onder ogen te brengen en Israël zijn zonde."
+          }
+        ]
+      },
+      "id": "micha.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Wat u betreft, gij Toren-van-de-kudde, Ofel, dochter van Sion, tot u komt weer de heerschappij van vroeger; het koningschap behoort aan de dochter Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat u betreft, gij Toren-van-de-kudde, Ofel, dochter van Sion, tot u komt weer de heerschappij van vroeger; het koningschap behoort aan de dochter Jeruzalem."
+          }
+        ]
+      },
+      "id": "micha.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Laat uw hand zich maar verheffen tegen uw vijanden: al uw tegenstanders worden vernietigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat uw hand zich maar verheffen tegen uw vijanden: al uw tegenstanders worden vernietigd."
+          }
+        ]
+      },
+      "id": "micha.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "'Jahwe heeft u gezegd wat goed is, mens, en wat Hij van u verlangt: Hij wil niets anders dan dat gij u houdt aan het recht, dat gij de trouw eerbiedigt, en u tegenover uw God ootmoedig gedraagt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Jahwe heeft u gezegd wat goed is, mens, en wat Hij van u verlangt: Hij wil niets anders dan dat gij u houdt aan het recht, dat gij de trouw eerbiedigt, en u tegenover uw God ootmoedig gedraagt.'"
+          }
+        ]
+      },
+      "id": "micha.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Maak u maar niet vrolijk over mij, gij die mij vijandig zijt: al ben Ik gevallen, ik sta weer op; al zit ik in het duister, Jahwe blijft mijn licht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maak u maar niet vrolijk over mij, gij die mij vijandig zijt: al ben Ik gevallen, ik sta weer op; al zit ik in het duister, Jahwe blijft mijn licht."
+          }
+        ]
+      },
+      "id": "micha.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "want zijn wonden zijn ongeneeslijk, ja, tot in Juda zijn ze te vinden, ze reiken tot aan de poort van mijn volk, tot aan Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want zijn wonden zijn ongeneeslijk, ja, tot in Juda zijn ze te vinden, ze reiken tot aan de poort van mijn volk, tot aan Jeruzalem."
+          }
+        ]
+      },
+      "id": "micha.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "De vrouwen van mijn volk verdrijft gij uit de woning die hun vreugde was; aan hun kinderen ontneemt gij voorgoed de luister die Ik hun gaf.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vrouwen van mijn volk verdrijft gij uit de woning die hun vreugde was; aan hun kinderen ontneemt gij voorgoed de luister die Ik hun gaf."
+          }
+        ]
+      },
+      "id": "micha.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Luistert toch naar mij, hoofden van het huis Jakob, leiders van het huis Israël, die de gerechtigheid minacht en alwat recht is verdraait.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luistert toch naar mij, hoofden van het huis Jakob, leiders van het huis Israël, die de gerechtigheid minacht en alwat recht is verdraait."
+          }
+        ]
+      },
+      "id": "micha.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Maar waarom jammert gij nu zo luid? Hebt gij dan soms geen koning meer of is uw raadsman verdwenen, dat weeën over u komen als over een vrouw in barensnood?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar waarom jammert gij nu zo luid? Hebt gij dan soms geen koning meer of is uw raadsman verdwenen, dat weeën over u komen als over een vrouw in barensnood?"
+          }
+        ]
+      },
+      "id": "micha.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "&#39;Op die dag gebeurt het&#39; - zo luidt de godsspraak van Jahwe - &#39;Ik vernietig bij u de paarden en uw strijdwagens doe Ik verdwijnen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Op die dag gebeurt het' - zo luidt de godsspraak van Jahwe - 'Ik vernietig bij u de paarden en uw strijdwagens doe Ik verdwijnen;"
+          }
+        ]
+      },
+      "id": "micha.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Hoor! Jahwe roept tot de stad. Wie uw naam vreest wordt gered. Luister! Er komt een tuchtroede en gij weet wie die gezonden heeft!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoor! Jahwe roept tot de stad. Wie uw naam vreest wordt gered. Luister! Er komt een tuchtroede en gij weet wie die gezonden heeft!"
+          }
+        ]
+      },
+      "id": "micha.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Ik moet de toorn van Jahwe dragen, omdat ik tegen Hem heb gezondigd, totdat Hij het weer voor mij opneemt en mij recht verschaft. Hij zal mij bevrijden, Hij brengt mij naar het licht, en verheugd zal ik opzien naar zijn gerechtigheid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik moet de toorn van Jahwe dragen, omdat ik tegen Hem heb gezondigd, totdat Hij het weer voor mij opneemt en mij recht verschaft. Hij zal mij bevrijden, Hij brengt mij naar het licht, en verheugd zal ik opzien naar zijn gerechtigheid."
+          }
+        ]
+      },
+      "id": "micha.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Verkondigt het niet in Gat, weent niet in Baka. Wentelt u in het stof te Bet-le-afra.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verkondigt het niet in Gat, weent niet in Baka. Wentelt u in het stof te Bet-le-afra."
+          }
+        ]
+      },
+      "id": "micha.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Vooruit, gaat heen! Hier is geen rustplaats! Vanwege uw onreinheid wordt gij onherstelbaar vernietigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vooruit, gaat heen! Hier is geen rustplaats! Vanwege uw onreinheid wordt gij onherstelbaar vernietigd."
+          }
+        ]
+      },
+      "id": "micha.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Met bloed wordt Sion gebouwd, Jeruzalem met misdaad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Met bloed wordt Sion gebouwd, Jeruzalem met misdaad."
+          }
+        ]
+      },
+      "id": "micha.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Ja, krijg maar weeën en zwoeg maar, dochter Sion, als een vrouw in barensnood, want gij moet nu de stad verlaten en wonen buiten op het veld. Tot aan Babel zult gij gaan: dat is de plaats waar gij bevrijd zult worden, de plaats waar Jahwe u verlost uit de greep van uw vijanden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, krijg maar weeën en zwoeg maar, dochter Sion, als een vrouw in barensnood, want gij moet nu de stad verlaten en wonen buiten op het veld. Tot aan Babel zult gij gaan: dat is de plaats waar gij bevrijd zult worden, de plaats waar Jahwe u verlost uit de greep van uw vijanden."
+          }
+        ]
+      },
+      "id": "micha.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Ik vernietig de steden in uw land en Ik sloop al uw vestingen;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vernietig de steden in uw land en Ik sloop al uw vestingen;"
+          }
+        ]
+      },
+      "id": "micha.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Kan Ik het huis van de boze blijven vergeten, de voorraden, vruchten van boosheid en die vervloekte krappe efa?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kan Ik het huis van de boze blijven vergeten, de voorraden, vruchten van boosheid en die vervloekte krappe efa?"
+          }
+        ]
+      },
+      "id": "micha.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Mijn vijandin zal dat zien en schaamte zal haar bedekken, haar die tegen mij zei: 'Waar blijft Jahwe, uw God?' Mijn ogen zullen op haar neerzien en zij wordt met voeten getreden, als vuil op de straat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn vijandin zal dat zien en schaamte zal haar bedekken, haar die tegen mij zei: 'Waar blijft Jahwe, uw God?' Mijn ogen zullen op haar neerzien en zij wordt met voeten getreden, als vuil op de straat."
+          }
+        ]
+      },
+      "id": "micha.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Trekt voorbij, bewoners van Safir, in smadelijke naaktheid. Komt niet naar buiten, bewoners van Saanan. Het rouwmisbaar in Bet-Ha&euml;sel belet u daar te blijven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trekt voorbij, bewoners van Safir, in smadelijke naaktheid. Komt niet naar buiten, bewoners van Saanan. Het rouwmisbaar in Bet-Haësel belet u daar te blijven."
+          }
+        ]
+      },
+      "id": "micha.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Als iemand rond zou gaan die enkel wind en leugen uitsloeg en zeggen zou: 'Ik profeteer u wijn en drank!' dan zou die man wel de ware profeet voor dit volk zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als iemand rond zou gaan die enkel wind en leugen uitsloeg en zeggen zou: 'Ik profeteer u wijn en drank!' dan zou die man wel de ware profeet voor dit volk zijn."
+          }
+        ]
+      },
+      "id": "micha.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "De hoofden spreken er recht in ruil voor geschenken, de priesters vragen er loon voor hun lessen, de profeten geven er hun orakels voor geld en beroepen zich dan op Jahwe en zeggen: 'Is Jahwe niet in ons midden? Ons overkomt geen kwaad!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hoofden spreken er recht in ruil voor geschenken, de priesters vragen er loon voor hun lessen, de profeten geven er hun orakels voor geld en beroepen zich dan op Jahwe en zeggen: 'Is Jahwe niet in ons midden? Ons overkomt geen kwaad!'"
+          }
+        ]
+      },
+      "id": "micha.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Nu hebben de vele volken zich verzameld tegen u en zij roepen: Ontheiligd moet zij worden! Wat een feest voor onze ogen zal Sion dan zijn!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu hebben de vele volken zich verzameld tegen u en zij roepen: Ontheiligd moet zij worden! Wat een feest voor onze ogen zal Sion dan zijn!"
+          }
+        ]
+      },
+      "id": "micha.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Ik vernietig de toverkunsten die gij hanteert, en wichelaars zijn er voor u niet meer;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vernietig de toverkunsten die gij hanteert, en wichelaars zijn er voor u niet meer;"
+          }
+        ]
+      },
+      "id": "micha.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Kan Ik de weegschaal der boosheid aanvaarden en die buidel vol valse gewichten?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kan Ik de weegschaal der boosheid aanvaarden en die buidel vol valse gewichten?"
+          }
+        ]
+      },
+      "id": "micha.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Dat is een dag om uw muren weer op te bouwen, de dag waarop uw gebied wordt verruimd,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat is een dag om uw muren weer op te bouwen, de dag waarop uw gebied wordt verruimd,"
+          }
+        ]
+      },
+      "id": "micha.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Ja, de bewoners van Marot zijn ziek van angst om hun welzijn. Ja, van Jahwe is onheil neergedaald tot aan de poort van Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, de bewoners van Marot zijn ziek van angst om hun welzijn. Ja, van Jahwe is onheil neergedaald tot aan de poort van Jeruzalem."
+          }
+        ]
+      },
+      "id": "micha.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ik zal u samenbrengen, Jakob, voltallig samenbrengen. Ik zal hen verzamelen, de rest van Israël. Ik drijf hen bijeen als schapen in de omheining, als een kudde op haar weidegrond: het zal er gonzen van de mensen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal u samenbrengen, Jakob, voltallig samenbrengen. Ik zal hen verzamelen, de rest van Israël. Ik drijf hen bijeen als schapen in de omheining, als een kudde op haar weidegrond: het zal er gonzen van de mensen."
+          }
+        ]
+      },
+      "id": "micha.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "En daarom, dank zij u, zal Sion worden omgeploegd, als akkerland, zal Jeruzalem een puinhoop worden, de tempelberg een hoogte vol hakhout.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En daarom, dank zij u, zal Sion worden omgeploegd, als akkerland, zal Jeruzalem een puinhoop worden, de tempelberg een hoogte vol hakhout."
+          }
+        ]
+      },
+      "id": "micha.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Maar die volken beseffen niet, wat de gedachten van Jahwe zijn; zij begrijpen niets van zijn plan om hen te verzamelen als schoven op de dorsvloer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar die volken beseffen niet, wat de gedachten van Jahwe zijn; zij begrijpen niets van zijn plan om hen te verzamelen als schoven op de dorsvloer."
+          }
+        ]
+      },
+      "id": "micha.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Ik vernietig uw godenbeelden en de wijstenen in uw midden. Dan zult gij u niet langer buigen voor het maaksel van uw handen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik vernietig uw godenbeelden en de wijstenen in uw midden. Dan zult gij u niet langer buigen voor het maaksel van uw handen."
+          }
+        ]
+      },
+      "id": "micha.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "De rijken daar in die stad zitten vol met geweld en de burgers zijn er bedriegers met leugentaal in hun mond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De rijken daar in die stad zitten vol met geweld en de burgers zijn er bedriegers met leugentaal in hun mond."
+          }
+        ]
+      },
+      "id": "micha.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "de dag dat men naar u toe zal komen van Assur af tot Egypte toe, van Egypte tot aan de Rivier, van de ene zee tot de andere, van de ene berg tot de andere.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de dag dat men naar u toe zal komen van Assur af tot Egypte toe, van Egypte tot aan de Rivier, van de ene zee tot de andere, van de ene berg tot de andere."
+          }
+        ]
+      },
+      "id": "micha.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Spant de paarden voor de strijdwagens, bewoners van Lakis, die voor de dochter Sion het begin van de zonde geweest zijn, want bij u zijn Israëls misdaden te vinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spant de paarden voor de strijdwagens, bewoners van Lakis, die voor de dochter Sion het begin van de zonde geweest zijn, want bij u zijn Israëls misdaden te vinden."
+          }
+        ]
+      },
+      "id": "micha.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "De baanbreker gaat voorop: zij breken uit, zij komen de poort door en trekken naar buiten; hun koning schrijdt voor hen uit, Jahwe die voorop gaat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De baanbreker gaat voorop: zij breken uit, zij komen de poort door en trekken naar buiten; hun koning schrijdt voor hen uit, Jahwe die voorop gaat."
+          }
+        ]
+      },
+      "id": "micha.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Sta op om te dorsen, dochter van Sion! Horens van ijzer geef Ik u, hoeven van koper, om de vele volken te verbrijzelen. Sla ter ere van Jahwe hun buit met de ban; wijd hun rijkdom toe aan de Heer van heel de aarde!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sta op om te dorsen, dochter van Sion! Horens van ijzer geef Ik u, hoeven van koper, om de vele volken te verbrijzelen. Sla ter ere van Jahwe hun buit met de ban; wijd hun rijkdom toe aan de Heer van heel de aarde!"
+          }
+        ]
+      },
+      "id": "micha.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Ik ruk de heilige palen bij u uit en sla uw beschermheren stuk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ruk de heilige palen bij u uit en sla uw beschermheren stuk."
+          }
+        ]
+      },
+      "id": "micha.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Ik heb u dan ook met ziekte geslagen, met ontzetting, vanwege uw zonden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u dan ook met ziekte geslagen, met ontzetting, vanwege uw zonden."
+          }
+        ]
+      },
+      "id": "micha.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "En de aarde zal een woestenij worden vanwege haar bewoners: dat zal de vrucht zijn van hun daden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En de aarde zal een woestenij worden vanwege haar bewoners: dat zal de vrucht zijn van hun daden."
+          }
+        ]
+      },
+      "id": "micha.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "Daarom zult gij vaarwel moeten zeggen aan Moreset-gat. De huizen van Akzib worden een ontgoocheling voor de koningen van Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zult gij vaarwel moeten zeggen aan Moreset-gat. De huizen van Akzib worden een ontgoocheling voor de koningen van Israël."
+          }
+        ]
+      },
+      "id": "micha.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Nu moet gij u van smart nog kerven, benauwde stad! Een wal is opgeworpen om ons te belegeren en de rechter van Israël wordt met de staf op zijn wang geslagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu moet gij u van smart nog kerven, benauwde stad! Een wal is opgeworpen om ons te belegeren en de rechter van Israël wordt met de staf op zijn wang geslagen."
+          }
+        ]
+      },
+      "id": "micha.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "In mijn toorn, in mijn woede neem Ik wraak op de volken die niet geluisterd hebben.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In mijn toorn, in mijn woede neem Ik wraak op de volken die niet geluisterd hebben.'"
+          }
+        ]
+      },
+      "id": "micha.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Gij zult wel eten, gij, maar niet verzadigd worden; de honger verlaat u niet. Gij zult uw grondgebied wel uitbreiden, maar behouden kunt ge het niet; en mocht gij al iets behouden, Ik geef het prijs aan het zwaard.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zult wel eten, gij, maar niet verzadigd worden; de honger verlaat u niet. Gij zult uw grondgebied wel uitbreiden, maar behouden kunt ge het niet; en mocht gij al iets behouden, Ik geef het prijs aan het zwaard."
+          }
+        ]
+      },
+      "id": "micha.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Neem uw herdersstaf en weid uw volk, de schapen die uw erfdeel zijn; tussen de bomen, midden in het woud, zijn zij zo vereenzaamd. Laat ze weiden in Basan en Gilead, zoals in vroegere dagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neem uw herdersstaf en weid uw volk, de schapen die uw erfdeel zijn; tussen de bomen, midden in het woud, zijn zij zo vereenzaamd. Laat ze weiden in Basan en Gilead, zoals in vroegere dagen."
+          }
+        ]
+      },
+      "id": "micha.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Opnieuw doe Ik de veroveraar over u komen, bewoners van Maresa. Naar Adullam zal wijken de heerlijkheid van Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Opnieuw doe Ik de veroveraar over u komen, bewoners van Maresa. Naar Adullam zal wijken de heerlijkheid van Israël."
+          }
+        ]
+      },
+      "id": "micha.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "text": "Gij zult wel zaaien, maar niet oogsten, gij zult wel olijven persen, maar u niet met de olie zalven, gij zult wel druiven persen, maar de wijn niet drinken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zult wel zaaien, maar niet oogsten, gij zult wel olijven persen, maar u niet met de olie zalven, gij zult wel druiven persen, maar de wijn niet drinken."
+          }
+        ]
+      },
+      "id": "micha.6.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Ik laat wonderen zien, zoals in de dagen dat gij uit Egypte wegtrok.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik laat wonderen zien, zoals in de dagen dat gij uit Egypte wegtrok."
+          }
+        ]
+      },
+      "id": "micha.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Scheer u kaal, vrouw, snijd uw haren weg om de kinderen die uw vreugde waren, maak u zo kaal als een gier, omdat zij als ballingen van u weggehaald worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Scheer u kaal, vrouw, snijd uw haren weg om de kinderen die uw vreugde waren, maak u zo kaal als een gier, omdat zij als ballingen van u weggehaald worden."
+          }
+        ]
+      },
+      "id": "micha.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "text": "Er wordt gehandeld naar de zeden van Omri, naar de praktijken van Achabs huis. Naar hun opvattingen hebt gij geleefd, en daarom maak Ik u tot een voorwerp van afgrijzen en de bewoners van uw stad tot een aanfluiting. Gij, mijn volk, zult met schande beladen worden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er wordt gehandeld naar de zeden van Omri, naar de praktijken van Achabs huis. Naar hun opvattingen hebt gij geleefd, en daarom maak Ik u tot een voorwerp van afgrijzen en de bewoners van uw stad tot een aanfluiting. Gij, mijn volk, zult met schande beladen worden."
+          }
+        ]
+      },
+      "id": "micha.6.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "De volken zullen ze zien en beschaamd staan met al hun macht. Zij zullen de hand op de mond leggen, hun oren zullen verdoofd zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De volken zullen ze zien en beschaamd staan met al hun macht. Zij zullen de hand op de mond leggen, hun oren zullen verdoofd zijn."
+          }
+        ]
+      },
+      "id": "micha.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Stof zullen zij likken, als de slang, als de dieren die kruipen over de grond; van schrik verlaten zij hun schuilhoeken, Jahwe, onze God, tegemoet, bevend en angstig voor U.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Stof zullen zij likken, als de slang, als de dieren die kruipen over de grond; van schrik verlaten zij hun schuilhoeken, Jahwe, onze God, tegemoet, bevend en angstig voor U."
+          }
+        ]
+      },
+      "id": "micha.7.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "text": "Welke God is als Gij, die de schuld vergeeft, die voorbijgaat aan de zonde, door de rest van zijn erfdeel bedreven, die zijn toorn niet altijd laat duren, maar zijn vreugde vindt in goedheid?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welke God is als Gij, die de schuld vergeeft, die voorbijgaat aan de zonde, door de rest van zijn erfdeel bedreven, die zijn toorn niet altijd laat duren, maar zijn vreugde vindt in goedheid?"
+          }
+        ]
+      },
+      "id": "micha.7.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "text": "Hij zal zich opnieuw over ons ontfermen, Hij zal onze schuld onder zijn voeten verpletteren. Al onze zonden zal Hij naar de bodem van de zee verwijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zal zich opnieuw over ons ontfermen, Hij zal onze schuld onder zijn voeten verpletteren. Al onze zonden zal Hij naar de bodem van de zee verwijzen."
+          }
+        ]
+      },
+      "id": "micha.7.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "text": "Aan Jakob zult Gij uw trouw, aan Abraham uw goedheid tonen, zoals Gij het onze vaderen hebt bezworen, in de dagen van weleer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan Jakob zult Gij uw trouw, aan Abraham uw goedheid tonen, zoals Gij het onze vaderen hebt bezworen, in de dagen van weleer."
+          }
+        ]
+      },
+      "id": "micha.7.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

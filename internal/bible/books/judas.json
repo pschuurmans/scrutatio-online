@@ -1,0 +1,433 @@
+{
+  "id": "judas",
+  "name": "Judas",
+  "chapters": 1,
+  "verseCount": 25,
+  "verses": [
+    {
+      "chapter": 0,
+      "verse": 1,
+      "text": "VAN JUDAS, dienstknecht van Jezus Christus en broeder van Jakobus, aan de geroepenen, die leven in de liefde van God de Vader en onder de bescherming van Jezus Christus.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "VAN JUDAS, dienstknecht van Jezus Christus en broeder van Jakobus, aan de geroepenen, die leven in de liefde van God de Vader en onder de bescherming van Jezus Christus."
+          }
+        ]
+      },
+      "id": "judas.0.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 2,
+      "text": "Barmhartigheid, vrede en liefde zij u in rijke overvloed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Barmhartigheid, vrede en liefde zij u in rijke overvloed."
+          }
+        ]
+      },
+      "id": "judas.0.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 3,
+      "text": "Beste vrienden, terwijl ik volop bezig was u te schrijven over ons gemeenschappelijk heil, zag ik mij genoodzaakt u deze brief te sturen met de aansporing, het geloof dat eens voor al aan de heiligen werd overgeleverd, krachtig te verdedigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Beste vrienden, terwijl ik volop bezig was u te schrijven over ons gemeenschappelijk heil, zag ik mij genoodzaakt u deze brief te sturen met de aansporing, het geloof dat eens voor al aan de heiligen werd overgeleverd, krachtig te verdedigen."
+          }
+        ]
+      },
+      "id": "judas.0.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 4,
+      "text": "Want sommige lieden, wier vonnis al lang in de Schrift beschreven staat, zijn erin geslaagd heimelijk uw gemeente binnen te dringen; goddeloze mensen zijn het, die de genade van onze God misbruiken als voorwendsel voor losbandigheid, en Jezus Christus, onze enige Meester en Heer, verloochenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want sommige lieden, wier vonnis al lang in de Schrift beschreven staat, zijn erin geslaagd heimelijk uw gemeente binnen te dringen; goddeloze mensen zijn het, die de genade van onze God misbruiken als voorwendsel voor losbandigheid, en Jezus Christus, onze enige Meester en Heer, verloochenen."
+          }
+        ]
+      },
+      "id": "judas.0.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 5,
+      "text": "Ofschoon gij alles reeds weet, wil ik u er toch aan herinneren, dat de Heer weliswaar het volk uit het land Egypte heeft verlost, maar later hen die weigerden te geloven toch heeft verdelgd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ofschoon gij alles reeds weet, wil ik u er toch aan herinneren, dat de Heer weliswaar het volk uit het land Egypte heeft verlost, maar later hen die weigerden te geloven toch heeft verdelgd."
+          }
+        ]
+      },
+      "id": "judas.0.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 6,
+      "text": "Ook de engelen die hun waardigheid niet bewaard hebben en hun hemels verblijf verlieten, houdt God met onverbrekelijke boeien gevangen in het duister van de onderwereld, in afwachting van het oordeel op de grote Dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de engelen die hun waardigheid niet bewaard hebben en hun hemels verblijf verlieten, houdt God met onverbrekelijke boeien gevangen in het duister van de onderwereld, in afwachting van het oordeel op de grote Dag."
+          }
+        ]
+      },
+      "id": "judas.0.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 7,
+      "text": "Denk ook aan Sodom en Gomorra en de naburige steden: evenals die engelen bedreven zij ontucht en gaven zich over aan onnatuurlijke lusten; nu liggen zij daar voor aller oog als een afschrikwekkend voorbeeld, gestraft met een eeuwig vuur.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denk ook aan Sodom en Gomorra en de naburige steden: evenals die engelen bedreven zij ontucht en gaven zich over aan onnatuurlijke lusten; nu liggen zij daar voor aller oog als een afschrikwekkend voorbeeld, gestraft met een eeuwig vuur."
+          }
+        ]
+      },
+      "id": "judas.0.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 8,
+      "text": "Maar dit alles belet onze dromers van ingebeelde visioenen niet om precies hetzelfde te doen: zij bevlekken het lichaam, verachten de heerschappij en beschimpen hemelse machten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar dit alles belet onze dromers van ingebeelde visioenen niet om precies hetzelfde te doen: zij bevlekken het lichaam, verachten de heerschappij en beschimpen hemelse machten."
+          }
+        ]
+      },
+      "id": "judas.0.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 9,
+      "text": "Zelfs de aartsengel Michaël heeft het niet gewaagd een smadelijk oordeel tegen de duivel uit te spreken, toen hij met hem een woordentwist had en streed om het lichaam van Mozes; hij zei slechts: “De Heer moge u bestraffen.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs de aartsengel Michaël heeft het niet gewaagd een smadelijk oordeel tegen de duivel uit te spreken, toen hij met hem een woordentwist had en streed om het lichaam van Mozes; hij zei slechts: “De Heer moge u bestraffen.”"
+          }
+        ]
+      },
+      "id": "judas.0.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 10,
+      "text": "Maar deze mensen beschimpen wat zij niet begrijpen, en wat zij met het instinct van redeloze dieren wel begrijpen, wordt hun ondergang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar deze mensen beschimpen wat zij niet begrijpen, en wat zij met het instinct van redeloze dieren wel begrijpen, wordt hun ondergang."
+          }
+        ]
+      },
+      "id": "judas.0.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 11,
+      "text": "Wee hun! Ze zijn de weg van Kaïn opgegaan, voor geld hebben zij zich hals over kop gestort in het bedrog van Bileam, zij hebben gerebelleerd zoals Korach, en zullen evenzeer omkomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee hun! Ze zijn de weg van Kaïn opgegaan, voor geld hebben zij zich hals over kop gestort in het bedrog van Bileam, zij hebben gerebelleerd zoals Korach, en zullen evenzeer omkomen."
+          }
+        ]
+      },
+      "id": "judas.0.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 12,
+      "text": "Die mensen zijn een schandvlek op uw liefdemaaltijden, waar zij zich schaamteloos te goed doen en alleen voor zichzelf zorgen. Wolken zijn het, door de wind voorbijgejaagd, die geen regen geven; bomen zonder vruchten in de herfst, tweemaal gestorven, ontworteld;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die mensen zijn een schandvlek op uw liefdemaaltijden, waar zij zich schaamteloos te goed doen en alleen voor zichzelf zorgen. Wolken zijn het, door de wind voorbijgejaagd, die geen regen geven; bomen zonder vruchten in de herfst, tweemaal gestorven, ontworteld;"
+          }
+        ]
+      },
+      "id": "judas.0.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 13,
+      "text": "wilde baren van de zee, die hun eigen schande opschuimen; dwaalsterren, voor wie het diepste duister is weggelegd voor eeuwig.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "wilde baren van de zee, die hun eigen schande opschuimen; dwaalsterren, voor wie het diepste duister is weggelegd voor eeuwig."
+          }
+        ]
+      },
+      "id": "judas.0.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 14,
+      "text": "Over hen ook heeft Henoch, de zevende na Adam, geprofeteerd, toen hij zei: &#39;Zie, de Heer is gekomen met zijn heilige tienduizendtallen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Over hen ook heeft Henoch, de zevende na Adam, geprofeteerd, toen hij zei: 'Zie, de Heer is gekomen met zijn heilige tienduizendtallen,"
+          }
+        ]
+      },
+      "id": "judas.0.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 15,
+      "text": "om over allen gericht te houden en alle goddelozen te straffen voor al hun goddeloze daden die zij in hun goddeloosheid bedreven hebben, en voor al de drieste woorden die de goddeloze zondaars tegen Hem hebben gesproken.&#39;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om over allen gericht te houden en alle goddelozen te straffen voor al hun goddeloze daden die zij in hun goddeloosheid bedreven hebben, en voor al de drieste woorden die de goddeloze zondaars tegen Hem hebben gesproken.'"
+          }
+        ]
+      },
+      "id": "judas.0.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 16,
+      "text": "Zij zijn het die morren en mokken om hun lot; zij leven naar hun lusten; hun mond is vol grootspraak, terwijl zij de machtigen vleien om voordeel te behalen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij zijn het die morren en mokken om hun lot; zij leven naar hun lusten; hun mond is vol grootspraak, terwijl zij de machtigen vleien om voordeel te behalen."
+          }
+        ]
+      },
+      "id": "judas.0.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 17,
+      "text": "Gij echter, vrienden, herinnert u wat door de apostelen van onze Heer Jezus Christus voorspeld is,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij echter, vrienden, herinnert u wat door de apostelen van onze Heer Jezus Christus voorspeld is,"
+          }
+        ]
+      },
+      "id": "judas.0.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 18,
+      "text": "toen zij u zeiden: “Op het einde van de tijd zullen er spotters zijn, die leven naar hun eigen goddeloze begeerten.”",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "toen zij u zeiden: “Op het einde van de tijd zullen er spotters zijn, die leven naar hun eigen goddeloze begeerten.”"
+          }
+        ]
+      },
+      "id": "judas.0.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 19,
+      "text": "Dat zijn de mensen die scheuring veroorzaken, profanen, die de Geest niet bezitten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat zijn de mensen die scheuring veroorzaken, profanen, die de Geest niet bezitten."
+          }
+        ]
+      },
+      "id": "judas.0.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 20,
+      "text": "Maar gij, dierbare vrienden, bouwt uw leven op uw hoogheilig geloof, bidt in de kracht van de heilige Geest,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij, dierbare vrienden, bouwt uw leven op uw hoogheilig geloof, bidt in de kracht van de heilige Geest,"
+          }
+        ]
+      },
+      "id": "judas.0.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 21,
+      "text": "bewaart uzelf in Gods liefde, in afwachting van de barmhartigheid van onze Heer Jezus Christus, die u het eeuwige leven zal schenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "bewaart uzelf in Gods liefde, in afwachting van de barmhartigheid van onze Heer Jezus Christus, die u het eeuwige leven zal schenken."
+          }
+        ]
+      },
+      "id": "judas.0.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 22,
+      "text": "En hebt medelijden met sommigen die twijfelen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En hebt medelijden met sommigen die twijfelen"
+          }
+        ]
+      },
+      "id": "judas.0.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 23,
+      "text": "en tracht ze te redden door hen aan het vuur te ontrukken. Bij anderen evenwel moet uw medelijden gemengd zijn met vrees, en met afschuw zelfs voor hun door de zonde bezoedeld kleed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en tracht ze te redden door hen aan het vuur te ontrukken. Bij anderen evenwel moet uw medelijden gemengd zijn met vrees, en met afschuw zelfs voor hun door de zonde bezoedeld kleed."
+          }
+        ]
+      },
+      "id": "judas.0.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 24,
+      "text": "Aan Hem die bij machte is u voor struikelen te behoeden en onberispelijk en vreugdevol voor zijn heerlijkheid te doen verschijnen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Aan Hem die bij machte is u voor struikelen te behoeden en onberispelijk en vreugdevol voor zijn heerlijkheid te doen verschijnen,"
+          }
+        ]
+      },
+      "id": "judas.0.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 25,
+      "text": "aan de enige God, die ons redt door Jezus Christus onze Heer, zij heerlijkheid, majesteit, kracht en macht, voor alle eeuwigheid en nu en in alle eeuwigheid! Amen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "aan de enige God, die ons redt door Jezus Christus onze Heer, zij heerlijkheid, majesteit, kracht en macht, voor alle eeuwigheid en nu en in alle eeuwigheid! Amen."
+          }
+        ]
+      },
+      "id": "judas.0.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

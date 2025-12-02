@@ -1,0 +1,263 @@
+{
+  "id": "3johannes",
+  "name": "3 Johannes",
+  "chapters": 1,
+  "verseCount": 15,
+  "verses": [
+    {
+      "chapter": 0,
+      "verse": 1,
+      "text": "DE OUDSTE aan zijn geliefde Gajus, die hij oprecht liefheeft.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "DE OUDSTE aan zijn geliefde Gajus, die hij oprecht liefheeft."
+          }
+        ]
+      },
+      "id": "3johannes.0.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 2,
+      "text": "Dierbare vriend, in alle opzichten wens ik u welzijn en gezondheid; dat het uw ziel wel gaat, weet ik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vriend, in alle opzichten wens ik u welzijn en gezondheid; dat het uw ziel wel gaat, weet ik."
+          }
+        ]
+      },
+      "id": "3johannes.0.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 3,
+      "text": "Het heeft mij zeer verheugd, dat de broeders die hier kwamen een goed getuigenis gaven van uw leven in de waarheid, zoals het ook in werkelijkheid is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het heeft mij zeer verheugd, dat de broeders die hier kwamen een goed getuigenis gaven van uw leven in de waarheid, zoals het ook in werkelijkheid is."
+          }
+        ]
+      },
+      "id": "3johannes.0.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 4,
+      "text": "Ik ken geen grotere vreugde dan te horen dat mijn kinderen in de waarheid leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ken geen grotere vreugde dan te horen dat mijn kinderen in de waarheid leven."
+          }
+        ]
+      },
+      "id": "3johannes.0.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 5,
+      "text": "Gij bewijst de broeders trouwe dienst, ook al zijn het vreemden voor u.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij bewijst de broeders trouwe dienst, ook al zijn het vreemden voor u."
+          }
+        ]
+      },
+      "id": "3johannes.0.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 6,
+      "text": "Zij hebben dan ook ten overstaan van de gemeente van uw liefde getuigd. Gij doet er goed aan hen ook voor de verdere reis uit te rusten op een wijze die God waardig is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij hebben dan ook ten overstaan van de gemeente van uw liefde getuigd. Gij doet er goed aan hen ook voor de verdere reis uit te rusten op een wijze die God waardig is."
+          }
+        ]
+      },
+      "id": "3johannes.0.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 7,
+      "text": "Want ter wille van de Naam hebben zij zich op weg begeven, zonder iets van de heidenen aan te nemen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ter wille van de Naam hebben zij zich op weg begeven, zonder iets van de heidenen aan te nemen."
+          }
+        ]
+      },
+      "id": "3johannes.0.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 8,
+      "text": "Het is onze plicht de zaak van de waarheid te steunen door zulke mannen gastvrij te ontvangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het is onze plicht de zaak van de waarheid te steunen door zulke mannen gastvrij te ontvangen."
+          }
+        ]
+      },
+      "id": "3johannes.0.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 9,
+      "text": "Ik heb de gemeente een brief geschreven, maar Diótrefes, die er gaarne de eerste plaats wil innemen, erkent ons gezag niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb de gemeente een brief geschreven, maar Diótrefes, die er gaarne de eerste plaats wil innemen, erkent ons gezag niet."
+          }
+        ]
+      },
+      "id": "3johannes.0.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 10,
+      "text": "Als ik kom, zal ik zonder twijfel zijn gedrag ter sprake brengen: niet tevreden kwaadaardige taal tegen ons uit te slaan, weigert hij ook de broeders te ontvangen, weerhoudt hen die het wel willen en stoot ze zelfs uit de gemeente.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik kom, zal ik zonder twijfel zijn gedrag ter sprake brengen: niet tevreden kwaadaardige taal tegen ons uit te slaan, weigert hij ook de broeders te ontvangen, weerhoudt hen die het wel willen en stoot ze zelfs uit de gemeente."
+          }
+        ]
+      },
+      "id": "3johannes.0.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 11,
+      "text": "Dierbare vriend, volg niet het kwade na maar het goede. Wie goed doet, is uit God; wie kwaad doet, heeft God nooit gezien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dierbare vriend, volg niet het kwade na maar het goede. Wie goed doet, is uit God; wie kwaad doet, heeft God nooit gezien."
+          }
+        ]
+      },
+      "id": "3johannes.0.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 12,
+      "text": "Van Demétrius is door allen een goed getuigenis gegeven en ook door de Waarheid zelf. Ook wij geven hem een goed getuigenis en gij weet dat ons getuigenis waar is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van Demétrius is door allen een goed getuigenis gegeven en ook door de Waarheid zelf. Ook wij geven hem een goed getuigenis en gij weet dat ons getuigenis waar is."
+          }
+        ]
+      },
+      "id": "3johannes.0.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 13,
+      "text": "Veel heb ik u nog te zeggen, maar ik wil het niet doen met pen en inkt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Veel heb ik u nog te zeggen, maar ik wil het niet doen met pen en inkt."
+          }
+        ]
+      },
+      "id": "3johannes.0.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 14,
+      "text": "Ik hoop u spoedig te zien; dan kunnen wij samen spreken, van mond tot mond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik hoop u spoedig te zien; dan kunnen wij samen spreken, van mond tot mond."
+          }
+        ]
+      },
+      "id": "3johannes.0.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 0,
+      "verse": 15,
+      "text": "Vrede zij u. De vrienden groeten u. Groet de vrienden ieder persoonlijk.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vrede zij u. De vrienden groeten u. Groet de vrienden ieder persoonlijk."
+          }
+        ]
+      },
+      "id": "3johannes.0.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

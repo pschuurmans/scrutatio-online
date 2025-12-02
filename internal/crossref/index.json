@@ -1,0 +1,337 @@
+{
+  "source": "www.openbible.info CC-BY 2025-12-01",
+  "generatedDate": "2025-12-01T21:12:08.491Z",
+  "totalBooks": 66,
+  "books": [
+    {
+      "book": "1Chr",
+      "file": "1chr.json",
+      "referenceCount": 5206
+    },
+    {
+      "book": "1Cor",
+      "file": "1cor.json",
+      "referenceCount": 5717
+    },
+    {
+      "book": "1John",
+      "file": "1john.json",
+      "referenceCount": 1995
+    },
+    {
+      "book": "1Kgs",
+      "file": "1kgs.json",
+      "referenceCount": 6991
+    },
+    {
+      "book": "1Pet",
+      "file": "1pet.json",
+      "referenceCount": 2497
+    },
+    {
+      "book": "1Sam",
+      "file": "1sam.json",
+      "referenceCount": 5945
+    },
+    {
+      "book": "1Thess",
+      "file": "1thess.json",
+      "referenceCount": 1920
+    },
+    {
+      "book": "1Tim",
+      "file": "1tim.json",
+      "referenceCount": 2418
+    },
+    {
+      "book": "2Chr",
+      "file": "2chr.json",
+      "referenceCount": 7127
+    },
+    {
+      "book": "2Cor",
+      "file": "2cor.json",
+      "referenceCount": 4253
+    },
+    {
+      "book": "2John",
+      "file": "2john.json",
+      "referenceCount": 146
+    },
+    {
+      "book": "2Kgs",
+      "file": "2kgs.json",
+      "referenceCount": 6377
+    },
+    {
+      "book": "2Pet",
+      "file": "2pet.json",
+      "referenceCount": 1152
+    },
+    {
+      "book": "2Sam",
+      "file": "2sam.json",
+      "referenceCount": 5204
+    },
+    {
+      "book": "2Thess",
+      "file": "2thess.json",
+      "referenceCount": 917
+    },
+    {
+      "book": "2Tim",
+      "file": "2tim.json",
+      "referenceCount": 1717
+    },
+    {
+      "book": "3John",
+      "file": "3john.json",
+      "referenceCount": 152
+    },
+    {
+      "book": "Acts",
+      "file": "acts.json",
+      "referenceCount": 13319
+    },
+    {
+      "book": "Amos",
+      "file": "amos.json",
+      "referenceCount": 2078
+    },
+    {
+      "book": "Col",
+      "file": "col.json",
+      "referenceCount": 2122
+    },
+    {
+      "book": "Dan",
+      "file": "dan.json",
+      "referenceCount": 4623
+    },
+    {
+      "book": "Deut",
+      "file": "deut.json",
+      "referenceCount": 9101
+    },
+    {
+      "book": "Eccl",
+      "file": "eccl.json",
+      "referenceCount": 2840
+    },
+    {
+      "book": "Eph",
+      "file": "eph.json",
+      "referenceCount": 3444
+    },
+    {
+      "book": "Esth",
+      "file": "esth.json",
+      "referenceCount": 1162
+    },
+    {
+      "book": "Exod",
+      "file": "exod.json",
+      "referenceCount": 9974
+    },
+    {
+      "book": "Ezek",
+      "file": "ezek.json",
+      "referenceCount": 13659
+    },
+    {
+      "book": "Ezra",
+      "file": "ezra.json",
+      "referenceCount": 1970
+    },
+    {
+      "book": "Gal",
+      "file": "gal.json",
+      "referenceCount": 2533
+    },
+    {
+      "book": "Gen",
+      "file": "gen.json",
+      "referenceCount": 13327
+    },
+    {
+      "book": "Hab",
+      "file": "hab.json",
+      "referenceCount": 893
+    },
+    {
+      "book": "Hag",
+      "file": "hag.json",
+      "referenceCount": 476
+    },
+    {
+      "book": "Heb",
+      "file": "heb.json",
+      "referenceCount": 5562
+    },
+    {
+      "book": "Hos",
+      "file": "hos.json",
+      "referenceCount": 3363
+    },
+    {
+      "book": "Isa",
+      "file": "isa.json",
+      "referenceCount": 20294
+    },
+    {
+      "book": "Jas",
+      "file": "jas.json",
+      "referenceCount": 2149
+    },
+    {
+      "book": "Jer",
+      "file": "jer.json",
+      "referenceCount": 18430
+    },
+    {
+      "book": "Job",
+      "file": "job.json",
+      "referenceCount": 9594
+    },
+    {
+      "book": "Joel",
+      "file": "joel.json",
+      "referenceCount": 1041
+    },
+    {
+      "book": "John",
+      "file": "john.json",
+      "referenceCount": 11797
+    },
+    {
+      "book": "Jonah",
+      "file": "jonah.json",
+      "referenceCount": 534
+    },
+    {
+      "book": "Josh",
+      "file": "josh.json",
+      "referenceCount": 4621
+    },
+    {
+      "book": "Jude",
+      "file": "jude.json",
+      "referenceCount": 492
+    },
+    {
+      "book": "Judg",
+      "file": "judg.json",
+      "referenceCount": 4057
+    },
+    {
+      "book": "Lam",
+      "file": "lam.json",
+      "referenceCount": 2011
+    },
+    {
+      "book": "Lev",
+      "file": "lev.json",
+      "referenceCount": 6870
+    },
+    {
+      "book": "Luke",
+      "file": "luke.json",
+      "referenceCount": 12371
+    },
+    {
+      "book": "Mal",
+      "file": "mal.json",
+      "referenceCount": 1277
+    },
+    {
+      "book": "Mark",
+      "file": "mark.json",
+      "referenceCount": 6468
+    },
+    {
+      "book": "Matt",
+      "file": "matt.json",
+      "referenceCount": 13833
+    },
+    {
+      "book": "Mic",
+      "file": "mic.json",
+      "referenceCount": 1949
+    },
+    {
+      "book": "Nah",
+      "file": "nah.json",
+      "referenceCount": 582
+    },
+    {
+      "book": "Neh",
+      "file": "neh.json",
+      "referenceCount": 3046
+    },
+    {
+      "book": "Num",
+      "file": "num.json",
+      "referenceCount": 7743
+    },
+    {
+      "book": "Obad",
+      "file": "obad.json",
+      "referenceCount": 308
+    },
+    {
+      "book": "Phil",
+      "file": "phil.json",
+      "referenceCount": 2227
+    },
+    {
+      "book": "Phlm",
+      "file": "phlm.json",
+      "referenceCount": 219
+    },
+    {
+      "book": "Prov",
+      "file": "prov.json",
+      "referenceCount": 9643
+    },
+    {
+      "book": "Ps",
+      "file": "ps.json",
+      "referenceCount": 30913
+    },
+    {
+      "book": "Rev",
+      "file": "rev.json",
+      "referenceCount": 6495
+    },
+    {
+      "book": "Rom",
+      "file": "rom.json",
+      "referenceCount": 7750
+    },
+    {
+      "book": "Ruth",
+      "file": "ruth.json",
+      "referenceCount": 576
+    },
+    {
+      "book": "Song",
+      "file": "song.json",
+      "referenceCount": 1667
+    },
+    {
+      "book": "Titus",
+      "file": "titus.json",
+      "referenceCount": 930
+    },
+    {
+      "book": "Zech",
+      "file": "zech.json",
+      "referenceCount": 3710
+    },
+    {
+      "book": "Zeph",
+      "file": "zeph.json",
+      "referenceCount": 1022
+    }
+  ]
+}

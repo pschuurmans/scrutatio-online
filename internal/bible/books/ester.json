@@ -1,0 +1,4678 @@
+{
+  "id": "ester",
+  "name": "Ester",
+  "chapters": 16,
+  "verseCount": 275,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Het was in de dagen van Ahasveros - de Ahasveros, die van Indië tot Ethiopië als koning heerste, over honderdenzevenentwintig provincies",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het was in de dagen van Ahasveros - de Ahasveros, die van Indië tot Ethiopië als koning heerste, over honderdenzevenentwintig provincies"
+          }
+        ]
+      },
+      "id": "ester.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Na deze gebeurtenissen bekoelde de toorn van Ahasveros, de koning, en gingen zijn gedachten weer uit naar Wasti, naar wat zij gedaan had en wat er tegen haar besloten was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na deze gebeurtenissen bekoelde de toorn van Ahasveros, de koning, en gingen zijn gedachten weer uit naar Wasti, naar wat zij gedaan had en wat er tegen haar besloten was."
+          }
+        ]
+      },
+      "id": "ester.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Na deze gebeurtenissen verleende Ahasveros, de koning, aan de Agagiet Haman, de zoon van Hammedata, een hoge waardigheid; hij verhief hem en deed hem hoger zetelen dan alle andere rijksgroten aan zijn hof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Na deze gebeurtenissen verleende Ahasveros, de koning, aan de Agagiet Haman, de zoon van Hammedata, een hoge waardigheid; hij verhief hem en deed hem hoger zetelen dan alle andere rijksgroten aan zijn hof."
+          }
+        ]
+      },
+      "id": "ester.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Toen Mordekai vernam wat er gebeurd was, scheurde hij zijn kleren doormidden, hulde zich in zak en as en ging de stad in, luidkeels en bitter schreiend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Mordekai vernam wat er gebeurd was, scheurde hij zijn kleren doormidden, hulde zich in zak en as en ging de stad in, luidkeels en bitter schreiend."
+          }
+        ]
+      },
+      "id": "ester.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Op de derde dag begaf Ester zich, als koningin gekleed, naar de binnenhof van het koninklijk paleis en bleef voor het verblijf van de koning staan. De koning zat op zijn koninklijke troon in de koningszaal, tegenover de ingang.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de derde dag begaf Ester zich, als koningin gekleed, naar de binnenhof van het koninklijk paleis en bleef voor het verblijf van de koning staan. De koning zat op zijn koninklijke troon in de koningszaal, tegenover de ingang."
+          }
+        ]
+      },
+      "id": "ester.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Die nacht kon de koning niet slapen. Daarom beval hij de kroniek van de gedenkwaardige feiten te brengen en daaruit liet hij zich voorlezen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Die nacht kon de koning niet slapen. Daarom beval hij de kroniek van de gedenkwaardige feiten te brengen en daaruit liet hij zich voorlezen."
+          }
+        ]
+      },
+      "id": "ester.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Zo kwamen de koning en Haman aan tafel bij koningin Ester.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo kwamen de koning en Haman aan tafel bij koningin Ester."
+          }
+        ]
+      },
+      "id": "ester.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Nog diezelfde dag gaf Ahasveros, de koning, het huis van Haman, de jodenhater, aan koningin Ester en werd Mordekai tot het aanschijn van de koning toegelaten, want Ester had verteld, in welke betrekking hij tot haar stond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog diezelfde dag gaf Ahasveros, de koning, het huis van Haman, de jodenhater, aan koningin Ester en werd Mordekai tot het aanschijn van de koning toegelaten, want Ester had verteld, in welke betrekking hij tot haar stond."
+          }
+        ]
+      },
+      "id": "ester.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "In de twaalfde maand, de maand Adar, op de dertiende dag, toen het besluit en bevel van de koning moest worden uitgevoerd, op die dag waarop de vijanden van de joden gehoopt hadden hen te kunnen overweldigen, gebeurde juist het omgekeerde: de joden overweldigden hun belagers.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de twaalfde maand, de maand Adar, op de dertiende dag, toen het besluit en bevel van de koning moest worden uitgevoerd, op die dag waarop de vijanden van de joden gehoopt hadden hen te kunnen overweldigen, gebeurde juist het omgekeerde: de joden overweldigden hun belagers."
+          }
+        ]
+      },
+      "id": "ester.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "text": "Ahasveros, de koning, legde vasteland en eilanden een schatting op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ahasveros, de koning, legde vasteland en eilanden een schatting op."
+          }
+        ]
+      },
+      "id": "ester.10.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "text": "In het vierde jaar van de regering van Ptolemeüs en Kleopatra bracht Dositeüs, die verklaarde dat hij priester en Leviet was, samen met zijn zoon Ptolemeüs, deze brief over het poerim-feest. Zij verzekerden, dat hij echt was, en vertaald was door Lysimachus, de zoon van Ptolemeüs, van de gemeente te Jeruzalem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het vierde jaar van de regering van Ptolemeüs en Kleopatra bracht Dositeüs, die verklaarde dat hij priester en Leviet was, samen met zijn zoon Ptolemeüs, deze brief over het poerim-feest. Zij verzekerden, dat hij echt was, en vertaald was door Lysimachus, de zoon van Ptolemeüs, van de gemeente te Jeruzalem."
+          }
+        ]
+      },
+      "id": "ester.11.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "text": "Toen Mordekai zich in het paleis te ruste had begeven, samen met Gabata en Tarra, de twee eunuchen van de koning, die met de bewaking van het paleis belast waren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Mordekai zich in het paleis te ruste had begeven, samen met Gabata en Tarra, de twee eunuchen van de koning, die met de bewaking van het paleis belast waren,"
+          }
+        ]
+      },
+      "id": "ester.12.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "text": "Dit is de tekst van de brief: 'Artaxerxes, de grote koning, schrijft als volgt aan de bestuurders van de honderzevenentwintig provincies, van Indië tot Ethiopië, en aan de onder hen gestelde plaatselijke bestuurders:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit is de tekst van de brief: 'Artaxerxes, de grote koning, schrijft als volgt aan de bestuurders van de honderzevenentwintig provincies, van Indië tot Ethiopië, en aan de onder hen gestelde plaatselijke bestuurders:"
+          }
+        ]
+      },
+      "id": "ester.13.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "text": "Ook koningin Ester nam in doodsnood haar toevlucht tot de Heer. Zij legde haar staatsiekleren af en trok rouw - en treurgewaden aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook koningin Ester nam in doodsnood haar toevlucht tot de Heer. Zij legde haar staatsiekleren af en trok rouw - en treurgewaden aan."
+          }
+        ]
+      },
+      "id": "ester.14.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "text": "Denk eens terug, zo liet hij haar zeggen, aan de tijd dat je in ellende verkeerde en hoe je toen door mijn hand werd gevoed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Denk eens terug, zo liet hij haar zeggen, aan de tijd dat je in ellende verkeerde en hoe je toen door mijn hand werd gevoed."
+          }
+        ]
+      },
+      "id": "ester.15.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "text": "Hier volgt de tekst van de brief: 'De grote koning Artaxerxes aan de bestuurders van de honderzevenentwintig provincies van Indië tot Ethiopië en aan degenen die ons trouw zijn: Saluut!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier volgt de tekst van de brief: 'De grote koning Artaxerxes aan de bestuurders van de honderzevenentwintig provincies van Indië tot Ethiopië en aan degenen die ons trouw zijn: Saluut!"
+          }
+        ]
+      },
+      "id": "ester.16.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "in die dagen, toen Ahasveros, de koning, gezeten was op zijn koninklijke troon in de vesting van Susan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "in die dagen, toen Ahasveros, de koning, gezeten was op zijn koninklijke troon in de vesting van Susan."
+          }
+        ]
+      },
+      "id": "ester.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "De hovelingen die de koning dienden zeiden: 'Er zouden voor de koning mooie jonge meisjes gezocht moeten worden!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hovelingen die de koning dienden zeiden: 'Er zouden voor de koning mooie jonge meisjes gezocht moeten worden!"
+          }
+        ]
+      },
+      "id": "ester.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "Alle dienaren van de koning in de koninklijke poort vielen voor Haman op hun knieën en bogen zich voor hem neer, want zo had de koning het Haman ter ere bevolen. Maar Mordekai knielde niet en boog zich niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle dienaren van de koning in de koninklijke poort vielen voor Haman op hun knieën en bogen zich voor hem neer, want zo had de koning het Haman ter ere bevolen. Maar Mordekai knielde niet en boog zich niet."
+          }
+        ]
+      },
+      "id": "ester.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "Voor de koninklijke poort bleef hij staan, want in rouwkleren mocht men de koninklijke poort niet binnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor de koninklijke poort bleef hij staan, want in rouwkleren mocht men de koninklijke poort niet binnen."
+          }
+        ]
+      },
+      "id": "ester.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "De koning zag koningin Ester in de voorhof staan en zij vond genade in zijn ogen. Hij reikte haar de gouden skepter toe, die hij in de hand hield. Ester trad naderbij en raakte de spits van de skepter aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning zag koningin Ester in de voorhof staan en zij vond genade in zijn ogen. Hij reikte haar de gouden skepter toe, die hij in de hand hield. Ester trad naderbij en raakte de spits van de skepter aan."
+          }
+        ]
+      },
+      "id": "ester.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Zo kwamen ze aan de plaats waar vermeld stond, dat Mordekai twee eunuchen van de koning had aangeklaagd, Bigtan en Teres, behorend tot de dorpelwachters, die een aanslag beraamd hadden op Ahasveros, de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo kwamen ze aan de plaats waar vermeld stond, dat Mordekai twee eunuchen van de koning had aangeklaagd, Bigtan en Teres, behorend tot de dorpelwachters, die een aanslag beraamd hadden op Ahasveros, de koning."
+          }
+        ]
+      },
+      "id": "ester.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "Ook deze tweede dag vroeg de koning bij het drinken van de wijn aan Ester: 'Wat is uw verlangen, koningin Ester? Het zal worden ingewilligd. Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook deze tweede dag vroeg de koning bij het drinken van de wijn aan Ester: 'Wat is uw verlangen, koningin Ester? Het zal worden ingewilligd. Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'"
+          }
+        ]
+      },
+      "id": "ester.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "De koning deed de ring af, die hij Haman ontnomen had, en gaf die aan Mordekai. En Ester stelde Mordekai aan over het huis van Haman.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning deed de ring af, die hij Haman ontnomen had, en gaf die aan Mordekai. En Ester stelde Mordekai aan over het huis van Haman."
+          }
+        ]
+      },
+      "id": "ester.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "In hun steden, in alle provincies van Ahasveros, de koning, sloten de joden zich aaneen om de hand te slaan aan degenen die hun ondergang zochten. Niemand kon hun weerstaan, want alle volken waren door vrees voor hen aangegrepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In hun steden, in alle provincies van Ahasveros, de koning, sloten de joden zich aaneen om de hand te slaan aan degenen die hun ondergang zochten. Niemand kon hun weerstaan, want alle volken waren door vrees voor hen aangegrepen."
+          }
+        ]
+      },
+      "id": "ester.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 2,
+      "text": "Al zijn machtige daden en krijgsverrichtingen en ook de bijzonderheden over de hoge waardigheid, die de koning aan Mordekai verleend had, zijn te vinden in de annalen van de koningen van Medië en Perzië.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al zijn machtige daden en krijgsverrichtingen en ook de bijzonderheden over de hoge waardigheid, die de koning aan Mordekai verleend had, zijn te vinden in de annalen van de koningen van Medië en Perzië."
+          }
+        ]
+      },
+      "id": "ester.10.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "text": "In het tweede jaar van de regering van Artaxerxes de Grote, op de eerste van Nisan, had Mordekai, de zoon van Jair, de zoon van Simi, de zoon van Kis, uit de stam Benjamin, een droom.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het tweede jaar van de regering van Artaxerxes de Grote, op de eerste van Nisan, had Mordekai, de zoon van Jair, de zoon van Simi, de zoon van Kis, uit de stam Benjamin, een droom."
+          }
+        ]
+      },
+      "id": "ester.11.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "text": "hoorde hij hen met elkaar overleggen en kwam hij op de hoogte van hun plannen. Hij merkt dat ze een aanslag beraamden op koning Artaxerxes, en hij waarschuwde de koning voor hen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoorde hij hen met elkaar overleggen en kwam hij op de hoogte van hun plannen. Hij merkt dat ze een aanslag beraamden op koning Artaxerxes, en hij waarschuwde de koning voor hen."
+          }
+        ]
+      },
+      "id": "ester.12.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "text": "Ik, die regeer over vele volken en de gehele wereld beheers, had mij voorgenomen - en dat niet omdat ik mij door machtswellust liet meeslepen, maar omdat ik altijd redelijk en welwillend te werk wilde gaan - mijn onderdanen onder alle omstandigheden een ongestoord bestaan te verzekeren en de door alle mensen verlangde vrede opnieuw te bevestigen, zodat mijn koninkrijk veilig bereisd kan worden, van grens tot grens.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, die regeer over vele volken en de gehele wereld beheers, had mij voorgenomen - en dat niet omdat ik mij door machtswellust liet meeslepen, maar omdat ik altijd redelijk en welwillend te werk wilde gaan - mijn onderdanen onder alle omstandigheden een ongestoord bestaan te verzekeren en de door alle mensen verlangde vrede opnieuw te bevestigen, zodat mijn koninkrijk veilig bereisd kan worden, van grens tot grens."
+          }
+        ]
+      },
+      "id": "ester.13.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "text": "In plaats van fijne reukwerken strooide zij as en drek op haar hoofd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In plaats van fijne reukwerken strooide zij as en drek op haar hoofd"
+          }
+        ]
+      },
+      "id": "ester.14.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "text": "Haman, de eerste man na de koning, heeft voor onze dood gepleit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haman, de eerste man na de koning, heeft voor onze dood gepleit."
+          }
+        ]
+      },
+      "id": "ester.15.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 2,
+      "text": "Velen, die door de uiterste goedgunstigheid van hun weldoeners al te zeer geëerd werden, hebben daardoor een te hoge dunk van zichzelf gekregen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Velen, die door de uiterste goedgunstigheid van hun weldoeners al te zeer geëerd werden, hebben daardoor een te hoge dunk van zichzelf gekregen."
+          }
+        ]
+      },
+      "id": "ester.16.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "In het derde jaar van zijn koningschap richtte hij een feestmaal aan voor al zijn rijksgroten en dienaren. De legeraanvoerders van Perzië en Medië, de edelen en de bestuurders van de provincies waren er getuigen van,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In het derde jaar van zijn koningschap richtte hij een feestmaal aan voor al zijn rijksgroten en dienaren. De legeraanvoerders van Perzië en Medië, de edelen en de bestuurders van de provincies waren er getuigen van,"
+          }
+        ]
+      },
+      "id": "ester.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "De koning moest in alle provincies van zijn koninkrijk zaakgelastigden aanstellen met de opdracht, alle mooie jonge meisjes in de vesting van Susan bijeen te brengen; daar komen ze dan in de harem onder de hoede van de koninklijke eunuch Hege, de bewaker van de vrouwen. Deze moet de meisjes van schoonheidsmiddelen voorzien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning moest in alle provincies van zijn koninkrijk zaakgelastigden aanstellen met de opdracht, alle mooie jonge meisjes in de vesting van Susan bijeen te brengen; daar komen ze dan in de harem onder de hoede van de koninklijke eunuch Hege, de bewaker van de vrouwen. Deze moet de meisjes van schoonheidsmiddelen voorzien."
+          }
+        ]
+      },
+      "id": "ester.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Daarom zeiden de dienaren van de koning in de koninklijke poort tot Mordekai: 'Waarom overtreedt u het bevel van de koning?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zeiden de dienaren van de koning in de koninklijke poort tot Mordekai: 'Waarom overtreedt u het bevel van de koning?'"
+          }
+        ]
+      },
+      "id": "ester.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "Ook in al de provincies, waar het besluit en bevel van de koning bekend werd, maakten de joden groot misbaar; zij vastten, weenden en jammerden, en velen brachten in zak en as de nacht door.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook in al de provincies, waar het besluit en bevel van de koning bekend werd, maakten de joden groot misbaar; zij vastten, weenden en jammerden, en velen brachten in zak en as de nacht door."
+          }
+        ]
+      },
+      "id": "ester.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "De koning vroeg: 'Wat is er, koningin Ester? Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning vroeg: 'Wat is er, koningin Ester? Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'"
+          }
+        ]
+      },
+      "id": "ester.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "De koning vroeg: 'Welk eerbewijs en welke onderscheiding zijn daarvoor aan Mordekai gegeven?' De hovelingen die de koning dienden antwoordden: 'Er is hem niets gegeven.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning vroeg: 'Welk eerbewijs en welke onderscheiding zijn daarvoor aan Mordekai gegeven?' De hovelingen die de koning dienden antwoordden: 'Er is hem niets gegeven.'"
+          }
+        ]
+      },
+      "id": "ester.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Koningin Ester gaf ten antwoord: 'Als ik genade heb gevonden in uw ogen, koning, en als het de koning zo behaagt, laat dan aan mij mijn leven gegeven worden - dat is mijn verlangen -, en ook mijn volk - dat is mijn verzoek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Koningin Ester gaf ten antwoord: 'Als ik genade heb gevonden in uw ogen, koning, en als het de koning zo behaagt, laat dan aan mij mijn leven gegeven worden - dat is mijn verlangen -, en ook mijn volk - dat is mijn verzoek."
+          }
+        ]
+      },
+      "id": "ester.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Toen nam Ester opnieuw het woord voor het aanschijn van de koning. Zij viel aan zijn voeten neer en smeekte hem onder tranen, het onheil te verijdelen, dat Haman, de Agagiet, tegen de joden beraamd had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen nam Ester opnieuw het woord voor het aanschijn van de koning. Zij viel aan zijn voeten neer en smeekte hem onder tranen, het onheil te verijdelen, dat Haman, de Agagiet, tegen de joden beraamd had."
+          }
+        ]
+      },
+      "id": "ester.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Alle bestuurders van de provincies, de satrapen, de stadhouders en de ambtenaren van de koning namen het op voor de joden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle bestuurders van de provincies, de satrapen, de stadhouders en de ambtenaren van de koning namen het op voor de joden,"
+          }
+        ]
+      },
+      "id": "ester.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "text": "De jood Mordekai immers kwam in rang onmiddellijk na Ahasveros, de koning. Hij stond bij de joden hoog in aanzien, hij was geliefd bij al zijn broeders, hij zocht steeds het geluk van zijn volk en was een pleitbezorger voor de vrede van heel zijn geslacht.      rest apocrief:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De jood Mordekai immers kwam in rang onmiddellijk na Ahasveros, de koning. Hij stond bij de joden hoog in aanzien, hij was geliefd bij al zijn broeders, hij zocht steeds het geluk van zijn volk en was een pleitbezorger voor de vrede van heel zijn geslacht.      rest apocrief:"
+          }
+        ]
+      },
+      "id": "ester.10.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "text": "Mordekai was een jood, woonachtig in de stad Susan, een man van aanzien, die een functie had aan het koninklijk hof.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai was een jood, woonachtig in de stad Susan, een man van aanzien, die een functie had aan het koninklijk hof."
+          }
+        ]
+      },
+      "id": "ester.11.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "text": "De koning nam de twee eunuchen een verhoor af: zij bekenden en werden weggevoerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning nam de twee eunuchen een verhoor af: zij bekenden en werden weggevoerd."
+          }
+        ]
+      },
+      "id": "ester.12.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "text": "Welnu, toen ik mijn raadslieden vroeg, hoe dit verwezenlijkt kon worden, heeft Haman, die bij ons uitmunt door zijn bezonnen oordeel, die zich steeds even toegewijd en zo de tweede plaats in het koninkrijk heeft gekregen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu, toen ik mijn raadslieden vroeg, hoe dit verwezenlijkt kon worden, heeft Haman, die bij ons uitmunt door zijn bezonnen oordeel, die zich steeds even toegewijd en zo de tweede plaats in het koninkrijk heeft gekregen,"
+          }
+        ]
+      },
+      "id": "ester.13.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "text": "Zij kastijdde haar lichaam streng, en overal waar zij vroeger een weelde van sieraden droeg liet zij nu haar verwarde haren hangen. En zij bad aldus tot de Heer, de God van Israël:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij kastijdde haar lichaam streng, en overal waar zij vroeger een weelde van sieraden droeg liet zij nu haar verwarde haren hangen. En zij bad aldus tot de Heer, de God van Israël:"
+          }
+        ]
+      },
+      "id": "ester.14.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "text": "Roep de Heer aan, pleit voor ons bij de koning en red ons van de dood.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Roep de Heer aan, pleit voor ons bij de koning en red ons van de dood.'"
+          }
+        ]
+      },
+      "id": "ester.15.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 3,
+      "text": "Zij trachten niet alleen onze onderdanen kwaad te doen, maar niet bij machte hun weelde te dragen, gaan zij ertoe over tegen hun weldoeners te intrigeren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij trachten niet alleen onze onderdanen kwaad te doen, maar niet bij machte hun weelde te dragen, gaan zij ertoe over tegen hun weldoeners te intrigeren."
+          }
+        ]
+      },
+      "id": "ester.16.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "hoe hij de rijkdom en de luister van zijn koningschap en de stralende pracht van zijn majesteit ten toon spreidde, vele dagen achtereen, honderdentachtig dagen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "hoe hij de rijkdom en de luister van zijn koningschap en de stralende pracht van zijn majesteit ten toon spreidde, vele dagen achtereen, honderdentachtig dagen."
+          }
+        ]
+      },
+      "id": "ester.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Het meisje dat de koning het meest behaagt zal koningin worden in de plaats van Wasti.' De koning was met dit voorstel ingenomen en hij liet het ten uitvoer brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het meisje dat de koning het meest behaagt zal koningin worden in de plaats van Wasti.' De koning was met dit voorstel ingenomen en hij liet het ten uitvoer brengen."
+          }
+        ]
+      },
+      "id": "ester.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Dag in dag uit spraken zij hem zo toe, maar hij luisterde niet naar hen. Toen vertelden zij het aan Haman. Zij wilden wel eens zien, of Mordekai in zijn houding zou kunnen volharden. Hij had hun namelijk gezegd, dat hij een jood was.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dag in dag uit spraken zij hem zo toe, maar hij luisterde niet naar hen. Toen vertelden zij het aan Haman. Zij wilden wel eens zien, of Mordekai in zijn houding zou kunnen volharden. Hij had hun namelijk gezegd, dat hij een jood was."
+          }
+        ]
+      },
+      "id": "ester.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Toen Esters kameniers en eunuchen haar op de hoogte kwamen stellen, schrok de koningin hevig. Zij liet kleren brengen om Mordekai die aan te doen, in plaats van zijn rouwkleed. Maar hij weigerde dat.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Esters kameniers en eunuchen haar op de hoogte kwamen stellen, schrok de koningin hevig. Zij liet kleren brengen om Mordekai die aan te doen, in plaats van zijn rouwkleed. Maar hij weigerde dat."
+          }
+        ]
+      },
+      "id": "ester.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Ester zei: 'Als het de koning zo behaagt, zou dan de koning vandaag, samen met Haman, naar de maaltijd willen komen die ik voor hem bereid heb?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester zei: 'Als het de koning zo behaagt, zou dan de koning vandaag, samen met Haman, naar de maaltijd willen komen die ik voor hem bereid heb?'"
+          }
+        ]
+      },
+      "id": "ester.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Daarop vroeg de koning: 'Wie is er in de voorhof?' Nu was net Haman in de buitenhof van het koninklijk paleis gekomen om de koning te vragen, dat men Mordekai zou ophangen aan de paal, die hij voor hem had opgericht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop vroeg de koning: 'Wie is er in de voorhof?' Nu was net Haman in de buitenhof van het koninklijk paleis gekomen om de koning te vragen, dat men Mordekai zou ophangen aan de paal, die hij voor hem had opgericht."
+          }
+        ]
+      },
+      "id": "ester.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Want ik en mijn volk, wij zijn verkocht om verdelgd, gedood en uitgeroeid te worden. Waren we als slaven en slavinnen verkocht, dan had ik gezwegen: dat is geen nood die groot genoeg is om er de koning mee lastig te vallen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want ik en mijn volk, wij zijn verkocht om verdelgd, gedood en uitgeroeid te worden. Waren we als slaven en slavinnen verkocht, dan had ik gezwegen: dat is geen nood die groot genoeg is om er de koning mee lastig te vallen.'"
+          }
+        ]
+      },
+      "id": "ester.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "De koning reikte Ester de gouden skepter toe. Ester rees op en stond nu voor de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning reikte Ester de gouden skepter toe. Ester rees op en stond nu voor de koning."
+          }
+        ]
+      },
+      "id": "ester.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "want de vrees voor Mordekai had hen aangegrepen. Mordekai immers had grote invloed in het koninklijk paleis en zijn faam verbreidde zich in alle provincies; hij kreeg steeds groter invloed, Mordekai.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "want de vrees voor Mordekai had hen aangegrepen. Mordekai immers had grote invloed in het koninklijk paleis en zijn faam verbreidde zich in alle provincies; hij kreeg steeds groter invloed, Mordekai."
+          }
+        ]
+      },
+      "id": "ester.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "text": "En Mordekai sprak: 'Dit is het werk van God geweest!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Mordekai sprak: 'Dit is het werk van God geweest!"
+          }
+        ]
+      },
+      "id": "ester.10.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "text": "Hij behoorde tot de ballingen, die door Nabuchodonosor, de koning van Babylon, uit Jeruzalem waren weggevoerd, te zamen met Jechonias, de koning van Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij behoorde tot de ballingen, die door Nabuchodonosor, de koning van Babylon, uit Jeruzalem waren weggevoerd, te zamen met Jechonias, de koning van Juda."
+          }
+        ]
+      },
+      "id": "ester.11.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 4,
+      "text": "De koning liet deze gebeurtenissen opschrijven om de herinnering eraan te bewaren; ook Mordekai legde deze gebeurtenissen schriftelijk vast.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning liet deze gebeurtenissen opschrijven om de herinnering eraan te bewaren; ook Mordekai legde deze gebeurtenissen schriftelijk vast."
+          }
+        ]
+      },
+      "id": "ester.12.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "text": "ons onder het oog gebracht, dat zich onder alle stammen van de wereld een kwaadwillig volk verspreid heeft, dat door zijn wetten tegenover elk ander volk staat en de verordeningen van de koning doorlopend met minachting bejegent, met het gevolg dat er afbreuk wordt gedaan aan het door ons zo onberispelijk gevoerde beleid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ons onder het oog gebracht, dat zich onder alle stammen van de wereld een kwaadwillig volk verspreid heeft, dat door zijn wetten tegenover elk ander volk staat en de verordeningen van de koning doorlopend met minachting bejegent, met het gevolg dat er afbreuk wordt gedaan aan het door ons zo onberispelijk gevoerde beleid."
+          }
+        ]
+      },
+      "id": "ester.13.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "text": "Mijn Heer, onze koning, Gij zijt de enige! Kom mij te hulp, mij die alleen sta en geen andere helper heb dan U, want ik ga een groot gevaar tegemoet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mijn Heer, onze koning, Gij zijt de enige! Kom mij te hulp, mij die alleen sta en geen andere helper heb dan U, want ik ga een groot gevaar tegemoet."
+          }
+        ]
+      },
+      "id": "ester.14.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 4,
+      "text": "Op de derde dag hield zij op met bidden, legde haar boetekleren af en trok haar staatsiegewaad aan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de derde dag hield zij op met bidden, legde haar boetekleren af en trok haar staatsiegewaad aan."
+          }
+        ]
+      },
+      "id": "ester.15.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "text": "Zij doen niet alleen aan de dankbaarheid in de omgang met de mensen tekort, maar ze menen zelfs te kunnen ontsnappen aan de geen kwaad duldende gerechtigheid van de God, die altijd alles ziet. Zozeer hebben ze zich door het gezwets van deugnieten laten meeslepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij doen niet alleen aan de dankbaarheid in de omgang met de mensen tekort, maar ze menen zelfs te kunnen ontsnappen aan de geen kwaad duldende gerechtigheid van de God, die altijd alles ziet. Zozeer hebben ze zich door het gezwets van deugnieten laten meeslepen."
+          }
+        ]
+      },
+      "id": "ester.16.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "Toen die dagen verstreken waren, gaf de koning voor al het volk dat in de vesting van Susan woonde, van groot tot klein, een feest van zeven dagen in de binnentuin van het koninklijk paleis.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen die dagen verstreken waren, gaf de koning voor al het volk dat in de vesting van Susan woonde, van groot tot klein, een feest van zeven dagen in de binnentuin van het koninklijk paleis."
+          }
+        ]
+      },
+      "id": "ester.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "Nu woonde er in de vesting van Susan een jood, die Mordekai heette; hij was de zoon van Jair, de zoon van Simi, de zoon van Kis, uit de stam Benjamin.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu woonde er in de vesting van Susan een jood, die Mordekai heette; hij was de zoon van Jair, de zoon van Simi, de zoon van Kis, uit de stam Benjamin."
+          }
+        ]
+      },
+      "id": "ester.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Toen zag Haman dat Mordekai niet knielde en zich niet voor hem boog. En Haman was een en al woede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zag Haman dat Mordekai niet knielde en zich niet voor hem boog. En Haman was een en al woede."
+          }
+        ]
+      },
+      "id": "ester.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Toen ontbood Ester Hatak, een van de eunuchen van de koning, die deze haar als dienaar had gegeven, en stuurde hem naar Mordekai om naar het hoe en waarom te vragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ontbood Ester Hatak, een van de eunuchen van de koning, die deze haar als dienaar had gegeven, en stuurde hem naar Mordekai om naar het hoe en waarom te vragen."
+          }
+        ]
+      },
+      "id": "ester.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "Daarop beval de koning: 'Gaat onmiddellijk Haman halen: dan kunnen wij aan de uitnodiging van Ester gevolg geven.' Zo kwamen de koning en Haman naar de maaltijd die Ester bereid had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop beval de koning: 'Gaat onmiddellijk Haman halen: dan kunnen wij aan de uitnodiging van Ester gevolg geven.' Zo kwamen de koning en Haman naar de maaltijd die Ester bereid had."
+          }
+        ]
+      },
+      "id": "ester.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "De hovelingen van de koning antwoordden: 'Haman staat daar in de voorhof.'' Laat hem binnenkomen,' zei de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De hovelingen van de koning antwoordden: 'Haman staat daar in de voorhof.'' Laat hem binnenkomen,' zei de koning."
+          }
+        ]
+      },
+      "id": "ester.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Toen sprak Ahasveros, de koning, hij zei tot koningin Ester: 'Wie is die man, waar is die man, die zich zoiets in het hoofd heeft gehaald?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen sprak Ahasveros, de koning, hij zei tot koningin Ester: 'Wie is die man, waar is die man, die zich zoiets in het hoofd heeft gehaald?'"
+          }
+        ]
+      },
+      "id": "ester.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "Zij sprak: 'Als het de koning zo behaagt en ik genade heb gevonden in zijn ogen, en als mijn voorstel de goedkeuring van de koning kan wegdragen en ik hem welgevallig ben, laat er dan een schrijven uitgaan om de brieven te herroepen, die de Agagiet Haman, de zoon van Hammedata, uitgedacht en geschreven heeft om in al de provincies van de koning de joden uit te roeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij sprak: 'Als het de koning zo behaagt en ik genade heb gevonden in zijn ogen, en als mijn voorstel de goedkeuring van de koning kan wegdragen en ik hem welgevallig ben, laat er dan een schrijven uitgaan om de brieven te herroepen, die de Agagiet Haman, de zoon van Hammedata, uitgedacht en geschreven heeft om in al de provincies van de koning de joden uit te roeien."
+          }
+        ]
+      },
+      "id": "ester.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "De joden sloegen met het zwaard op al hun vijanden in; zij sloegen hen met dood en vernietiging; zij deden met hun belagers wat zij wilden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De joden sloegen met het zwaard op al hun vijanden in; zij sloegen hen met dood en vernietiging; zij deden met hun belagers wat zij wilden."
+          }
+        ]
+      },
+      "id": "ester.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 5,
+      "text": "Ik herinner mij de droom, waarin ik dit alles gezien heb; niets van die droom is onvervuld gebleven:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik herinner mij de droom, waarin ik dit alles gezien heb; niets van die droom is onvervuld gebleven:"
+          }
+        ]
+      },
+      "id": "ester.10.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "text": "Dit was zijn droom: Er waren kreten en tumult, donderslag en aardbeving, heel de wereld was in beroering.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit was zijn droom: Er waren kreten en tumult, donderslag en aardbeving, heel de wereld was in beroering."
+          }
+        ]
+      },
+      "id": "ester.11.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "text": "De koning gaf Mordekai een functie aan het hof en beloonde hem met geschenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning gaf Mordekai een functie aan het hof en beloonde hem met geschenken."
+          }
+        ]
+      },
+      "id": "ester.12.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "text": "Wij hebben inderdaad vastgesteld, dat dit volk, en alleen dit volk, voortdurend met iedereen op gespannen voet staat, zich apart houdt door volgens vreemde wetten te leven, afkerig is van ons bestuur en de zwaarste misdaden bedrijft, zodat ons koninkrijk niet tot stabiliteit kan geraken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben inderdaad vastgesteld, dat dit volk, en alleen dit volk, voortdurend met iedereen op gespannen voet staat, zich apart houdt door volgens vreemde wetten te leven, afkerig is van ons bestuur en de zwaarste misdaden bedrijft, zodat ons koninkrijk niet tot stabiliteit kan geraken."
+          }
+        ]
+      },
+      "id": "ester.13.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "text": "Van mijn geboorte af heb ik in de stam waaruit ik voortkom gehoord, dat Gij, Heer, uit alle volken Israël en uit al hun voorouders onze vaderen hebt aangenomen als een blijvend erfdeel en dat Gij voor hen alles hebt gedaan wat Gij beloofd hadt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van mijn geboorte af heb ik in de stam waaruit ik voortkom gehoord, dat Gij, Heer, uit alle volken Israël en uit al hun voorouders onze vaderen hebt aangenomen als een blijvend erfdeel en dat Gij voor hen alles hebt gedaan wat Gij beloofd hadt."
+          }
+        ]
+      },
+      "id": "ester.14.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "text": "Zo, in haar volle luister, riep zij de hulp in van de alziende God en redder en zij begaf zich met haar twee kameniers op weg:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo, in haar volle luister, riep zij de hulp in van de alziende God en redder en zij begaf zich met haar twee kameniers op weg:"
+          }
+        ]
+      },
+      "id": "ester.15.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "text": "Vele malen zijn ook vele machthebbers medeplichtig geworden aan het vergieten van onschuldig bloed en dientengevolge in onherstelbare ellende gestort door de overreding van vrienden, aan wie zij de behartiging van de staatszaken hadden toevertrouwd",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Vele malen zijn ook vele machthebbers medeplichtig geworden aan het vergieten van onschuldig bloed en dientengevolge in onherstelbare ellende gestort door de overreding van vrienden, aan wie zij de behartiging van de staatszaken hadden toevertrouwd"
+          }
+        ]
+      },
+      "id": "ester.16.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Linnen schermen, wit en violet van kleur, hingen met koorden van byssus en purperen stof aan zilveren ringen, die weer vastzaten aan albasten zuilen. Op een plaveisel van porfier en wit marmer, parelmoer en kostbaar gesteente stonden aanligbedden van goud en zilver.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Linnen schermen, wit en violet van kleur, hingen met koorden van byssus en purperen stof aan zilveren ringen, die weer vastzaten aan albasten zuilen. Op een plaveisel van porfier en wit marmer, parelmoer en kostbaar gesteente stonden aanligbedden van goud en zilver."
+          }
+        ]
+      },
+      "id": "ester.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Mordekai behoorde tot de ballingen die uit Jeruzalem door Nebukadnessar, de koning van Babel, waren weggevoerd, tezamen met Jechonja, de koning van Juda.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai behoorde tot de ballingen die uit Jeruzalem door Nebukadnessar, de koning van Babel, waren weggevoerd, tezamen met Jechonja, de koning van Juda."
+          }
+        ]
+      },
+      "id": "ester.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Hij nam er echter geen genoegen mee, de hand alleen aan Mordekai te slaan. Ze hadden hem immers verteld, tot welk volk Mordekai behoorde. Daarom zette Haman er zijn zinnen op, alle joden in het rijk van Ahasveros te verdelgen, het volk van Mordekai.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij nam er echter geen genoegen mee, de hand alleen aan Mordekai te slaan. Ze hadden hem immers verteld, tot welk volk Mordekai behoorde. Daarom zette Haman er zijn zinnen op, alle joden in het rijk van Ahasveros te verdelgen, het volk van Mordekai."
+          }
+        ]
+      },
+      "id": "ester.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "En Hatak ging naar Mordekai, op het stadsplein voor de koninklijke poort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Hatak ging naar Mordekai, op het stadsplein voor de koninklijke poort."
+          }
+        ]
+      },
+      "id": "ester.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Al wijn drinkend zei de koning tot Ester: 'Wat is uw verlangen? Het zal worden ingewilligd. Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al wijn drinkend zei de koning tot Ester: 'Wat is uw verlangen? Het zal worden ingewilligd. Wat is uw verzoek? Al is het de helft van mijn koninkrijk, het zal u gegeven worden.'"
+          }
+        ]
+      },
+      "id": "ester.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "Haman kwam binnen en de koning vroeg hem: 'Wat moet er gebeuren met een man, aan wie de koning eer wil bewijzen?' Haman dacht bij zichzelf: 'Aan wie anders zou de koning eer willen bewijzen dan aan mij?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haman kwam binnen en de koning vroeg hem: 'Wat moet er gebeuren met een man, aan wie de koning eer wil bewijzen?' Haman dacht bij zichzelf: 'Aan wie anders zou de koning eer willen bewijzen dan aan mij?'"
+          }
+        ]
+      },
+      "id": "ester.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Ester antwoordde: 'Het is een harteloze booswicht, het is Haman, die schurk daar!' En Haman kromp van schrik ineen voor de koning en de koningin.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester antwoordde: 'Het is een harteloze booswicht, het is Haman, die schurk daar!' En Haman kromp van schrik ineen voor de koning en de koningin."
+          }
+        ]
+      },
+      "id": "ester.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Hoe immers zal ik het onheil kunnen aanzien, dat mijn volk zal treffen? Hoe zal ik kunnen aanzien dat mijn familie wordt uitgeroeid?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoe immers zal ik het onheil kunnen aanzien, dat mijn volk zal treffen? Hoe zal ik kunnen aanzien dat mijn familie wordt uitgeroeid?'"
+          }
+        ]
+      },
+      "id": "ester.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "In de vesting van Susan doodden en vernietigden zij vijfhonderd man.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de vesting van Susan doodden en vernietigden zij vijfhonderd man."
+          }
+        ]
+      },
+      "id": "ester.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 6,
+      "text": "daar was de kleine bron, die een rivier werd, en er was licht, zon en veel water. De rivier is Ester, met wie de koning huwde en die door hem tot koningin werd gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "daar was de kleine bron, die een rivier werd, en er was licht, zon en veel water. De rivier is Ester, met wie de koning huwde en die door hem tot koningin werd gemaakt."
+          }
+        ]
+      },
+      "id": "ester.10.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "text": "Twee grote draken kwamen op, beide gereed om te vechten. Ze brulden luid.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Twee grote draken kwamen op, beide gereed om te vechten. Ze brulden luid."
+          }
+        ]
+      },
+      "id": "ester.11.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 12,
+      "verse": 6,
+      "text": "Maar de Bugeeer Haman, de zoon van Hamadatus, die bij de koning hoog in aanzien stond, nam het voor de twee eunuchen van de koning op en zocht een gelegenheid om Mordekai en diens volk te schaden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar de Bugeeer Haman, de zoon van Hamadatus, die bij de koning hoog in aanzien stond, nam het voor de twee eunuchen van de koning op en zocht een gelegenheid om Mordekai en diens volk te schaden."
+          }
+        ]
+      },
+      "id": "ester.12.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 6,
+      "text": "Wij hebben derhalve verordend, dat degenen die u nader worden aangeduid in het schrijven van Haman, onze gevolmachtigde in bestuurszaken en onze tweede vader, dat zij allen, met vrouwen en kinderen, volledig worden uitgeroeid door het zwaard van hun vijanden, zonder enig mededogen en zonder pardon, op de veertiende dag van de twaalfde maand, de maand Adar, van het lopende jaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij hebben derhalve verordend, dat degenen die u nader worden aangeduid in het schrijven van Haman, onze gevolmachtigde in bestuurszaken en onze tweede vader, dat zij allen, met vrouwen en kinderen, volledig worden uitgeroeid door het zwaard van hun vijanden, zonder enig mededogen en zonder pardon, op de veertiende dag van de twaalfde maand, de maand Adar, van het lopende jaar."
+          }
+        ]
+      },
+      "id": "ester.13.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "text": "Wij echter hebben tegen U gezondigd en Gij hebt ons aan onze vijanden overgeleverd, omdat wij hun goden geëerd hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij echter hebben tegen U gezondigd en Gij hebt ons aan onze vijanden overgeleverd, omdat wij hun goden geëerd hebben."
+          }
+        ]
+      },
+      "id": "ester.14.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 6,
+      "text": "op de ene leunde zij, als een verfijnde dame, de andere kwam achter haar aan en droeg de sleep van haar kleed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "op de ene leunde zij, als een verfijnde dame, de andere kwam achter haar aan en droeg de sleep van haar kleed."
+          }
+        ]
+      },
+      "id": "ester.15.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "text": "en die met arglist en drogredenen de nobele goede trouw van de heersers bedrogen hebben.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en die met arglist en drogredenen de nobele goede trouw van de heersers bedrogen hebben."
+          }
+        ]
+      },
+      "id": "ester.16.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "Er werd geschonken in gouden bekers, de ene al mooier dan de andere, en er was overvloed aan koningswijn, met koninklijke gulheid gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er werd geschonken in gouden bekers, de ene al mooier dan de andere, en er was overvloed aan koningswijn, met koninklijke gulheid gegeven."
+          }
+        ]
+      },
+      "id": "ester.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "Hij was de voogd van Hadassa, ook Ester geheten, die de dochter van zijn oom was en geen vader en moeder meer had. Het meisje was mooi van gestalte en een lust voor het oog. Na de dood van haar vader en moeder was zij door Mordekai als dochter aangenomen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij was de voogd van Hadassa, ook Ester geheten, die de dochter van zijn oom was en geen vader en moeder meer had. Het meisje was mooi van gestalte en een lust voor het oog. Na de dood van haar vader en moeder was zij door Mordekai als dochter aangenomen."
+          }
+        ]
+      },
+      "id": "ester.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "In de eerste maand, de maand Nisan, in het twaalfde jaar van Ahasveros, de koning, wierp men ten overstaan van Haman het poer - dat is het lot - over alle dagen en over alle maanden, tot en met de twaalfde, de maand Adar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In de eerste maand, de maand Nisan, in het twaalfde jaar van Ahasveros, de koning, wierp men ten overstaan van Haman het poer - dat is het lot - over alle dagen en over alle maanden, tot en met de twaalfde, de maand Adar."
+          }
+        ]
+      },
+      "id": "ester.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Mordekai vertelde Hatak alles wat hem overkomen was. Hij wist hem ook nauwkeurig te zeggen, hoeveel geld Haman beloofd had aan de schatkist van de koning af te dragen, wanneer hij de joden mocht uitroeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai vertelde Hatak alles wat hem overkomen was. Hij wist hem ook nauwkeurig te zeggen, hoeveel geld Haman beloofd had aan de schatkist van de koning af te dragen, wanneer hij de joden mocht uitroeien."
+          }
+        ]
+      },
+      "id": "ester.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Ester gaf ten antwoord: 'Mijn verlangen en mijn verzoek is...",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester gaf ten antwoord: 'Mijn verlangen en mijn verzoek is..."
+          }
+        ]
+      },
+      "id": "ester.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Daarom gaf Haman de koning ten antwoord: 'Een man aan wie de koning eer wil bewijzen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom gaf Haman de koning ten antwoord: 'Een man aan wie de koning eer wil bewijzen?"
+          }
+        ]
+      },
+      "id": "ester.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Woedend stond de koning op en liep van tafel weg, de paleistuin in. Haman bleef achter, hij wilde koningin Ester om zijn leven smeken. Hij zag wel dat hij van de koning het allerergste te verwachten had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Woedend stond de koning op en liep van tafel weg, de paleistuin in. Haman bleef achter, hij wilde koningin Ester om zijn leven smeken. Hij zag wel dat hij van de koning het allerergste te verwachten had."
+          }
+        ]
+      },
+      "id": "ester.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Daarop zei Ahasveros, de koning, tot koningin Ester en tot de jood Mordekai: 'Heb ik Hamans huis al niet aan Ester gegeven en is hijzelf niet aan de paal opgehangen, omdat hij de hand wilde slaan aan de joden?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zei Ahasveros, de koning, tot koningin Ester en tot de jood Mordekai: 'Heb ik Hamans huis al niet aan Ester gegeven en is hijzelf niet aan de paal opgehangen, omdat hij de hand wilde slaan aan de joden?"
+          }
+        ]
+      },
+      "id": "ester.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Ook Parsandata, Dalfon, Aspata,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook Parsandata, Dalfon, Aspata,"
+          }
+        ]
+      },
+      "id": "ester.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "text": "De twee draken zijn Haman en ik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De twee draken zijn Haman en ik."
+          }
+        ]
+      },
+      "id": "ester.10.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "text": "Op hun gebrul maakten alle volken zich gereed voor de strijd, om te strijden tegen een volk van rechtvaardigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op hun gebrul maakten alle volken zich gereed voor de strijd, om te strijden tegen een volk van rechtvaardigen."
+          }
+        ]
+      },
+      "id": "ester.11.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "text": "Zo zullen zij, die kwaadwilligen, vroeger en nu, op een dag naar de onderwereld gejaagd worden; dat zal ons voor de toekomst een altijd stabiel en ongestoord bestuur verzekeren.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo zullen zij, die kwaadwilligen, vroeger en nu, op een dag naar de onderwereld gejaagd worden; dat zal ons voor de toekomst een altijd stabiel en ongestoord bestuur verzekeren.'"
+          }
+        ]
+      },
+      "id": "ester.13.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "text": "Gij zijt rechtvaardig, Heer!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt rechtvaardig, Heer!"
+          }
+        ]
+      },
+      "id": "ester.14.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "text": "",
+      "textJson": {
+        "tag": null
+      },
+      "id": "ester.15.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "text": "U kunt dat niet alleen opmaken uit de oude overgeleverde verhalen; u hoeft niet ver weg te zoeken, om te zien, wat er zoal aan schandelijks bedreven is door de verdorvenheid van lieden die op onwaardige wijze macht uitoefenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U kunt dat niet alleen opmaken uit de oude overgeleverde verhalen; u hoeft niet ver weg te zoeken, om te zien, wat er zoal aan schandelijks bedreven is door de verdorvenheid van lieden die op onwaardige wijze macht uitoefenen."
+          }
+        ]
+      },
+      "id": "ester.16.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Niemand mocht echter - zo luidde het bevel - tot drinken gedwongen worden. De koning had al zijn hofmeesters de opdracht gegeven, iedereen naar zijn eigen wens te bedienen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Niemand mocht echter - zo luidde het bevel - tot drinken gedwongen worden. De koning had al zijn hofmeesters de opdracht gegeven, iedereen naar zijn eigen wens te bedienen."
+          }
+        ]
+      },
+      "id": "ester.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Toen het besluit en bevel van de koning bekend was geworden en vele meisjes in de vesting van Susan bijeen werden gebracht, waar ze onder de hoede van Hege kwamen, werd ook Ester naar het koninklijk paleis gebracht en onder de hoede van Hege gesteld, de bewaker van de vrouwen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen het besluit en bevel van de koning bekend was geworden en vele meisjes in de vesting van Susan bijeen werden gebracht, waar ze onder de hoede van Hege kwamen, werd ook Ester naar het koninklijk paleis gebracht en onder de hoede van Hege gesteld, de bewaker van de vrouwen."
+          }
+        ]
+      },
+      "id": "ester.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "En Haman zei tot Ahasveros, de koning: 'Er is een enkel volk, dat onder de volken in alle provincies van uw koninkrijk verspreid is en dat zich afzondert. Hun wetten verschillen van die van alle andere volken, en aan de wetten van de koning houden zij zich niet. Het zou de koning niet passen deze lieden te laten begaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Haman zei tot Ahasveros, de koning: 'Er is een enkel volk, dat onder de volken in alle provincies van uw koninkrijk verspreid is en dat zich afzondert. Hun wetten verschillen van die van alle andere volken, en aan de wetten van de koning houden zij zich niet. Het zou de koning niet passen deze lieden te laten begaan."
+          }
+        ]
+      },
+      "id": "ester.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Hij gaf hem ook de tekst van het te Susan uitgevaardigde bevelschrift om hen te verdelgen. Hatak moest dit aan Ester laten zien, haar op de hoogte brengen en haar opdragen naar de koning te gaan om zijn clementie in te roepen en de zaak van haar volk bij hem te bepleiten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij gaf hem ook de tekst van het te Susan uitgevaardigde bevelschrift om hen te verdelgen. Hatak moest dit aan Ester laten zien, haar op de hoogte brengen en haar opdragen naar de koning te gaan om zijn clementie in te roepen en de zaak van haar volk bij hem te bepleiten."
+          }
+        ]
+      },
+      "id": "ester.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Als ik genade heb gevonden in de ogen van de koning en als het de koning behaagt, mijn verlangen te vervullen en mijn verzoek in te willigen, zou dan de koning met Haman naar de maaltijd willen komen, die ik voor hen zal bereiden? En dan, morgen, zou ik de vraag van de koning willen beantwoorden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik genade heb gevonden in de ogen van de koning en als het de koning behaagt, mijn verlangen te vervullen en mijn verzoek in te willigen, zou dan de koning met Haman naar de maaltijd willen komen, die ik voor hen zal bereiden? En dan, morgen, zou ik de vraag van de koning willen beantwoorden.'"
+          }
+        ]
+      },
+      "id": "ester.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Voor die man moet men een koningsgewaad brengen, een gewaad dat de koning heeft gedragen en een paard dat de koning heeft bereden en dat op zijn kop de koninklijke kroon draagt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor die man moet men een koningsgewaad brengen, een gewaad dat de koning heeft gedragen en een paard dat de koning heeft bereden en dat op zijn kop de koninklijke kroon draagt."
+          }
+        ]
+      },
+      "id": "ester.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "Juist toen de koning uit de paleistuin in de feestzaal terugkwam, had Haman zich neer laten vallen op de bank waarop Ester lag. De koning riep uit: 'Nu ook nog de koningin geweld aandoen, in mijn eigen huis!' De koning had die woorden amper uitgesproken, of men bedekte het gezicht van Haman.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Juist toen de koning uit de paleistuin in de feestzaal terugkwam, had Haman zich neer laten vallen op de bank waarop Ester lag. De koning riep uit: 'Nu ook nog de koningin geweld aandoen, in mijn eigen huis!' De koning had die woorden amper uitgesproken, of men bedekte het gezicht van Haman."
+          }
+        ]
+      },
+      "id": "ester.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "Schrijft u nu zelf maar neer wat u voor de joden gewenst acht, in naam van de koning, en verzegelt dat met de ring van de koning. U weet: wat in de naam van de koning geschreven en met de ring van de koning verzegeld is, kan niet herroepen worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Schrijft u nu zelf maar neer wat u voor de joden gewenst acht, in naam van de koning, en verzegelt dat met de ring van de koning. U weet: wat in de naam van de koning geschreven en met de ring van de koning verzegeld is, kan niet herroepen worden.'"
+          }
+        ]
+      },
+      "id": "ester.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Porata, Adalja, Aridata,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Porata, Adalja, Aridata,"
+          }
+        ]
+      },
+      "id": "ester.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "text": "De vele wolken zijn degenen die zich aaneengesloten hebben om de naam van de joden uit te roeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De vele wolken zijn degenen die zich aaneengesloten hebben om de naam van de joden uit te roeien."
+          }
+        ]
+      },
+      "id": "ester.10.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "text": "Ja, het was een dag van donkerte en duisternis. Verdrukking was er en benauwenis, rampspoed en grote beroering over de aarde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, het was een dag van donkerte en duisternis. Verdrukking was er en benauwenis, rampspoed en grote beroering over de aarde."
+          }
+        ]
+      },
+      "id": "ester.11.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 8,
+      "text": "En Mordekai wendde zich smekend tot de Heer; al de werken van de heer indachtig bad hij:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Mordekai wendde zich smekend tot de Heer; al de werken van de heer indachtig bad hij:"
+          }
+        ]
+      },
+      "id": "ester.13.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "text": "Nu echter is onze bittere slavernij hun niet meer genoeg: zij hebben zich tegenover hun afgoden op handslag verplicht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu echter is onze bittere slavernij hun niet meer genoeg: zij hebben zich tegenover hun afgoden op handslag verplicht,"
+          }
+        ]
+      },
+      "id": "ester.14.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "text": "Over haar gezicht lag de blos van de hoogste schoonheid en zij zag er opgetogen en innemend uit, maar haar hart kromp ineen van angst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Over haar gezicht lag de blos van de hoogste schoonheid en zij zag er opgetogen en innemend uit, maar haar hart kromp ineen van angst."
+          }
+        ]
+      },
+      "id": "ester.15.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "text": "U moet ook uw blik richten op de toekomst: hoe wij het koninkrijk ten bate van alle mensen rust en vrede zullen verschaffen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U moet ook uw blik richten op de toekomst: hoe wij het koninkrijk ten bate van alle mensen rust en vrede zullen verschaffen."
+          }
+        ]
+      },
+      "id": "ester.16.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Ook koningin Wasti gaf een feest voor de vrouwen, in het paleis van Ahasveros, de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook koningin Wasti gaf een feest voor de vrouwen, in het paleis van Ahasveros, de koning."
+          }
+        ]
+      },
+      "id": "ester.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "Het meisje viel bij Hege in de smaak en verwierf zijn gunst. Daarom gaf hij haar onverwijld alle dingen die zij nodig had voor haar opmaak en haar voeding. Ook stelde hij de zeven beste slavinnen van het koninklijk paleis tot haar beschikking en bracht haar met die slavinnen naar de mooiste vertrekken van de harem over.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het meisje viel bij Hege in de smaak en verwierf zijn gunst. Daarom gaf hij haar onverwijld alle dingen die zij nodig had voor haar opmaak en haar voeding. Ook stelde hij de zeven beste slavinnen van het koninklijk paleis tot haar beschikking en bracht haar met die slavinnen naar de mooiste vertrekken van de harem over."
+          }
+        ]
+      },
+      "id": "ester.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Als het de koning zo behaagt, dan moge hij een bevelschrift uitvaardigen, dat ze moeten worden uitgeroeid. Tienduizenden talenten zilver zal ik dan aan de ambtenaren kunnen afdragen om die in de schatkist van de koning te storten.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het de koning zo behaagt, dan moge hij een bevelschrift uitvaardigen, dat ze moeten worden uitgeroeid. Tienduizenden talenten zilver zal ik dan aan de ambtenaren kunnen afdragen om die in de schatkist van de koning te storten.'"
+          }
+        ]
+      },
+      "id": "ester.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Hatak kwam bij Ester terug en bracht haar de woorden van Mordekai over.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hatak kwam bij Ester terug en bracht haar de woorden van Mordekai over."
+          }
+        ]
+      },
+      "id": "ester.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Welgemoed en opgewekt ging Haman die dag heen, maar toen hij in de koninklijke poort Mordekai zag, die niet opstond en zich voor hem niet verroerde, werd Haman ziedend kwaad op Mordekai.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welgemoed en opgewekt ging Haman die dag heen, maar toen hij in de koninklijke poort Mordekai zag, die niet opstond en zich voor hem niet verroerde, werd Haman ziedend kwaad op Mordekai."
+          }
+        ]
+      },
+      "id": "ester.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "Het kleed en het paard moeten toevertrouwd worden aan een van de rijksgroten van de koning, aan een van de edelen. Zo moet dan de man, aan wie de koning eer wil bewijzen gekleed worden, en men moet hem op dat paard over het stadsplein laten rijden en voor hem uit roepen: Dit gebeurt met de man aan wie de koning eer wil bewijzen!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het kleed en het paard moeten toevertrouwd worden aan een van de rijksgroten van de koning, aan een van de edelen. Zo moet dan de man, aan wie de koning eer wil bewijzen gekleed worden, en men moet hem op dat paard over het stadsplein laten rijden en voor hem uit roepen: Dit gebeurt met de man aan wie de koning eer wil bewijzen!'"
+          }
+        ]
+      },
+      "id": "ester.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Charbona, een van de eunuchen van de koning, zei: 'Er is ook nog de paal, die Haman gereed heeft gemaakt voor Mordekai, de man die het voor de koning had opgenomen. Hij staat bij het huis van Haman, vijftig el hoog.' De koning beval: 'Hangt hem daar dan aan op.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Charbona, een van de eunuchen van de koning, zei: 'Er is ook nog de paal, die Haman gereed heeft gemaakt voor Mordekai, de man die het voor de koning had opgenomen. Hij staat bij het huis van Haman, vijftig el hoog.' De koning beval: 'Hangt hem daar dan aan op.'"
+          }
+        ]
+      },
+      "id": "ester.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "De koninklijke schrijvers werden ontboden. Toen dat gebeurde was het de derde maand, de maand Siwan, de drieëntwintigste dag. Geheel volgens de aanwijzingen van Mordekai werd er een bevelschrift opgesteld voor de joden, en voor de satrapen, de stadhouders en de bestuurders van de provincies, van Indië tot Ethiopië, honderdenzevenentwintig provincies, voor iedere provincie in haar eigen schrift en voor ieder volk in zijn eigen taal; ook aan de joden werd in hun eigen schrift en taal geschreven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koninklijke schrijvers werden ontboden. Toen dat gebeurde was het de derde maand, de maand Siwan, de drieëntwintigste dag. Geheel volgens de aanwijzingen van Mordekai werd er een bevelschrift opgesteld voor de joden, en voor de satrapen, de stadhouders en de bestuurders van de provincies, van Indië tot Ethiopië, honderdenzevenentwintig provincies, voor iedere provincie in haar eigen schrift en voor ieder volk in zijn eigen taal; ook aan de joden werd in hun eigen schrift en taal geschreven."
+          }
+        ]
+      },
+      "id": "ester.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Parmasta, Arisai, Aridai en Waizata,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Parmasta, Arisai, Aridai en Waizata,"
+          }
+        ]
+      },
+      "id": "ester.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "text": "Het ene volk, dat is mijn volk, Israël, degenen die tot God geroepen hebben en gered zijn. De Heer heeft zijn volk gered, de Heer heeft ons ontrukt aan al die rampen, God heeft de grote tekenen en wonderen verricht, die bij de heidenen nooit gebeurd zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het ene volk, dat is mijn volk, Israël, degenen die tot God geroepen hebben en gered zijn. De Heer heeft zijn volk gered, de Heer heeft ons ontrukt aan al die rampen, God heeft de grote tekenen en wonderen verricht, die bij de heidenen nooit gebeurd zijn."
+          }
+        ]
+      },
+      "id": "ester.10.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "text": "Heel het rechtvaardige volk werd met ontzetting geslagen, vol angst voor de rampen die hen bedreigden. Zij bereidden zich voor op hun ondergang en riepen tot God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heel het rechtvaardige volk werd met ontzetting geslagen, vol angst voor de rampen die hen bedreigden. Zij bereidden zich voor op hun ondergang en riepen tot God."
+          }
+        ]
+      },
+      "id": "ester.11.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 9,
+      "text": "Heer, Heer, Gij koning die over alles heerst: aan uw macht is alles onderworpen en als Gij Israël wilt redden, is er niemand die U weerstreeft;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Heer, Heer, Gij koning die over alles heerst: aan uw macht is alles onderworpen en als Gij Israël wilt redden, is er niemand die U weerstreeft;"
+          }
+        ]
+      },
+      "id": "ester.13.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "text": "de toezegging uit uw mond te verijdelen, uw erfdeel te vernietigen, de mond te snoeren van hen die u prijzen, de luister van uw huis en uw altaar uit te doven,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de toezegging uit uw mond te verijdelen, uw erfdeel te vernietigen, de mond te snoeren van hen die u prijzen, de luister van uw huis en uw altaar uit te doven,"
+          }
+        ]
+      },
+      "id": "ester.14.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 9,
+      "text": "Nadat zij al de deuren was doorgegaan, kwam zij voor het aanschijn van de koning. Hij zat op zijn koningstroon bekleed met al zijn staatsiegewaden, een en al goud en kostbare stenen, en hij was zeer ontzagwekkend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nadat zij al de deuren was doorgegaan, kwam zij voor het aanschijn van de koning. Hij zat op zijn koningstroon bekleed met al zijn staatsiegewaden, een en al goud en kostbare stenen, en hij was zeer ontzagwekkend."
+          }
+        ]
+      },
+      "id": "ester.15.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 9,
+      "text": "Wij zullen geen veranderingen dulden, maar wel altijd redelijke tegemoetkomendheid oordelen over wat ons wordt voorgelegd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij zullen geen veranderingen dulden, maar wel altijd redelijke tegemoetkomendheid oordelen over wat ons wordt voorgelegd."
+          }
+        ]
+      },
+      "id": "ester.16.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "Op de zevende dag gaf de koning, vrolijk geworden door de wijn, aan Mehuman, Bizzeta, Charbona, Bigta, Abagta, Zetar en Karkas - de zeven eunuchen, die Ahasveros, de koning, persoonlijk bedienden - de opdracht",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de zevende dag gaf de koning, vrolijk geworden door de wijn, aan Mehuman, Bizzeta, Charbona, Bigta, Abagta, Zetar en Karkas - de zeven eunuchen, die Ahasveros, de koning, persoonlijk bedienden - de opdracht"
+          }
+        ]
+      },
+      "id": "ester.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Ester had over haar volk en haar familie niets gezegd: dat was haar door Mordekai verboden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester had over haar volk en haar familie niets gezegd: dat was haar door Mordekai verboden."
+          }
+        ]
+      },
+      "id": "ester.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "De koning schoof de zegelring van zijn hand, gaf die aan de Agagiet Haman, de zoon van Hammedata, de jodenhater,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning schoof de zegelring van zijn hand, gaf die aan de Agagiet Haman, de zoon van Hammedata, de jodenhater,"
+          }
+        ]
+      },
+      "id": "ester.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Daarop zond Ester Hatak met het volgend antwoord naar Mordekai:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zond Ester Hatak met het volgend antwoord naar Mordekai:"
+          }
+        ]
+      },
+      "id": "ester.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Hij hield zich echter in. Thuis gekomen riep hij zijn vrienden en zijn vrouw Zeres bij zich.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij hield zich echter in. Thuis gekomen riep hij zijn vrienden en zijn vrouw Zeres bij zich."
+          }
+        ]
+      },
+      "id": "ester.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "Daarop zei de koning tot Haman: 'Haal terstond dat kleed en dat paard en doe zoals u hebt voorgesteld met de jood Mordekai, die in de koninklijke poort zit. Laat niets achterwege van wat u hebt voorgesteld.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop zei de koning tot Haman: 'Haal terstond dat kleed en dat paard en doe zoals u hebt voorgesteld met de jood Mordekai, die in de koninklijke poort zit. Laat niets achterwege van wat u hebt voorgesteld.'"
+          }
+        ]
+      },
+      "id": "ester.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "En ze hingen Haman aan de paal, die hij voor Mordekai had opgericht. Toen bedaarde de woede van de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En ze hingen Haman aan de paal, die hij voor Mordekai had opgericht. Toen bedaarde de woede van de koning."
+          }
+        ]
+      },
+      "id": "ester.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Mordekai stelde die beschikking op in naam van Ahasveros, de koning, en verzegelde haar met de ring van de koning. Daarna verzond hij afschriften met de bereden ijlboden, die reden op de koninklijke paarden, gefokt van bliksemsnelle merries.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai stelde die beschikking op in naam van Ahasveros, de koning, en verzegelde haar met de ring van de koning. Daarna verzond hij afschriften met de bereden ijlboden, die reden op de koninklijke paarden, gefokt van bliksemsnelle merries."
+          }
+        ]
+      },
+      "id": "ester.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "de tien zonen van Haman, de zoon van Hammedata, de jodenhater, doodden zij. Naar de bezittingen echter staken zij hun handen niet uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de tien zonen van Haman, de zoon van Hammedata, de jodenhater, doodden zij. Naar de bezittingen echter staken zij hun handen niet uit."
+          }
+        ]
+      },
+      "id": "ester.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "text": "Want God had twee lotsbestemmingen gemaakt, een voor het volk van God en een voor alle andere volken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want God had twee lotsbestemmingen gemaakt, een voor het volk van God en een voor alle andere volken."
+          }
+        ]
+      },
+      "id": "ester.10.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "text": "Uit hun roepen kwam een vloed van water voort: uit een kleine bron een grote rivier.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit hun roepen kwam een vloed van water voort: uit een kleine bron een grote rivier."
+          }
+        ]
+      },
+      "id": "ester.11.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 10,
+      "text": "Gij hebt de hemel en de aarde gemaakt en alwat er onder de hemel te bewonderen valt;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij hebt de hemel en de aarde gemaakt en alwat er onder de hemel te bewonderen valt;"
+          }
+        ]
+      },
+      "id": "ester.13.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "text": "de mond van de heidenen te openen om hun waangoden te prijzen, en eeuwige eerbied af te dwingen voor een vergankelijke koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de mond van de heidenen te openen om hun waangoden te prijzen, en eeuwige eerbied af te dwingen voor een vergankelijke koning."
+          }
+        ]
+      },
+      "id": "ester.14.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "text": "In vlammende toorn sloeg hij vol majesteit zijn ogen op en keek haar aan, ziedend van woede. De koningin wankelde, verbleekte, viel in onmacht en vond steun tegen het hoofd van de kamenier die vooropliep.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In vlammende toorn sloeg hij vol majesteit zijn ogen op en keek haar aan, ziedend van woede. De koningin wankelde, verbleekte, viel in onmacht en vond steun tegen het hoofd van de kamenier die vooropliep."
+          }
+        ]
+      },
+      "id": "ester.15.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "text": "Zo is er nu een zekere Haman, de zoon van Hamadatus, een Macedoniër, zeer zeker niet van Perzisch bloed en in rechtschapenheid niet met ons te vergelijken, die als gast bij ons is opgenomen",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo is er nu een zekere Haman, de zoon van Hamadatus, een Macedoniër, zeer zeker niet van Perzisch bloed en in rechtschapenheid niet met ons te vergelijken, die als gast bij ons is opgenomen"
+          }
+        ]
+      },
+      "id": "ester.16.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "om koningin Wasti voor het aanschijn van de koning te brengen, getooid met haar koninklijk diadeem. Hij wilde het volk en de rijksgroten laten zien, hoe mooi zij was. Want zij was een lust voor het oog.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om koningin Wasti voor het aanschijn van de koning te brengen, getooid met haar koninklijk diadeem. Hij wilde het volk en de rijksgroten laten zien, hoe mooi zij was. Want zij was een lust voor het oog."
+          }
+        ]
+      },
+      "id": "ester.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Er ging geen dag voorbij of Mordekai wandelde langs de voorhof van de harem om navraag te doen, hoe Ester het maakte en wat er met haar gebeurde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er ging geen dag voorbij of Mordekai wandelde langs de voorhof van de harem om navraag te doen, hoe Ester het maakte en wat er met haar gebeurde."
+          }
+        ]
+      },
+      "id": "ester.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "en zei tot hem: 'Dat geld wordt u gegeven, en ook dat volk: doe er maar mee wat u goeddunkt.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zei tot hem: 'Dat geld wordt u gegeven, en ook dat volk: doe er maar mee wat u goeddunkt.'"
+          }
+        ]
+      },
+      "id": "ester.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "'Alle dienaren van de koning en de bewoners van de provincies van de koning weten, dat iedere man of vrouw, die ongeroepen naar de koning in de binnenhof komt, maar een maatregel te verwachten heeft, de doodstraf. Alleen degene aan wie de koning de gouden skepter toereikt blijft in leven. En ik ben al in geen dertig dagen meer bij de koning geroepen!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Alle dienaren van de koning en de bewoners van de provincies van de koning weten, dat iedere man of vrouw, die ongeroepen naar de koning in de binnenhof komt, maar een maatregel te verwachten heeft, de doodstraf. Alleen degene aan wie de koning de gouden skepter toereikt blijft in leven. En ik ben al in geen dertig dagen meer bij de koning geroepen!'"
+          }
+        ]
+      },
+      "id": "ester.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Hij vertelde hun, hoe indrukwekkend rijk hij was, hoeveel zonen hij had, wat voor hoge waardigheden hem allemaal door de koning verleend waren en hoe deze hem boven de rijksgroten en de dienaren van de koning verheven had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij vertelde hun, hoe indrukwekkend rijk hij was, hoeveel zonen hij had, wat voor hoge waardigheden hem allemaal door de koning verleend waren en hoe deze hem boven de rijksgroten en de dienaren van de koning verheven had."
+          }
+        ]
+      },
+      "id": "ester.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Haman haalde het kleed en het paard, kleedde Mordekai en liet hem over het stadsplein rijden, terwijl hij voor hem uit riep: 'Dit gebeurt met de man aan wie de koning eer wil bewijzen!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haman haalde het kleed en het paard, kleedde Mordekai en liet hem over het stadsplein rijden, terwijl hij voor hem uit riep: 'Dit gebeurt met de man aan wie de koning eer wil bewijzen!'"
+          }
+        ]
+      },
+      "id": "ester.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "De koning stond de joden in alle steden toe, zich aaneen te sluiten en zichzelf te verdedigen; iedere gewapende macht, van welk volk en uit welke provincie ook, die hen zou belagen, mochten zij verdelgen, doden en uitroeien, met kinderen en vrouwen, en zij mochten hun bezittingen plunderen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning stond de joden in alle steden toe, zich aaneen te sluiten en zichzelf te verdedigen; iedere gewapende macht, van welk volk en uit welke provincie ook, die hen zou belagen, mochten zij verdelgen, doden en uitroeien, met kinderen en vrouwen, en zij mochten hun bezittingen plunderen,"
+          }
+        ]
+      },
+      "id": "ester.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Toen de koning die dag hoorde, hoevelen er in de vesting van Susan gedood waren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen de koning die dag hoorde, hoevelen er in de vesting van Susan gedood waren,"
+          }
+        ]
+      },
+      "id": "ester.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "text": "En op het uur, de tijd en de dag van de beslissing besloot God die twee lotsbestemmingen te voltrekken, de ene voor alle volken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En op het uur, de tijd en de dag van de beslissing besloot God die twee lotsbestemmingen te voltrekken, de ene voor alle volken,"
+          }
+        ]
+      },
+      "id": "ester.10.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 11,
+      "text": "Het werd licht, de zon kwam op, en de vernederden werden verheven en zij verslonden de hooggezetenen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Het werd licht, de zon kwam op, en de vernederden werden verheven en zij verslonden de hooggezetenen."
+          }
+        ]
+      },
+      "id": "ester.11.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 11,
+      "text": "Gij zijt Heer over allen en er is niemand die zich tegen U, de Heer, verzetten zal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij zijt Heer over allen en er is niemand die zich tegen U, de Heer, verzetten zal."
+          }
+        ]
+      },
+      "id": "ester.13.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "text": "Geef uw skepter, Heer, niet prijs aan hen die niet bestaan en laat ze niet lachen om onze rampspoed. Keer hun plan tegen henzelf en stel de man die tegen ons begonnen is aan de kaak.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Geef uw skepter, Heer, niet prijs aan hen die niet bestaan en laat ze niet lachen om onze rampspoed. Keer hun plan tegen henzelf en stel de man die tegen ons begonnen is aan de kaak."
+          }
+        ]
+      },
+      "id": "ester.14.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "text": "Toen vermurwde God het gemoed van de koning. Ontdaan sprong hij op van zijn troon, nam haar in zijn armen tot zij weer bijkwam en bemoedigde haar met vriendelijke woorden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen vermurwde God het gemoed van de koning. Ontdaan sprong hij op van zijn troon, nam haar in zijn armen tot zij weer bijkwam en bemoedigde haar met vriendelijke woorden."
+          }
+        ]
+      },
+      "id": "ester.15.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "text": "en die zozeer het voorwerp is geweest van onze menslievendheid tegenover alle volken, dat hij onze vader werd genoemd, de hoogste waardigheid na de koninklijke troon bekleedde en door allen met de knieval werd geëerd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en die zozeer het voorwerp is geweest van onze menslievendheid tegenover alle volken, dat hij onze vader werd genoemd, de hoogste waardigheid na de koninklijke troon bekleedde en door allen met de knieval werd geëerd."
+          }
+        ]
+      },
+      "id": "ester.16.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "Maar Wasti, de koningin, weigerde te komen, zoals de koning het haar bij monde van de eunuchen beval. De koning was hevig verontwaardigd en ontstak in ziedende toorn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Wasti, de koningin, weigerde te komen, zoals de koning het haar bij monde van de eunuchen beval. De koning was hevig verontwaardigd en ontstak in ziedende toorn."
+          }
+        ]
+      },
+      "id": "ester.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Ieder meisje moest volgens de verordening voor de vrouwen een schoonheidskuur van twaalf maanden doormaken: zes maanden werd ze met mirre-olie behandeld en zes maanden met balsems en andere vrouwelijke schoonheidsmiddelen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ieder meisje moest volgens de verordening voor de vrouwen een schoonheidskuur van twaalf maanden doormaken: zes maanden werd ze met mirre-olie behandeld en zes maanden met balsems en andere vrouwelijke schoonheidsmiddelen."
+          }
+        ]
+      },
+      "id": "ester.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Daarop werden de koninklijke schrijvers ontboden. Het was de eerste maand, de dertiende dag. Geheel volgens de aanwijzingen van Haman werd een bevelschrift opgesteld voor de satrapen van de koning, voor de stadhouders in alle provincies, voor de rijksgroten van alle volken, voor iedere provincie in haar eigen schrift, voor ieder volk in zijn eigen taal. Het werd in de naam van Ahasveros, de koning, opgesteld en met de ring van de koning verzegeld,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop werden de koninklijke schrijvers ontboden. Het was de eerste maand, de dertiende dag. Geheel volgens de aanwijzingen van Haman werd een bevelschrift opgesteld voor de satrapen van de koning, voor de stadhouders in alle provincies, voor de rijksgroten van alle volken, voor iedere provincie in haar eigen schrift, voor ieder volk in zijn eigen taal. Het werd in de naam van Ahasveros, de koning, opgesteld en met de ring van de koning verzegeld,"
+          }
+        ]
+      },
+      "id": "ester.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Deze woorden van Ester werden aan Mordekai overgebracht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze woorden van Ester werden aan Mordekai overgebracht."
+          }
+        ]
+      },
+      "id": "ester.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "'Bovendien heeft koningin Ester' - zo voegde hij eraan toe' aan de door haar bereide maaltijd behalve de koning niemand uitgenodigd dan mij alleen. En ik ben het weer, die ook voor morgen bij haar gevraagd ben, samen met de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Bovendien heeft koningin Ester' - zo voegde hij eraan toe' aan de door haar bereide maaltijd behalve de koning niemand uitgenodigd dan mij alleen. En ik ben het weer, die ook voor morgen bij haar gevraagd ben, samen met de koning."
+          }
+        ]
+      },
+      "id": "ester.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Daarna keerde Mordekai terug naar de koninklijke poort, terwijl Haman zich naar zijn huis haastte, jammerend en het hoofd omhuld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarna keerde Mordekai terug naar de koninklijke poort, terwijl Haman zich naar zijn huis haastte, jammerend en het hoofd omhuld."
+          }
+        ]
+      },
+      "id": "ester.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "op een en dezelfde dag in alle provincies van Ahasveros, de koning, de dertiende van de twaalfde maand, te weten de maand Adar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "op een en dezelfde dag in alle provincies van Ahasveros, de koning, de dertiende van de twaalfde maand, te weten de maand Adar."
+          }
+        ]
+      },
+      "id": "ester.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "zei hij tot koningin Ester: 'In de vesting van Susan hebben de joden vijfhonderd man gedood en uitgeroeid, en bovendien nog de tien zonen van Haman. Wat zullen ze dan in de andere koninklijke provincies wel gedaan hebben? Wat verlangt u nu nog? Het zal u gegeven worden. Hebt u nog een verzoek? Het zal ingewilligd worden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zei hij tot koningin Ester: 'In de vesting van Susan hebben de joden vijfhonderd man gedood en uitgeroeid, en bovendien nog de tien zonen van Haman. Wat zullen ze dan in de andere koninklijke provincies wel gedaan hebben? Wat verlangt u nu nog? Het zal u gegeven worden. Hebt u nog een verzoek? Het zal ingewilligd worden.'"
+          }
+        ]
+      },
+      "id": "ester.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "text": "de ander voor zijn eigen volk, doordat Hij het indachtig was en aan zijn erfdeel recht verschafte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "de ander voor zijn eigen volk, doordat Hij het indachtig was en aan zijn erfdeel recht verschafte."
+          }
+        ]
+      },
+      "id": "ester.10.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "text": "Wakker geworden, kon Mordekai deze droom, waarin hij had gezien wat God besloten had te doen, niet van zich afzetten. Hij trachtte met alle middelen de zin ervan te doorgronden, tot de nacht toe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wakker geworden, kon Mordekai deze droom, waarin hij had gezien wat God besloten had te doen, niet van zich afzetten. Hij trachtte met alle middelen de zin ervan te doorgronden, tot de nacht toe."
+          }
+        ]
+      },
+      "id": "ester.11.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 12,
+      "text": "Gij doorziet alles; Gij weet, Heer, dat ik niet uit hoogmoed handelde, niet uit verwatenheid en niet uit eerzucht, toen ik voor die verwaten Haman niet op de knieën viel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij doorziet alles; Gij weet, Heer, dat ik niet uit hoogmoed handelde, niet uit verwatenheid en niet uit eerzucht, toen ik voor die verwaten Haman niet op de knieën viel."
+          }
+        ]
+      },
+      "id": "ester.13.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "text": "Gedenk ons, Heer, openbaar U in het uur van onze nood en geef mij moed, Gij koning van de goden en heerser over alle heerschappij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gedenk ons, Heer, openbaar U in het uur van onze nood en geef mij moed, Gij koning van de goden en heerser over alle heerschappij."
+          }
+        ]
+      },
+      "id": "ester.14.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "text": "'Wat is er, Ester?' zie hij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Wat is er, Ester?' zie hij."
+          }
+        ]
+      },
+      "id": "ester.15.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "text": "Maar deze hoge eer werd hem te machtig en hij zette er zijn zinnen op, ons van de heerschappij en zelfs van het leven te beroven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar deze hoge eer werd hem te machtig en hij zette er zijn zinnen op, ons van de heerschappij en zelfs van het leven te beroven."
+          }
+        ]
+      },
+      "id": "ester.16.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Hij wendde zich tot de wijzen die de tijden kenden: het was namelijk de gewoonte dat de aangelegenheden van de koning werden voorgelegd aan de gezamenlijke wet - en rechtsgeleerden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij wendde zich tot de wijzen die de tijden kenden: het was namelijk de gewoonte dat de aangelegenheden van de koning werden voorgelegd aan de gezamenlijke wet - en rechtsgeleerden,"
+          }
+        ]
+      },
+      "id": "ester.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Wanneer ze dan aan de beurt was om bij Ahasveros, de koning, te komen, werd haar uit de harem alles wat ze wenste naar het paleis van de koning meegegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wanneer ze dan aan de beurt was om bij Ahasveros, de koning, te komen, werd haar uit de harem alles wat ze wenste naar het paleis van de koning meegegeven."
+          }
+        ]
+      },
+      "id": "ester.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "waarna de verzending van de brieven naar alle provincies van de koning aan de ijlboden werd toevertrouwd: alle joden moesten vervolgd worden, gedood en uitgeroeid, van jong tot oud, met kinderen en vrouwen, op een en dezelfde dag, de dertiende van de twaalfde maand, de maand Adar, en hun bezittingen moesten aan plundering worden prijsgegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarna de verzending van de brieven naar alle provincies van de koning aan de ijlboden werd toevertrouwd: alle joden moesten vervolgd worden, gedood en uitgeroeid, van jong tot oud, met kinderen en vrouwen, op een en dezelfde dag, de dertiende van de twaalfde maand, de maand Adar, en hun bezittingen moesten aan plundering worden prijsgegeven."
+          }
+        ]
+      },
+      "id": "ester.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "En Mordekai liet aan Ester het volgende antwoord geven: 'Denk maar niet, dat jij als enige van alle joden gespaard zult blijven, omdat jij in het koninklijk paleis woont.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Mordekai liet aan Ester het volgende antwoord geven: 'Denk maar niet, dat jij als enige van alle joden gespaard zult blijven, omdat jij in het koninklijk paleis woont."
+          }
+        ]
+      },
+      "id": "ester.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "Maar dat alles geeft mij geen voldoening, zolang ik die jood Mordekai in de koninklijke poort zie zitten!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar dat alles geeft mij geen voldoening, zolang ik die jood Mordekai in de koninklijke poort zie zitten!'"
+          }
+        ]
+      },
+      "id": "ester.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Haman vertelde aan zijn vrouw Zeres en aan al zijn vrienden alles wat hem overkomen was, waarop zijn raadgevers en zijn vrouw Zeres tot hem zeiden: 'Als die Mordekai, tegen wie u het nu de eerste keer hebt afgelegd, tot de stam van de joden behoort, zult u niet tegen hem op kunnen, maar onherroepelijk onder zijn ogen ten val komen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haman vertelde aan zijn vrouw Zeres en aan al zijn vrienden alles wat hem overkomen was, waarop zijn raadgevers en zijn vrouw Zeres tot hem zeiden: 'Als die Mordekai, tegen wie u het nu de eerste keer hebt afgelegd, tot de stam van de joden behoort, zult u niet tegen hem op kunnen, maar onherroepelijk onder zijn ogen ten val komen.'"
+          }
+        ]
+      },
+      "id": "ester.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "De tekst van deze beschikking moest bij wijze van wet in alle provincies uitgevaardigd en ter kennis van alle volken gebracht worden en de joden moesten zich op de bewuste dag gereed houden om zich op hun vijanden te wreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tekst van deze beschikking moest bij wijze van wet in alle provincies uitgevaardigd en ter kennis van alle volken gebracht worden en de joden moesten zich op de bewuste dag gereed houden om zich op hun vijanden te wreken."
+          }
+        ]
+      },
+      "id": "ester.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Ester antwoordde: 'Als het de koning zo behaagt, zouden dan de joden in Susan ook morgen nog eens de wet mogen toepassen, die voor vandaag geldt? En ik zou ook graag zien, dat de tien zonen van Haman aan de paal gehangen werden.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester antwoordde: 'Als het de koning zo behaagt, zouden dan de joden in Susan ook morgen nog eens de wet mogen toepassen, die voor vandaag geldt? En ik zou ook graag zien, dat de tien zonen van Haman aan de paal gehangen werden.'"
+          }
+        ]
+      },
+      "id": "ester.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 10,
+      "verse": 13,
+      "text": "Voor hen zullen daarom die dagen van de maand Adar, de veertiende en de vijftiende van die maand, dagen van feestelijke samenkomsten en van vreugde zijn, voor Gods aangezicht, van geslacht tot geslacht in eeuwigheid, bij zijn volk Israël.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor hen zullen daarom die dagen van de maand Adar, de veertiende en de vijftiende van die maand, dagen van feestelijke samenkomsten en van vreugde zijn, voor Gods aangezicht, van geslacht tot geslacht in eeuwigheid, bij zijn volk Israël.'"
+          }
+        ]
+      },
+      "id": "ester.10.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "text": "Ik had immers de zolen van zijn voeten graag gekust, als ik daarmee Israël had kunnen redden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik had immers de zolen van zijn voeten graag gekust, als ik daarmee Israël had kunnen redden."
+          }
+        ]
+      },
+      "id": "ester.13.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "text": "Leg mij een gelukkig woord in de mond, als ik sta tegenover de leeuw; verander zijn gezindheid en breng hem tot haat tegen de man die ons bestrijdt, zodat hij en zijn medestanders te gronde gaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Leg mij een gelukkig woord in de mond, als ik sta tegenover de leeuw; verander zijn gezindheid en breng hem tot haat tegen de man die ons bestrijdt, zodat hij en zijn medestanders te gronde gaan."
+          }
+        ]
+      },
+      "id": "ester.14.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 13,
+      "text": "'Ik ben uw broer, wees gerust, u hoeft niet te sterven, want onze verordening geld alleen voor het gewone volk!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Ik ben uw broer, wees gerust, u hoeft niet te sterven, want onze verordening geld alleen voor het gewone volk!"
+          }
+        ]
+      },
+      "id": "ester.15.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 13,
+      "text": "Hij heeft onze redder en trouwe weldoener, Mordekai en onze onberispelijke deelgenote in het koningschap, Ester, te zamen met heel hun volk, door listig en slinks gekonkel ten val willen brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij heeft onze redder en trouwe weldoener, Mordekai en onze onberispelijke deelgenote in het koningschap, Ester, te zamen met heel hun volk, door listig en slinks gekonkel ten val willen brengen."
+          }
+        ]
+      },
+      "id": "ester.16.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "zijn naaste medewerkers, Karsena, Setar, Admata, Tarsis, Meres, Marsena en Memukan, de zeven rijksgroten van Perzië en Medië, die toegang hadden tot het aanschijn van de koning en die de hoogste posten in het koninkrijk bekleedden. Hij zei tot hen:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zijn naaste medewerkers, Karsena, Setar, Admata, Tarsis, Meres, Marsena en Memukan, de zeven rijksgroten van Perzië en Medië, die toegang hadden tot het aanschijn van de koning en die de hoogste posten in het koninkrijk bekleedden. Hij zei tot hen:"
+          }
+        ]
+      },
+      "id": "ester.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Ze ging er 's avonds heen en kwam 's morgens weer terug, maar dan ging ze naar een andere harem, waar ze onder de hoede kwam van Saasgaz, de eunuch van de koning, de bewaker van de bijvrouwen. Ze kwam niet meer bij de koning terug, tenzij de koning behagen in haar had gevonden en zij met name werd geroepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze ging er 's avonds heen en kwam 's morgens weer terug, maar dan ging ze naar een andere harem, waar ze onder de hoede kwam van Saasgaz, de eunuch van de koning, de bewaker van de bijvrouwen. Ze kwam niet meer bij de koning terug, tenzij de koning behagen in haar had gevonden en zij met name werd geroepen."
+          }
+        ]
+      },
+      "id": "ester.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "De tekst van het bevel moest bij wijze van wet in alle provincies uitgevaardigd en ter kennis van alle volken gebracht worden, zodat ze zich op de bewuste dag gereed konden houden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De tekst van het bevel moest bij wijze van wet in alle provincies uitgevaardigd en ter kennis van alle volken gebracht worden, zodat ze zich op de bewuste dag gereed konden houden."
+          }
+        ]
+      },
+      "id": "ester.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "text": "Integendeel, als jij op dit moment blijft zwijgen, komt er voor de joden toch uitkomst en redding, van een andere zijde, maar jij en het huis van je vader gaan dan te gronde. Wie weet of je niet voor een moment als dit tot de koninklijke waardigheid gekomen bent?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Integendeel, als jij op dit moment blijft zwijgen, komt er voor de joden toch uitkomst en redding, van een andere zijde, maar jij en het huis van je vader gaan dan te gronde. Wie weet of je niet voor een moment als dit tot de koninklijke waardigheid gekomen bent?'"
+          }
+        ]
+      },
+      "id": "ester.4.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Zijn vrouw Zeres en al zijn vrienden zeiden hem: 'Laat ze een paal gereedmaken, vijftig el hoog, en vraag dan morgenochtend aan de koning, dat ze daar Mordekai aan ophangen. Dan kunt U welgemoed met de koning aan tafel gaan.' Dat voorstel vond Hamans instemming. Hij liet de paal gereedmaken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijn vrouw Zeres en al zijn vrienden zeiden hem: 'Laat ze een paal gereedmaken, vijftig el hoog, en vraag dan morgenochtend aan de koning, dat ze daar Mordekai aan ophangen. Dan kunt U welgemoed met de koning aan tafel gaan.' Dat voorstel vond Hamans instemming. Hij liet de paal gereedmaken."
+          }
+        ]
+      },
+      "id": "ester.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Ze waren nog niet uitgesproken of daar kwamen de eunuchen van de koning al aan en brachten Haman met bekwame spoed naar de maaltijd, die Ester bereid had.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze waren nog niet uitgesproken of daar kwamen de eunuchen van de koning al aan en brachten Haman met bekwame spoed naar de maaltijd, die Ester bereid had."
+          }
+        ]
+      },
+      "id": "ester.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "Op bevel van de koning stoven de ijlboden, die op de koninklijke paarden reden, weg. Ook in de vesting van Susan werd de wet uitgevaardigd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op bevel van de koning stoven de ijlboden, die op de koninklijke paarden reden, weg. Ook in de vesting van Susan werd de wet uitgevaardigd."
+          }
+        ]
+      },
+      "id": "ester.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "De koning gelastte dat het zo zou gebeuren. Te Susan werd een desbetreffende verordening uitgevaardigd en de tien zonen van Haman werden opgehangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning gelastte dat het zo zou gebeuren. Te Susan werd een desbetreffende verordening uitgevaardigd en de tien zonen van Haman werden opgehangen."
+          }
+        ]
+      },
+      "id": "ester.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 14,
+      "text": "Als ik zo gehandeld heb, dan was dat veeleer om een mens niet hoger te eren dan God. Ik wil voor niemand knielen dan voor U, die mijn Heer zijt, en het is dus geen hoogmoed wanneer ik zo handel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als ik zo gehandeld heb, dan was dat veeleer om een mens niet hoger te eren dan God. Ik wil voor niemand knielen dan voor U, die mijn Heer zijt, en het is dus geen hoogmoed wanneer ik zo handel."
+          }
+        ]
+      },
+      "id": "ester.13.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "text": "Red ons door uw hand en kom mij te hulp, want ik sta alleen en heb niemand anders dan U, Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Red ons door uw hand en kom mij te hulp, want ik sta alleen en heb niemand anders dan U, Heer."
+          }
+        ]
+      },
+      "id": "ester.14.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "text": "Kom maar naderbij.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Kom maar naderbij.'"
+          }
+        ]
+      },
+      "id": "ester.15.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "text": "Door dat ge&iuml;ntrigeer hoopte hij namelijk ons te isoleren en zo in zijn macht te krijgen, om vervolgens de heerschappij van de Perzen aan de Macedoni&euml;rs te geven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Door dat geïntrigeer hoopte hij namelijk ons te isoleren en zo in zijn macht te krijgen, om vervolgens de heerschappij van de Perzen aan de Macedoniërs te geven."
+          }
+        ]
+      },
+      "id": "ester.16.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "'Wat moet er volgens recht en wet gebeuren met Wasti, de koningin, nu zij niet heeft gehoorzaamd aan het bevel, dat Ahasveros, de koning, haar door de eunuchen heeft laten overbrengen?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Wat moet er volgens recht en wet gebeuren met Wasti, de koningin, nu zij niet heeft gehoorzaamd aan het bevel, dat Ahasveros, de koning, haar door de eunuchen heeft laten overbrengen?'"
+          }
+        ]
+      },
+      "id": "ester.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "Toen Ester, de dochter van Abihail, de oom van Mordekai, door wie zij als dochter was aangenomen, aan de beurt was om bij de koning te komen, vroeg zij niets anders mee dan wat de koninklijke eunuch Hege, de bewaker van de vrouwen, haar had aangeraden. Toch waren allen die haar zagen vol bewondering voor haar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Ester, de dochter van Abihail, de oom van Mordekai, door wie zij als dochter was aangenomen, aan de beurt was om bij de koning te komen, vroeg zij niets anders mee dan wat de koninklijke eunuch Hege, de bewaker van de vrouwen, haar had aangeraden. Toch waren allen die haar zagen vol bewondering voor haar."
+          }
+        ]
+      },
+      "id": "ester.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Op een aansporing van de koning haastten de ijlboden zich heen. Ook in de vesting van Susan werd de wet uitgevaardigd. De koning en Haman gingen zitten drinken, de stad Susan kwam in rep en roer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op een aansporing van de koning haastten de ijlboden zich heen. Ook in de vesting van Susan werd de wet uitgevaardigd. De koning en Haman gingen zitten drinken, de stad Susan kwam in rep en roer."
+          }
+        ]
+      },
+      "id": "ester.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "text": "Hierop liet Ester aan Mordekai het volgend antwoord brengen:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hierop liet Ester aan Mordekai het volgend antwoord brengen:"
+          }
+        ]
+      },
+      "id": "ester.4.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "text": "Toen ging Mordekai bij de koning weg, gekleed in een koninklijk gewaad van wit en violet linnen, met een grote gouden diadeem en een mantel van byssus en purperen stof. De stad Susan was opgetogen van vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen ging Mordekai bij de koning weg, gekleed in een koninklijk gewaad van wit en violet linnen, met een grote gouden diadeem en een mantel van byssus en purperen stof. De stad Susan was opgetogen van vreugde."
+          }
+        ]
+      },
+      "id": "ester.8.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Ook op de veertiende dag van de maand Adar sloten zich dus de joden van Susan aaneen en zij doodden nog eens driehonderd man. Naar de bezittingen echter staken zij hun handen niet uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook op de veertiende dag van de maand Adar sloten zich dus de joden van Susan aaneen en zij doodden nog eens driehonderd man. Naar de bezittingen echter staken zij hun handen niet uit."
+          }
+        ]
+      },
+      "id": "ester.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 15,
+      "text": "Welaan dan, Heer, God, koning, God van Abraham, spaar uw volk, want ze loeren op onze ondergang en hebben er hun zinnen op gezet om ons, uw erfdeel van oudsher te vernietigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welaan dan, Heer, God, koning, God van Abraham, spaar uw volk, want ze loeren op onze ondergang en hebben er hun zinnen op gezet om ons, uw erfdeel van oudsher te vernietigen."
+          }
+        ]
+      },
+      "id": "ester.13.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "text": "Van alles draagt Gij kennis en Gij weet ook, dat ik het eerbetoon van de wettelozen verfoei en het bed verafschuw van de onbesnedenen en van alle vreemdelingen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Van alles draagt Gij kennis en Gij weet ook, dat ik het eerbetoon van de wettelozen verfoei en het bed verafschuw van de onbesnedenen en van alle vreemdelingen."
+          }
+        ]
+      },
+      "id": "ester.14.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "text": "Hij hief de gouden skepter op en raakte daarmee haar hals aan; hij kuste haar en sprak: 'Zeg het mij maar!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij hief de gouden skepter op en raakte daarmee haar hals aan; hij kuste haar en sprak: 'Zeg het mij maar!'"
+          }
+        ]
+      },
+      "id": "ester.15.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "text": "Wij echter zijn tot de bevinding gekomen dat de joden, door deze doortrapte booswicht voor de ondergang bestemd, geen misdadigers zijn, maar dat zij leven volgens zeer rechtvaardige wetten",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wij echter zijn tot de bevinding gekomen dat de joden, door deze doortrapte booswicht voor de ondergang bestemd, geen misdadigers zijn, maar dat zij leven volgens zeer rechtvaardige wetten"
+          }
+        ]
+      },
+      "id": "ester.16.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 16,
+      "text": "Daarop nam Memukan het woord, ten overstaan van de koning en de rijksgroten: 'Koningin Wasti heeft niet alleen tegenover de koning misdaan, maar ook tegenover alle rijksgroten en tegenover alle mensen in alle provincies van Ahasveros, de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarop nam Memukan het woord, ten overstaan van de koning en de rijksgroten: 'Koningin Wasti heeft niet alleen tegenover de koning misdaan, maar ook tegenover alle rijksgroten en tegenover alle mensen in alle provincies van Ahasveros, de koning."
+          }
+        ]
+      },
+      "id": "ester.1.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Toen Ester bij Ahasveros, de koning in het koninklijk paleis gebracht werd, was het de tiende maand, de maand Tebet, in het zevende jaar van zijn koningschap.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen Ester bij Ahasveros, de koning in het koninklijk paleis gebracht werd, was het de tiende maand, de maand Tebet, in het zevende jaar van zijn koningschap."
+          }
+        ]
+      },
+      "id": "ester.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "text": "'Roep alle joden die in Susan wonen bijeen en gaat dan voor mij vasten. Drie etmalen lang moet u niet eten of drinken, overdag niet en 's nachts niet. Ik zal ook zelf zo vasten, met mijn kameniers; en dan ga ik naar de koning, tegen de wet in. Moet ik te gronde gaan, dan ga ik maar te gronde!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "'Roep alle joden die in Susan wonen bijeen en gaat dan voor mij vasten. Drie etmalen lang moet u niet eten of drinken, overdag niet en 's nachts niet. Ik zal ook zelf zo vasten, met mijn kameniers; en dan ga ik naar de koning, tegen de wet in. Moet ik te gronde gaan, dan ga ik maar te gronde!'"
+          }
+        ]
+      },
+      "id": "ester.4.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "text": "Voor de joden was het een dag van licht en vreugde, van gejuich en glorie.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voor de joden was het een dag van licht en vreugde, van gejuich en glorie."
+          }
+        ]
+      },
+      "id": "ester.8.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "text": "Ook de andere joden, die in de provincies van de koning woonden, hadden zich aaneengesloten. Zij verdedigden zich, zij kregen rust van hun vijanden en zij doodden vijfenzeventigduizend van hun belagers. Naar de bezittingen echter staken zij hun handen niet uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook de andere joden, die in de provincies van de koning woonden, hadden zich aaneengesloten. Zij verdedigden zich, zij kregen rust van hun vijanden en zij doodden vijfenzeventigduizend van hun belagers. Naar de bezittingen echter staken zij hun handen niet uit."
+          }
+        ]
+      },
+      "id": "ester.9.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 16,
+      "text": "Veronachtzaam uw eigendom niet, dat Gij U uit Egypte hebt vrijgekocht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Veronachtzaam uw eigendom niet, dat Gij U uit Egypte hebt vrijgekocht."
+          }
+        ]
+      },
+      "id": "ester.13.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "text": "Gij weet, dat ik niet anders kan en dat ik een afschuw heb van het teken van mijn waardigheid, dat ik op mijn hoofd draag op de dagen dat ik mij vertonen moet. Ik walg ervan, als van een doek vol menstruatiebloed en ik draag het nooit op de dagen dat ik rust heb.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij weet, dat ik niet anders kan en dat ik een afschuw heb van het teken van mijn waardigheid, dat ik op mijn hoofd draag op de dagen dat ik mij vertonen moet. Ik walg ervan, als van een doek vol menstruatiebloed en ik draag het nooit op de dagen dat ik rust heb."
+          }
+        ]
+      },
+      "id": "ester.14.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 16,
+      "text": "Ester antwoordde: 'Toen ik u zag, heer, was u als een engel van God, en mijn hart sidderde van ontzag voor uw majesteit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester antwoordde: 'Toen ik u zag, heer, was u als een engel van God, en mijn hart sidderde van ontzag voor uw majesteit."
+          }
+        ]
+      },
+      "id": "ester.15.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "text": "en de zonen zijn van de allerhoogste, grootste en levende God,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en de zonen zijn van de allerhoogste, grootste en levende God,"
+          }
+        ]
+      },
+      "id": "ester.16.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 17,
+      "text": "Deze geschiedenis met de koning zal namelijk aan alle vrouwen ter ore komen, en dan zullen zij minachtend op hun mannen gaan neerzien. Ahasveros, de koning - zullen zij zeggen - gaf opdracht om koningin Wasti voor zijn aanschijn te brengen, maar zij kwam niet!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Deze geschiedenis met de koning zal namelijk aan alle vrouwen ter ore komen, en dan zullen zij minachtend op hun mannen gaan neerzien. Ahasveros, de koning - zullen zij zeggen - gaf opdracht om koningin Wasti voor zijn aanschijn te brengen, maar zij kwam niet!"
+          }
+        ]
+      },
+      "id": "ester.1.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "text": "De koning kreeg Ester meer lief dan alle andere vrouwen en zij verwierf zijn gunst en genegenheid, meer dan alle andere meisjes. Hij zette haar het koninklijk diadeem op het hoofd en maakte haar koningin in de plaats van Wasti.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning kreeg Ester meer lief dan alle andere vrouwen en zij verwierf zijn gunst en genegenheid, meer dan alle andere meisjes. Hij zette haar het koninklijk diadeem op het hoofd en maakte haar koningin in de plaats van Wasti."
+          }
+        ]
+      },
+      "id": "ester.2.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "text": "Mordekai ging weg en voerde alles uit wat Ester hem had opgedragen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai ging weg en voerde alles uit wat Ester hem had opgedragen."
+          }
+        ]
+      },
+      "id": "ester.4.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "text": "Ook in alle provincies en in alle steden, waar het besluit en bevel van de koning bekend werd, was er bij de joden vreugde en gejuich: er werden maaltijden aangericht en het was feest. Uit de bevolking van het land gingen velen tot het jodendom over, want vrees voor de joden had hen aangegrepen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ook in alle provincies en in alle steden, waar het besluit en bevel van de koning bekend werd, was er bij de joden vreugde en gejuich: er werden maaltijden aangericht en het was feest. Uit de bevolking van het land gingen velen tot het jodendom over, want vrees voor de joden had hen aangegrepen."
+          }
+        ]
+      },
+      "id": "ester.8.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 17,
+      "text": "Dat gebeurde op de dertiende dag van de maand Adar. Op de veertiende dag rustten zij uit en maakten die dag tot een dag van maaltijden en van vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dat gebeurde op de dertiende dag van de maand Adar. Op de veertiende dag rustten zij uit en maakten die dag tot een dag van maaltijden en van vreugde."
+          }
+        ]
+      },
+      "id": "ester.9.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "text": "Verhoor mijn gebed, erbarm U over uw erfgoed en doe onze droefheid in vreugde verkeren. Laat ons leven, Heer, om de lof van uw naam te zingen en sluit niet de mond van hen die U prijzen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Verhoor mijn gebed, erbarm U over uw erfgoed en doe onze droefheid in vreugde verkeren. Laat ons leven, Heer, om de lof van uw naam te zingen en sluit niet de mond van hen die U prijzen."
+          }
+        ]
+      },
+      "id": "ester.13.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "text": "Uw dienares heeft niet gegeten van de maal van Haman en ik heb geen feestmaal van de koning eer aangedaan en niet gedronken van de offerwijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uw dienares heeft niet gegeten van de maal van Haman en ik heb geen feestmaal van de koning eer aangedaan en niet gedronken van de offerwijn."
+          }
+        ]
+      },
+      "id": "ester.14.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "text": "Want u bent bewonderenswaardig,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want u bent bewonderenswaardig,"
+          }
+        ]
+      },
+      "id": "ester.15.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "text": "die onze heerschappij, evenals die van onze vaderen, met opperste welgezindheid behoedt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "die onze heerschappij, evenals die van onze vaderen, met opperste welgezindheid behoedt."
+          }
+        ]
+      },
+      "id": "ester.16.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 18,
+      "text": "Nog vandaag zullen alle vrouwen van de rijksgroten van Perzië en Medië, die van de geschiedenis met de koningin gehoord hebben, hun mannen, de rijksgroten van de koning, dat laten horen. En daar zal heel wat minachting en ruzie van komen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nog vandaag zullen alle vrouwen van de rijksgroten van Perzië en Medië, die van de geschiedenis met de koningin gehoord hebben, hun mannen, de rijksgroten van de koning, dat laten horen. En daar zal heel wat minachting en ruzie van komen!"
+          }
+        ]
+      },
+      "id": "ester.1.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "text": "De koning richtte een groot feestmaal aan voor al zijn rijksgroten en dienaren, het feestmaal van Ester. Hij schold de provincies hun belasting kwijt en deelde met koninklijke gulheid geschenken uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De koning richtte een groot feestmaal aan voor al zijn rijksgroten en dienaren, het feestmaal van Ester. Hij schold de provincies hun belasting kwijt en deelde met koninklijke gulheid geschenken uit."
+          }
+        ]
+      },
+      "id": "ester.2.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 18,
+      "text": "De joden van Susan echter sloten zich zowel op de dertiende als op de veertiende dag aaneen. Op de vijftiende rustten zij uit en maakten die dag tot een dag van maaltijden en van vreugde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De joden van Susan echter sloten zich zowel op de dertiende als op de veertiende dag aaneen. Op de vijftiende rustten zij uit en maakten die dag tot een dag van maaltijden en van vreugde."
+          }
+        ]
+      },
+      "id": "ester.9.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "text": "En heel Israël riep uit alle macht, want zij zagen hun dood vlak voor zich.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En heel Israël riep uit alle macht, want zij zagen hun dood vlak voor zich."
+          }
+        ]
+      },
+      "id": "ester.13.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "text": "Sinds de dag dat ik hierheen ben overgebracht tot vandaag toe heeft uw dienares haar vreugde alleen gevonden in U, Heer, God van Abraham.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Sinds de dag dat ik hierheen ben overgebracht tot vandaag toe heeft uw dienares haar vreugde alleen gevonden in U, Heer, God van Abraham."
+          }
+        ]
+      },
+      "id": "ester.14.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "text": "heer en uw aangezicht is een en al schoonheid.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "heer en uw aangezicht is een en al schoonheid.'"
+          }
+        ]
+      },
+      "id": "ester.15.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "text": "U zult er dus goed aan doen, geen rekening te houden met de door Haman, de zoon van Hamadatus, gezonden brief: de man die verantwoordelijk is voor die brief, is bij de poorten van Susan met zijn hele familie aan de paal gehangen; zo spoedig heeft de over alles gebiedende God het verdiende vonnis aan hem voltrokken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U zult er dus goed aan doen, geen rekening te houden met de door Haman, de zoon van Hamadatus, gezonden brief: de man die verantwoordelijk is voor die brief, is bij de poorten van Susan met zijn hele familie aan de paal gehangen; zo spoedig heeft de over alles gebiedende God het verdiende vonnis aan hem voltrokken."
+          }
+        ]
+      },
+      "id": "ester.16.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "text": "Als het de koning zo behaagt, laat er dan een koninklijke beschikking uitgaan, die geboekstaafd wordt bij de wetten van Perzië en Medië, zodat zij onherroepelijk wordt: dat Wasti niet meer mag verschijnen voor Ahasveros, de koning, en dat de koning haar koninklijke waardigheid aan een andere vrouw zal geven, die beter is dan zij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als het de koning zo behaagt, laat er dan een koninklijke beschikking uitgaan, die geboekstaafd wordt bij de wetten van Perzië en Medië, zodat zij onherroepelijk wordt: dat Wasti niet meer mag verschijnen voor Ahasveros, de koning, en dat de koning haar koninklijke waardigheid aan een andere vrouw zal geven, die beter is dan zij."
+          }
+        ]
+      },
+      "id": "ester.1.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "text": "Toen er weer meisjes bijeengebracht werden, zat Mordekai in de koninklijke poort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen er weer meisjes bijeengebracht werden, zat Mordekai in de koninklijke poort."
+          }
+        ]
+      },
+      "id": "ester.2.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 19,
+      "text": "Daarom vieren de joden die over het land verspreid in de niet-ommuurde steden wonen, de veertiende dag van de maand Adar met vreugde en maaltijden, als een feestdag, waarop men elkaar porties van de maaltijden stuurt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom vieren de joden die over het land verspreid in de niet-ommuurde steden wonen, de veertiende dag van de maand Adar met vreugde en maaltijden, als een feestdag, waarop men elkaar porties van de maaltijden stuurt."
+          }
+        ]
+      },
+      "id": "ester.9.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "text": "God, Gij die macht hebt over allen, aanhoor de stem van de wanhopigen, red ons uit de hand van de booswichten, red mij uit dit gevaar.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "God, Gij die macht hebt over allen, aanhoor de stem van de wanhopigen, red ons uit de hand van de booswichten, red mij uit dit gevaar."
+          }
+        ]
+      },
+      "id": "ester.14.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "text": "Terwijl ze zo sprak, viel de koningin weer in onmacht. De koning wist geen raad en al zijn hovelingen trachtten haar bij te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Terwijl ze zo sprak, viel de koningin weer in onmacht. De koning wist geen raad en al zijn hovelingen trachtten haar bij te brengen."
+          }
+        ]
+      },
+      "id": "ester.15.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 19,
+      "text": "U dient dus de tekst van dit schrijven overal zonder enige bedenking aan te slaan. Verder moet u de joden volgens hun eigen gebruiken laten leven",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U dient dus de tekst van dit schrijven overal zonder enige bedenking aan te slaan. Verder moet u de joden volgens hun eigen gebruiken laten leven"
+          }
+        ]
+      },
+      "id": "ester.16.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "text": "En als dan het door de koning uitgevaardigde decreet bekend wordt in heel het koninkrijk, dat grote koninkrijk, dan zullen alle vrouwen hun mannen respecteren, van hoog tot laag.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En als dan het door de koning uitgevaardigde decreet bekend wordt in heel het koninkrijk, dat grote koninkrijk, dan zullen alle vrouwen hun mannen respecteren, van hoog tot laag.'"
+          }
+        ]
+      },
+      "id": "ester.1.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "text": "Ester bleef zwijgen over haar familie en over haar volk, overeenkomstig het bevel van Mordekai. Zij gehoorzaamde nog steeds aan Mordekai, zoals in de tijd toen zij onder zijn voogdij stond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ester bleef zwijgen over haar familie en over haar volk, overeenkomstig het bevel van Mordekai. Zij gehoorzaamde nog steeds aan Mordekai, zoals in de tijd toen zij onder zijn voogdij stond."
+          }
+        ]
+      },
+      "id": "ester.2.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "text": "Mordekai maakte van deze gebeurtenissen een schriftelijk verslag, zond afschriften naar alle joden in alle provincies van Ahasveros, de koning, dichtbij en veraf,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai maakte van deze gebeurtenissen een schriftelijk verslag, zond afschriften naar alle joden in alle provincies van Ahasveros, de koning, dichtbij en veraf,"
+          }
+        ]
+      },
+      "id": "ester.9.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 20,
+      "text": "en hen met krachtige hand helpen om zich te verweren tegen degenen die hen zullen belagen op het ogenblik van de beproeving, op de dertiende dag van de twaalfde maand, Adar, de bewuste dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en hen met krachtige hand helpen om zich te verweren tegen degenen die hen zullen belagen op het ogenblik van de beproeving, op de dertiende dag van de twaalfde maand, Adar, de bewuste dag."
+          }
+        ]
+      },
+      "id": "ester.16.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "text": "Dit voorstel vond instemming bij de koning en de rijksgroten, en de koning handelde naar het voorstel van Memukan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit voorstel vond instemming bij de koning en de rijksgroten, en de koning handelde naar het voorstel van Memukan."
+          }
+        ]
+      },
+      "id": "ester.1.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "text": "In die dagen dan, toen Mordekai in de koninklijke poort zat, waren er twee eunuchen van de koning, Bigtan en Teres, behorend tot de dorpelwachters, die in bittere woede een aanslag op Ahasveros, de koning, beraamden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In die dagen dan, toen Mordekai in de koninklijke poort zat, waren er twee eunuchen van de koning, Bigtan en Teres, behorend tot de dorpelwachters, die in bittere woede een aanslag op Ahasveros, de koning, beraamden."
+          }
+        ]
+      },
+      "id": "ester.2.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "text": "om hen te verplichten ieder jaar de veertiende en de vijftiende dag van de maand Adar te vieren,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "om hen te verplichten ieder jaar de veertiende en de vijftiende dag van de maand Adar te vieren,"
+          }
+        ]
+      },
+      "id": "ester.9.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "text": "Want die dag, die voor het uitverkoren geslacht de dag van de ondergang had moeten worden, is door de allesbeheersende God voor hen tot een dag van vreugde gemaakt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want die dag, die voor het uitverkoren geslacht de dag van de ondergang had moeten worden, is door de allesbeheersende God voor hen tot een dag van vreugde gemaakt."
+          }
+        ]
+      },
+      "id": "ester.16.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 22,
+      "text": "Hij zond brieven naar alle provincies van de koning, naar elke provincie in haar eigen schrift en naar elk volk in zijn eigen taal: iedere man moest heer en meester zijn in zijn eigen huis en moest de taal van zijn eigen volk blijven spreken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij zond brieven naar alle provincies van de koning, naar elke provincie in haar eigen schrift en naar elk volk in zijn eigen taal: iedere man moest heer en meester zijn in zijn eigen huis en moest de taal van zijn eigen volk blijven spreken."
+          }
+        ]
+      },
+      "id": "ester.1.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "text": "Mordekai kwam dat te weten en bracht koningin Ester op de hoogte, die het weer, namens Mordekai, aan de koning vertelde.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Mordekai kwam dat te weten en bracht koningin Ester op de hoogte, die het weer, namens Mordekai, aan de koning vertelde."
+          }
+        ]
+      },
+      "id": "ester.2.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "text": "als de dagen, waarop de joden rust van hun vijanden hadden gekregen, en als de maand, waarin hun droefheid in vreugde was verkeerd en hun rouw in een feestdag was omgeslagen. Ze moesten die dagen maken tot dagen van maaltijden en van vreugde, elkaar porties van de maaltijden sturen en de armen goed bedenken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "als de dagen, waarop de joden rust van hun vijanden hadden gekregen, en als de maand, waarin hun droefheid in vreugde was verkeerd en hun rouw in een feestdag was omgeslagen. Ze moesten die dagen maken tot dagen van maaltijden en van vreugde, elkaar porties van de maaltijden sturen en de armen goed bedenken."
+          }
+        ]
+      },
+      "id": "ester.9.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 22,
+      "text": "Daarom moet ook u onder uw vastgestelde feesten een speciale dag vieren, met kostelijke maaltijden, opdat die dag nu en in de toekomst een teken van redding mag zijn voor ons",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom moet ook u onder uw vastgestelde feesten een speciale dag vieren, met kostelijke maaltijden, opdat die dag nu en in de toekomst een teken van redding mag zijn voor ons"
+          }
+        ]
+      },
+      "id": "ester.16.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "text": "Een onderzoek bevestigde de juistheid van de mededeling en men hing het tweetal op aan een paal. Onder het oog van de koning werd het gebeurde in de kronieken opgetekend.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Een onderzoek bevestigde de juistheid van de mededeling en men hing het tweetal op aan een paal. Onder het oog van de koning werd het gebeurde in de kronieken opgetekend."
+          }
+        ]
+      },
+      "id": "ester.2.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "text": "Datgene wat de joden zelf al begonnen waren maakten zij, toen Mordekai hun dat had geschreven, tot een vast gebruik.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Datgene wat de joden zelf al begonnen waren maakten zij, toen Mordekai hun dat had geschreven, tot een vast gebruik."
+          }
+        ]
+      },
+      "id": "ester.9.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 23,
+      "text": "en alle weldenkende Perzen en anderzijds onze belagers aan hun ondergang mag herinneren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en alle weldenkende Perzen en anderzijds onze belagers aan hun ondergang mag herinneren."
+          }
+        ]
+      },
+      "id": "ester.16.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "text": "De Agagiet Haman, de zoon van Hammedata, de jodenhater, had immers het plan opgevat de joden uit te roeien. Hij had het poer - dat wil zeggen het lot - geworpen, toen hij hen wilde opjagen en uitroeien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Agagiet Haman, de zoon van Hammedata, de jodenhater, had immers het plan opgevat de joden uit te roeien. Hij had het poer - dat wil zeggen het lot - geworpen, toen hij hen wilde opjagen en uitroeien."
+          }
+        ]
+      },
+      "id": "ester.9.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 16,
+      "verse": 24,
+      "text": "Alle steden of provincies, geen uitgezonderd, die niet naar dit bevel handelen, zullen zonder mededogen te vuur en te zwaard verwoest worden. Niet alleen door de mensen zullen ze gemeden worden, maar ook de wilde dieren en vogels zullen er een afschuw van hebben, voor altijd.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Alle steden of provincies, geen uitgezonderd, die niet naar dit bevel handelen, zullen zonder mededogen te vuur en te zwaard verwoest worden. Niet alleen door de mensen zullen ze gemeden worden, maar ook de wilde dieren en vogels zullen er een afschuw van hebben, voor altijd.'"
+          }
+        ]
+      },
+      "id": "ester.16.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "text": "Dit was echter de koning ter ore gekomen en deze had zowel mondeling als schriftelijk - verordend dat het onheil, door Haman tegen de joden beraamd, op diens eigen hoofd moest neerkomen en dat hij en zijn zonen aan de paal moesten worden opgehangen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit was echter de koning ter ore gekomen en deze had zowel mondeling als schriftelijk - verordend dat het onheil, door Haman tegen de joden beraamd, op diens eigen hoofd moest neerkomen en dat hij en zijn zonen aan de paal moesten worden opgehangen."
+          }
+        ]
+      },
+      "id": "ester.9.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "text": "Daarom, vanwege het woord poer, gaven de joden aan die dagen de naam poerim. Daarom, vanwege de inhoud van dit schrijven en vanwege alles wat ze er zelf van gezien en ondervonden hadden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom, vanwege het woord poer, gaven de joden aan die dagen de naam poerim. Daarom, vanwege de inhoud van dit schrijven en vanwege alles wat ze er zelf van gezien en ondervonden hadden,"
+          }
+        ]
+      },
+      "id": "ester.9.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "text": "legden zij als verplichting op en aanvaardden zij, zowel voor zichzelf en hun nakomelingen als ook voor allen die zich bij hen zouden aansluiten, - onherroepelijk - dat zij ieder jaar die twee dagen zouden vieren, volgens het desbetreffende voorschrift en op de daarvoor bepaalde tijd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "legden zij als verplichting op en aanvaardden zij, zowel voor zichzelf en hun nakomelingen als ook voor allen die zich bij hen zouden aansluiten, - onherroepelijk - dat zij ieder jaar die twee dagen zouden vieren, volgens het desbetreffende voorschrift en op de daarvoor bepaalde tijd."
+          }
+        ]
+      },
+      "id": "ester.9.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "text": "En deze dagen zouden herdacht en gevierd worden van geslacht tot geslacht en voor alle families en in alle provincies en in alle steden. Nooit mochten die poerim-dagen bij de joden in onbruik raken en mocht deze herdenking bij hun nakomelingen teloorgaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En deze dagen zouden herdacht en gevierd worden van geslacht tot geslacht en voor alle families en in alle provincies en in alle steden. Nooit mochten die poerim-dagen bij de joden in onbruik raken en mocht deze herdenking bij hun nakomelingen teloorgaan."
+          }
+        ]
+      },
+      "id": "ester.9.28",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 29,
+      "text": "Koningin Ester, de dochter van Abihail, schreef een stuk om deze tweede brief over poerim nadrukkelijk te bekrachtigen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Koningin Ester, de dochter van Abihail, schreef een stuk om deze tweede brief over poerim nadrukkelijk te bekrachtigen."
+          }
+        ]
+      },
+      "id": "ester.9.29",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 30,
+      "text": "Er gingen afschriften uit naar alle joden in de honderdzevenentwintig provincies, waaruit het koninkrijk van Ahasveros bestond. Het was een boodschap van vrede en verbondenheid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Er gingen afschriften uit naar alle joden in de honderdzevenentwintig provincies, waaruit het koninkrijk van Ahasveros bestond. Het was een boodschap van vrede en verbondenheid,"
+          }
+        ]
+      },
+      "id": "ester.9.30",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "text": "waarin de poerim-dagen als een verplicht feest werden opgelegd, te vieren op de daarvoor aangewezen tijd, zoals de jood Mordekai het hun had gelast, en in overeenstemming met de voorschriften, die zij voor zichzelf en hun nakomelingen hadden opgesteld ten aanzien van het vasten en de weeklachten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "waarin de poerim-dagen als een verplicht feest werden opgelegd, te vieren op de daarvoor aangewezen tijd, zoals de jood Mordekai het hun had gelast, en in overeenstemming met de voorschriften, die zij voor zichzelf en hun nakomelingen hadden opgesteld ten aanzien van het vasten en de weeklachten."
+          }
+        ]
+      },
+      "id": "ester.9.31",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "text": "En het woord van Ester, dat de regels voor het poerim-feest bepaalde, werd te boek gesteld.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En het woord van Ester, dat de regels voor het poerim-feest bepaalde, werd te boek gesteld."
+          }
+        ]
+      },
+      "id": "ester.9.32",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

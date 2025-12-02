@@ -1,0 +1,2490 @@
+{
+  "id": "amos",
+  "name": "Amos",
+  "chapters": 9,
+  "verseCount": 146,
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "text": "Dit zijn de woorden van Amos, die een schapenfokker uit Tekoa was, visioenen over Israël, die hij gezien heeft in de tijd van Uzzia, de koning van Juda, en van Jerobeam, de zoon van Joas, de koning van Israël, twee jaar voor de aardbeving.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit zijn de woorden van Amos, die een schapenfokker uit Tekoa was, visioenen over Israël, die hij gezien heeft in de tijd van Uzzia, de koning van Juda, en van Jerobeam, de zoon van Joas, de koning van Israël, twee jaar voor de aardbeving."
+          }
+        ]
+      },
+      "id": "amos.1.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Moab kom Ik niet op mijn besluit terug! Omdat hij het gebeente van de koning van Edom tot kalk heeft verbrand,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Moab kom Ik niet op mijn besluit terug! Omdat hij het gebeente van de koning van Edom tot kalk heeft verbrand,"
+          }
+        ]
+      },
+      "id": "amos.2.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "text": "Hoort dit woord dat Jahwe spreekt, over u, de zonen van Israël, over heel het geslacht dat Ik uit Egypte heb geleid. Mijn woord is:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort dit woord dat Jahwe spreekt, over u, de zonen van Israël, over heel het geslacht dat Ik uit Egypte heb geleid. Mijn woord is:"
+          }
+        ]
+      },
+      "id": "amos.3.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "text": "Hoort dit woord, gij koeien van Basan daar op Samaria's berg, gij die de geringen verdrukt, die de armen vertrapt en tot uw mannen zegt: 'Breng ons te drinken!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort dit woord, gij koeien van Basan daar op Samaria's berg, gij die de geringen verdrukt, die de armen vertrapt en tot uw mannen zegt: 'Breng ons te drinken!'"
+          }
+        ]
+      },
+      "id": "amos.4.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "text": "Hoort dit woord, de rouwklacht die Ik over u aanhef, gij huis Israël!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort dit woord, de rouwklacht die Ik over u aanhef, gij huis Israël!"
+          }
+        ]
+      },
+      "id": "amos.5.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "text": "Wee u, gij zorgelozen in Sion, gij zelfverzekerden op Samaria's berg, gij  notabelen van dat weergaloze volk, gij tot wie het huis Israël zich wendt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee u, gij zorgelozen in Sion, gij zelfverzekerden op Samaria's berg, gij  notabelen van dat weergaloze volk, gij tot wie het huis Israël zich wendt."
+          }
+        ]
+      },
+      "id": "amos.6.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "text": "Dit liet de Heer, Jahwe, mij zien: Hij vormde een zwerm sprinkhanen, toen het nagras begon op te komen, het nagras na de oogst voor de koning.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit liet de Heer, Jahwe, mij zien: Hij vormde een zwerm sprinkhanen, toen het nagras begon op te komen, het nagras na de oogst voor de koning."
+          }
+        ]
+      },
+      "id": "amos.7.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "text": "Dit liet de Heer, Jahwe, mij zien: een mand met rijpe vruchten. Hij vroeg: 'Wat ziet gij Amos?' Ik antwoordde: 'Een mand met rijpe vruchten.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit liet de Heer, Jahwe, mij zien: een mand met rijpe vruchten. Hij vroeg: 'Wat ziet gij Amos?' Ik antwoordde: 'Een mand met rijpe vruchten.'"
+          }
+        ]
+      },
+      "id": "amos.8.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "text": "Ik zag de Heer, staande op het altaar. Hij sprak: Sla tegen de kapitelen dat de balken beven en breek ze aan stukken, op de hoofden van allen. Wie dan nog overblijft, dood Ik met het zwaard. Geen vluchteling ontsnapt, geen ontsnapte wordt gered.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zag de Heer, staande op het altaar. Hij sprak: Sla tegen de kapitelen dat de balken beven en breek ze aan stukken, op de hoofden van allen. Wie dan nog overblijft, dood Ik met het zwaard. Geen vluchteling ontsnapt, geen ontsnapte wordt gered."
+          }
+        ]
+      },
+      "id": "amos.9.1",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "text": "Amos sprak: Jahwe buldert uit Sion, uit Jeruzalem laat Hij zijn stem weerklinken: de weiden der herders verschieten, de kruin van de Karmel verdort.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Amos sprak: Jahwe buldert uit Sion, uit Jeruzalem laat Hij zijn stem weerklinken: de weiden der herders verschieten, de kruin van de Karmel verdort."
+          }
+        ]
+      },
+      "id": "amos.1.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "text": "slinger Ik een vuur in Moab: het verslindt de paleizen van Keriot. Moab komt om in het strijdgewoel onder krijgsgeschreeuw en hoorngeschal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik een vuur in Moab: het verslindt de paleizen van Keriot. Moab komt om in het strijdgewoel onder krijgsgeschreeuw en hoorngeschal."
+          }
+        ]
+      },
+      "id": "amos.2.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "text": "U alleen heb Ik uitverkoren onder al de geslachten der aarde; daarom roep Ik u ook ter verantwoording voor al uw ongerechtigheden!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "U alleen heb Ik uitverkoren onder al de geslachten der aarde; daarom roep Ik u ook ter verantwoording voor al uw ongerechtigheden!"
+          }
+        ]
+      },
+      "id": "amos.3.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "text": "De Heer, Jahwe, heeft bij zijn heiligheid gezworen: Voorwaar, er komen dagen voor u, dat men u aan haken ophaalt en angels in uw achterwerk slaat,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De Heer, Jahwe, heeft bij zijn heiligheid gezworen: Voorwaar, er komen dagen voor u, dat men u aan haken ophaalt en angels in uw achterwerk slaat,"
+          }
+        ]
+      },
+      "id": "amos.4.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "text": "Zij is gevallen, zij staat niet meer op, de jonkvrouw Israël; zij ligt neergeworpen op haar eigen grond en niemand beurt haar meer op.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij is gevallen, zij staat niet meer op, de jonkvrouw Israël; zij ligt neergeworpen op haar eigen grond en niemand beurt haar meer op."
+          }
+        ]
+      },
+      "id": "amos.5.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "text": "Gaat naar Kalne en ziet toe; reist vandaar naar het grote Hamat en dan  zuidwaarts naar Gat in het land van de Filistijnen. Zijt gij soms beter  dan die koninkrijken of is hun gebied groter dan het uwe?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gaat naar Kalne en ziet toe; reist vandaar naar het grote Hamat en dan  zuidwaarts naar Gat in het land van de Filistijnen. Zijt gij soms beter  dan die koninkrijken of is hun gebied groter dan het uwe?"
+          }
+        ]
+      },
+      "id": "amos.6.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "text": "En toen zij al het groen op het land hadden afgevreten, riep ik: 'Heer, Jahwe, vergeef ons toch! Hoe zal Jakob dit overleven? Hij is zo klein!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En toen zij al het groen op het land hadden afgevreten, riep ik: 'Heer, Jahwe, vergeef ons toch! Hoe zal Jakob dit overleven? Hij is zo klein!'"
+          }
+        ]
+      },
+      "id": "amos.7.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "text": "Toen zei Jahwe tot mij: Israël, mijn volk, is rijp voor de ondergang; Ik zal het niet langer genadig voorbijgaan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen zei Jahwe tot mij: Israël, mijn volk, is rijp voor de ondergang; Ik zal het niet langer genadig voorbijgaan."
+          }
+        ]
+      },
+      "id": "amos.8.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "text": "Al dringen zij het dodenrijk binnen, mijn hand haalt hen daar weg. Al klimmen zij naar de hemel, Ik trek ze daar weer naar beneden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al dringen zij het dodenrijk binnen, mijn hand haalt hen daar weg. Al klimmen zij naar de hemel, Ik trek ze daar weer naar beneden."
+          }
+        ]
+      },
+      "id": "amos.9.2",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Damascus kom Ik niet op mijn besluit terug! Omdat zij Gilead met ijzeren sleden hebben gedorst,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Damascus kom Ik niet op mijn besluit terug! Omdat zij Gilead met ijzeren sleden hebben gedorst,"
+          }
+        ]
+      },
+      "id": "amos.1.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "text": "Uit hun midden doe Ik de heerser verdwijnen en met hem breng Ik ter dood al de groten van zijn rijk, spreekt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit hun midden doe Ik de heerser verdwijnen en met hem breng Ik ter dood al de groten van zijn rijk, spreekt Jahwe."
+          }
+        ]
+      },
+      "id": "amos.2.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "text": "Gaan er ooit twee mensen samen op weg zonder dat zij elkaar gevonden hebben?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gaan er ooit twee mensen samen op weg zonder dat zij elkaar gevonden hebben?"
+          }
+        ]
+      },
+      "id": "amos.3.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "text": "dat gij door de bressen naar buiten gesleurd wordt, de een na de ander, en gesleept naar de Hermon: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "dat gij door de bressen naar buiten gesleurd wordt, de een na de ander, en gesleept naar de Hermon: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "text": "Want zo spreekt Jahwe, de Heer: De stad die met duizend man uitrukt, redt er maar honderd; de stad die met honderd man uitrukt, redt er maar tien voor het huis Israël.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want zo spreekt Jahwe, de Heer: De stad die met duizend man uitrukt, redt er maar honderd; de stad die met honderd man uitrukt, redt er maar tien voor het huis Israël."
+          }
+        ]
+      },
+      "id": "amos.5.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "text": "Gij waant de onheilsdag veraf, maar gij brengt zelf de heerschappij van  het onrecht naderbij!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij waant de onheilsdag veraf, maar gij brengt zelf de heerschappij van  het onrecht naderbij!"
+          }
+        ]
+      },
+      "id": "amos.6.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "text": "Toen kreeg Jahwe er spijt van.' Het zal niet gebeuren,' sprak de Heer, Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen kreeg Jahwe er spijt van.' Het zal niet gebeuren,' sprak de Heer, Jahwe."
+          }
+        ]
+      },
+      "id": "amos.7.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "text": "Op die dag zullen in de tempel de liederen in weeklachten verkeren. Zo luidt de godsspraak van de Heer, Jahwe. Talloos zijn de lijken! Overal liggen ze neergesmeten! Alles is stil!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zullen in de tempel de liederen in weeklachten verkeren. Zo luidt de godsspraak van de Heer, Jahwe. Talloos zijn de lijken! Overal liggen ze neergesmeten! Alles is stil!"
+          }
+        ]
+      },
+      "id": "amos.8.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "text": "Al verbergen ze zich op de top van de Karmel, Ik spoor ze daar op en Ik grijp ze. Al onttrekken zij zich aan mijn blik op de bodem van de zee, Ik beveel de slang, hen daar te bijten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al verbergen ze zich op de top van de Karmel, Ik spoor ze daar op en Ik grijp ze. Al onttrekken zij zich aan mijn blik op de bodem van de zee, Ik beveel de slang, hen daar te bijten."
+          }
+        ]
+      },
+      "id": "amos.9.3",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "text": "slinger Ik vuur in Hazaëls huis: het verslindt de paleizen van Benhadad.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik vuur in Hazaëls huis: het verslindt de paleizen van Benhadad."
+          }
+        ]
+      },
+      "id": "amos.1.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Juda kom Ik niet op mijn besluit terug! Omdat zij Jahwe's wet versmaad hebben en zijn geboden niet hebben onderhouden, omdat die leugengoden van hen, waar hun vaderen al achteraan gelopen hadden, hen op een dwaalspoor hebben gebracht,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Juda kom Ik niet op mijn besluit terug! Omdat zij Jahwe's wet versmaad hebben en zijn geboden niet hebben onderhouden, omdat die leugengoden van hen, waar hun vaderen al achteraan gelopen hadden, hen op een dwaalspoor hebben gebracht,"
+          }
+        ]
+      },
+      "id": "amos.2.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "text": "Brult ooit een leeuw in het woud zonder dat hij een prooi heeft? Of gromt er een leeuwejong in zijn hol zonder dat het iets te pakken heeft gekregen?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Brult ooit een leeuw in het woud zonder dat hij een prooi heeft? Of gromt er een leeuwejong in zijn hol zonder dat het iets te pakken heeft gekregen?"
+          }
+        ]
+      },
+      "id": "amos.3.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "text": "Trek maar op naar Betel om te zondigen, naar Gilgal om er uw zonde nog erger te maken! Breng maar iedere morgen uw offers en om de drie dagen uw tienden!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Trek maar op naar Betel om te zondigen, naar Gilgal om er uw zonde nog erger te maken! Breng maar iedere morgen uw offers en om de drie dagen uw tienden!"
+          }
+        ]
+      },
+      "id": "amos.4.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "text": "Voorwaar, zo spreekt Jahwe tot het huis Israël: Zoekt Mij, en gij zult leven;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, zo spreekt Jahwe tot het huis Israël: Zoekt Mij, en gij zult leven;"
+          }
+        ]
+      },
+      "id": "amos.5.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "text": "Zij liggen op ivoren bedden en strekken zich uit op hun rustbanken; zij  eten de lammeren van de kudde op en de kalveren uit de stal;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij liggen op ivoren bedden en strekken zich uit op hun rustbanken; zij  eten de lammeren van de kudde op en de kalveren uit de stal;"
+          }
+        ]
+      },
+      "id": "amos.6.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "text": "Dit liet de Heer, Jahwe, mij zien: de Heer, Jahwe riep op tot een geding door het vuur. Het vuur verteerde de grote vloed en ging ook het bouwland verteren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit liet de Heer, Jahwe, mij zien: de Heer, Jahwe riep op tot een geding door het vuur. Het vuur verteerde de grote vloed en ging ook het bouwland verteren."
+          }
+        ]
+      },
+      "id": "amos.7.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "text": "Hoort dit, gij die strikken spant voor de armen om de misdeelden in het land te verdelgen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hoort dit, gij die strikken spant voor de armen om de misdeelden in het land te verdelgen,"
+          }
+        ]
+      },
+      "id": "amos.8.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "text": "Al lopen zij als krijgsgevangenen voor hun vijanden uit, Ik beveel het zwaard, hen daar te doden. Ik houd mijn blik op hen gericht, ten kwade, niet ten goede.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al lopen zij als krijgsgevangenen voor hun vijanden uit, Ik beveel het zwaard, hen daar te doden. Ik houd mijn blik op hen gericht, ten kwade, niet ten goede."
+          }
+        ]
+      },
+      "id": "amos.9.4",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 5,
+      "text": "De sluitboom van Damascus sla Ik aan stukken, uit Bikat-Awen verdrijf Ik de bewoners, uit Bet-Eden hem die daar de scepter zwaait, en de Aramee&euml;r wordt weggevoerd naar Kir, spreekt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De sluitboom van Damascus sla Ik aan stukken, uit Bikat-Awen verdrijf Ik de bewoners, uit Bet-Eden hem die daar de scepter zwaait, en de Arameeër wordt weggevoerd naar Kir, spreekt Jahwe."
+          }
+        ]
+      },
+      "id": "amos.1.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "text": "slinger Ik vuur in Juda: het verslindt Jeruzalems paleizen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik vuur in Juda: het verslindt Jeruzalems paleizen."
+          }
+        ]
+      },
+      "id": "amos.2.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "text": "Schiet een vogel omlaag naar de knip op de grond zonder dat daar een lokaas ligt? Of wordt de knip van de grond opgenomen zonder dat er iets gevangen is?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Schiet een vogel omlaag naar de knip op de grond zonder dat daar een lokaas ligt? Of wordt de knip van de grond opgenomen zonder dat er iets gevangen is?"
+          }
+        ]
+      },
+      "id": "amos.3.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "text": "Breng maar dankoffers van ongezuurd brood en maak maar ophef van uw vrijwillige gaven. Dat doet gij immers zo graag, gij zonen van Israël: zo luidt de godsspraak van de Heer, Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Breng maar dankoffers van ongezuurd brood en maak maar ophef van uw vrijwillige gaven. Dat doet gij immers zo graag, gij zonen van Israël: zo luidt de godsspraak van de Heer, Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "text": "maar zoekt Betel niet op, ga niet naar Gilgal en trek niet naar Berseba, want Gilgal gaat in ballingschap en Betel wordt een gruwel.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "maar zoekt Betel niet op, ga niet naar Gilgal en trek niet naar Berseba, want Gilgal gaat in ballingschap en Betel wordt een gruwel."
+          }
+        ]
+      },
+      "id": "amos.5.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "text": "zij verzinnen maar liederen, bij het getokkel van de harp en denken dat  hun speeltuig dat van David evenaart;",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zij verzinnen maar liederen, bij het getokkel van de harp en denken dat  hun speeltuig dat van David evenaart;"
+          }
+        ]
+      },
+      "id": "amos.6.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "text": "Maar ik riep: 'Heer, Jahwe, houd toch op! Hoe zal Jakob dit overleven? Hij is zo klein!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar ik riep: 'Heer, Jahwe, houd toch op! Hoe zal Jakob dit overleven? Hij is zo klein!'"
+          }
+        ]
+      },
+      "id": "amos.7.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "text": "gij die redeneert: 'Wanneer is de nieuwe maan voorbij? Dan kunnen wij ons koren verkopen! En wanneer de sabbat? Dan kunnen wij ons graan uitstallen. Dan verkleinen wij de efa, dan verhogen wij de prijs en bedriegen wij met een vervalste weegschaal.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "gij die redeneert: 'Wanneer is de nieuwe maan voorbij? Dan kunnen wij ons koren verkopen! En wanneer de sabbat? Dan kunnen wij ons graan uitstallen. Dan verkleinen wij de efa, dan verhogen wij de prijs en bedriegen wij met een vervalste weegschaal."
+          }
+        ]
+      },
+      "id": "amos.8.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "text": "Jahwe, de Heer van de legerscharen, Hij die de aarde aanraakt, en zij beeft en al haar bewoners rouwen, en heel de aarde rijst, als de Nijl, en zakt weer, als de rivier van Egypte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe, de Heer van de legerscharen, Hij die de aarde aanraakt, en zij beeft en al haar bewoners rouwen, en heel de aarde rijst, als de Nijl, en zakt weer, als de rivier van Egypte."
+          }
+        ]
+      },
+      "id": "amos.9.5",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 6,
+      "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Gaza kom Ik niet op mijn besluit terug! Omdat zij hele bevolkingen hebben weggevoerd en die hebben uitgeleverd aan Edom,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Gaza kom Ik niet op mijn besluit terug! Omdat zij hele bevolkingen hebben weggevoerd en die hebben uitgeleverd aan Edom,"
+          }
+        ]
+      },
+      "id": "amos.1.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Israël kom Ik niet op mijn besluit terug! Omdat zij de rechtvaardige voor geld verkopen, de arme voor een paar schoenen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Israël kom Ik niet op mijn besluit terug! Omdat zij de rechtvaardige voor geld verkopen, de arme voor een paar schoenen,"
+          }
+        ]
+      },
+      "id": "amos.2.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "text": "Wordt in een stad de bazuin gestoken zonder dat de bewoners beven? Gebeurt er ooit in een stad een ramp zonder dat Jahwe daar de hand in heeft?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wordt in een stad de bazuin gestoken zonder dat de bewoners beven? Gebeurt er ooit in een stad een ramp zonder dat Jahwe daar de hand in heeft?"
+          }
+        ]
+      },
+      "id": "amos.3.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "text": "Ik, Ik heb u schone tanden gegeven in al uw steden, gebrek aan brood in al uw woonplaatsen, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, Ik heb u schone tanden gegeven in al uw steden, gebrek aan brood in al uw woonplaatsen, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "text": "Zoekt Jahwe, en gij zult leven; doet gij het niet, dan grijpt Hij het huis Jozef aan als een vuur: het verslindt Betel, en niemand komt blussen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoekt Jahwe, en gij zult leven; doet gij het niet, dan grijpt Hij het huis Jozef aan als een vuur: het verslindt Betel, en niemand komt blussen."
+          }
+        ]
+      },
+      "id": "amos.5.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "text": "zij drinken wijn uit brede schalen en zalven zich met de kostelijkste  olie, maar om Jozefs ondergang bekreunen zij zich niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "zij drinken wijn uit brede schalen en zalven zich met de kostelijkste  olie, maar om Jozefs ondergang bekreunen zij zich niet."
+          }
+        ]
+      },
+      "id": "amos.6.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "text": "Toen kreeg Jahwe er spijt van.' Ook dit zal niet gebeuren,' sprak de Heer, Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen kreeg Jahwe er spijt van.' Ook dit zal niet gebeuren,' sprak de Heer, Jahwe."
+          }
+        ]
+      },
+      "id": "amos.7.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "text": "Dan kopen wij de kleine man voor geld, de arme voor een paar schoenen, en verhandelen wij zelfs het uitschot van ons koren.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan kopen wij de kleine man voor geld, de arme voor een paar schoenen, en verhandelen wij zelfs het uitschot van ons koren.'"
+          }
+        ]
+      },
+      "id": "amos.8.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "text": "Hij die in de hemel zijn verheven troon bouwt en op de aarde zijn gewelf laat rusten, Hij die het water van de zee roept en over de aarde uitstort: Jahwe is zijn naam!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij die in de hemel zijn verheven troon bouwt en op de aarde zijn gewelf laat rusten, Hij die het water van de zee roept en over de aarde uitstort: Jahwe is zijn naam!"
+          }
+        ]
+      },
+      "id": "amos.9.6",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "text": "slinger Ik vuur binnen Gaza's muren: het verslindt zijn paleizen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik vuur binnen Gaza's muren: het verslindt zijn paleizen."
+          }
+        ]
+      },
+      "id": "amos.1.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "text": "omdat zij de geringen als het stof van de aarde vertrappen en het recht van de armen verkrachten, Vader en zoon gaan naar dezelfde meid en ontwijden zo mijn heilige naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "omdat zij de geringen als het stof van de aarde vertrappen en het recht van de armen verkrachten, Vader en zoon gaan naar dezelfde meid en ontwijden zo mijn heilige naam."
+          }
+        ]
+      },
+      "id": "amos.2.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 7,
+      "text": "Zo ook doet de Heer, Jahwe, nooit iets zonder dat Hij zijn besluit onthult aan zijn dienaars, de profeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo ook doet de Heer, Jahwe, nooit iets zonder dat Hij zijn besluit onthult aan zijn dienaars, de profeten."
+          }
+        ]
+      },
+      "id": "amos.3.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "text": "Ik ook heb u de regen onthouden, net drie nieuwe manen voor de oogst, op de ene stad liet Ik het regenen, op de andere niet. De ene akker kreeg regen, de andere kreeg niets en droogde uit.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik ook heb u de regen onthouden, net drie nieuwe manen voor de oogst, op de ene stad liet Ik het regenen, op de andere niet. De ene akker kreeg regen, de andere kreeg niets en droogde uit."
+          }
+        ]
+      },
+      "id": "amos.4.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "text": "Men verandert het recht in alsem en slaat de gerechtigheid tegen de grond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Men verandert het recht in alsem en slaat de gerechtigheid tegen de grond."
+          }
+        ]
+      },
+      "id": "amos.5.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "text": "Daarom gaan zij als eersten de ballingschap in, en is het gedaan met de  feesten van hen die daar lui liggen uitgestrekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom gaan zij als eersten de ballingschap in, en is het gedaan met de  feesten van hen die daar lui liggen uitgestrekt."
+          }
+        ]
+      },
+      "id": "amos.6.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "text": "Dit liet de Heer, Jahwe, mij zien: de Heer stond op een loodrechte muur met een paslood in zijn hand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dit liet de Heer, Jahwe, mij zien: de Heer stond op een loodrechte muur met een paslood in zijn hand."
+          }
+        ]
+      },
+      "id": "amos.7.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "text": "Jahwe heeft gezworen bij de heerlijkheid van Jakob: Geen van hun daden zal Ik ooit vergeten!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Jahwe heeft gezworen bij de heerlijkheid van Jakob: Geen van hun daden zal Ik ooit vergeten!"
+          }
+        ]
+      },
+      "id": "amos.8.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "text": "Zijt gij mij niet evenveel waard als de zonen van Kus, gij kinderen van Israël? Zo luidt de godsspraak van Jahwe. Zoals Ik Israël uit Egypte geleid heb, zo bracht Ik de Filistijnen uit Kaftor, Aram uit Kir.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zijt gij mij niet evenveel waard als de zonen van Kus, gij kinderen van Israël? Zo luidt de godsspraak van Jahwe. Zoals Ik Israël uit Egypte geleid heb, zo bracht Ik de Filistijnen uit Kaftor, Aram uit Kir."
+          }
+        ]
+      },
+      "id": "amos.9.7",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "text": "Uit Asdod verdrijf Ik de bewoners, uit Askelon hem die daar de scepter zwaait. Ik keer mijn hand tegen Ekron en de laatste Filistijn gaat er aan, spreekt Jahwe de Heer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit Asdod verdrijf Ik de bewoners, uit Askelon hem die daar de scepter zwaait. Ik keer mijn hand tegen Ekron en de laatste Filistijn gaat er aan, spreekt Jahwe de Heer."
+          }
+        ]
+      },
+      "id": "amos.1.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "text": "Op de als pand aanvaarde kleren leggen zij zich neer bij de altaren en zij drinken met boetegeld betaalde wijn in het huis van hun God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op de als pand aanvaarde kleren leggen zij zich neer bij de altaren en zij drinken met boetegeld betaalde wijn in het huis van hun God."
+          }
+        ]
+      },
+      "id": "amos.2.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "text": "De leeuw heeft gebruld: wie zou er niet vrezen? De Heer, Jahwe, heeft gesproken: wie zou er niet profeteren?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De leeuw heeft gebruld: wie zou er niet vrezen? De Heer, Jahwe, heeft gesproken: wie zou er niet profeteren?"
+          }
+        ]
+      },
+      "id": "amos.3.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "text": "Naar een stad kwamen twee, drie andere steden strompelen om daar water te drinken, en hun dorst werd niet gelest, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Naar een stad kwamen twee, drie andere steden strompelen om daar water te drinken, en hun dorst werd niet gelest, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "text": "Hij, die de Plejaden maakt en Orion; hij die het doodse donker in dageraad verandert, en de dag verduistert tot nacht; Hij die het water van de zee roept en het uitstort over de aarde: Jahwe is zijn naam.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij, die de Plejaden maakt en Orion; hij die het doodse donker in dageraad verandert, en de dag verduistert tot nacht; Hij die het water van de zee roept en het uitstort over de aarde: Jahwe is zijn naam."
+          }
+        ]
+      },
+      "id": "amos.5.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "text": "Gezworen heeft de Heer, Jahwe, bij zichzelf, zo luidt de godsspraak van  Jahwe, de God van de legerscharen: Ik verfoei de heerlijkheid van Jakob en  Ik haat zijn paleizen; de stad geef Ik prijs, met al haar bewoners.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gezworen heeft de Heer, Jahwe, bij zichzelf, zo luidt de godsspraak van  Jahwe, de God van de legerscharen: Ik verfoei de heerlijkheid van Jakob en  Ik haat zijn paleizen; de stad geef Ik prijs, met al haar bewoners."
+          }
+        ]
+      },
+      "id": "amos.6.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "text": "En Jahwe vroeg mij: 'Wat ziet gij Amos?' Ik antwoordde: 'Een paslood.' Toen zei de Heer: 'Let op! Ik laat dit paslood dwars door mijn volk Israël gaan; Ik ga het niet langer genadig voorbij.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Jahwe vroeg mij: 'Wat ziet gij Amos?' Ik antwoordde: 'Een paslood.' Toen zei de Heer: 'Let op! Ik laat dit paslood dwars door mijn volk Israël gaan; Ik ga het niet langer genadig voorbij."
+          }
+        ]
+      },
+      "id": "amos.7.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "text": "De aarde zal daarom gaan beven en al haar bewoners zullen rouwen. Heel de aarde zal rijzen, als de Nijl, plotseling stijgen en weer zakken, als de rivier van Egypte.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De aarde zal daarom gaan beven en al haar bewoners zullen rouwen. Heel de aarde zal rijzen, als de Nijl, plotseling stijgen en weer zakken, als de rivier van Egypte."
+          }
+        ]
+      },
+      "id": "amos.8.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "text": "Ja, de ogen van de Heer, Jahwe, zijn op dit zondig koninkrijk gericht. Ik ga het van de aardbodem verdelgen. Maar toch zal Ik het huis Jakob niet geheel en al verdelgen, zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, de ogen van de Heer, Jahwe, zijn op dit zondig koninkrijk gericht. Ik ga het van de aardbodem verdelgen. Maar toch zal Ik het huis Jakob niet geheel en al verdelgen, zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.9.8",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 9,
+      "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Tyrus kom Ik niet op mijn besluit terug! Omdat zij hele bevolkingen als ballingen hebben uitgeleverd aan Edom en zich aan het broederverbond niet stoorden,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Na de herhaalde misdaden van Tyrus kom Ik niet op mijn besluit terug! Omdat zij hele bevolkingen als ballingen hebben uitgeleverd aan Edom en zich aan het broederverbond niet stoorden,"
+          }
+        ]
+      },
+      "id": "amos.1.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "text": "En Ik, Ik heb toch voor hun ogen de Amoriet verdelgd, zo hoog als een ceder, zo sterk als een eik; Ik heb hem toch uitgeroeid van onder tot boven, met wortel en tak!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Ik, Ik heb toch voor hun ogen de Amoriet verdelgd, zo hoog als een ceder, zo sterk als een eik; Ik heb hem toch uitgeroeid van onder tot boven, met wortel en tak!"
+          }
+        ]
+      },
+      "id": "amos.2.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "text": "Laat het horen in de paleizen van Assur en in de paleizen van Egypte, en zegt: Trekt samen naar de berg van Samaria op en ziet, hoe groot de verwarring daar is en de verdrukking binnen zijn muren.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Laat het horen in de paleizen van Assur en in de paleizen van Egypte, en zegt: Trekt samen naar de berg van Samaria op en ziet, hoe groot de verwarring daar is en de verdrukking binnen zijn muren."
+          }
+        ]
+      },
+      "id": "amos.3.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "text": "Ik heb u met korenbrand en met meeldauw geslagen; uw rijke tuinen en uw wijngaarden, uw vijgebomen en uw olijven, de sprinkhanen hebben ze kaal gevreten, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u met korenbrand en met meeldauw geslagen; uw rijke tuinen en uw wijngaarden, uw vijgebomen en uw olijven, de sprinkhanen hebben ze kaal gevreten, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 9,
+      "text": "Hij, die de ramp doet flitsen over de machtige: rampspoed komt over de vesting.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij, die de ramp doet flitsen over de machtige: rampspoed komt over de vesting."
+          }
+        ]
+      },
+      "id": "amos.5.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "text": "En al bleef er maar een huis met tien mensen over, zij zullen sterven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En al bleef er maar een huis met tien mensen over, zij zullen sterven."
+          }
+        ]
+      },
+      "id": "amos.6.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "text": "Isaaks offerhoogten worden verwoest, Israëls heiligdommen in puin gelegd, en tegen het huis van Jerobeam keer Ik Mij met het zwaard.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Isaaks offerhoogten worden verwoest, Israëls heiligdommen in puin gelegd, en tegen het huis van Jerobeam keer Ik Mij met het zwaard.'"
+          }
+        ]
+      },
+      "id": "amos.7.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "text": "Op die dag - zo luidt de godsspraak van de Heer, Jahwe doe Ik de zon ondergaan op het middaguur, verduister Ik de aarde op klaarlichte dag.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag - zo luidt de godsspraak van de Heer, Jahwe doe Ik de zon ondergaan op het middaguur, verduister Ik de aarde op klaarlichte dag."
+          }
+        ]
+      },
+      "id": "amos.8.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "text": "Voorwaar, met alle volkeren wordt op mijn bevel het huis Israël wel geschud, als in een zeef, maar geen steentje valt op de grond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Voorwaar, met alle volkeren wordt op mijn bevel het huis Israël wel geschud, als in een zeef, maar geen steentje valt op de grond."
+          }
+        ]
+      },
+      "id": "amos.9.9",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "text": "slinger Ik vuur binnen Tyrus' muren: het verslindt zijn paleizen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik vuur binnen Tyrus' muren: het verslindt zijn paleizen."
+          }
+        ]
+      },
+      "id": "amos.1.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "text": "Ik, Ik heb u uit Egypte gevoerd, u door de woestijn geleid, veertig jaar lang, en het land van die Amoriet aan u gegeven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik, Ik heb u uit Egypte gevoerd, u door de woestijn geleid, veertig jaar lang, en het land van die Amoriet aan u gegeven."
+          }
+        ]
+      },
+      "id": "amos.2.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "text": "Zij weten van geen recht meer, - zegt de godsspraak van Jahwe - degenen die in hun paleizen geweld opstapelen en onrecht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zij weten van geen recht meer, - zegt de godsspraak van Jahwe - degenen die in hun paleizen geweld opstapelen en onrecht."
+          }
+        ]
+      },
+      "id": "amos.3.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "text": "Ik heb de pest op u losgelaten, zoals destijds op Egypte; Ik heb uw jonge mannen met het zwaard gedood, terwijl uw paarden werden buitgemaakt, en uit uw legerkamp heb Ik u lijklucht laten opsnuiven, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb de pest op u losgelaten, zoals destijds op Egypte; Ik heb uw jonge mannen met het zwaard gedood, terwijl uw paarden werden buitgemaakt, en uit uw legerkamp heb Ik u lijklucht laten opsnuiven, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "text": "Ze haten hem die in de stadspoort vonnis wijst, verfoeien hem die de waarheid spreekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ze haten hem die in de stadspoort vonnis wijst, verfoeien hem die de waarheid spreekt."
+          }
+        ]
+      },
+      "id": "amos.5.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "text": "De oom, de man die het lijk moet verbranden, draagt het dan weg uit het  huis. En als iemand roept tot de ander ergens binnen in een huis: 'Is  daar bij u nog iemand?' en hij antwoordt: 'niemand meer!' dan zegt de  eerste: Sst! Noem niet de naam van Jahwe!'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De oom, de man die het lijk moet verbranden, draagt het dan weg uit het  huis. En als iemand roept tot de ander ergens binnen in een huis: 'Is  daar bij u nog iemand?' en hij antwoordt: 'niemand meer!' dan zegt de  eerste: Sst! Noem niet de naam van Jahwe!'"
+          }
+        ]
+      },
+      "id": "amos.6.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "text": "Toen stuurde Amasja, de priester van Betel, aan Jerobeam, koning van Israël, deze boodschap: 'Binnen uw eigen Israël smeedt Amos een komplot tegen u; het land is tegen al die dreigementen van hem niet bestand.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Toen stuurde Amasja, de priester van Betel, aan Jerobeam, koning van Israël, deze boodschap: 'Binnen uw eigen Israël smeedt Amos een komplot tegen u; het land is tegen al die dreigementen van hem niet bestand."
+          }
+        ]
+      },
+      "id": "amos.7.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "text": "Dan verkeer Ik uw feesten in rouw, al uw liederen in weeklachten; om alle heupen leg Ik een rouwkleed en alle hoofden scheer Ik kaal. Ik zal het land doen rouwen als over een enig kind; de laatste dag van dit land zal bitter zijn.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan verkeer Ik uw feesten in rouw, al uw liederen in weeklachten; om alle heupen leg Ik een rouwkleed en alle hoofden scheer Ik kaal. Ik zal het land doen rouwen als over een enig kind; de laatste dag van dit land zal bitter zijn."
+          }
+        ]
+      },
+      "id": "amos.8.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "text": "Al de zondaars van mijn volk komen om door het zwaard, allen die zeggen: 'Gij zult het onheil niet dichterbij brengen, het zal ons niet overvallen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Al de zondaars van mijn volk komen om door het zwaard, allen die zeggen: 'Gij zult het onheil niet dichterbij brengen, het zal ons niet overvallen.'"
+          }
+        ]
+      },
+      "id": "amos.9.10",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Edom kom Ik niet op mijn besluit terug! Omdat hij zijn broeder met het zwaard vervolgd heeft en alle deernis liet varen, omdat zijn woede steeds weer verscheurde en zijn wrok voortdurend bleef waken,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: na de herhaalde misdaden van Edom kom Ik niet op mijn besluit terug! Omdat hij zijn broeder met het zwaard vervolgd heeft en alle deernis liet varen, omdat zijn woede steeds weer verscheurde en zijn wrok voortdurend bleef waken,"
+          }
+        ]
+      },
+      "id": "amos.1.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "text": "Uit uw zonen heb Ik profeten gekozen en nazireeërs uit uw jonge mannen. Zo is het toch, Israëlieten? - Dit is de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Uit uw zonen heb Ik profeten gekozen en nazireeërs uit uw jonge mannen. Zo is het toch, Israëlieten? - Dit is de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.2.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "text": "Daarom - zo spreekt de Heer, Jahwe - zal een vijand het land omsingelen, zal hij uw sterkte neerhalen en uw paleizen plunderen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom - zo spreekt de Heer, Jahwe - zal een vijand het land omsingelen, zal hij uw sterkte neerhalen en uw paleizen plunderen."
+          }
+        ]
+      },
+      "id": "amos.3.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "text": "Ik heb u ondersteboven gekeerd, even geweldig als Sodom en Gomorra; als een geblakerd stuk hout zijt gij geworden dat aan een brand ontrukt is, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik heb u ondersteboven gekeerd, even geweldig als Sodom en Gomorra; als een geblakerd stuk hout zijt gij geworden dat aan een brand ontrukt is, maar gij hebt u niet tot Mij bekeerd: zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.4.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "text": "Daarom: gij die de zwakke vertrapt en van zijn graanoogst schatting heft, gij bouwt wel huizen van steen, maar erin wonen zult ge niet; gij plant wel fraaie wijngaarden, maar de wijn daarvan drinken zult ge niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom: gij die de zwakke vertrapt en van zijn graanoogst schatting heft, gij bouwt wel huizen van steen, maar erin wonen zult ge niet; gij plant wel fraaie wijngaarden, maar de wijn daarvan drinken zult ge niet."
+          }
+        ]
+      },
+      "id": "amos.5.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "text": "Want zo luidt Jahwe's bevel: Het grote huis wordt in stukken geslagen,  het kleine versplinterd.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want zo luidt Jahwe's bevel: Het grote huis wordt in stukken geslagen,  het kleine versplinterd."
+          }
+        ]
+      },
+      "id": "amos.6.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "text": "Want hij, Amos, zegt: 'Jerobeam zal sterven door het zwaard en Israël wordt van zijn eigen grond verbannen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Want hij, Amos, zegt: 'Jerobeam zal sterven door het zwaard en Israël wordt van zijn eigen grond verbannen.'"
+          }
+        ]
+      },
+      "id": "amos.7.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "text": "Zie, de dagen komen - zo luidt de godsspraak van de Heer, Jahwe - dat Ik honger breng in het land, geen honger naar brood, geen dorst naar water, maar honger en dorst om het woord van Jahwe te horen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie, de dagen komen - zo luidt de godsspraak van de Heer, Jahwe - dat Ik honger breng in het land, geen honger naar brood, geen dorst naar water, maar honger en dorst om het woord van Jahwe te horen."
+          }
+        ]
+      },
+      "id": "amos.8.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "text": "Op die dag herstel Ik de bouwvallige hut van David, dicht Ik haar scheuren, zet Ik weer overeind wat is neergehaald en bouw Ik haar op als weleer.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag herstel Ik de bouwvallige hut van David, dicht Ik haar scheuren, zet Ik weer overeind wat is neergehaald en bouw Ik haar op als weleer."
+          }
+        ]
+      },
+      "id": "amos.9.11",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 12,
+      "text": "slinger Ik vuur in Teman: het verslindt de paleizen van Bosra.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "slinger Ik vuur in Teman: het verslindt de paleizen van Bosra."
+          }
+        ]
+      },
+      "id": "amos.1.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "text": "Maar gij hebt de nazireeërs wijn laten drinken en tot de profeten gezegd: Geen profetieën!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar gij hebt de nazireeërs wijn laten drinken en tot de profeten gezegd: Geen profetieën!"
+          }
+        ]
+      },
+      "id": "amos.2.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "text": "Zo spreekt Jahwe: Zoals een herder uit de muil van een leeuw een paar schenkels redt of een stuk oor, zo worden de zonen van Israël gered, die daar in Samaria zitten, op de hoek van het bed, het Damascener rustbed.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Zoals een herder uit de muil van een leeuw een paar schenkels redt of een stuk oor, zo worden de zonen van Israël gered, die daar in Samaria zitten, op de hoek van het bed, het Damascener rustbed."
+          }
+        ]
+      },
+      "id": "amos.3.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "text": "Daarom zal Ik zo met u handelen, Israël. En omdat Ik zo met u zal handelen, moet gij u gereedmaken, Israël, om voor uw God te verschijnen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom zal Ik zo met u handelen, Israël. En omdat Ik zo met u zal handelen, moet gij u gereedmaken, Israël, om voor uw God te verschijnen."
+          }
+        ]
+      },
+      "id": "amos.4.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "text": "Ik weet immers, hoe talrijk uw misdaden zijn, hoe menigvuldig uw zonden; gij kwelt de rechtschapenen, gij neemt steekpenningen aan en verdrukt in de poort de armen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik weet immers, hoe talrijk uw misdaden zijn, hoe menigvuldig uw zonden; gij kwelt de rechtschapenen, gij neemt steekpenningen aan en verdrukt in de poort de armen."
+          }
+        ]
+      },
+      "id": "amos.5.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 12,
+      "text": "Rennen paarden tegen de rotsen op of ploegt men met ossen een steenrots?  Maar gij verkeert wel het recht in venijn, de vrucht der gerechtigheid in  alsem.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Rennen paarden tegen de rotsen op of ploegt men met ossen een steenrots?  Maar gij verkeert wel het recht in venijn, de vrucht der gerechtigheid in  alsem."
+          }
+        ]
+      },
+      "id": "amos.6.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "text": "En Amasja zei tegen Amos: 'Ziener, u moet maken dat u wegkomt! Verdwijn naar Juda en verdien daar uw brood maar met profeteren!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En Amasja zei tegen Amos: 'Ziener, u moet maken dat u wegkomt! Verdwijn naar Juda en verdien daar uw brood maar met profeteren!"
+          }
+        ]
+      },
+      "id": "amos.7.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "text": "Dan zullen zij zwerven van zee naar zee, dwalen van het noorden naar het oosten overal zoekend naar het woord van Jahwe, maar zij zullen het niet vinden.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan zullen zij zwerven van zee naar zee, dwalen van het noorden naar het oosten overal zoekend naar het woord van Jahwe, maar zij zullen het niet vinden."
+          }
+        ]
+      },
+      "id": "amos.8.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "text": "Wat is er overgebleven van Edom en van al de volken waarover mijn naam is uitgeroepen, dat nemen zij dan in bezit, zo luidt de godsspraak van Jahwe, die dit voltrekt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wat is er overgebleven van Edom en van al de volken waarover mijn naam is uitgeroepen, dat nemen zij dan in bezit, zo luidt de godsspraak van Jahwe, die dit voltrekt."
+          }
+        ]
+      },
+      "id": "amos.9.12",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "text": "Zo spreekt Jahwe: Na herhaalde misdaden van de zonen van Ammon kom Ik niet op mijn besluit terug! Omdat zij de zwangere vrouwen van Gilead opengereten hebben en zo hun eigen gebied hebben uitgebreid,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe: Na herhaalde misdaden van de zonen van Ammon kom Ik niet op mijn besluit terug! Omdat zij de zwangere vrouwen van Gilead opengereten hebben en zo hun eigen gebied hebben uitgebreid,"
+          }
+        ]
+      },
+      "id": "amos.1.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "text": "Welnu Ik zal het laten wankelen onder uw voeten, zoals een wagen wankelt, die te hoog met schoven beladen is.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Welnu Ik zal het laten wankelen onder uw voeten, zoals een wagen wankelt, die te hoog met schoven beladen is."
+          }
+        ]
+      },
+      "id": "amos.2.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "text": "Luistert en waarschuwt het huis Jakob - godsspraak van de Heer, Jahwe, de God van de machten -:",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Luistert en waarschuwt het huis Jakob - godsspraak van de Heer, Jahwe, de God van de machten -:"
+          }
+        ]
+      },
+      "id": "amos.3.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "text": "Hij immers die de bergen boetseert en de stormwind schept, die aan mensen zijn plannen onthult, Hij die dageraad tot duisternis maakt, die treedt op de toppen der aarde: Jahwe, God van de machten, is zijn naam!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hij immers die de bergen boetseert en de stormwind schept, die aan mensen zijn plannen onthult, Hij die dageraad tot duisternis maakt, die treedt op de toppen der aarde: Jahwe, God van de machten, is zijn naam!"
+          }
+        ]
+      },
+      "id": "amos.4.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "text": "In zulke dagen gaat alles zo slecht dat een verstandig mens geen woord heeft in te brengen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "In zulke dagen gaat alles zo slecht dat een verstandig mens geen woord heeft in te brengen."
+          }
+        ]
+      },
+      "id": "amos.5.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "text": "Gij maakt u blij met niets en gij zegt: 'Zijn wij niet geweldig door  onze eigen kracht?'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Gij maakt u blij met niets en gij zegt: 'Zijn wij niet geweldig door  onze eigen kracht?'"
+          }
+        ]
+      },
+      "id": "amos.6.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "text": "Hier in Betel mag u niet meer profeteren, want dit heiligdom is van de koning en dit gebouw van het rijk.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hier in Betel mag u niet meer profeteren, want dit heiligdom is van de koning en dit gebouw van het rijk.'"
+          }
+        ]
+      },
+      "id": "amos.7.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 13,
+      "text": "Op die dag zullen de bloeiende meisjes en de stralende jongemannen verkwijnen van dorst.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Op die dag zullen de bloeiende meisjes en de stralende jongemannen verkwijnen van dorst."
+          }
+        ]
+      },
+      "id": "amos.8.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "text": "Zie de dagen komen, godsspraak van Jahwe, dat de ploeger de maaier op de voet volgt en de druiventreder de zaaier, en de bergen stromen van de most en alle heuvels ervan druipen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zie de dagen komen, godsspraak van Jahwe, dat de ploeger de maaier op de voet volgt en de druiventreder de zaaier, en de bergen stromen van de most en alle heuvels ervan druipen."
+          }
+        ]
+      },
+      "id": "amos.9.13",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "text": "ontsteek Ik vuur binnen Rabba's muren: het verslindt zijn paleizen, onder geschreeuw, als op de dag van de strijd, onder gebulder, als op de dag van de storm.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "ontsteek Ik vuur binnen Rabba's muren: het verslindt zijn paleizen, onder geschreeuw, als op de dag van de strijd, onder gebulder, als op de dag van de storm."
+          }
+        ]
+      },
+      "id": "amos.1.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "text": "Dan krijgt zelfs de snelle loper geen kans om te vluchten, de sterke heeft niets aan zijn kracht en de dappere redt zijn leven niet.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan krijgt zelfs de snelle loper geen kans om te vluchten, de sterke heeft niets aan zijn kracht en de dappere redt zijn leven niet."
+          }
+        ]
+      },
+      "id": "amos.2.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "text": "Als Ik Israël ter verantwoording roep voor zijn zonden, dan treed Ik op tegen de altaren van Betel; dan worden de horens van het altaar afgehouwen en vallen ze op de grond.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Als Ik Israël ter verantwoording roep voor zijn zonden, dan treed Ik op tegen de altaren van Betel; dan worden de horens van het altaar afgehouwen en vallen ze op de grond."
+          }
+        ]
+      },
+      "id": "amos.3.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "text": "Zoekt het goede en niet het kwade: dan zult gij leven, dan zal Jahwe, de God van de machten, met u zijn, zoals gij altijd zegt.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoekt het goede en niet het kwade: dan zult gij leven, dan zal Jahwe, de God van de machten, met u zijn, zoals gij altijd zegt."
+          }
+        ]
+      },
+      "id": "amos.5.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 6,
+      "verse": 14,
+      "text": "Nu dan, let op: Zo luidt de godsspraak van Jahwe, de God van de  legerscharen: Ik laat een volk op u los, huis Israël, dat u onderdrukken  zal van de weg naar Hamat tot aan de beek van de Araba!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Nu dan, let op: Zo luidt de godsspraak van Jahwe, de God van de  legerscharen: Ik laat een volk op u los, huis Israël, dat u onderdrukken  zal van de weg naar Hamat tot aan de beek van de Araba!"
+          }
+        ]
+      },
+      "id": "amos.6.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "text": "Amos gaf Amasja ten antwoord: 'Ik ben geen profeet of lid van een profetengilde, ik ben veehoeder en vijgenkweker.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Amos gaf Amasja ten antwoord: 'Ik ben geen profeet of lid van een profetengilde, ik ben veehoeder en vijgenkweker."
+          }
+        ]
+      },
+      "id": "amos.7.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "text": "En zij die zweren bij de zondegod van Samaria, of die zeggen: 'Zo waar uw god leeft, Dan!' en die zeggen: 'Bij de eredienst van Berseba!' Zij zullen vallen om nooit meer op te staan.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "En zij die zweren bij de zondegod van Samaria, of die zeggen: 'Zo waar uw god leeft, Dan!' en die zeggen: 'Bij de eredienst van Berseba!' Zij zullen vallen om nooit meer op te staan."
+          }
+        ]
+      },
+      "id": "amos.8.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "text": "Dan herstel Ik mijn volk Israël in zijn vroegere staat, dan herbouwen zij de verwoeste steden en bewonen die weer, dan planten zij wijngaarden en drinken hun wijn, leggen zij boomgaarden aan en eten hun vruchten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan herstel Ik mijn volk Israël in zijn vroegere staat, dan herbouwen zij de verwoeste steden en bewonen die weer, dan planten zij wijngaarden en drinken hun wijn, leggen zij boomgaarden aan en eten hun vruchten."
+          }
+        ]
+      },
+      "id": "amos.9.14",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "text": "Hun koning gaat in ballingschap, hij zelf en de groten van zijn rijk, spreekt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hun koning gaat in ballingschap, hij zelf en de groten van zijn rijk, spreekt Jahwe."
+          }
+        ]
+      },
+      "id": "amos.1.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "text": "De boogschutter houdt geen stand, de hardloper ontkomt niet en geen ruiter redt zijn leven.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De boogschutter houdt geen stand, de hardloper ontkomt niet en geen ruiter redt zijn leven."
+          }
+        ]
+      },
+      "id": "amos.2.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 3,
+      "verse": 15,
+      "text": "Dan verniel Ik de winterverblijven, de zomerverblijven, dan gaan de ivoren paleizen te gronde en verdwijnen de machtige huizen, zo luidt de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Dan verniel Ik de winterverblijven, de zomerverblijven, dan gaan de ivoren paleizen te gronde en verdwijnen de machtige huizen, zo luidt de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.3.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "text": "Haat het kwade, hebt het goede lief en handhaaft het recht in de stadspoort; misschien zal dan Jahwe, de God van de machten, zich over de rest van Jozef ontfermen.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Haat het kwade, hebt het goede lief en handhaaft het recht in de stadspoort; misschien zal dan Jahwe, de God van de machten, zich over de rest van Jozef ontfermen."
+          }
+        ]
+      },
+      "id": "amos.5.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "text": "Maar Jahwe heeft mij achter mijn beesten weggehaald en het is Jahwe die mij gezegd heeft: Trek als profeet naar mijn volk Isra&euml;l.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar Jahwe heeft mij achter mijn beesten weggehaald en het is Jahwe die mij gezegd heeft: Trek als profeet naar mijn volk Israël."
+          }
+        ]
+      },
+      "id": "amos.7.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "text": "Ik zal hen planten in hun eigen grond en zij worden niet meer weggerukt uit de grond die Ik hun heb gegeven. Zo spreekt Jahwe, uw God.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik zal hen planten in hun eigen grond en zij worden niet meer weggerukt uit de grond die Ik hun heb gegeven. Zo spreekt Jahwe, uw God."
+          }
+        ]
+      },
+      "id": "amos.9.15",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "text": "Zelfs de dapperste onder strijders zal naakt moeten vluchten, die dag. Dit is de godsspraak van Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs de dapperste onder strijders zal naakt moeten vluchten, die dag. Dit is de godsspraak van Jahwe."
+          }
+        ]
+      },
+      "id": "amos.2.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "text": "Zo spreekt Jahwe, de God van de legerscharen, de Heer: Op alle pleinen klinkt een weeklacht, op alle straten kermt men ach en wee. Men roept de landman op tot rouwmisbaar, de klagers-van-beroep tot weeklacht.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zo spreekt Jahwe, de God van de legerscharen, de Heer: Op alle pleinen klinkt een weeklacht, op alle straten kermt men ach en wee. Men roept de landman op tot rouwmisbaar, de klagers-van-beroep tot weeklacht."
+          }
+        ]
+      },
+      "id": "amos.5.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "text": "Daarom: hoor het woord van Jahwe. U zegt wel: Je mag tegen Israël niet profeteren, tegen het huis Israël niet schuimbekken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Daarom: hoor het woord van Jahwe. U zegt wel: Je mag tegen Israël niet profeteren, tegen het huis Israël niet schuimbekken."
+          }
+        ]
+      },
+      "id": "amos.7.16",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "text": "Zelfs in alle wijngaarden klinkt een weeklacht, wanneer Ik door uw midden trek, spreekt Jahwe.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zelfs in alle wijngaarden klinkt een weeklacht, wanneer Ik door uw midden trek, spreekt Jahwe."
+          }
+        ]
+      },
+      "id": "amos.5.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "text": "Maar zo spreekt Jahwe: Uw vrouw zal in deze stad ontucht plegen, uw zonen en dochters zullen omkomen door het zwaard, uw eigen grond zal met het meetsnoer verkaveld worden; zelf zult gij op onreine grond moeten sterven en Israël wordt van zijn eigen grond verbannen.'",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Maar zo spreekt Jahwe: Uw vrouw zal in deze stad ontucht plegen, uw zonen en dochters zullen omkomen door het zwaard, uw eigen grond zal met het meetsnoer verkaveld worden; zelf zult gij op onreine grond moeten sterven en Israël wordt van zijn eigen grond verbannen.'"
+          }
+        ]
+      },
+      "id": "amos.7.17",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "text": "Wee hun, die uitzien naar de dag van Jahwe! Wat zal die dag van Jahwe voor u zijn? Een dag van duisternis en niet van licht!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Wee hun, die uitzien naar de dag van Jahwe! Wat zal die dag van Jahwe voor u zijn? Een dag van duisternis en niet van licht!"
+          }
+        ]
+      },
+      "id": "amos.5.18",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "text": "Zoals iemand, die vlucht voor een leeuw, door een beer wordt overvallen, en dan, als hij zijn huis binnenkomt en met zijn hand tegen de muur leunt, nog door een slang wordt gebeten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Zoals iemand, die vlucht voor een leeuw, door een beer wordt overvallen, en dan, als hij zijn huis binnenkomt en met zijn hand tegen de muur leunt, nog door een slang wordt gebeten."
+          }
+        ]
+      },
+      "id": "amos.5.19",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "text": "Ja, duisternis zal de dag van Jahwe zijn, geen licht, nachtelijk donker, van alle licht verstoken.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ja, duisternis zal de dag van Jahwe zijn, geen licht, nachtelijk donker, van alle licht verstoken."
+          }
+        ]
+      },
+      "id": "amos.5.20",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "text": "Ik haat, Ik verfoei uw feesten, uw vieringen kan Ik niet luchten.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Ik haat, Ik verfoei uw feesten, uw vieringen kan Ik niet luchten."
+          }
+        ]
+      },
+      "id": "amos.5.21",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "text": "De brandoffers en meeloffers die gij Mij brengt behagen Mij niet; uw vredeoffers van gemeste kalveren kan Ik niet meer aanzien.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De brandoffers en meeloffers die gij Mij brengt behagen Mij niet; uw vredeoffers van gemeste kalveren kan Ik niet meer aanzien."
+          }
+        ]
+      },
+      "id": "amos.5.22",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "text": "Spaar Mij het lawaai van uw liederen; de klank van uw harpen wil Ik niet meer horen!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Spaar Mij het lawaai van uw liederen; de klank van uw harpen wil Ik niet meer horen!"
+          }
+        ]
+      },
+      "id": "amos.5.23",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "text": "Neen, het recht moet stromen als water, de gerechtigheid als een nooit uitdrogende beek.",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Neen, het recht moet stromen als water, de gerechtigheid als een nooit uitdrogende beek."
+          }
+        ]
+      },
+      "id": "amos.5.24",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "text": "Hebt gij Mij in de woestijn soms slachtoffers en meeloffers gebracht, veertig jaar lang, gij huis Israël?",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "Hebt gij Mij in de woestijn soms slachtoffers en meeloffers gebracht, veertig jaar lang, gij huis Israël?"
+          }
+        ]
+      },
+      "id": "amos.5.25",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "text": "De goden die gij u gemaakt hebt, uw koning Sikkut en Kewan, die beelden van sterren, zult gij op uw schouders nemen,",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "De goden die gij u gemaakt hebt, uw koning Sikkut en Kewan, die beelden van sterren, zult gij op uw schouders nemen,"
+          }
+        ]
+      },
+      "id": "amos.5.26",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    },
+    {
+      "chapter": 5,
+      "verse": 27,
+      "text": "en zo voer Ik u weg, nog voorbij Damascus, spreekt Jahwe: God van de leger scharen is zijn naam!",
+      "textJson": {
+        "tag": "p",
+        "children": [
+          {
+            "text": "en zo voer Ik u weg, nog voorbij Damascus, spreekt Jahwe: God van de leger scharen is zijn naam!"
+          }
+        ]
+      },
+      "id": "amos.5.27",
+      "title": null,
+      "paragraph": "n",
+      "cross_references": []
+    }
+  ]
+}

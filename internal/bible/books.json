@@ -1,0 +1,367 @@
+[
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "order": 1
+  },
+  {
+    "id": "exodus",
+    "name": "Exodus",
+    "order": 2
+  },
+  {
+    "id": "leviticus",
+    "name": "Leviticus",
+    "order": 3
+  },
+  {
+    "id": "numeri",
+    "name": "Numeri",
+    "order": 4
+  },
+  {
+    "id": "deuteronomium",
+    "name": "Deuteronomium",
+    "order": 5
+  },
+  {
+    "id": "jozua",
+    "name": "Jozua",
+    "order": 6
+  },
+  {
+    "id": "rechters",
+    "name": "Rechters",
+    "order": 7
+  },
+  {
+    "id": "ruth",
+    "name": "Ruth",
+    "order": 8
+  },
+  {
+    "id": "1samuel",
+    "name": "1 Samuel",
+    "order": 9
+  },
+  {
+    "id": "2samuel",
+    "name": "2 Samuel",
+    "order": 10
+  },
+  {
+    "id": "1koningen",
+    "name": "1 Koningen",
+    "order": 11
+  },
+  {
+    "id": "2koningen",
+    "name": "2 Koningen",
+    "order": 12
+  },
+  {
+    "id": "1kronieken",
+    "name": "1 Kronieken",
+    "order": 13
+  },
+  {
+    "id": "2kronieken",
+    "name": "2 Kronieken",
+    "order": 14
+  },
+  {
+    "id": "ezra",
+    "name": "Ezra",
+    "order": 15
+  },
+  {
+    "id": "nehemia",
+    "name": "Nehemia",
+    "order": 16
+  },
+  {
+    "id": "tobit",
+    "name": "Tobit",
+    "order": 17
+  },
+  {
+    "id": "judit",
+    "name": "Judit",
+    "order": 18
+  },
+  {
+    "id": "ester",
+    "name": "Ester",
+    "order": 19
+  },
+  {
+    "id": "1makkabeeen",
+    "name": "1 Makkabeeën",
+    "order": 20
+  },
+  {
+    "id": "2makkabeeen",
+    "name": "2 Makkabeeën",
+    "order": 21
+  },
+  {
+    "id": "job",
+    "name": "Job",
+    "order": 22
+  },
+  {
+    "id": "psalmen",
+    "name": "Psalmen",
+    "order": 23
+  },
+  {
+    "id": "spreuken",
+    "name": "Spreuken",
+    "order": 24
+  },
+  {
+    "id": "prediker",
+    "name": "Prediker",
+    "order": 25
+  },
+  {
+    "id": "hooglied",
+    "name": "Hooglied",
+    "order": 26
+  },
+  {
+    "id": "wijsheid",
+    "name": "Wijsheid",
+    "order": 27
+  },
+  {
+    "id": "jezussirach",
+    "name": "Wijsheid van Jezus Sirach",
+    "order": 28
+  },
+  {
+    "id": "jesaja",
+    "name": "Jesaja",
+    "order": 29
+  },
+  {
+    "id": "jeremia",
+    "name": "Jeremia",
+    "order": 30
+  },
+  {
+    "id": "klaagliederen",
+    "name": "Klaagliederen",
+    "order": 31
+  },
+  {
+    "id": "baruch",
+    "name": "Baruch",
+    "order": 32
+  },
+  {
+    "id": "ezechiel",
+    "name": "Ezechiël",
+    "order": 33
+  },
+  {
+    "id": "daniel",
+    "name": "Daniël",
+    "order": 34
+  },
+  {
+    "id": "hosea",
+    "name": "Hosea",
+    "order": 35
+  },
+  {
+    "id": "joel",
+    "name": "Joël",
+    "order": 36
+  },
+  {
+    "id": "amos",
+    "name": "Amos",
+    "order": 37
+  },
+  {
+    "id": "obadja",
+    "name": "Obadja",
+    "order": 38
+  },
+  {
+    "id": "jonas",
+    "name": "Jona",
+    "order": 39
+  },
+  {
+    "id": "micha",
+    "name": "Micha",
+    "order": 40
+  },
+  {
+    "id": "nahum",
+    "name": "Nahum",
+    "order": 41
+  },
+  {
+    "id": "habakuk",
+    "name": "Habakuk",
+    "order": 42
+  },
+  {
+    "id": "sefanja",
+    "name": "Sefanja",
+    "order": 43
+  },
+  {
+    "id": "haggai",
+    "name": "Haggai",
+    "order": 44
+  },
+  {
+    "id": "zacharias",
+    "name": "Zacharia",
+    "order": 45
+  },
+  {
+    "id": "maleachi",
+    "name": "Maleachi",
+    "order": 46
+  },
+  {
+    "id": "matteus",
+    "name": "Evangelie volgens Matteüs",
+    "order": 47
+  },
+  {
+    "id": "marcus",
+    "name": "Evangelie volgens Marcus",
+    "order": 48
+  },
+  {
+    "id": "lucas",
+    "name": "Evangelie volgens Lukas",
+    "order": 49
+  },
+  {
+    "id": "johannes",
+    "name": "Evangelie volgens Johannes",
+    "order": 50
+  },
+  {
+    "id": "handelingen",
+    "name": "Handelingen van de Apostelen",
+    "order": 51
+  },
+  {
+    "id": "romeinen",
+    "name": "Romeinen",
+    "order": 52
+  },
+  {
+    "id": "1korintiers",
+    "name": "1 Korintiërs",
+    "order": 53
+  },
+  {
+    "id": "2korintiers",
+    "name": "2 Korintiërs",
+    "order": 54
+  },
+  {
+    "id": "galaten",
+    "name": "Galaten",
+    "order": 55
+  },
+  {
+    "id": "efesiers",
+    "name": "Efesiërs",
+    "order": 56
+  },
+  {
+    "id": "filippenzen",
+    "name": "Filippenzen",
+    "order": 57
+  },
+  {
+    "id": "kolossenzen",
+    "name": "Kolossenzen",
+    "order": 58
+  },
+  {
+    "id": "1tessalonicenzen",
+    "name": "1 Tessalonicenzen",
+    "order": 59
+  },
+  {
+    "id": "2tessalonicenzen",
+    "name": "2 Tessalonicenzen",
+    "order": 60
+  },
+  {
+    "id": "1timoteus",
+    "name": "1 Timoteüs",
+    "order": 61
+  },
+  {
+    "id": "2timoteus",
+    "name": "2 Timoteüs",
+    "order": 62
+  },
+  {
+    "id": "titus",
+    "name": "Titus",
+    "order": 63
+  },
+  {
+    "id": "filemon",
+    "name": "Filemon",
+    "order": 64
+  },
+  {
+    "id": "hebreeen",
+    "name": "Hebreeën",
+    "order": 65
+  },
+  {
+    "id": "jacobus",
+    "name": "Jacobus",
+    "order": 66
+  },
+  {
+    "id": "1petrus",
+    "name": "1 Petrus",
+    "order": 67
+  },
+  {
+    "id": "2petrus",
+    "name": "2 Petrus",
+    "order": 68
+  },
+  {
+    "id": "1johannes",
+    "name": "1 Johannes",
+    "order": 69
+  },
+  {
+    "id": "2johannes",
+    "name": "2 Johannes",
+    "order": 70
+  },
+  {
+    "id": "3johannes",
+    "name": "3 Johannes",
+    "order": 71
+  },
+  {
+    "id": "judas",
+    "name": "Judas",
+    "order": 72
+  },
+  {
+    "id": "apokalyps",
+    "name": "Apocalyps // Openbaring",
+    "order": 73
+  }
+]
