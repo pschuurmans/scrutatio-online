@@ -1,91 +1,72 @@
-# Bijbel API & Frontend
+# Scrutatio Online — Bijbel lezen met kruisverwijzingen
 
-A Go-based Bible API with a clean Svelte frontend for reading the Dutch Catholic Bible.
+Een **statische website / PWA** voor het lezen van de Nederlandse Katholieke Bijbel
+(Willibrordvertaling 1975) met meer dan 340.000 kruisverwijzingen. Er is **geen
+backend nodig**: alle data is statische JSON die direct door de browser wordt
+geladen.
 
-## Project Structure
+Dit project was oorspronkelijk een Go API met daarnaast een Svelte-frontend. Omdat
+alle data statisch is (embedded JSON), is de Go backend volledig geschrapt en in
+de frontend geïntegreerd.
 
-- **Backend** - Go API serving Bible data (port 3000)
-- **Frontend** - Svelte web application (port 5173)
+## Projectstructuur
 
-## Quick Start
-
-### Backend (Go API)
-
-1. Navigate to the project root:
-```bash
-cd scrutatio-online
+```
+frontend/
+  public/data/            # Alle statische data (lazy geladen)
+    books.json            # Boekenlijst (id, naam, volgorde)
+    books/*.json          # Volledige tekst per boek
+    crossref/*.json       # Kruisverwijzingen + mapping per boek
+  src/
+    App.svelte            # Hoofdapplicatie
+    lib/bibleData.js      # Data-aanroepen + tekst-opschoning (cleanVerseText)
 ```
 
-2. Run the API:
-```bash
-go run cmd/api/main.go
-```
+De `cleanVerseText`-logica (HTML-entities decoderen, voetnoot/`<abbr>`-markers en
+tags strippen, whitespace normaliseren) die vroeger in Go zat, is nu een exacte
+port in `frontend/src/lib/bibleData.js`. Van de 35.541 verzen is de uitvoer
+geverifieerd identiek aan de oorspronkelijke Go backend.
 
-The API will be available at `http://localhost:3000`
+## Lokaal draaien
 
-### Frontend (Svelte)
-
-1. Navigate to the frontend directory:
-```bash
-cd frontend
-```
-
-2. Install dependencies (first time only):
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-The frontend will be available at `http://localhost:5173`
-
-## API Endpoints
-
-- `GET /books` - List all Bible books with metadata
-- `GET /books/{bookId}` - Get specific book information
-- `GET /books/{bookId}/chapters` - Get all chapters for a book
-- `GET /books/{bookId}/chapter/{chapterId}` - Get verses for a specific chapter
-
-## Features
-
-### Backend
-- Embedded JSON data for all Bible books
-- Fast in-memory access
-- RESTful API design
-- CORS enabled for frontend access
-
-### Frontend
-- Browse all Bible books
-- View chapter listings
-- Read verses with clean formatting
-- Responsive design
-- Simple, distraction-free interface
-
-## Development
-
-### Running Tests (Backend)
-```bash
-go test ./...
-```
-
-### Building for Production
-
-**Backend:**
-```bash
-go build -o bin/api cmd/api/main.go
-```
-
-**Frontend:**
 ```bash
 cd frontend
-npm run build
+npm install          # eerste keer alleen
+npm run dev          # dev-server op http://localhost:5173
 ```
 
-## Technology Stack
+## Productie-build
 
-- **Backend:** Go 1.25, chi router
-- **Frontend:** Svelte, Vite
-- **Data:** Embedded JSON files
+```bash
+cd frontend
+npm run build        # schrijft naar dist/ (inclusief data)
+npm run preview      # lokaal de productie-build bekijken
+```
+
+## Hosting
+
+Omdat het een pure statische site is, kan deze overal draaien waar statische
+bestanden gehost worden, bijvoorbeeld:
+
+- **GitHub Pages** – de `dist/`-output direct als static site publiceren
+  (of via een CI-actie op elke push naar `main`).
+- **Elke statische host** (Netlify, Vercel, Cloudflare Pages, S3, ...).
+- **Docker** – de meegeleverde `Dockerfile` bouwt de frontend en serveert de
+  `dist/` met nginx (geen Go, geen API, geen supervisord meer).
+
+> Let op: de data is ~90 MB. Dat is prima voor bovenstaande hosts, maar houd er
+> rekening mee dat de eerste keer laden per boek groot is (de app laadt boeken
+> en kruisverwijzingen **lazy** en cachet ze daarna in de PWA/service worker).
+
+## PWA
+
+De app is een installable Progressive Web App (via `vite-plugin-pwa`):
+- Statische JSON onder `/data/` wordt na het eerste bezoek gecached (CacheFirst),
+  zodat bijbeltekst offline leesbaar is.
+- Eventuele data-updates vereisen een SW-versiebump (workbox precache).
+
+## Technologie
+
+- **Frontend:** Svelte, Vite, vite-plugin-pwa
+- **Data:** statische JSON (Willibrordvertaling 1975 + OpenBible.info kruisverwijzingen)
+- **Native wrapper:** Capacitor (iOS) — optioneel

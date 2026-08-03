@@ -2,15 +2,7 @@
   import { onMount } from 'svelte';
   import IntroPage from './lib/IntroPage.svelte';
   import { StatusBar, Style } from '@capacitor/status-bar';
-  
-  // Determine API base URL based on environment
-  // In development (vite dev server), connect directly to backend on port 3000
-  // In production build, use /api (nginx will proxy)
-  const isDevServer = import.meta.env.DEV;
-  
-  const API_BASE = isDevServer
-    ? `http://${window.location.hostname}:3000`  // Dev: direct to backend
-    : '/api';  // Production: nginx proxies to backend
+  import { getBooks, getBook, getChapterData, getCrossRefsForChapter } from './lib/bibleData.js';
 
   let books = [];
   let selectedBook = null;
@@ -88,9 +80,7 @@
     try {
       loading = true;
       error = null;
-      const response = await fetch(`${API_BASE}/books`);
-      if (!response.ok) throw new Error('Failed to load books');
-      books = await response.json();
+      books = await getBooks();
     } catch (e) {
       error = e.message;
     } finally {
@@ -107,9 +97,7 @@
       selectedVerse = null;
       chapterData = null;
       
-      const response = await fetch(`${API_BASE}/books/${bookId}/chapters`);
-      if (!response.ok) throw new Error('Failed to load book');
-      bookData = await response.json();
+      bookData = await getBook(bookId);
       
       // Update URL with book
       updateURL(bookId, null);
@@ -133,9 +121,7 @@
       selectedChapter = chapterNum;
       selectedVerse = null;
       
-      const response = await fetch(`${API_BASE}/books/${selectedBook}/chapter/${chapterNum}`);
-      if (!response.ok) throw new Error('Failed to load chapter');
-      chapterData = await response.json();
+      chapterData = await getChapterData(selectedBook, chapterNum);
       
       // Update URL with book and chapter
       updateURL(selectedBook, chapterNum, null);
@@ -225,10 +211,7 @@
         };
       }
       
-      const response = await fetch(`${API_BASE}/crossrefs/${selectedBook}/chapter/${selectedChapter}`);
-      if (!response.ok) throw new Error('Failed to load cross references');
-      
-      const allRefs = await response.json();
+      const allRefs = await getCrossRefsForChapter(selectedBook, selectedChapter);
       // Filter for the specific verse
       crossRefs = allRefs.filter(ref => ref.from.verse === verseNum);
       
@@ -307,13 +290,10 @@
       return;
     }
     try {
-      const response = await fetch(`${API_BASE}/books/${pickerBook}/chapters`);
-      if (response.ok) {
-        pickerBookInfo = await response.json();
-        // Reset chapter when book changes
-        if (selectedBook !== pickerBook) {
-          pickerChapter = null;
-        }
+      pickerBookInfo = await getBook(pickerBook);
+      // Reset chapter when book changes
+      if (selectedBook !== pickerBook) {
+        pickerChapter = null;
       }
     } catch (e) {
       console.error('Failed to load book info:', e);
