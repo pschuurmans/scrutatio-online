@@ -46,13 +46,19 @@ npm run preview      # lokaal de productie-build bekijken
 ## Hosting
 
 Omdat het een pure statische site is, kan deze overal draaien waar statische
-bestanden gehost worden, bijvoorbeeld:
+bestanden gehost worden.
 
-- **GitHub Pages** – de `dist/`-output direct als static site publiceren
-  (of via een CI-actie op elke push naar `main`).
-- **Elke statische host** (Netlify, Vercel, Cloudflare Pages, S3, ...).
-- **Docker** – de meegeleverde `Dockerfile` bouwt de frontend en serveert de
-  `dist/` met nginx (geen Go, geen API, geen supervisord meer).
+### GitHub Pages (standaard setup)
+
+De repo bevat een workflow (`.github/workflows/deploy-pages.yml`) die bij elke
+push naar `main` de frontend bouwt en naar GitHub Pages deployt.
+
+Eénmalig instellen (Settings → Pages → Build and deployment):
+- **Source:** "GitHub Actions" (niet "Deploy from a branch").
+
+Daarna staat de app op `https://<user>.github.io/bijbel-scrutineren/`. De build
+gebruikt een relatief `base`, dus hij werkt ook op een root-domein of met een
+custom domain via `Settings → Pages → Custom domain`.
 
 > Let op: de data is ~90 MB. Dat is prima voor bovenstaande hosts, maar houd er
 > rekening mee dat de eerste keer laden per boek groot is (de app laadt boeken
