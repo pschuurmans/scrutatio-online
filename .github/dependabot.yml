@@ -1,0 +1,41 @@
+version: 2
+updates:
+  # Frontend npm dependencies (Svelte, Vite, PWA, Capacitor, vitest)
+  - package-ecosystem: npm
+    directory: /frontend
+    schedule:
+      interval: weekly
+      day: monday
+      time: "06:00"
+      timezone: "Europe/Amsterdam"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+    groups:
+      # Group the toolchain so updates arrive as one reviewable PR.
+      vite-and-svelte:
+        patterns:
+          - "vite*"
+          - "@sveltejs/*"
+          - "svelte*"
+          - "vite-plugin-pwa"
+      capacitor:
+        patterns:
+          - "@capacitor/*"
+      test-tooling:
+        patterns:
+          - "vitest"
+          - "jsdom"
+
+  # GitHub Actions themselves
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+      day: monday
+      time: "06:00"
+      timezone: "Europe/Amsterdam"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "github-actions"

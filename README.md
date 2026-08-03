@@ -71,6 +71,29 @@ De app is een installable Progressive Web App (via `vite-plugin-pwa`):
   zodat bijbeltekst offline leesbaar is.
 - Eventuele data-updates vereisen een SW-versiebump (workbox precache).
 
+## Up-to-date houden & validatie (CI)
+
+Geautomatiseerde dependency-updates kunnen de app breken; daarom is er een
+test- en CI-laag:
+
+- **Tests** (`cd frontend && npm run test`, Vitest + jsdom):
+  - `src/lib/bibleData.test.js` — unit-tests voor de kernlogica
+    (`cleanVerseText`, hoofdstuk-laden, kruisverwijzings-mapping).
+  - `src/lib/dataIntegrity.test.js` — controleert dat de statische JSON onder
+    `public/data/` onderling consistent is (elk boek heeft een bestand, alle
+    verzen in bereik, elke kruisverwijzing heeft een geldige Engelse→Nederlandse
+    mapping). Vangt beschadigde of onvolledige data-updates.
+- **CI** (`.github/workflows/ci.yml`) — draait `npm ci`, `npm run test` en
+  `npm run build` op elke **PR** en op pushes naar `main`. Een gebroken
+  dependency-update wordt hier rood en kan niet mergen.
+- **Dependabot** (`.github/dependabot.yml`) — opent wekelijks PR's voor
+  npm-pakketten en GitHub Actions. De CI-check bepaalt of ze veilig zijn.
+
+> **Aanbeveling:** stel een branch protection rule in op `main` die deze
+> "test-and-build"-check **vereist** vóór mergen. Dan kan een automatische
+> dependency-update (of welke PR dan ook) nooit stilletjes een kapotte app
+> naar main/deploy brengen.
+
 ## Technologie
 
 - **Frontend:** Svelte, Vite, vite-plugin-pwa

@@ -84,10 +84,19 @@ export async function getBook(bookId) {
 
 // Return the cleaned verses of a single chapter (mirrors GET
 // /books/{bookId}/chapter/{chapterId}).
+//
+// Single-chapter books (e.g. Filemon, Judas, 2/3 Johannes) store all their
+// verses with chapter === 0 in the source JSON. Map chapter 0 -> 1 for those,
+// so requesting chapter 1 actually returns the verses.
 export async function getChapterData(bookId, chapterNum) {
   const book = await getBook(bookId);
+  const isSingleChapter = book.chapters === 1;
   const verses = book.verses
-    .filter((v) => v.chapter === chapterNum)
+    .filter(
+      (v) =>
+        v.chapter === chapterNum ||
+        (isSingleChapter && chapterNum === 1 && v.chapter === 0),
+    )
     .map((v) => ({ ...v, text: cleanVerseText(v.text) }));
   return { id: book.id, name: book.name, chapter: chapterNum, verses };
 }
