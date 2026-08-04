@@ -1,0 +1,228 @@
+{
+ "book": "2John",
+ "totalReferences": 18,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Pet",
+    "chapter": 5,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "3John",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "John",
+    "chapter": 14,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 3,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 2,
+    "verse": 7,
+    "endChapter": 2,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "3John",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "Phlm",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 5,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 4,
+    "verse": 2,
+    "endChapter": 4,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 2,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 9
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 2,
+    "verse": 23,
+    "endChapter": 2,
+    "endVerse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 9
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 9,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 9
+   },
+   "to": {
+    "book": "Jude",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 12
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 1,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  }
+ ]
+}

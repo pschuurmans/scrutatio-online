@@ -1,0 +1,3054 @@
+{
+ "book": "1Macc",
+ "totalReferences": 240,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 1,
+    "endChapter": 16,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 129,
+    "verse": 1,
+    "endChapter": 64,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 66,
+    "verse": 1,
+    "endChapter": 62,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 41,
+    "verse": 1,
+    "endChapter": 30,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 37,
+    "verse": 1,
+    "endChapter": 4,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 1,
+    "endChapter": 2,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 1,
+    "endChapter": 41,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 1,
+    "endChapter": 8,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 34
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 1,
+    "endChapter": 37,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 17,
+    "verse": 1,
+    "endChapter": 19,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 26,
+    "verse": 1,
+    "endChapter": 36,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 5,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 34
+   },
+   "to": {
+    "book": "John",
+    "chapter": 2,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 24,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 5,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 5,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 18
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 14,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 23,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 25
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 25,
+    "verse": 6,
+    "endChapter": 25,
+    "endVerse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 26
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 25,
+    "verse": 6,
+    "endChapter": 25,
+    "endVerse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 28
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 5,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 33,
+    "verse": 1,
+    "endChapter": 34,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 36,
+    "verse": 1,
+    "endChapter": 37,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 39,
+    "verse": 1,
+    "endChapter": 42,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 41,
+    "verse": 1,
+    "endChapter": 54,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 42,
+    "verse": 1,
+    "endChapter": 44,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 44,
+    "verse": 1,
+    "endChapter": 66,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 45,
+    "verse": 1,
+    "endChapter": 50,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 46,
+    "verse": 1,
+    "endChapter": 48,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 48,
+    "verse": 1,
+    "endChapter": 52,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 48,
+    "verse": 1,
+    "endChapter": 53,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 50,
+    "verse": 1,
+    "endChapter": 60,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 18,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 54,
+    "verse": 1,
+    "endChapter": 68,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 60,
+    "verse": 1,
+    "endChapter": 63,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 64,
+    "verse": 1,
+    "endChapter": 66,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 66,
+    "verse": 1,
+    "endChapter": 67,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 5,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 18,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 18,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 24,
+    "verse": 1,
+    "endChapter": 26,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 46
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 46
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 9,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 51
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 15,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 52
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 37,
+    "verse": 39,
+    "endChapter": 37,
+    "endVerse": 41
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 53
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 25,
+    "verse": 6,
+    "endChapter": 25,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 9,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 9,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 13,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 55
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 112,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 56
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 56
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 57
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 58
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 65,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 58
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 65,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 58
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 1,
+    "endChapter": 8,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 83,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 19
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 14,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 24
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 10,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 129,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 1,
+    "endChapter": 11,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 21
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 118,
+    "verse": 1,
+    "endChapter": 118,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 17,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 14,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 29
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 8,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 29
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 8,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 44
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 16,
+    "endChapter": 8,
+    "endVerse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 20,
+    "verse": 1,
+    "endChapter": 20,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 7,
+    "verse": 5,
+    "endChapter": 7,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 7,
+    "verse": 5,
+    "endChapter": 7,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 46
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 20,
+    "verse": 1,
+    "endChapter": 20,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 48
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 48
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 8,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 48
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 55
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 20,
+    "verse": 5,
+    "endChapter": 20,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 55
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 20,
+    "verse": 5,
+    "endChapter": 20,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 55
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 7,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 59
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 59
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 23,
+    "endChapter": 8,
+    "endVerse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 7
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 12,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 74,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 40
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 40
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 41,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 64
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 44
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 6,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 46
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 20,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 48
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 25,
+    "verse": 23,
+    "endChapter": 25,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 48
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 31,
+    "verse": 1,
+    "endChapter": 39,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 48
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 10,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 51
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 43,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 54
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 45
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 1,
+    "verse": 11,
+    "endChapter": 1,
+    "endVerse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 63
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 1,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 63
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 1,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 13,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 20,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 6,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 20,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 14,
+    "verse": 9,
+    "endChapter": 14,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 28
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 12,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 13,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 13,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 63
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 25,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 21,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 1
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 6,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 1
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 20,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 32
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 14,
+    "verse": 31,
+    "endChapter": 14,
+    "endVerse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 33
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 2,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 19,
+    "verse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 22,
+    "verse": 1,
+    "endChapter": 24,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 36,
+    "verse": 1,
+    "endChapter": 37,
+    "endVerse": 1,
+    "endBook": "Isa"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 25,
+    "verse": 1,
+    "endChapter": 36,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 33,
+    "endChapter": 1,
+    "endVerse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 10,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 13,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 63
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 23,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 4
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 42
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 17
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 18,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 17
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 79,
+    "verse": 2,
+    "endChapter": 79,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 22
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 22,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 38
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 25
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 26
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 8,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 34,
+    "verse": 1,
+    "endChapter": 36,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 1,
+    "endChapter": 24,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 46
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 4,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 43
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 1,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 73
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 19,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 73
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 22,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 17,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 24,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 30,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 73
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 55,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 84
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 3,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 147,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 1,
+    "verse": 73
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 57
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 65
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 34
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 26,
+    "endChapter": 10,
+    "endVerse": 45
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 11,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 38
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 17,
+    "endChapter": 8,
+    "endVerse": 32
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 4
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 20,
+    "endChapter": 12,
+    "endVerse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 6
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 5,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 8
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 15,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 16
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 17,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 30
+   },
+   "to": {
+    "book": "Jdt",
+    "chapter": 7,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 13,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 5,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 53
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 51
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 42
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 10,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 42
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 32,
+    "verse": 1,
+    "endChapter": 38,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 13,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 13,
+    "verse": 52
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 3,
+    "endChapter": 3,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 45
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 4,
+    "endChapter": 8,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 3,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 34,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 14
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 4,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 171
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 12,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 140,
+    "verse": 1,
+    "endChapter": 1,
+    "endVerse": 1,
+    "endBook": "1Macc"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 46
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 14,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 36
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 15,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 78
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 71
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 8,
+    "verse": 33
+   },
+   "votes": 1
+  }
+ ]
+}

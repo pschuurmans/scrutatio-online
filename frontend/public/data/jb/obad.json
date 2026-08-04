@@ -1,0 +1,584 @@
+{
+ "book": "Obad",
+ "totalReferences": 46,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 2,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 216,
+    "verse": 1,
+    "endChapter": 2,
+    "endVerse": 1,
+    "endBook": "Acts"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 12,
+    "verse": 40
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 20,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 49,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 49,
+    "verse": 15,
+    "endChapter": 49,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 14,
+    "verse": 138
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 14,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "Hab",
+    "chapter": 2,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 49,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 111,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 1,
+    "verse": 11,
+    "endChapter": 1,
+    "endVerse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 15,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 29,
+    "verse": 1,
+    "endChapter": 32,
+    "endVerse": 1,
+    "endBook": "Ezek"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 19,
+    "verse": 11,
+    "endChapter": 19,
+    "endVerse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 4,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 38,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 8,
+    "verse": 8,
+    "endChapter": 8,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Lam",
+    "chapter": 4,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 29,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 29,
+    "verse": 1,
+    "endChapter": 32,
+    "endVerse": 1,
+    "endBook": "Obad"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 29,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 49,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 4,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 16,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 41,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 137,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 19
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 25,
+    "verse": 12,
+    "endChapter": 14,
+    "endVerse": 3,
+    "endBook": "Ezek"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 32,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 22,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 8,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 5,
+    "verse": 1,
+    "endChapter": 12,
+    "endVerse": 1,
+    "endBook": "Obad"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 36,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 23,
+    "verse": 1,
+    "endChapter": 27,
+    "endVerse": 1,
+    "endBook": "Obad"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Obad",
+    "chapter": 23,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 50,
+    "verse": 1
+   },
+   "votes": 1
+  }
+ ]
+}

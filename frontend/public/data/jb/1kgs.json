@@ -1,0 +1,7940 @@
+{
+ "book": "1Kgs",
+ "totalReferences": 644,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 41,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 7,
+    "verse": 47
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 3,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 40,
+    "verse": 48
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 68,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 11
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 257,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 11
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 48
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1,
+    "endChapter": 13,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 18,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 72,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 159,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 11,
+    "verse": 11,
+    "endChapter": 11,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "Esth",
+    "chapter": 6,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "Esth",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 32
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 21,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 37
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 258,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 38
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 38
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 29,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 38
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 10,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 38
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 30,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 31,
+    "verse": 1,
+    "endChapter": 21,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 40
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 10,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 42
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 18,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 23,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 26,
+    "endChapter": 9,
+    "endVerse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 45
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 47,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 45
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 47,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 49
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 49
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 27,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 49
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 21,
+    "verse": 13,
+    "endChapter": 21,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 52
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 7,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 257,
+    "verse": 11,
+    "endChapter": 257,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 23,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 23,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 17,
+    "verse": 18,
+    "endChapter": 17,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 29,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 250,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 321
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 285,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 255,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 3,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 17,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 16,
+    "verse": 55
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 16,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "Ezra",
+    "chapter": 2,
+    "verse": 61
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 16,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 10
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 26,
+    "verse": 1,
+    "endChapter": 27,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 255,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 9,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 5,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 4,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 8,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jas",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jas",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 8,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 4
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 8,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 19
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 19,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 23
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 1,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 257,
+    "verse": 11,
+    "endChapter": 257,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 24
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 11,
+    "endChapter": 7,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 25
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 2,
+    "verse": 30,
+    "endChapter": 2,
+    "endVerse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 50
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 27,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 23,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 27,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 21,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 150
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 21,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 7,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 7,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 11,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 2,
+    "verse": 6,
+    "endChapter": 2,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 7,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 13
+   },
+   "to": {
+    "book": "Mal",
+    "chapter": 2,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 13
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 6,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 13
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 13
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 7,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 14
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 3,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Pet",
+    "chapter": 2,
+    "verse": 4,
+    "endChapter": 2,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Pet",
+    "chapter": 2,
+    "verse": 410
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 14,
+    "verse": 41
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 19
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 8,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 18,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 24
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 31,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 25
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 31,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 78
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 71
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 78
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 78
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 28,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 78
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 15
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 25,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 41,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 25,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 27,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 27,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 25,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 16,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 16,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 38,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 40,
+    "verse": 49
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 27,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 152
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 122,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 110,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 2,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 10,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 40,
+    "verse": 34,
+    "endChapter": 40,
+    "endVerse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 10,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 4
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 6,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 11
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 15,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 11
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 24,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 12
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 97,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 12
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 43,
+    "verse": 4,
+    "endChapter": 43,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 12
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 3,
+    "endChapter": 6,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 13
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 15,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 13
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 132,
+    "verse": 13,
+    "endChapter": 132,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 21,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 4,
+    "endChapter": 7,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 121
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 128
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 48,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 132,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1,
+    "endChapter": 20,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 257,
+    "verse": 11,
+    "endChapter": 257,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 24
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 7,
+    "verse": 11,
+    "endChapter": 7,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 37
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 1,
+    "endChapter": 18,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 40
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 40,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 42
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 25,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 48
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 20,
+    "endChapter": 6,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 48
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 25,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 49
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 49
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 49
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 49
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 25,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 51
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 2,
+    "endChapter": 5,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 112
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 1,
+    "endChapter": 10,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 6,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 25,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 65
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 40,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 4
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 25,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 30,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 47
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 4,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 51
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 11,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 53
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 17,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 53
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 7,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 56
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 55,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 57
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 57
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 31,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 57
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 57
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 58
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 43,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 32
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 17,
+    "verse": 1,
+    "endChapter": 17,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "1Macc",
+    "chapter": 4,
+    "verse": 44
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 16,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "2Macc",
+    "chapter": 2,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 43,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 17,
+    "verse": 1,
+    "endChapter": 17,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 63
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 1,
+    "endBook": "Lev"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 66,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 43,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "John",
+    "chapter": 1,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 148,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 147,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 1,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 38,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 6,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 11,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 2
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 8,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 49
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 26
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 33,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 17,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 7,
+    "verse": 48
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Eccl",
+    "chapter": 2,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 23,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 12,
+    "verse": 420
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 72,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 28
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 72,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 29
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 12,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 29
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 48,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 1,
+    "endChapter": 31,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 14
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 258,
+    "verse": 13,
+    "endChapter": 258,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 14
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 8,
+    "verse": 13,
+    "endChapter": 8,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 21
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 21
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 7,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 49
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 23
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 8,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 14,
+    "endChapter": 1,
+    "endVerse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 26
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 26
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 1,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 27
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 15,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 28
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 27,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 28
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 47,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 17,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 29
+   },
+   "to": {
+    "book": "Neh",
+    "chapter": 13,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 29
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 9,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 29
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 132,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 15,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 30
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 20,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 44
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 31
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 48,
+    "verse": 46
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 33
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 34
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 11,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 28,
+    "verse": 23,
+    "endChapter": 28,
+    "endVerse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 128,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 37
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 4,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 37
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 28,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 39
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 39
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 11,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 39
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 130,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 40
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 48
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 40
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 12,
+    "verse": 48
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 40
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 40,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 32,
+    "verse": 1,
+    "endChapter": 39,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 56,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 2,
+    "verse": 2,
+    "endChapter": 2,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 16,
+    "verse": 19,
+    "endChapter": 16,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 41
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 4,
+    "verse": 1,
+    "endChapter": 4,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 26,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 20,
+    "endChapter": 8,
+    "endVerse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 43
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 43
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 36,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 44
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 6,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 44
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 5,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 44
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 45
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 20,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 1,
+    "verse": 8,
+    "endChapter": 1,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 8,
+    "endChapter": 1,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 28,
+    "verse": 63,
+    "endChapter": 28,
+    "endVerse": 64
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 128,
+    "verse": 63,
+    "endChapter": 128,
+    "endVerse": 64
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "Eccl",
+    "chapter": 7,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 46
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 3,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 28,
+    "verse": 3,
+    "endChapter": 28,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 30,
+    "verse": 1,
+    "endChapter": 30,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 106,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 9,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 28,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 11,
+    "verse": 47
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 1
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 7,
+    "verse": 3,
+    "endChapter": 7,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 93,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 101,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 182,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 3
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 2,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 28,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 23,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 23,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 28,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 22,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 6
+   },
+   "to": {
+    "book": "Zeph",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 128,
+    "verse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 29,
+    "verse": 23,
+    "endChapter": 29,
+    "endVerse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 29,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 8,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 8
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 18,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 10
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 24,
+    "endChapter": 5,
+    "endVerse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 10
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 1,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 11
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 11
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 15,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 29,
+    "endChapter": 11,
+    "endVerse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 16
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 16
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 17
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 17,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 17
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 19
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 19
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 19
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 17,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 19
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 17,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 702
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 21
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 21
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 7,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 23
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 23,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 25
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 16,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 25
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 8,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 26
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 26
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 17,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 26
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 13,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 26
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 26
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 17,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 10,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 32,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 28
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 29
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 3,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 65
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 17,
+    "verse": 32
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 32
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 32
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 1
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 33,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 1
+   },
+   "to": {
+    "book": "Zeph",
+    "chapter": 1,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 36
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 36
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 8,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 36
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 21,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 36
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 36,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 37
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 39
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 40
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 29,
+    "endChapter": 9,
+    "endVerse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 81,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 8,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 13,
+    "verse": 43
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 8,
+    "verse": 111
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 147,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 158,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 8,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 11
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 15,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 12
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 23,
+    "verse": 17,
+    "endChapter": 23,
+    "endVerse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 12
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 22,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 12
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 47,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 32
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 9,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 32
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 23,
+    "verse": 15,
+    "endChapter": 23,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 32
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 3,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 32
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 33,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 29,
+    "endChapter": 11,
+    "endVerse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 159,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 27,
+    "endChapter": 15,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 28,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 25,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 14,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 7,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 20,
+    "verse": 3,
+    "endChapter": 20,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 34
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 11,
+    "verse": 29,
+    "endChapter": 11,
+    "endVerse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 47
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 23,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 15,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 1,
+    "endChapter": 18,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 8
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 23,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 12
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 12
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 2,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 12
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 22,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 15
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 6,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 16
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 41,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 19
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 5,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 23
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 28
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 10,
+    "endChapter": 14,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 28
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 10,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 15,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 159,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 23,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 34,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 24,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 12,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 22
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 23,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 23,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 40
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 1,
+    "endChapter": 11,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 24
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 23,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 24
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 24,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 26
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 16,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 2,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 7,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 21,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 4
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 8,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 29
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 29
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 23,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 7,
+    "endChapter": 14,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 1,
+    "endChapter": 16,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 10,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 10,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 21,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 34,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 5,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 5,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 31
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 18,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 4,
+    "verse": 1,
+    "endChapter": 4,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 16,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Josh",
+    "chapter": 6,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 4,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 4,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 17,
+    "verse": 34
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 1
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 19,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 12
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 12
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 16
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 2,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 18,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 3,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 6,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 9,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 20
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 11,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 30
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 30
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 18,
+    "verse": 30
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 32,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 418,
+    "verse": 1,
+    "endChapter": 37,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 16
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 4,
+    "verse": 18,
+    "endChapter": 4,
+    "endVerse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 16
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 4,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 16
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 7,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 17
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 17
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 17
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 19
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 4,
+    "verse": 33,
+    "endChapter": 4,
+    "endVerse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 19
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 19
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 20,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 19
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 21,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 23
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 11,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 12,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 4,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 4,
+    "verse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "Lam",
+    "chapter": 5,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 19,
+    "verse": 24
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 1
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 13,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 31,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 1,
+    "endBook": "1Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 12
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 3,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 12
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 4,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 33,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 13
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 3,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 13
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 4,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 14
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 8,
+    "verse": 7,
+    "endChapter": 8,
+    "endVerse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 14
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 1,
+    "endChapter": 9,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 14
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 11,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 14
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 19,
+    "endChapter": 19,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 16
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 18
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 18
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 13,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 18
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 18
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 11,
+    "verse": 45
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 18
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 11,
+    "verse": 4,
+    "endChapter": 11,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 20
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 2,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 21
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 9,
+    "verse": 61
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 21
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 14,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 34,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 24,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 22
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 22
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 19,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 22
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 24,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 1,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "Jdt",
+    "chapter": 7,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 24
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 10,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 28
+   },
+   "to": {
+    "book": "Jdt",
+    "chapter": 7,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 29
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 6,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 29
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 2,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 13,
+    "verse": 20,
+    "endChapter": 13,
+    "endVerse": 25
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 1,
+    "endChapter": 14,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 35
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 12,
+    "verse": 1,
+    "endChapter": 12,
+    "endVerse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 42
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 20,
+    "verse": 42
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 195,
+    "verse": 8,
+    "endChapter": 195,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 135,
+    "verse": 8,
+    "endChapter": 135,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 5,
+    "verse": 8,
+    "endChapter": 5,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Sam",
+    "chapter": 8,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 1
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 32,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 21,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 9
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 9
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 9
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 24,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 9
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 22,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 9
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 24,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 16
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 48,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 16
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 16
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 16
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 18,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 19
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 68,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 19
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 25,
+    "endChapter": 9,
+    "endVerse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 10,
+    "endChapter": 14,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 3,
+    "endChapter": 16,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 21
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 10,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 21
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 14,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 22
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 30,
+    "endChapter": 16,
+    "endVerse": 34
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 22
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 21,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 12,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 3,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 25
+   },
+   "to": {
+    "book": "John",
+    "chapter": 3,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 27
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 18,
+    "verse": 1,
+    "endChapter": 18,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 27
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 6,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 27
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 6,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 27
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 1,
+    "endChapter": 10,
+    "endVerse": 1,
+    "endBook": "2Kgs"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 27
+   },
+   "to": {
+    "book": "2Sam",
+    "chapter": 12,
+    "verse": 13,
+    "endChapter": 12,
+    "endVerse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 35
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 18,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 36
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 36
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 37
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 37
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 38
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 16,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 38
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 11,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 39
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 6,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 41
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 5,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 41
+   },
+   "to": {
+    "book": "Jas",
+    "chapter": 5,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 45
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 3,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 45
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 1,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 21,
+    "verse": 45
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 1,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 1
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 11,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 1
+   },
+   "to": {
+    "book": "Mark",
+    "chapter": 9,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 1
+   },
+   "to": {
+    "book": "Mark",
+    "chapter": 9,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 9,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 18,
+    "verse": 4,
+    "endChapter": 18,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 2
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 20,
+    "verse": 13,
+    "endChapter": 20,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 2
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 3,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 3
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 4
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 4
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 21,
+    "verse": 14,
+    "endChapter": 21,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jonah",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 4
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 11,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 4
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 3,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 5
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 3,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 5
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 2,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 5
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 5
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 30,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 6
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 12,
+    "verse": 5,
+    "endChapter": 12,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 9,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 24,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 33,
+    "verse": 18,
+    "endChapter": 34,
+    "endVerse": 9,
+    "endBook": "Exod"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Mark",
+    "chapter": 9,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Mal",
+    "chapter": 4,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 8
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 10
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 2,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 22,
+    "verse": 10
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 35,
+    "verse": 30
+   },
+   "votes": 1
+  }
+ ]
+}

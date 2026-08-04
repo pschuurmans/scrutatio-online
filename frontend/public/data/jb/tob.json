@@ -1,0 +1,2615 @@
+{
+ "book": "Tob",
+ "totalReferences": 209,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 16,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 26,
+    "verse": 1,
+    "endChapter": 32,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 18,
+    "verse": 125
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 18,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 118,
+    "verse": 3,
+    "endChapter": 118,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 18,
+    "verse": 3,
+    "endChapter": 18,
+    "endVerse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 22,
+    "verse": 1,
+    "endChapter": 27,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 28,
+    "verse": 1,
+    "endChapter": 29,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 8,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 2,
+    "verse": 48,
+    "endChapter": 2,
+    "endVerse": 49
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 23,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 31,
+    "verse": 16,
+    "endChapter": 31,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 10
+   },
+   "to": {
+    "book": "Mark",
+    "chapter": 5,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 23,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 15
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 247,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 2,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 119,
+    "verse": 137
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 21
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 197,
+    "verse": 32
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 27
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 29,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 148,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Bar",
+    "chapter": 1,
+    "verse": 17,
+    "endChapter": 1,
+    "endVerse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 3,
+    "verse": 27,
+    "endChapter": 3,
+    "endVerse": 32
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 9,
+    "verse": 5,
+    "endChapter": 9,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 34,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Num",
+    "chapter": 11,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 25,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jdt",
+    "chapter": 5,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 6
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 6,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 37,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 6,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 42,
+    "verse": 38
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 134,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 10
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 138,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 13,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 64
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 12,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 12,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 12,
+    "endChapter": 4,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 6,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Eph",
+    "chapter": 4,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 20,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Exod",
+    "chapter": 20,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "John",
+    "chapter": 3,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 8,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 23,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 7,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 23,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 2
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 13,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 15,
+    "verse": 7,
+    "endChapter": 8,
+    "endVerse": 11,
+    "endBook": "Deut"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 31,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 19,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 4,
+    "verse": 1,
+    "endChapter": 4,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 7
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 12,
+    "verse": 8,
+    "endChapter": 12,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 9
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 3,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 9
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 9
+   },
+   "to": {
+    "book": "John",
+    "chapter": 3,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 3,
+    "endChapter": 24,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 11,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 3,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 301
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 29,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 28,
+    "verse": 1,
+    "endChapter": 28,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 6,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 25,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 12
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 29,
+    "verse": 15,
+    "endChapter": 29,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 14
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 19,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 14
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 22,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 24,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 7,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 15
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 7,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 16
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 9,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 16
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 6,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 16
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 6,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 25,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 44
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 29,
+    "verse": 4,
+    "endChapter": 29,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 29,
+    "verse": 46
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 33,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 54
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 15,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 21,
+    "endChapter": 1,
+    "endVerse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 12,
+    "endChapter": 4,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 43,
+    "verse": 27,
+    "endChapter": 43,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 45,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 30,
+    "verse": 1,
+    "endChapter": 51,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 50,
+    "verse": 1,
+    "endChapter": 51,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 6,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 16,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 22,
+    "verse": 1,
+    "endChapter": 30,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 43,
+    "verse": 1,
+    "endChapter": 450,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 3,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 2,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 54
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 44,
+    "verse": 8,
+    "endChapter": 44,
+    "endVerse": 34
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 10,
+    "endChapter": 14,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 30,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 13,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 27
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 44,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gal",
+    "chapter": 45,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 45,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 54,
+    "endChapter": 24,
+    "endVerse": 61
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 14,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 15,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 15,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 9,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 30,
+    "verse": 43
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 32,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 24,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 46,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 33,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 15,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 43,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 46,
+    "verse": 29,
+    "endChapter": 46,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 15,
+    "verse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 1
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 13,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 10,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 8,
+    "verse": 3,
+    "endChapter": 8,
+    "endVerse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 8,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 4,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 30,
+    "verse": 25,
+    "endChapter": 30,
+    "endVerse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 33,
+    "verse": 23,
+    "endChapter": 33,
+    "endVerse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 2,
+    "endVerse": 1,
+    "endBook": "Job"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Job",
+    "chapter": 13,
+    "verse": 20,
+    "endChapter": 13,
+    "endVerse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 1,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 24,
+    "verse": 41,
+    "endChapter": 24,
+    "endVerse": 43
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 25,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Sir",
+    "chapter": 3,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 30,
+    "verse": 25,
+    "endChapter": 30,
+    "endVerse": 35
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 129,
+    "verse": 8,
+    "endChapter": 129,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 361,
+    "verse": 1,
+    "endChapter": 2,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 10,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 3,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "1Tim",
+    "chapter": 1,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Dan",
+    "chapter": 3,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 30,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Eph",
+    "chapter": 1,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 63,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 3,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 3,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Luke",
+    "chapter": 1,
+    "verse": 68
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 7,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Matt",
+    "chapter": 6,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 144,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 29,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 2,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 32,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 64,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 30,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 16,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 12,
+    "verse": 20
+   },
+   "to": {
+    "book": "Wis",
+    "chapter": 14,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 15
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 1,
+    "endBook": "Nah"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 15
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 137,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 15
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 15
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 17,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 9,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Bar",
+    "chapter": 4,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Bar",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 9,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 2,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 66,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 62,
+    "verse": 1,
+    "endChapter": 62,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 4,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 22,
+    "verse": 27
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 122,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 944,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 44,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 8,
+    "verse": 20,
+    "endChapter": 8,
+    "endVerse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 20
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 2,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 21
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 21,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 21
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 54,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 21
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 60,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 14,
+    "verse": 21
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 10,
+    "verse": 1,
+    "endChapter": 21,
+    "endVerse": 1,
+    "endBook": "Tob"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 12,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 47,
+    "verse": 29
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 2,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 64,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 9,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 381
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 1,
+    "endBook": "Nah"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 2,
+    "endChapter": 4,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 4
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 5,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 6
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 34,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 6
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 2,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 16,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 6
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 32,
+    "verse": 37
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 13
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 49,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 13
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 1,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 32,
+    "verse": 13
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 4,
+    "verse": 4
+   },
+   "votes": 1
+  }
+ ]
+}

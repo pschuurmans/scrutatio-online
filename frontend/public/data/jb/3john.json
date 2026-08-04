@@ -1,0 +1,102 @@
+{
+ "book": "3John",
+ "totalReferences": 8,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 3,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "2John",
+    "chapter": 1,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "2John",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "3John",
+    "chapter": 3,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 5
+   },
+   "to": {
+    "book": "1Tim",
+    "chapter": 5,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 9
+   },
+   "to": {
+    "book": "1John",
+    "chapter": 5,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 12
+   },
+   "to": {
+    "book": "3John",
+    "chapter": 21,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 12
+   },
+   "to": {
+    "book": "John",
+    "chapter": 19,
+    "verse": 35
+   },
+   "votes": 1
+  }
+ ]
+}

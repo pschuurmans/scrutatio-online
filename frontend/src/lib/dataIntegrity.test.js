@@ -18,8 +18,8 @@ let bookMapping
 beforeAll(() => {
   booksMeta = readJSON('books.json')
   bookFiles = readdirSync(join(DATA, 'books')).filter((f) => f.endsWith('.json'))
-  crossrefIndex = readJSON('crossref/index.json')
-  bookMapping = readJSON('crossref/book-mapping.json')
+  crossrefIndex = readJSON('jb/index.json')
+  bookMapping = readJSON('jb/book-mapping.json')
 })
 
 describe('books.json <-> book files', () => {
@@ -65,15 +65,15 @@ describe('books.json <-> book files', () => {
 describe('cross-reference data integrity', () => {
   it('every index entry maps to an existing file', () => {
     for (const entry of crossrefIndex.books || []) {
-      expect(entry.file, `missing crossref/${entry.file}`).toBeTruthy()
-      expect(existsSync(join(DATA, 'crossref', entry.file)), `missing crossref/${entry.file}`).toBe(true)
+      expect(entry.file, `missing jb/${entry.file}`).toBeTruthy()
+      expect(existsSync(join(DATA, 'jb', entry.file)), `missing jb/${entry.file}`).toBe(true)
     }
   })
 
   it('every cross-reference "to" book has an English->Dutch mapping', () => {
     const unknown = new Set()
     for (const entry of crossrefIndex.books || []) {
-      const refs = readJSON(`crossref/${entry.file}`)
+      const refs = readJSON(`jb/${entry.file}`)
       for (const r of refs.crossReferences || []) {
         if (r.to && r.to.book && !(r.to.book in bookMapping.mappings)) {
           unknown.add(`${r.to.book} (used in ${entry.file.split('.')[0]})`)
