@@ -1,0 +1,324 @@
+{
+ "book": "Hag",
+ "totalReferences": 25,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 4,
+    "verse": 6,
+    "endChapter": 4,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 3,
+    "verse": 1,
+    "endChapter": 3,
+    "endVerse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 26,
+    "verse": 19,
+    "endChapter": 26,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Lev",
+    "chapter": 26,
+    "verse": 19,
+    "endChapter": 26,
+    "endVerse": 20
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "to": {
+    "book": "Ezra",
+    "chapter": 3,
+    "verse": 10,
+    "endChapter": 3,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 3,
+    "verse": 10,
+    "endChapter": 3,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 14,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 14
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 14,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Heb",
+    "chapter": 12,
+    "verse": 26
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 60,
+    "verse": 7,
+    "endChapter": 60,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 8
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 14,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 8
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 13,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 8
+   },
+   "to": {
+    "book": "Tob",
+    "chapter": 9,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 13
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 22,
+    "verse": 47
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 13
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 22,
+    "verse": 4,
+    "endChapter": 22,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 14
+   },
+   "to": {
+    "book": "Amos",
+    "chapter": 4,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 14
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 8,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 14
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 22
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 6,
+    "verse": 12,
+    "endChapter": 6,
+    "endVerse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 22,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 2,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 18,
+    "verse": 39
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Hag",
+    "chapter": 8,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 23
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 22,
+    "verse": 24
+   },
+   "votes": 1
+  }
+ ]
+}

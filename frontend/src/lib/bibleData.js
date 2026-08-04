@@ -102,7 +102,12 @@ export async function getChapterData(bookId, chapterNum) {
 }
 
 // ---------------------------------------------------------------------------
-// Cross references
+// Cross references (Jerusalem Bible 1966 source)
+//
+// The app now loads cross references exclusively from the JB (1966) extraction
+// under data/jb/. The previous OpenBible source (data/crossref/) is kept in the
+// repo for reference but is no longer loaded. index.json maps English short
+// names -> file; book-mapping.json maps English -> Dutch book id.
 // ---------------------------------------------------------------------------
 
 let crossrefMetaPromise;
@@ -110,8 +115,8 @@ let crossrefMetaPromise;
 function getCrossrefMeta() {
   if (!crossrefMetaPromise) {
     crossrefMetaPromise = Promise.all([
-      fetchJSON('data/crossref/index.json'),
-      fetchJSON('data/crossref/book-mapping.json'),
+      fetchJSON('data/jb/index.json'),
+      fetchJSON('data/jb/book-mapping.json'),
     ]).then(([index, mapping]) => {
       const fileByEnglish = {};
       for (const b of index.books || []) fileByEnglish[b.book] = b.file;
@@ -134,7 +139,7 @@ async function getCrossrefBook(dutchBookId) {
   const file = meta.fileByEnglish[english];
   if (!file) return null;
   if (!crossrefCache.has(english)) {
-    crossrefCache.set(english, fetchJSON(`data/crossref/${file}`));
+    crossrefCache.set(english, fetchJSON(`data/jb/${file}`));
   }
   return crossrefCache.get(english);
 }

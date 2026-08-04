@@ -107,10 +107,10 @@ const routes = {
   'data/books.json': booksJson,
   'data/books/genesis.json': genesisJson,
   'data/books/filemon.json': filemonJson,
-  'data/crossref/index.json': crossrefIndexJson,
-  'data/crossref/book-mapping.json': bookMappingJson,
-  'data/crossref/gen.json': genCrossRefJson,
-  'data/crossref/ps.json': psCrossRefJson,
+  'data/jb/index.json': crossrefIndexJson,
+  'data/jb/book-mapping.json': bookMappingJson,
+  'data/jb/gen.json': genCrossRefJson,
+  'data/jb/ps.json': psCrossRefJson,
 }
 
 beforeAll(() => {

@@ -1,0 +1,556 @@
+{
+ "book": "Nah",
+ "totalReferences": 44,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "2Kgs",
+    "chapter": 19,
+    "verse": 35,
+    "endChapter": 19,
+    "endVerse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 13,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 9,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 13,
+    "verse": 54
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 13
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 14,
+    "verse": 19,
+    "endChapter": 14,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 13
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 13
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 8,
+    "verse": 1,
+    "endChapter": 8,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Acts",
+    "chapter": 10,
+    "verse": 36
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 52,
+    "verse": 7,
+    "endChapter": 52,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 5,
+    "verse": 26,
+    "endChapter": 5,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 1,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 52,
+    "verse": 7,
+    "endChapter": 52,
+    "endVerse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 1,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 10,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 39,
+    "verse": 11,
+    "endChapter": 39,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 5,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 13,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 2,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 5,
+    "verse": 15,
+    "endChapter": 5,
+    "endVerse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 30,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Mic",
+    "chapter": 5,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 5,
+    "verse": 26,
+    "endChapter": 5,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 5,
+    "verse": 15,
+    "endChapter": 5,
+    "endVerse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 6,
+    "verse": 22,
+    "endChapter": 6,
+    "endVerse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 6,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 21,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 4,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 3,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 2
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 3
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 2,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 5
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 2,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 7
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 51,
+    "verse": 19
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 7
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 15,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 9
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 46,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 10
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 10,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Joel",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 12
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 12
+   },
+   "to": {
+    "book": "Nah",
+    "chapter": 39,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 13
+   },
+   "to": {
+    "book": "1Kgs",
+    "chapter": 22,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 13
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 76,
+    "verse": 4
+   },
+   "votes": 1
+  }
+ ]
+}

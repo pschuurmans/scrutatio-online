@@ -1,0 +1,1819 @@
+{
+ "book": "Song",
+ "totalReferences": 148,
+ "crossReferences": [
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 992,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 2
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 3
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 37,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 6
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 7
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 34,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 7
+   },
+   "to": {
+    "book": "John",
+    "chapter": 10,
+    "verse": 1,
+    "endChapter": 10,
+    "endVerse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 1,
+    "verse": 7
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 23,
+    "verse": 1,
+    "endChapter": 23,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 41,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 43,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 48,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 68,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 1,
+    "endChapter": 9,
+    "endVerse": 1,
+    "endBook": "Song"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 16,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 9
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 1,
+    "endChapter": 5,
+    "endVerse": 1,
+    "endBook": "Song"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 23,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 45,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 23,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 21
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 132,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 14,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 7,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 52,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 30,
+    "verse": 23
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 20,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 5,
+    "endChapter": 6,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 51,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "John",
+    "chapter": 20,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "John",
+    "chapter": 20,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "John",
+    "chapter": 20,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 2,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 23,
+    "verse": 7,
+    "endChapter": 23,
+    "endVerse": 8
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 2,
+    "verse": 15
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 7,
+    "verse": 15
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 7,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 27,
+    "verse": 10,
+    "endChapter": 27,
+    "endVerse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 1
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 122,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 3,
+    "verse": 8
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 1,
+    "endChapter": 1,
+    "endVerse": 1,
+    "endBook": "Song"
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 22
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 10
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 5,
+    "verse": 30
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 40,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 1
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 11,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 1,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 5
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 14,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 4,
+    "verse": 5
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 5,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 5,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 1
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 5,
+    "verse": 15,
+    "endChapter": 5,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 5
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 55,
+    "verse": 1,
+    "endChapter": 55,
+    "endVerse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 6
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 6
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 7
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 7
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 133,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 50,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 51,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 51,
+    "verse": 31
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 133,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 12,
+    "endChapter": 4,
+    "endVerse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Hos",
+    "chapter": 14,
+    "verse": 6,
+    "endChapter": 14,
+    "endVerse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 10,
+    "verse": 33,
+    "endChapter": 10,
+    "endVerse": 34
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 5,
+    "verse": 12
+   },
+   "to": {
+    "book": "Ps",
+    "chapter": 133,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 125,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Rev",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 1,
+    "endChapter": 4,
+    "endVerse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 7,
+    "verse": 13,
+    "endChapter": 7,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 4,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 1
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 31,
+    "verse": 28
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 5
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 6
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 12,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 6,
+    "verse": 6
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 12
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 7,
+    "verse": 13
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 10,
+    "endChapter": 2,
+    "endVerse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 6,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 7,
+    "verse": 11
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 3,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Gen",
+    "chapter": 3,
+    "verse": 16
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 1
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 3,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 7
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 53,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 82,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 315,
+    "verse": 52
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 5,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 1
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 11,
+    "verse": 18
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 4,
+    "verse": 24
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 14
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Deut",
+    "chapter": 6,
+    "verse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Isa",
+    "chapter": 43,
+    "verse": 2
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 33
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 4
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 3,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 13
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 2,
+    "verse": 17
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 14
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 3,
+    "verse": 5
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 14
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 8,
+    "verse": 4
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 14
+   },
+   "to": {
+    "book": "Ezek",
+    "chapter": 23,
+    "verse": 3
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 7,
+    "verse": 20
+   },
+   "to": {
+    "book": "Prov",
+    "chapter": 9,
+    "verse": 1,
+    "endChapter": 9,
+    "endVerse": 6
+   },
+   "votes": 1
+  },
+  {
+   "from": {
+    "chapter": 8,
+    "verse": 62
+   },
+   "to": {
+    "book": "Song",
+    "chapter": 84,
+    "verse": 1
+   },
+   "votes": 1
+  }
+ ]
+}
