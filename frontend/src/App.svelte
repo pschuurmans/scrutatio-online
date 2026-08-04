@@ -18,6 +18,11 @@
   let sheetStack = []; // entries: {bookId, chapter, verse, text, refs}
   let loadingSheet = false;
 
+  // ----- Persistent navigation trail (breadcrumb + back) -----
+  // Survives sheet close so you can always step back through your flow:
+  // e.g. Genesis 1:1 › Johannes 1:1 › 1 Korintiërs 15:7
+  let navStack = []; // entries: {bookId, chapter, verse, label}
+
   // ----- Scrutatio-sessie (aangeraakte verzen) -----
   let session = []; // entries: {id, bookId, chapter, verse, label, text, n}
   let showSessionPanel = false;
@@ -43,7 +48,64 @@
     }
     await loadBooks();
     restoreFromURL();
+    // Support the browser/system back button: when the URL hash changes
+    // (back/forward swipe or button), navigate to the verse it points to.
+    window.addEventListener('hashchange', onHashChange);
   });
+
+  // ---- Navigation trail (breadcrumb) helpers ----
+  $: canGoBack = navStack.length > 1;
+  $: trail = navStack.map((e, i) => ({ ...e, isLast: i === navStack.length - 1 }));
+
+  function pushNav(bookId, chapter, verse) {
+    const label = `${getBookName(bookId)} ${chapter}:${verse}`;
+    // Don't stack the same verse twice in a row.
+    const last = navStack[navStack.length - 1];
+    if (last && last.bookId === bookId && last.chapter === chapter && last.verse === verse) return;
+    navStack = [...navStack, { bookId, chapter, verse, label }];
+  }
+
+  async function goBack() {
+    if (navStack.length < 2) return;
+    navStack = navStack.slice(0, -1);
+    const target = navStack[navStack.length - 1];
+    await selectBook(target.bookId);
+    await selectChapter(target.chapter);
+    selectedVerse = target.verse;
+    updateURL(target.bookId, target.chapter, target.verse);
+    closeSheet();
+    setTimeout(() => scrollToVerse(target.verse), 100);
+  }
+
+  function jumpToCrumb(i) {
+    if (i < 0 || i >= navStack.length) return;
+    navStack = navStack.slice(0, i + 1);
+    const target = navStack[i];
+    selectBook(target.bookId).then(() => selectChapter(target.chapter)).then(() => {
+      selectedVerse = target.verse;
+      updateURL(target.bookId, target.chapter, target.verse);
+    });
+    closeSheet();
+    setTimeout(() => scrollToVerse(target.verse), 100);
+  }
+
+  function onHashChange() {
+    const hash = window.location.hash.slice(1);
+    if (!hash) return;
+    const parts = hash.split('/');
+    if (!parts[0]) return;
+    const bookId = parts[0];
+    const chapter = parseInt(parts[1], 10);
+    const verse = parts.length >= 3 ? parseInt(parts[2], 10) : NaN;
+    if (!bookId || isNaN(chapter)) return;
+    // Navigate without pushing onto the trail (we're going back in history).
+    if (selectedBook !== bookId) selectBook(bookId);
+    if (selectedChapter !== chapter) selectChapter(chapter);
+    if (!isNaN(verse)) {
+      selectedVerse = verse;
+      setTimeout(() => scrollToVerse(verse), 100);
+    }
+  }
 
   function restoreFromURL() {
     const hash = window.location.hash.slice(1);
@@ -218,6 +280,8 @@
   function openVerse(verseNum) {
     const text = chapterData ? (chapterData.verses.find((v) => v.verse === verseNum)?.text || '') : '';
     const n = verseRefCounts[verseNum] || 0;
+    // Merely tapping a verse goes to the "aangeraakte verzen" session list only;
+    // it does NOT go on the crossref breadcrumb trail (that's for clicks-through).
     addToSession(selectedBook, selectedChapter, verseNum, text, n);
     selectedVerse = verseNum;
     sheetStack = [];
@@ -232,8 +296,26 @@
     }
   }
 
+  // Tapping a crossref navigates to the referenced verse in the main chapter
+  // view (book/chapter/verse), highlights it and scrolls to it — same as before
+  // the redesign — and records the move on the persistent breadcrumb trail so
+  // you can always step back (goBack / jump to a crumb).
   async function drillIn(ref) {
-    await pushEntry(ref.to.book, ref.to.chapter, ref.to.verse);
+    closeSheet();
+    // Record the source verse (the one we clicked from) then the destination, so
+    // the trail is a real click-through trace. pushNav dedupes, keeping the path
+    // clean when continuing from the same verse.
+    if (selectedVerse) pushNav(selectedBook, selectedChapter, selectedVerse);
+    pushNav(ref.to.book, ref.to.chapter, ref.to.verse);
+    if (selectedBook !== ref.to.book) {
+      await selectBook(ref.to.book);
+    }
+    if (selectedChapter !== ref.to.chapter) {
+      await selectChapter(ref.to.chapter);
+    }
+    selectedVerse = ref.to.verse;
+    updateURL(ref.to.book, ref.to.chapter, ref.to.verse);
+    setTimeout(() => scrollToVerse(ref.to.verse), 100);
   }
 
   function closeSheet() {
@@ -266,6 +348,8 @@
   async function jumpToSelection() {
     if (!pickerBook || !pickerChapter) return;
     closeNavigationPicker();
+    // Jumping via the picker is a fresh start — clear the crossref trail.
+    navStack = [];
     if (selectedBook !== pickerBook) await selectBook(pickerBook);
     if (selectedChapter !== pickerChapter) await selectChapter(pickerChapter);
   }
@@ -307,6 +391,30 @@
       Navigeer
     </button>
   </header>
+
+  <!-- Persistent navigation trail: shows your whole crossref flow and lets you go back -->
+  {#if trail.length > 0}
+    <nav class="trail" aria-label="Navigatiepad">
+      <button
+        class="trail-back"
+        disabled={!canGoBack}
+        on:click={goBack}
+        aria-label="Terug naar vorig vers"
+      >
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+      </button>
+      <div class="trail-crumbs">
+        {#each trail as e, i}
+          {#if i > 0}<span class="trail-sep">›</span>{/if}
+          <button
+            class="trail-crumb"
+            class:last={e.isLast}
+            on:click={() => jumpToCrumb(i)}
+          >{e.label}</button>
+        {/each}
+      </div>
+    </nav>
+  {/if}
 
   {#if error}
     <div class="error">
@@ -433,7 +541,7 @@
         {#if sheetTop.refs.length === 0}
           <div class="refmsg">Geen kruisverwijzingen voor dit vers.</div>
         {:else}
-          <div class="refmsg hint">Tik op een verwijzing om door te boren.</div>
+          <div class="refmsg hint">Tik op een verwijzing om naar dat vers te gaan.</div>
           {#each sheetTop.refs as ref}
             <button class="refrow" on:click={() => drillIn(ref)}>
               <span class="reftitle">{refLabel(ref)}</span>
@@ -578,6 +686,34 @@
     gap: 0.5rem;
   }
   .goto-button:hover { background: rgba(255, 255, 255, 0.25); }
+
+  /* Persistent navigation trail (breadcrumb) */
+  .trail {
+    display: flex; align-items: center; gap: 6px;
+    background: #243342;
+    color: #cfd8e3;
+    padding: 6px 12px;
+    font-size: 12.5px;
+    overflow-x: auto; -webkit-overflow-scrolling: touch;
+    flex-shrink: 0;
+  }
+  .trail-back {
+    background: rgba(255,255,255,0.12); border: none; width: 26px; height: 26px;
+    border-radius: 50%; color: #fff; cursor: pointer; display: flex;
+    align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .trail-back:disabled { opacity: 0.35; cursor: default; }
+  .trail-back:not(:disabled):active { background: rgba(255,255,255,0.25); }
+  .trail-crumbs { display: flex; align-items: center; gap: 3px; white-space: nowrap; }
+  .trail-sep { color: #7f94aa; }
+  .trail-crumb {
+    background: none; border: none; padding: 2px 5px; border-radius: 4px;
+    color: #9fb3c8; cursor: pointer; font-family: inherit; font-size: 12.5px;
+  }
+  .trail-crumb:hover { background: rgba(255,255,255,0.12); color: #fff; }
+  .trail-crumb.last { color: #fff; font-weight: 600; cursor: default; }
+  .trail-crumb.last:hover { background: none; }
+
 
   .container {
     display: flex;

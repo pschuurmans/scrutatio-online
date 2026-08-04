@@ -1,9 +1,12 @@
 # Scrutatio Online — Bijbel lezen met kruisverwijzingen
 
 Een **statische website / PWA** voor het lezen van de Nederlandse Katholieke Bijbel
-(Willibrordvertaling 1975) met meer dan 340.000 kruisverwijzingen. Er is **geen
-backend nodig**: alle data is statische JSON die direct door de browser wordt
-geladen.
+(Willibrordvertaling 1975) met kruisverwijzingen. Er is **geen backend nodig**:
+alle data is statische JSON die direct door de browser wordt geladen.
+
+De app is bedoeld om **naast een fysieke Bijbel** te gebruiken tijdens de scrutatio:
+niet om te lezen, maar om kruisverwijzingen te vinden bij verzen die je interesseert.
+De kernloop is **vers → kruisverwijzingen → naar verwante verzen**.
 
 Dit project was oorspronkelijk een Go API met daarnaast een Svelte-frontend. Omdat
 alle data statisch is (embedded JSON), is de Go backend volledig geschrapt en in
@@ -16,11 +19,18 @@ frontend/
   public/data/            # Alle statische data (lazy geladen)
     books.json            # Boekenlijst (id, naam, volgorde)
     books/*.json          # Volledige tekst per boek
-    crossref/*.json       # Kruisverwijzingen + mapping per boek
+    jb/                   # Kruisverwijzingen (Jeruzalem Bijbel 1966)
+      index.json          # Engelse afkorting -> kruisverwijzingsbestand
+      book-mapping.json   # Engelse afkorting -> Nederlands boek-id
+      *.json              # Kruisverwijzingen per boek
   src/
     App.svelte            # Hoofdapplicatie
     lib/bibleData.js      # Data-aanroepen + tekst-opschoning (cleanVerseText)
 ```
+
+Kruisverwijzingen komen uitsluitend uit de Jeruzalem Bijbel (1966) extractie onder
+`public/data/jb/`. De oudere OpenBible-bron (`public/data/crossref/`) staat nog in
+de repo ter referentie maar wordt niet meer geladen.
 
 De `cleanVerseText`-logica (HTML-entities decoderen, voetnoot/`<abbr>`-markers en
 tags strippen, whitespace normaliseren) die vroeger in Go zat, is nu een exacte
@@ -97,5 +107,5 @@ test- en CI-laag:
 ## Technologie
 
 - **Frontend:** Svelte, Vite, vite-plugin-pwa
-- **Data:** statische JSON (Willibrordvertaling 1975 + OpenBible.info kruisverwijzingen)
+- **Data:** statische JSON (Willibrordvertaling 1975 + Jeruzalem Bijbel 1966 kruisverwijzingen)
 - **Native wrapper:** Capacitor (iOS) — optioneel
