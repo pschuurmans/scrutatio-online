@@ -47,16 +47,21 @@
 
 <style>
   .intro-container {
+    flex: 1;
+    min-height: 0;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    padding: 2rem;
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    padding: 2rem 1.5rem;
+    box-sizing: border-box;
   }
 
   .intro-content {
+    /* margin:auto centres the card when there's room, but lets it scroll from
+       the very top when it's taller than the screen (no clipped content). */
+    margin: auto;
     max-width: 600px;
+    width: 100%;
     text-align: center;
   }
 
@@ -157,6 +162,63 @@
 
     .intro-text {
       font-size: 1rem;
+    }
+  }
+
+  /* Small phones: tighten spacing so the intro stays compact */
+  @media (max-width: 480px) {
+    .intro-container {
+      padding: 1.5rem 1.25rem;
+    }
+
+    .icon {
+      margin-bottom: 1.25rem;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .subheadline {
+      margin-bottom: 1.25rem;
+    }
+
+    .start-button {
+      padding: 0.9rem 2rem;
+    }
+  }
+
+  /* Short viewports (landscape / small phones): keep the CTA on screen */
+  @media (max-height: 620px) {
+    .intro-container {
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+    }
+
+    .icon {
+      margin-bottom: 0.75rem;
+    }
+
+    .subheadline {
+      margin-bottom: 1rem;
+    }
+
+    .intro-text {
+      margin-bottom: 1rem;
+    }
+
+    .how {
+      margin-bottom: 1rem;
+      gap: 0.6rem;
+    }
+
+    .meta {
+      margin-bottom: 0.75rem;
+    }
+
+    .start-button {
+      margin: 0.5rem 0;
     }
   }
 </style>
