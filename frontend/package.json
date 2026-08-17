@@ -23,11 +23,11 @@
     "vitest": "^4.1.10"
   },
   "dependencies": {
-    "@capacitor/app": "^7.1.0",
-    "@capacitor/cli": "^7.4.4",
-    "@capacitor/core": "^7.4.4",
-    "@capacitor/ios": "^7.4.4",
-    "@capacitor/status-bar": "^7.0.1",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.0",
+    "@capacitor/core": "^8.5.0",
+    "@capacitor/ios": "^8.5.0",
+    "@capacitor/status-bar": "^8.0.3",
     "vite-plugin-pwa": "^1.2.0"
   }
 }
